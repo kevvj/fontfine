@@ -1875,6 +1875,18 @@
     ],
     "animation": "pop"
   },
+  "circle-a": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "a",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-alert": {
     "category": "Status",
     "tags": [
@@ -1937,6 +1949,30 @@
     ],
     "animation": "nudge-diag"
   },
+  "circle-b": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "b",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-c": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "c",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-caret-down": {
     "category": "Arrows",
     "tags": [
@@ -1997,6 +2033,18 @@
     ],
     "animation": "pop"
   },
+  "circle-d": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "d",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-dashed": {
     "category": "Interface",
     "tags": [
@@ -2030,6 +2078,18 @@
       "payment"
     ],
     "animation": "flip"
+  },
+  "circle-e": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "e",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
   },
   "circle-ellipsis": {
     "category": "Interface",
@@ -2067,6 +2127,42 @@
     ],
     "animation": "pop"
   },
+  "circle-f": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "f",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-g": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "g",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-h": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "h",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-half": {
     "category": "Interface",
     "tags": [
@@ -2090,6 +2186,18 @@
     ],
     "animation": "beat"
   },
+  "circle-i": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "i",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-info": {
     "category": "Status",
     "tags": [
@@ -2104,6 +2212,54 @@
     ],
     "animation": "pop"
   },
+  "circle-j": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "j",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-k": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "k",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-l": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "l",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-m": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "m",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-minus": {
     "category": "Actions",
     "tags": [
@@ -2113,6 +2269,18 @@
       "subtract"
     ],
     "animation": "pulse"
+  },
+  "circle-n": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "n",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
   },
   "circle-notch": {
     "category": "Status",
@@ -2126,6 +2294,30 @@
     ],
     "animation": "spin"
   },
+  "circle-o": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "o",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-p": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "p",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-plus": {
     "category": "Actions",
     "tags": [
@@ -2136,6 +2328,18 @@
       "create"
     ],
     "animation": "quarter"
+  },
+  "circle-q": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "q",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
   },
   "circle-quarter": {
     "category": "Interface",
@@ -2172,6 +2376,30 @@
     ],
     "animation": "wobble"
   },
+  "circle-r": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "r",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-s": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "s",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-small": {
     "category": "Interface",
     "tags": [
@@ -2194,6 +2422,18 @@
     ],
     "animation": "star"
   },
+  "circle-t": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "t",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-three-quarters": {
     "category": "Interface",
     "tags": [
@@ -2207,6 +2447,42 @@
     ],
     "animation": "spin-slow"
   },
+  "circle-u": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "u",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-v": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "v",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-w": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "w",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "circle-x": {
     "category": "Status",
     "tags": [
@@ -2218,6 +2494,30 @@
       "remove"
     ],
     "animation": "quarter"
+  },
+  "circle-y": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "y",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-z": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "z",
+      "letter",
+      "alphabet",
+      "badge",
+      "initial"
+    ],
+    "animation": "pop"
   },
   "circles-overlap": {
     "category": "Interface",
@@ -2318,6 +2618,20 @@
     ],
     "animation": "tick"
   },
+  "clock-eight-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "eight",
+      "thirty",
+      "half",
+      "past",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
   "clock-eleven": {
     "category": "Objects",
     "tags": [
@@ -2325,6 +2639,20 @@
       "eleven",
       "11",
       "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-eleven-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "eleven",
+      "thirty",
+      "half",
+      "past",
       "time",
       "hour",
       "reloj"
@@ -2344,6 +2672,20 @@
     ],
     "animation": "tick"
   },
+  "clock-five-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "five",
+      "thirty",
+      "half",
+      "past",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
   "clock-four": {
     "category": "Objects",
     "tags": [
@@ -2351,6 +2693,20 @@
       "four",
       "4",
       "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-four-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "four",
+      "thirty",
+      "half",
+      "past",
       "time",
       "hour",
       "reloj"
@@ -2370,6 +2726,20 @@
     ],
     "animation": "tick"
   },
+  "clock-nine-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "nine",
+      "thirty",
+      "half",
+      "past",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
   "clock-one": {
     "category": "Objects",
     "tags": [
@@ -2377,6 +2747,20 @@
       "one",
       "1",
       "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-one-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "one",
+      "thirty",
+      "half",
+      "past",
       "time",
       "hour",
       "reloj"
@@ -2396,6 +2780,20 @@
     ],
     "animation": "tick"
   },
+  "clock-seven-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "seven",
+      "thirty",
+      "half",
+      "past",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
   "clock-six": {
     "category": "Objects",
     "tags": [
@@ -2403,6 +2801,20 @@
       "six",
       "6",
       "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-six-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "six",
+      "thirty",
+      "half",
+      "past",
       "time",
       "hour",
       "reloj"
@@ -2422,6 +2834,20 @@
     ],
     "animation": "tick"
   },
+  "clock-ten-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "ten",
+      "thirty",
+      "half",
+      "past",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
   "clock-three": {
     "category": "Objects",
     "tags": [
@@ -2429,6 +2855,20 @@
       "three",
       "3",
       "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-three-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "three",
+      "thirty",
+      "half",
+      "past",
       "time",
       "hour",
       "reloj"
@@ -2448,6 +2888,20 @@
     ],
     "animation": "tick"
   },
+  "clock-twelve-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "twelve",
+      "thirty",
+      "half",
+      "past",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
   "clock-two": {
     "category": "Objects",
     "tags": [
@@ -2455,6 +2909,20 @@
       "two",
       "2",
       "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-two-thirty": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "two",
+      "thirty",
+      "half",
+      "past",
       "time",
       "hour",
       "reloj"
@@ -5177,6 +5645,180 @@
       "task"
     ],
     "animation": "pop"
+  },
+  "square-code": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "code",
+      "box",
+      "button"
+    ],
+    "animation": "pop"
+  },
+  "square-divide": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "divide",
+      "box",
+      "button"
+    ],
+    "animation": "pop"
+  },
+  "square-dollar": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "dollar",
+      "box",
+      "button"
+    ],
+    "animation": "flip"
+  },
+  "square-ellipsis": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "ellipsis",
+      "more",
+      "options",
+      "menu",
+      "dots"
+    ],
+    "animation": "dots"
+  },
+  "square-equals": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "equals",
+      "box",
+      "button"
+    ],
+    "animation": "pop"
+  },
+  "square-exclamation": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "exclamation",
+      "box",
+      "button"
+    ],
+    "animation": "shake"
+  },
+  "square-half": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "half",
+      "contrast",
+      "split"
+    ],
+    "animation": "turn-y"
+  },
+  "square-heart": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "heart",
+      "favorite",
+      "box",
+      "button"
+    ],
+    "animation": "beat"
+  },
+  "square-info": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "info",
+      "box",
+      "button"
+    ],
+    "animation": "pop"
+  },
+  "square-minus": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "minus",
+      "box",
+      "button"
+    ],
+    "animation": "pop"
+  },
+  "square-pen": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "pen",
+      "box",
+      "button"
+    ],
+    "animation": "write"
+  },
+  "square-plus": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "plus",
+      "box",
+      "button"
+    ],
+    "animation": "pop"
+  },
+  "square-quarters": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "quarters",
+      "box",
+      "button"
+    ],
+    "animation": "spin-slow"
+  },
+  "square-question": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "question",
+      "box",
+      "button"
+    ],
+    "animation": "wobble"
+  },
+  "square-small": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "small",
+      "stop",
+      "shape"
+    ],
+    "animation": "pulse"
+  },
+  "square-star": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "star",
+      "favorite",
+      "box",
+      "button"
+    ],
+    "animation": "star"
+  },
+  "square-xmark": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "xmark",
+      "box",
+      "button"
+    ],
+    "animation": "shake"
   },
   "star": {
     "category": "Interface",

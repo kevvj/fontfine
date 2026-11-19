@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 429 / 3779**
+**Progress: 483 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -87,9 +87,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] skull-crossbones
 - [x] triangle-exclamation (as `triangle-alert`)
 
-## Alphabet (0/2)
+## Alphabet (1/2)
 
-- [ ] circle-h
+- [x] circle-h
 - [ ] square-h
 
 ## Animals (0/25)
@@ -374,7 +374,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] vihara
 - [ ] warehouse
 
-## Business (29/88)
+## Business (30/88)
 
 - [ ] address-book
 - [ ] bars-progress
@@ -448,7 +448,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] sitemap
 - [ ] socks
 - [ ] square-envelope
-- [ ] square-pen
+- [x] square-pen
 - [ ] square-phone
 - [ ] square-phone-flip
 - [ ] square-poll-horizontal
@@ -1173,7 +1173,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] train
 - [ ] truck-fast
 
-## Maps (8/41)
+## Maps (9/41)
 
 - [ ] bag-shopping
 - [ ] basket-shopping
@@ -1208,7 +1208,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] rocket
 - [ ] snowplow
 - [ ] square-parking
-- [ ] square-plus
+- [x] square-plus
 - [ ] street-view
 - [ ] suitcase
 - [ ] ticket-simple
@@ -1231,7 +1231,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] magnifying-glass-dollar
 - [ ] rectangle-ad
 
-## Mathematics (2/18)
+## Mathematics (4/18)
 
 - [x] circle-minus
 - [x] circle-plus
@@ -1245,9 +1245,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] less-than-equal
 - [ ] not-equal
 - [ ] plus-minus
-- [ ] square-minus
+- [x] square-minus
 - [ ] square-root-variable
-- [ ] square-xmark
+- [x] square-xmark
 - [ ] subscript
 - [ ] superscript
 - [ ] wave-square
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] butter
 - [ ] butterfly
 
-## Extended: C (81/423)
+## Extended: C (117/423)
 
 - [ ] cabin
 - [ ] cabinet-filing
@@ -2102,7 +2102,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-7
 - [x] circle-8
 - [x] circle-9
-- [ ] circle-a
+- [x] circle-a
 - [ ] circle-ampersand
 - [x] circle-arrow-down-left
 - [x] circle-arrow-down-right
@@ -2110,7 +2110,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-arrow-up-right
 - [ ] circle-austral
 - [ ] circle-australian-dollar
-- [ ] circle-b
+- [x] circle-b
 - [ ] circle-baht
 - [ ] circle-bangladeshi-taka
 - [ ] circle-bitcoin
@@ -2118,7 +2118,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-book-open
 - [ ] circle-bookmark
 - [ ] circle-brazilian-real
-- [ ] circle-c
+- [x] circle-c
 - [ ] circle-calendar
 - [ ] circle-camera
 - [x] circle-caret-down
@@ -2131,7 +2131,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-colon
 - [ ] circle-cruzeiro
 - [ ] circle-currency
-- [ ] circle-d
+- [x] circle-d
 - [ ] circle-danish-krone
 - [x] circle-dashed
 - [x] circle-divide
@@ -2139,7 +2139,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-dong
 - [ ] circle-down-left
 - [ ] circle-down-right
-- [ ] circle-e
+- [x] circle-e
 - [x] circle-ellipsis
 - [x] circle-ellipsis-vertical
 - [ ] circle-envelope
@@ -2147,10 +2147,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-euro
 - [ ] circle-eurozone
 - [ ] circle-exclamation-check
-- [ ] circle-f
+- [x] circle-f
 - [ ] circle-florin
 - [ ] circle-franc
-- [ ] circle-g
+- [x] circle-g
 - [ ] circle-gf
 - [ ] circle-guarani
 - [x] circle-half
@@ -2159,28 +2159,28 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-heart
 - [ ] circle-house
 - [ ] circle-hryvnia
-- [ ] circle-i
+- [x] circle-i
 - [ ] circle-indian-rupee
-- [ ] circle-j
-- [ ] circle-k
+- [x] circle-j
+- [x] circle-k
 - [ ] circle-kip
-- [ ] circle-l
+- [x] circle-l
 - [ ] circle-lari
 - [ ] circle-lira
 - [ ] circle-litecoin
 - [ ] circle-location-arrow
-- [ ] circle-m
+- [x] circle-m
 - [ ] circle-malaysian-ringgit
 - [ ] circle-manat
 - [ ] circle-microphone
 - [ ] circle-microphone-lines
 - [ ] circle-mill
 - [ ] circle-moon
-- [ ] circle-n
+- [x] circle-n
 - [ ] circle-naira
 - [ ] circle-norwegian-krone
-- [ ] circle-o
-- [ ] circle-p
+- [x] circle-o
+- [x] circle-p
 - [ ] circle-parking
 - [ ] circle-peruvian-soles
 - [ ] circle-peseta
@@ -2189,16 +2189,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-phone-flip
 - [ ] circle-phone-hangup
 - [ ] circle-polish-zloty
-- [ ] circle-q
+- [x] circle-q
 - [x] circle-quarter
 - [ ] circle-quarter-stroke
 - [x] circle-quarters
-- [ ] circle-r
+- [x] circle-r
 - [ ] circle-renminbi
 - [ ] circle-ruble
 - [ ] circle-rupee
 - [ ] circle-rupiah
-- [ ] circle-s
+- [x] circle-s
 - [ ] circle-share-nodes
 - [ ] circle-shekel
 - [x] circle-small
@@ -2208,14 +2208,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-star
 - [ ] circle-sterling
 - [ ] circle-swedish-krona
-- [ ] circle-t
+- [x] circle-t
 - [ ] circle-tenge
 - [x] circle-three-quarters
 - [ ] circle-three-quarters-stroke
 - [ ] circle-trash
 - [ ] circle-tugrik
 - [ ] circle-turkish-lira
-- [ ] circle-u
+- [x] circle-u
 - [ ] circle-up-left
 - [ ] circle-up-right
 - [ ] circle-user-circle-check
@@ -2227,17 +2227,17 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-user-circle-user
 - [ ] circle-user-circle-xmark
 - [ ] circle-user-clock
-- [ ] circle-v
+- [x] circle-v
 - [ ] circle-video
-- [ ] circle-w
+- [x] circle-w
 - [ ] circle-waveform-lines
 - [ ] circle-wifi
 - [ ] circle-wifi-circle-wifi
 - [ ] circle-won
 - [x] circle-x
-- [ ] circle-y
+- [x] circle-y
 - [ ] circle-yen
-- [ ] circle-z
+- [x] circle-z
 - [ ] circleapore-dollar
 - [x] circles-overlap
 - [ ] circles-overlap-3
@@ -2253,28 +2253,28 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] clipboard-prescription
 - [ ] clock-desk
 - [x] clock-eight
-- [ ] clock-eight-thirty
+- [x] clock-eight-thirty
 - [x] clock-eleven
-- [ ] clock-eleven-thirty
+- [x] clock-eleven-thirty
 - [x] clock-five
-- [ ] clock-five-thirty
-- [ ] clock-four-thirty
+- [x] clock-five-thirty
+- [x] clock-four-thirty
 - [x] clock-nine
-- [ ] clock-nine-thirty
+- [x] clock-nine-thirty
 - [x] clock-one
-- [ ] clock-one-thirty
+- [x] clock-one-thirty
 - [x] clock-seven
-- [ ] clock-seven-thirty
+- [x] clock-seven-thirty
 - [x] clock-six
-- [ ] clock-six-thirty
+- [x] clock-six-thirty
 - [x] clock-ten
-- [ ] clock-ten-thirty
+- [x] clock-ten-thirty
 - [x] clock-three
-- [ ] clock-three-thirty
+- [x] clock-three-thirty
 - [x] clock-twelve
-- [ ] clock-twelve-thirty
+- [x] clock-twelve-thirty
 - [x] clock-two
-- [ ] clock-two-thirty
+- [x] clock-two-thirty
 - [ ] clone-plus
 - [ ] clothes-hanger
 - [ ] cloud-binary
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] ruler-triangle
 - [ ] rv
 
-## Extended: S (9/317)
+## Extended: S (22/317)
 
 - [ ] sack
 - [ ] salad
@@ -3585,7 +3585,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-chevron-right
 - [ ] square-chevron-up
 - [ ] square-chf
-- [ ] square-code
+- [x] square-code
 - [ ] square-colon
 - [ ] square-cruzeiro
 - [ ] square-currency
@@ -3593,34 +3593,34 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-danish-krone
 - [ ] square-dashed
 - [ ] square-dashed-circle-plus
-- [ ] square-divide
-- [ ] square-dollar
+- [x] square-divide
+- [x] square-dollar
 - [ ] square-dong
 - [ ] square-down
 - [ ] square-down-left
 - [ ] square-down-right
 - [ ] square-e
-- [ ] square-ellipsis
+- [x] square-ellipsis
 - [ ] square-ellipsis-vertical
-- [ ] square-equals
+- [x] square-equals
 - [ ] square-euro
 - [ ] square-eurozone
-- [ ] square-exclamation
+- [x] square-exclamation
 - [ ] square-f
 - [ ] square-florin
 - [ ] square-fragile
 - [ ] square-franc
 - [ ] square-g
 - [ ] square-guarani
-- [ ] square-half
+- [x] square-half
 - [ ] square-half-horizontal
 - [ ] square-half-stroke
 - [ ] square-half-stroke-horizontal
-- [ ] square-heart
+- [x] square-heart
 - [ ] square-hryvnia
 - [ ] square-i
 - [ ] square-indian-rupee
-- [ ] square-info
+- [x] square-info
 - [ ] square-j
 - [ ] square-k
 - [ ] square-kanban
@@ -3648,8 +3648,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-phone-hangup
 - [ ] square-polish-zloty
 - [ ] square-q
-- [ ] square-quarters
-- [ ] square-question
+- [x] square-quarters
+- [x] square-question
 - [ ] square-quote
 - [ ] square-r
 - [ ] square-renminbi
@@ -3663,8 +3663,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-shekel
 - [ ] square-sliders
 - [ ] square-sliders-vertical
-- [ ] square-small
-- [ ] square-star
+- [x] square-small
+- [x] square-star
 - [ ] square-sterling
 - [ ] square-swedish-krona
 - [ ] square-t
