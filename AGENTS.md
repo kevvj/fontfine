@@ -83,10 +83,15 @@ Add the entry in **alphabetical order**:
 - `animation`: one of the `.ff-<name>` classes in `animations.css`. Pick what fits the object: `swing` (hangs from the top), `spin` (rotates), `beat` (heart, speaker), `shake` (warning, delete), `bounce` (objects, places, people), `nudge-left/right/up/down` (arrows), `wiggle` (tools), `float` (light things), `pop` (checks, bubbles), `pulse` (default).
 - `origin` (optional): pivot point of the animation when it is not the center, e.g. `"50% 12%"` for the top of a bell.
 
+## What to draw next
+
+[ROADMAP.md](ROADMAP.md) lists the icons still missing. Use the fontfine name shown in parentheses when there is one (letters are `letter-a`, numbers `number-0`). Draw from scratch: the list only gives the concept.
+
 ## Check your work
 
 ```bash
 node scripts/check.mjs               # rules above
+node scripts/roadmap.mjs             # marks your icons as done in ROADMAP.md
 cd paquete && npm ci && npm test     # library tests
 cd web && npm ci && npm start        # see it at http://localhost:4200
 ```

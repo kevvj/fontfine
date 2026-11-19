@@ -110,7 +110,7 @@ npm start
 
 ## Contributing
 
-New icons are welcome, drawn by hand or with AI. Read [CONTRIBUTING.md](CONTRIBUTING.md). AI assistants: follow [AGENTS.md](AGENTS.md), or use the [prompt for chat AIs](docs/ai-prompt.md). Every pull request is checked automatically (`node scripts/check.mjs`) and reviewed before merging.
+New icons are welcome, drawn by hand or with AI. Read [CONTRIBUTING.md](CONTRIBUTING.md) and pick missing icons from the [roadmap](ROADMAP.md). AI assistants: follow [AGENTS.md](AGENTS.md), or use the [prompt for chat AIs](docs/ai-prompt.md). Every pull request is checked automatically (`node scripts/check.mjs`) and reviewed before merging.
 
 ## License
 

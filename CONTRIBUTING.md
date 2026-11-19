@@ -4,6 +4,8 @@ Thanks for helping! The most useful contribution is **new icons**. You can draw 
 
 ## Add an icon in 6 steps
 
+Not sure what to draw? Pick unchecked icons from **[ROADMAP.md](ROADMAP.md)**.
+
 1. **Fork** the repo on GitHub and clone your fork.
 2. Create a branch: `git checkout -b icon/<name>`.
 3. Add the 3 files and the metadata, following the style guide in **[AGENTS.md](AGENTS.md)**:
@@ -14,6 +16,7 @@ Thanks for helping! The most useful contribution is **new icons**. You can draw 
 4. Run the checks (Node 20+):
    ```bash
    node scripts/check.mjs
+   node scripts/roadmap.mjs   # marks them as done
    ```
    and look at it in the website: `cd web && npm ci && npm start`.
 5. Commit and push: `git commit -m "Add <name> icon"` and `git push origin icon/<name>`.
