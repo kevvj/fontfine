@@ -60,6 +60,26 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "left",
+      "diagonal"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "right",
+      "diagonal"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-left": {
     "category": "Arrows",
     "tags": [
@@ -84,6 +104,26 @@
     ],
     "animation": "nudge-right"
   },
+  "arrow-turn-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "turn",
+      "left",
+      "diagonal"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-turn-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "turn",
+      "right",
+      "diagonal"
+    ],
+    "animation": "nudge-right"
+  },
   "arrow-up": {
     "category": "Arrows",
     "tags": [
@@ -93,6 +133,26 @@
       "ascend"
     ],
     "animation": "nudge-up"
+  },
+  "arrow-up-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "left",
+      "diagonal"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "right",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
   },
   "arrows-left-right": {
     "category": "Arrows",
@@ -170,6 +230,18 @@
     ],
     "animation": "bounce"
   },
+  "battery-bolt": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "bolt",
+      "charging",
+      "power",
+      "energy",
+      "cargando"
+    ],
+    "animation": "flash"
+  },
   "battery-empty": {
     "category": "Technology",
     "tags": [
@@ -181,6 +253,17 @@
       "bateria"
     ],
     "animation": "flash"
+  },
+  "battery-exclamation": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "exclamation",
+      "warning",
+      "error",
+      "charge"
+    ],
+    "animation": "shake"
   },
   "battery-full": {
     "category": "Technology",
@@ -205,6 +288,33 @@
     ],
     "animation": "pulse"
   },
+  "battery-low": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "low",
+      "weak",
+      "charge",
+      "bateria",
+      "baja"
+    ],
+    "animation": "flash"
+  },
+  "battery-slash": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "slash",
+      "no",
+      "disabled",
+      "empty",
+      "low",
+      "dead",
+      "charge",
+      "bateria"
+    ],
+    "animation": "shake"
+  },
   "bell": {
     "category": "Interface",
     "tags": [
@@ -219,6 +329,67 @@
     ],
     "animation": "swing",
     "origin": "50% 12%"
+  },
+  "bell-exclamation": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "exclamation",
+      "alert",
+      "important",
+      "notification",
+      "alarm",
+      "campana",
+      "notificaciones"
+    ],
+    "animation": "swing",
+    "origin": "50% 12%"
+  },
+  "bell-plus": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "plus",
+      "add",
+      "notification",
+      "new",
+      "alert",
+      "alarm",
+      "campana",
+      "notificaciones"
+    ],
+    "animation": "swing",
+    "origin": "50% 12%"
+  },
+  "bell-ring": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "ring",
+      "ringing",
+      "notification",
+      "alarm",
+      "sound"
+    ],
+    "animation": "swing",
+    "origin": "50% 12%"
+  },
+  "bell-slash": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "slash",
+      "off",
+      "mute",
+      "silent",
+      "notifications",
+      "notification",
+      "alert",
+      "alarm",
+      "campana",
+      "notificaciones"
+    ],
+    "animation": "shake"
   },
   "bible": {
     "category": "Religion",
@@ -260,6 +431,21 @@
     ],
     "animation": "flash"
   },
+  "bolt-slash": {
+    "category": "Weather",
+    "tags": [
+      "bolt",
+      "slash",
+      "no",
+      "power",
+      "energy",
+      "off",
+      "lightning",
+      "flash",
+      "rayo"
+    ],
+    "animation": "shake"
+  },
   "bookmark": {
     "category": "Interface",
     "tags": [
@@ -270,6 +456,33 @@
       "guardar"
     ],
     "animation": "bounce"
+  },
+  "bookmark-plus": {
+    "category": "Interface",
+    "tags": [
+      "bookmark",
+      "plus",
+      "add",
+      "save",
+      "favorite",
+      "marcador",
+      "guardar"
+    ],
+    "animation": "bounce"
+  },
+  "bookmark-slash": {
+    "category": "Interface",
+    "tags": [
+      "bookmark",
+      "slash",
+      "remove",
+      "unsave",
+      "save",
+      "favorite",
+      "marcador",
+      "guardar"
+    ],
+    "animation": "shake"
   },
   "box": {
     "category": "Objects",
@@ -287,6 +500,18 @@
       "envio"
     ],
     "animation": "bounce"
+  },
+  "browser": {
+    "category": "Technology",
+    "tags": [
+      "browser",
+      "window",
+      "web",
+      "page",
+      "app",
+      "navegador"
+    ],
+    "animation": "pop"
   },
   "bug": {
     "category": "Status",
@@ -313,12 +538,82 @@
     ],
     "animation": "bounce"
   },
+  "calculator": {
+    "category": "Objects",
+    "tags": [
+      "calculator",
+      "math",
+      "numbers",
+      "accounting",
+      "calculadora"
+    ],
+    "animation": "pop"
+  },
   "calendar": {
     "category": "Objects",
     "tags": [
       "calendar",
       "date",
       "event",
+      "schedule",
+      "calendario",
+      "fecha"
+    ],
+    "animation": "flip"
+  },
+  "calendar-clock": {
+    "category": "Objects",
+    "tags": [
+      "calendar",
+      "clock",
+      "schedule",
+      "time",
+      "event",
+      "appointment",
+      "date",
+      "calendario",
+      "fecha"
+    ],
+    "animation": "flip"
+  },
+  "calendar-heart": {
+    "category": "Objects",
+    "tags": [
+      "calendar",
+      "heart",
+      "date",
+      "love",
+      "anniversary",
+      "event",
+      "schedule",
+      "calendario",
+      "fecha"
+    ],
+    "animation": "flip"
+  },
+  "calendar-pen": {
+    "category": "Objects",
+    "tags": [
+      "calendar",
+      "pen",
+      "edit",
+      "event",
+      "schedule",
+      "date",
+      "calendario",
+      "fecha"
+    ],
+    "animation": "flip"
+  },
+  "calendar-star": {
+    "category": "Objects",
+    "tags": [
+      "calendar",
+      "star",
+      "favorite",
+      "event",
+      "special",
+      "date",
       "schedule",
       "calendario",
       "fecha"
@@ -335,6 +630,21 @@
       "foto"
     ],
     "animation": "flash"
+  },
+  "camera-slash": {
+    "category": "Media",
+    "tags": [
+      "camera",
+      "slash",
+      "off",
+      "disabled",
+      "no",
+      "photo",
+      "picture",
+      "camara",
+      "foto"
+    ],
+    "animation": "shake"
   },
   "candle": {
     "category": "Religion",
@@ -367,6 +677,50 @@
     "category": "Objects",
     "tags": [
       "cart",
+      "shopping",
+      "buy",
+      "store",
+      "carrito",
+      "compra"
+    ],
+    "animation": "drive"
+  },
+  "cart-check": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "check",
+      "purchase",
+      "done",
+      "shopping",
+      "buy",
+      "store",
+      "carrito",
+      "compra"
+    ],
+    "animation": "drive"
+  },
+  "cart-minus": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "minus",
+      "remove",
+      "shopping",
+      "buy",
+      "store",
+      "carrito",
+      "compra"
+    ],
+    "animation": "drive"
+  },
+  "cart-x": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "x",
+      "remove",
+      "clear",
       "shopping",
       "buy",
       "store",
@@ -456,6 +810,91 @@
     ],
     "animation": "pop"
   },
+  "chat-check": {
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "check",
+      "message",
+      "read",
+      "sent",
+      "comment",
+      "bubble",
+      "mensaje",
+      "comentario"
+    ],
+    "animation": "pop"
+  },
+  "chat-dots": {
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "dots",
+      "typing",
+      "message",
+      "comment",
+      "ellipsis"
+    ],
+    "animation": "pop"
+  },
+  "chat-heart": {
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "heart",
+      "love",
+      "message",
+      "like",
+      "comment",
+      "bubble",
+      "mensaje",
+      "comentario"
+    ],
+    "animation": "pop"
+  },
+  "chat-minus": {
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "minus",
+      "remove",
+      "message",
+      "comment",
+      "bubble",
+      "mensaje",
+      "comentario"
+    ],
+    "animation": "pop"
+  },
+  "chat-plus": {
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "plus",
+      "new",
+      "message",
+      "add",
+      "comment",
+      "bubble",
+      "mensaje",
+      "comentario"
+    ],
+    "animation": "pop"
+  },
+  "chat-x": {
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "x",
+      "delete",
+      "message",
+      "comment",
+      "bubble",
+      "mensaje",
+      "comentario"
+    ],
+    "animation": "pop"
+  },
   "check": {
     "category": "Actions",
     "tags": [
@@ -514,6 +953,46 @@
     ],
     "animation": "nudge-up"
   },
+  "chevrons-down": {
+    "category": "Arrows",
+    "tags": [
+      "chevrons",
+      "down",
+      "double",
+      "chevron"
+    ],
+    "animation": "nudge-down"
+  },
+  "chevrons-left": {
+    "category": "Arrows",
+    "tags": [
+      "chevrons",
+      "left",
+      "double",
+      "chevron"
+    ],
+    "animation": "nudge-left"
+  },
+  "chevrons-right": {
+    "category": "Arrows",
+    "tags": [
+      "chevrons",
+      "right",
+      "double",
+      "chevron"
+    ],
+    "animation": "nudge-right"
+  },
+  "chevrons-up": {
+    "category": "Arrows",
+    "tags": [
+      "chevrons",
+      "up",
+      "double",
+      "chevron"
+    ],
+    "animation": "nudge-up"
+  },
   "church": {
     "category": "Places",
     "tags": [
@@ -560,6 +1039,41 @@
       "completado"
     ],
     "animation": "pop"
+  },
+  "circle-dollar": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "dollar",
+      "money",
+      "coin",
+      "price",
+      "payment"
+    ],
+    "animation": "flip"
+  },
+  "circle-half": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "half",
+      "contrast",
+      "theme",
+      "dark",
+      "light"
+    ],
+    "animation": "turn-y"
+  },
+  "circle-heart": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "heart",
+      "love",
+      "like",
+      "favorite"
+    ],
+    "animation": "beat"
   },
   "circle-info": {
     "category": "Status",
@@ -608,6 +1122,17 @@
     ],
     "animation": "wobble"
   },
+  "circle-star": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "star",
+      "favorite",
+      "rating",
+      "badge"
+    ],
+    "animation": "star"
+  },
   "circle-x": {
     "category": "Status",
     "tags": [
@@ -653,6 +1178,20 @@
     ],
     "animation": "float"
   },
+  "cloud-check": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "check",
+      "synced",
+      "saved",
+      "done",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "float"
+  },
   "cloud-download": {
     "category": "Files",
     "tags": [
@@ -664,6 +1203,81 @@
     ],
     "animation": "nudge-down"
   },
+  "cloud-drizzle": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "drizzle",
+      "light",
+      "rain",
+      "weather",
+      "llovizna"
+    ],
+    "animation": "float"
+  },
+  "cloud-exclamation": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "exclamation",
+      "warning",
+      "error",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "float"
+  },
+  "cloud-fog": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "fog",
+      "mist",
+      "haze",
+      "weather",
+      "niebla"
+    ],
+    "animation": "float"
+  },
+  "cloud-minus": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "minus",
+      "remove",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "float"
+  },
+  "cloud-plus": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "plus",
+      "add",
+      "new",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "float"
+  },
+  "cloud-question": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "question",
+      "unknown",
+      "help",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "float"
+  },
   "cloud-rain": {
     "category": "Weather",
     "tags": [
@@ -672,6 +1286,30 @@
       "weather",
       "storm",
       "lluvia"
+    ],
+    "animation": "float"
+  },
+  "cloud-slash": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "slash",
+      "offline",
+      "disconnected",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "shake"
+  },
+  "cloud-snow": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "snow",
+      "weather",
+      "winter",
+      "nieve"
     ],
     "animation": "float"
   },
@@ -698,6 +1336,20 @@
       "nube"
     ],
     "animation": "nudge-up"
+  },
+  "cloud-x": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "x",
+      "error",
+      "failed",
+      "delete",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "float"
   },
   "code": {
     "category": "Technology",
