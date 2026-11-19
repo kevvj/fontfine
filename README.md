@@ -75,7 +75,7 @@ toSvg(wrench, { size: 24, variant: 'regular', strokeWidth: 1.5 });
 
 ```
 fontfine/svg/line/<name>.svg      line version
-fontfine/svg/solid/<name>.svg     solid version
+fontfine/svg/solid/<name>.svg     solid version (only icons with areas to fill; line-only icons use the bold line)
 ```
 
 ### Options
