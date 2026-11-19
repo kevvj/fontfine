@@ -39,6 +39,18 @@
     ],
     "animation": "slide"
   },
+  "angles-up-down": {
+    "category": "Arrows",
+    "tags": [
+      "angles",
+      "up",
+      "down",
+      "expand",
+      "select",
+      "sort"
+    ],
+    "animation": "pulse"
+  },
   "archive": {
     "category": "Files",
     "tags": [
@@ -57,6 +69,18 @@
       "down",
       "south",
       "descend"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-arrow-up": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "up",
+      "sort",
+      "swap",
+      "order"
     ],
     "animation": "nudge-down"
   },
@@ -218,6 +242,18 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-arrow-down": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "down",
+      "sort",
+      "swap",
+      "order"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-up-from-line": {
     "category": "Arrows",
     "tags": [
@@ -277,6 +313,29 @@
       "resize"
     ],
     "animation": "slide"
+  },
+  "arrows-maximize": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "maximize",
+      "expand",
+      "fullscreen",
+      "enlarge"
+    ],
+    "animation": "pop"
+  },
+  "arrows-minimize": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "minimize",
+      "collapse",
+      "shrink",
+      "exit",
+      "fullscreen"
+    ],
+    "animation": "squash"
   },
   "arrows-up-down": {
     "category": "Arrows",
@@ -448,6 +507,28 @@
       "percent"
     ],
     "animation": "pulse"
+  },
+  "bars-filter": {
+    "category": "Interface",
+    "tags": [
+      "bars",
+      "filter",
+      "funnel",
+      "sort",
+      "options"
+    ],
+    "animation": "slide"
+  },
+  "bars-sort": {
+    "category": "Interface",
+    "tags": [
+      "bars",
+      "sort",
+      "order",
+      "list",
+      "descending"
+    ],
+    "animation": "slide"
   },
   "battery-bolt": {
     "category": "Technology",
@@ -627,6 +708,17 @@
     ],
     "animation": "flip"
   },
+  "block-quote": {
+    "category": "Interface",
+    "tags": [
+      "block",
+      "quote",
+      "citation",
+      "text",
+      "format"
+    ],
+    "animation": "slide"
+  },
   "bold": {
     "category": "Interface",
     "tags": [
@@ -703,6 +795,108 @@
     ],
     "animation": "shake"
   },
+  "border-bottom": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "bottom",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-bottom-right": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "bottom",
+      "right",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-center-h": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "center",
+      "h",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-center-v": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "center",
+      "v",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-inner": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "inner",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-left": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "left",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-outer": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "outer",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-right": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "right",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "border-top": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "top",
+      "table",
+      "cell",
+      "format"
+    ],
+    "animation": "pop"
+  },
   "box": {
     "category": "Objects",
     "tags": [
@@ -717,6 +911,36 @@
       "almacen",
       "bodega",
       "envio"
+    ],
+    "animation": "bounce"
+  },
+  "box-check": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "check",
+      "package",
+      "delivered",
+      "done",
+      "inventory",
+      "storage",
+      "shipping",
+      "caja"
+    ],
+    "animation": "bounce"
+  },
+  "box-heart": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "heart",
+      "package",
+      "gift",
+      "donation",
+      "inventory",
+      "storage",
+      "shipping",
+      "caja"
     ],
     "animation": "bounce"
   },
@@ -831,6 +1055,17 @@
       "page",
       "app",
       "navegador"
+    ],
+    "animation": "pop"
+  },
+  "browsers": {
+    "category": "Technology",
+    "tags": [
+      "browsers",
+      "windows",
+      "tabs",
+      "multiple",
+      "pages"
     ],
     "animation": "pop"
   },
@@ -1143,6 +1378,18 @@
     ],
     "animation": "pulse"
   },
+  "chart-candlestick": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "candlestick",
+      "stock",
+      "market",
+      "trading",
+      "finance"
+    ],
+    "animation": "pulse"
+  },
   "chart-line": {
     "category": "Interface",
     "tags": [
@@ -1155,6 +1402,32 @@
     ],
     "animation": "pulse"
   },
+  "chart-line-down": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "line",
+      "down",
+      "decrease",
+      "loss",
+      "trend",
+      "graph"
+    ],
+    "animation": "nudge-down"
+  },
+  "chart-line-up": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "line",
+      "up",
+      "growth",
+      "increase",
+      "trend",
+      "graph"
+    ],
+    "animation": "nudge-diag"
+  },
   "chart-pie": {
     "category": "Interface",
     "tags": [
@@ -1166,6 +1439,29 @@
       "torta"
     ],
     "animation": "spin-slow"
+  },
+  "chart-scatter": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "scatter",
+      "plot",
+      "dots",
+      "data",
+      "graph"
+    ],
+    "animation": "pulse"
+  },
+  "chart-simple-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "bar",
+      "horizontal",
+      "graph",
+      "statistics"
+    ],
+    "animation": "pulse"
   },
   "chat": {
     "category": "Communication",
@@ -1513,6 +1809,98 @@
     ],
     "animation": "shake"
   },
+  "circle-arrow-down-left": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "down",
+      "left",
+      "diagonal",
+      "direction"
+    ],
+    "animation": "nudge-down"
+  },
+  "circle-arrow-down-right": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "down",
+      "right",
+      "diagonal",
+      "direction"
+    ],
+    "animation": "nudge-down"
+  },
+  "circle-arrow-up-left": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "up",
+      "left",
+      "diagonal",
+      "direction"
+    ],
+    "animation": "nudge-up"
+  },
+  "circle-arrow-up-right": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "up",
+      "right",
+      "diagonal",
+      "direction"
+    ],
+    "animation": "nudge-diag"
+  },
+  "circle-caret-down": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "caret",
+      "down",
+      "triangle",
+      "dropdown"
+    ],
+    "animation": "nudge-down"
+  },
+  "circle-caret-left": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "caret",
+      "left",
+      "triangle",
+      "dropdown"
+    ],
+    "animation": "nudge-left"
+  },
+  "circle-caret-right": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "caret",
+      "right",
+      "triangle",
+      "dropdown"
+    ],
+    "animation": "nudge-right"
+  },
+  "circle-caret-up": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "caret",
+      "up",
+      "triangle",
+      "dropdown"
+    ],
+    "animation": "nudge-up"
+  },
   "circle-check": {
     "category": "Status",
     "tags": [
@@ -1529,6 +1917,28 @@
     ],
     "animation": "pop"
   },
+  "circle-dashed": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "dashed",
+      "dotted",
+      "outline",
+      "placeholder"
+    ],
+    "animation": "spin-slow"
+  },
+  "circle-divide": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "divide",
+      "division",
+      "math",
+      "operator"
+    ],
+    "animation": "pop"
+  },
   "circle-dollar": {
     "category": "Objects",
     "tags": [
@@ -1540,6 +1950,42 @@
       "payment"
     ],
     "animation": "flip"
+  },
+  "circle-ellipsis": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "ellipsis",
+      "more",
+      "options",
+      "menu",
+      "dots"
+    ],
+    "animation": "dots"
+  },
+  "circle-ellipsis-vertical": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "ellipsis",
+      "vertical",
+      "more",
+      "options",
+      "menu",
+      "dots"
+    ],
+    "animation": "dots"
+  },
+  "circle-equals": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "equals",
+      "equal",
+      "math",
+      "operator"
+    ],
+    "animation": "pop"
   },
   "circle-half": {
     "category": "Interface",
@@ -1611,6 +2057,17 @@
     ],
     "animation": "spin-slow"
   },
+  "circle-quarters": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "quarters",
+      "divided",
+      "pie",
+      "sections"
+    ],
+    "animation": "spin-slow"
+  },
   "circle-question": {
     "category": "Status",
     "tags": [
@@ -1622,6 +2079,17 @@
       "pregunta"
     ],
     "animation": "wobble"
+  },
+  "circle-small": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "small",
+      "dot",
+      "point",
+      "record"
+    ],
+    "animation": "pulse"
   },
   "circle-star": {
     "category": "Interface",
@@ -1658,6 +2126,17 @@
       "remove"
     ],
     "animation": "quarter"
+  },
+  "circles-overlap": {
+    "category": "Interface",
+    "tags": [
+      "circles",
+      "overlap",
+      "intersection",
+      "venn",
+      "union"
+    ],
+    "animation": "pulse"
   },
   "clipboard": {
     "category": "Files",
@@ -1910,6 +2389,18 @@
     ],
     "animation": "float"
   },
+  "cloud-hail": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "hail",
+      "ice",
+      "storm",
+      "weather",
+      "granizo"
+    ],
+    "animation": "float"
+  },
   "cloud-minus": {
     "category": "Weather",
     "tags": [
@@ -1959,6 +2450,18 @@
     ],
     "animation": "float"
   },
+  "cloud-showers": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "showers",
+      "heavy",
+      "rain",
+      "storm",
+      "weather"
+    ],
+    "animation": "float"
+  },
   "cloud-slash": {
     "category": "Weather",
     "tags": [
@@ -1971,6 +2474,19 @@
       "nube"
     ],
     "animation": "shake"
+  },
+  "cloud-sleet": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "sleet",
+      "snow",
+      "rain",
+      "mixed",
+      "weather",
+      "aguanieve"
+    ],
+    "animation": "float"
   },
   "cloud-snow": {
     "category": "Weather",
@@ -2021,6 +2537,17 @@
     ],
     "animation": "float"
   },
+  "clouds": {
+    "category": "Weather",
+    "tags": [
+      "clouds",
+      "cloudy",
+      "overcast",
+      "weather",
+      "nubes"
+    ],
+    "animation": "float"
+  },
   "code": {
     "category": "Technology",
     "tags": [
@@ -2033,6 +2560,18 @@
     ],
     "animation": "pulse"
   },
+  "coin": {
+    "category": "Objects",
+    "tags": [
+      "coin",
+      "money",
+      "currency",
+      "token",
+      "cash",
+      "moneda"
+    ],
+    "animation": "flip"
+  },
   "coins": {
     "category": "Objects",
     "tags": [
@@ -2043,6 +2582,17 @@
       "monedas"
     ],
     "animation": "flip"
+  },
+  "columns-3": {
+    "category": "Interface",
+    "tags": [
+      "columns",
+      "three",
+      "layout",
+      "grid",
+      "table"
+    ],
+    "animation": "pop"
   },
   "compass": {
     "category": "Places",

@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 329 / 3779**
+**Progress: 376 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1635,7 +1635,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] 00
 - [ ] 360-degrees
 
-## Extended: A (14/127)
+## Extended: A (19/127)
 
 - [ ] abacus
 - [ ] accent-grave
@@ -1665,14 +1665,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] angel
 - [ ] angle
 - [ ] angle-90
-- [ ] angles-up-down
+- [x] angles-up-down
 - [ ] ant
 - [ ] apartment
 - [ ] aperture
 - [ ] apostrophe
 - [ ] apple-core
 - [ ] arrow-archery
-- [ ] arrow-down-arrow-up
+- [x] arrow-down-arrow-up
 - [ ] arrow-down-big-small
 - [ ] arrow-down-from-arc
 - [ ] arrow-down-from-bracket
@@ -1728,7 +1728,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-u-turn-right-up
 - [ ] arrow-u-turn-up-left
 - [ ] arrow-u-turn-up-right
-- [ ] arrow-up-arrow-down
+- [x] arrow-up-arrow-down
 - [ ] arrow-up-big-small
 - [ ] arrow-up-from-arc
 - [ ] arrow-up-from-dotted-line
@@ -1749,8 +1749,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrows-cross
 - [ ] arrows-from-dotted-line
 - [ ] arrows-from-line
-- [ ] arrows-maximize
-- [ ] arrows-minimize
+- [x] arrows-maximize
+- [x] arrows-minimize
 - [ ] arrows-repeat
 - [ ] arrows-repeat-1
 - [ ] arrows-retweet
@@ -1765,7 +1765,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] axe
 - [ ] axe-battle
 
-## Extended: B (29/187)
+## Extended: B (44/187)
 
 - [ ] backpack
 - [x] badge
@@ -1800,8 +1800,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] barcode-read
 - [ ] barcode-scan
 - [ ] barn
-- [ ] bars-filter
-- [ ] bars-sort
+- [x] bars-filter
+- [x] bars-sort
 - [ ] baseball-bat
 - [ ] basket-shopping-minus
 - [ ] basket-shopping-plus
@@ -1845,7 +1845,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] block-brick
 - [ ] block-brick-fire
 - [ ] block-question
-- [ ] block-quote
+- [x] block-quote
 - [ ] blueberries
 - [ ] bolt-auto
 - [x] bolt-slash
@@ -1872,15 +1872,15 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] boot
 - [ ] boot-heeled
 - [ ] booth-curtain
-- [ ] border-bottom
-- [ ] border-bottom-right
-- [ ] border-center-h
-- [ ] border-center-v
-- [ ] border-inner
-- [ ] border-left
-- [ ] border-outer
-- [ ] border-right
-- [ ] border-top
+- [x] border-bottom
+- [x] border-bottom-right
+- [x] border-center-h
+- [x] border-center-v
+- [x] border-inner
+- [x] border-left
+- [x] border-outer
+- [x] border-right
+- [x] border-top
 - [ ] bottle-baby
 - [ ] bow-archery
 - [ ] bow-arrow
@@ -1898,10 +1898,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] box-arrow-down-magnifying-glass
 - [ ] box-arrow-up
 - [ ] box-ballot
-- [ ] box-check
+- [x] box-check
 - [ ] box-circle-check
 - [ ] box-dollar
-- [ ] box-heart
+- [x] box-heart
 - [ ] box-isometric
 - [ ] box-isometric-tape
 - [ ] box-magnifying-glass
@@ -1934,7 +1934,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] broccoli
 - [ ] broom-wide
 - [x] browser
-- [ ] browsers
+- [x] browsers
 - [ ] building-magnifying-glass
 - [ ] building-memo
 - [ ] buildings
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] butter
 - [ ] butterfly
 
-## Extended: C (51/423)
+## Extended: C (78/423)
 
 - [ ] cabin
 - [ ] cabinet-filing
@@ -2049,11 +2049,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] chair-office
 - [ ] champagne-glass
 - [ ] chart-bullet
-- [ ] chart-candlestick
+- [x] chart-candlestick
 - [ ] chart-fft
 - [ ] chart-kanban
-- [ ] chart-line-down
-- [ ] chart-line-up
+- [x] chart-line-down
+- [x] chart-line-up
 - [ ] chart-line-up-down
 - [ ] chart-mixed
 - [ ] chart-mixed-up-circle-currency
@@ -2064,10 +2064,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] chart-pie-simple-circle-dollar
 - [ ] chart-pyramid
 - [ ] chart-radar
-- [ ] chart-scatter
+- [x] chart-scatter
 - [ ] chart-scatter-3d
 - [ ] chart-scatter-bubble
-- [ ] chart-simple-horizontal
+- [x] chart-simple-horizontal
 - [ ] chart-sine
 - [ ] chart-tree-map
 - [ ] chart-user
@@ -2104,10 +2104,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-9
 - [ ] circle-a
 - [ ] circle-ampersand
-- [ ] circle-arrow-down-left
-- [ ] circle-arrow-down-right
-- [ ] circle-arrow-up-left
-- [ ] circle-arrow-up-right
+- [x] circle-arrow-down-left
+- [x] circle-arrow-down-right
+- [x] circle-arrow-up-left
+- [x] circle-arrow-up-right
 - [ ] circle-austral
 - [ ] circle-australian-dollar
 - [ ] circle-b
@@ -2121,10 +2121,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-c
 - [ ] circle-calendar
 - [ ] circle-camera
-- [ ] circle-caret-down
-- [ ] circle-caret-left
-- [ ] circle-caret-right
-- [ ] circle-caret-up
+- [x] circle-caret-down
+- [x] circle-caret-left
+- [x] circle-caret-right
+- [x] circle-caret-up
 - [ ] circle-cedi
 - [ ] circle-cent
 - [ ] circle-chf
@@ -2133,17 +2133,17 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-currency
 - [ ] circle-d
 - [ ] circle-danish-krone
-- [ ] circle-dashed
-- [ ] circle-divide
+- [x] circle-dashed
+- [x] circle-divide
 - [x] circle-dollar
 - [ ] circle-dong
 - [ ] circle-down-left
 - [ ] circle-down-right
 - [ ] circle-e
-- [ ] circle-ellipsis
-- [ ] circle-ellipsis-vertical
+- [x] circle-ellipsis
+- [x] circle-ellipsis-vertical
 - [ ] circle-envelope
-- [ ] circle-equals
+- [x] circle-equals
 - [ ] circle-euro
 - [ ] circle-eurozone
 - [ ] circle-exclamation-check
@@ -2192,7 +2192,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-q
 - [x] circle-quarter
 - [ ] circle-quarter-stroke
-- [ ] circle-quarters
+- [x] circle-quarters
 - [ ] circle-r
 - [ ] circle-renminbi
 - [ ] circle-ruble
@@ -2201,7 +2201,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-s
 - [ ] circle-share-nodes
 - [ ] circle-shekel
-- [ ] circle-small
+- [x] circle-small
 - [ ] circle-sort
 - [ ] circle-sort-down
 - [ ] circle-sort-up
@@ -2239,7 +2239,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-yen
 - [ ] circle-z
 - [ ] circleapore-dollar
-- [ ] circles-overlap
+- [x] circles-overlap
 - [ ] circles-overlap-3
 - [ ] citrus
 - [ ] citrus-slice
@@ -2284,20 +2284,20 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] cloud-drizzle
 - [x] cloud-exclamation
 - [x] cloud-fog
-- [ ] cloud-hail
+- [x] cloud-hail
 - [ ] cloud-hail-mixed
 - [x] cloud-minus
 - [ ] cloud-music
 - [x] cloud-plus
 - [x] cloud-question
 - [ ] cloud-rainbow
-- [ ] cloud-showers
+- [x] cloud-showers
 - [x] cloud-slash
-- [ ] cloud-sleet
+- [x] cloud-sleet
 - [x] cloud-snow
 - [ ] cloud-word
 - [ ] cloud-xmark
-- [ ] clouds
+- [x] clouds
 - [ ] clouds-moon
 - [ ] clouds-sun
 - [ ] club
@@ -2310,12 +2310,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] coffee-pot
 - [ ] coffin
 - [ ] coffin-cross
-- [ ] coin
+- [x] coin
 - [ ] coin-blank
 - [ ] coin-front
 - [ ] coin-vertical
 - [ ] colon
-- [ ] columns-3
+- [x] columns-3
 - [ ] comet
 - [ ] comma
 - [ ] command
