@@ -153,6 +153,15 @@ export class App {
     this.temporizadorAviso = setTimeout(() => this.aviso.set(null), 1800);
   }
 
+  /** Cierra el panel de detalle al hacer clic fuera (menos en otra tarjeta o en los controles). */
+  @HostListener('document:click', ['$event'])
+  protected clicFuera(e: MouseEvent): void {
+    if (!this.seleccionado()) return;
+    const t = e.target as HTMLElement | null;
+    if (!t?.isConnected || t.closest('app-detalle, .tarjeta, .controles, .barra')) return;
+    this.seleccionado.set(null);
+  }
+
   @HostListener('document:keydown', ['$event'])
   protected teclas(e: KeyboardEvent): void {
     const enCampo = (e.target as HTMLElement | null)?.closest('input, textarea');
