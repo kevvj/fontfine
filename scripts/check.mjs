@@ -17,7 +17,7 @@ const HEADERS = {
 const ELEMENTS = new Set(["svg", "g", "path", "circle", "rect", "ellipse", "line", "polyline", "polygon", "mask"]);
 const ATTRS = new Set(["xmlns", "viewBox", "d", "cx", "cy", "r", "rx", "ry", "x", "y", "width", "height", "x1", "y1", "x2", "y2", "points",
   "fill", "fill-rule", "stroke", "stroke-width", "stroke-linecap", "stroke-linejoin", "opacity", "transform", "class", "id", "mask", "data-ajuste"]);
-const CATEGORIES = new Set(["Actions", "Arrows", "Communication", "Files", "Health", "Interface", "Media", "Music & Audio", "Nature",
+const CATEGORIES = new Set(["Actions", "Arrows", "Communication", "Files", "Health", "Interface", "Letters & Numbers", "Media", "Music & Audio", "Nature",
   "Objects", "People", "Places", "Religion", "Security", "Status", "Technology", "Weather"]);
 const ANIMATIONS = new Set([...readFileSync(join(root, "animations.css"), "utf8").matchAll(/^\.ff-([a-z-]+)\{animation:/gm)].map((m) => m[1]));
 const NAME = /^[a-z0-9]+(-[a-z0-9]+)*$/;

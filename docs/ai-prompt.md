@@ -31,7 +31,7 @@ Then <g class="ff-secondary" opacity=".4"> with the main body, and <g class="ff-
 
 4) METADATA:
 "ICON_NAME": { "category": "...", "tags": ["...", "..."], "animation": "...", "origin": "50% 50%" }
-category: Actions, Arrows, Communication, Files, Health, Interface, Media, Music & Audio, Nature, Objects, People, Places, Religion, Security, Status, Technology or Weather.
+category: Actions, Arrows, Communication, Files, Health, Interface, Letters & Numbers, Media, Music & Audio, Nature, Objects, People, Places, Religion, Security, Status, Technology or Weather.
 tags: 3 to 30 lowercase search words.
 animation: one of nudge-left, nudge-right, nudge-up, nudge-down, nudge-diag, spin, spin-slow, turn-y, quarter, swing, wave, beat, beat-fast, shake, wiggle, slide, tick, bounce, pop, star, wobble, blink, flicker, glow, flash, write, dance, ring, drive, float, rock, flip, thumb, turn-key, search, drip, signal, dots, squash, pulse.
 origin: pivot of the animation (e.g. "50% 12%" for something hanging from the top). Omit it if it is the center.

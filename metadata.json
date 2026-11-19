@@ -1,4 +1,55 @@
 {
+  "align-center": {
+    "category": "Interface",
+    "tags": [
+      "align",
+      "center",
+      "text",
+      "paragraph"
+    ],
+    "animation": "slide"
+  },
+  "align-justify": {
+    "category": "Interface",
+    "tags": [
+      "align",
+      "justify",
+      "text",
+      "paragraph"
+    ],
+    "animation": "slide"
+  },
+  "align-left": {
+    "category": "Interface",
+    "tags": [
+      "align",
+      "left",
+      "text",
+      "paragraph"
+    ],
+    "animation": "slide"
+  },
+  "align-right": {
+    "category": "Interface",
+    "tags": [
+      "align",
+      "right",
+      "text",
+      "paragraph"
+    ],
+    "animation": "slide"
+  },
+  "archive": {
+    "category": "Files",
+    "tags": [
+      "archive",
+      "box",
+      "storage",
+      "backup",
+      "save"
+    ],
+    "animation": "bounce"
+  },
   "arrow-down": {
     "category": "Arrows",
     "tags": [
@@ -43,6 +94,30 @@
     ],
     "animation": "nudge-up"
   },
+  "arrows-left-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "left",
+      "right",
+      "swap",
+      "horizontal",
+      "resize"
+    ],
+    "animation": "slide"
+  },
+  "arrows-up-down": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "up",
+      "down",
+      "vertical",
+      "resize",
+      "sort"
+    ],
+    "animation": "nudge-up"
+  },
   "audio-mixer": {
     "category": "Music & Audio",
     "tags": [
@@ -58,6 +133,16 @@
     ],
     "animation": "slide"
   },
+  "backward": {
+    "category": "Media",
+    "tags": [
+      "backward",
+      "rewind",
+      "media",
+      "previous"
+    ],
+    "animation": "nudge-left"
+  },
   "ban": {
     "category": "Actions",
     "tags": [
@@ -72,6 +157,53 @@
       "permitido"
     ],
     "animation": "shake"
+  },
+  "bank": {
+    "category": "Places",
+    "tags": [
+      "bank",
+      "landmark",
+      "government",
+      "museum",
+      "finance",
+      "banco"
+    ],
+    "animation": "bounce"
+  },
+  "battery-empty": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "empty",
+      "low",
+      "dead",
+      "charge",
+      "bateria"
+    ],
+    "animation": "flash"
+  },
+  "battery-full": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "full",
+      "charged",
+      "power",
+      "energy",
+      "bateria"
+    ],
+    "animation": "pulse"
+  },
+  "battery-half": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "half",
+      "medium",
+      "charge",
+      "bateria"
+    ],
+    "animation": "pulse"
   },
   "bell": {
     "category": "Interface",
@@ -104,6 +236,17 @@
       "lectura"
     ],
     "animation": "flip"
+  },
+  "bold": {
+    "category": "Interface",
+    "tags": [
+      "bold",
+      "text",
+      "format",
+      "strong",
+      "negrita"
+    ],
+    "animation": "pop"
   },
   "bolt": {
     "category": "Weather",
@@ -158,6 +301,17 @@
       "insecto"
     ],
     "animation": "wiggle"
+  },
+  "building": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "office",
+      "company",
+      "city",
+      "edificio"
+    ],
+    "animation": "bounce"
   },
   "calendar": {
     "category": "Objects",
@@ -253,6 +407,42 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "chart-bar": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "bar",
+      "graph",
+      "analytics",
+      "statistics",
+      "barras"
+    ],
+    "animation": "pulse"
+  },
+  "chart-line": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "line",
+      "graph",
+      "analytics",
+      "statistics",
+      "grafico"
+    ],
+    "animation": "pulse"
+  },
+  "chart-pie": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "pie",
+      "graph",
+      "analytics",
+      "statistics",
+      "torta"
+    ],
+    "animation": "spin-slow"
   },
   "chat": {
     "category": "Communication",
@@ -385,6 +575,27 @@
     ],
     "animation": "pop"
   },
+  "circle-minus": {
+    "category": "Actions",
+    "tags": [
+      "circle",
+      "minus",
+      "remove",
+      "subtract"
+    ],
+    "animation": "pulse"
+  },
+  "circle-plus": {
+    "category": "Actions",
+    "tags": [
+      "circle",
+      "plus",
+      "add",
+      "new",
+      "create"
+    ],
+    "animation": "quarter"
+  },
   "circle-question": {
     "category": "Status",
     "tags": [
@@ -396,6 +607,18 @@
       "pregunta"
     ],
     "animation": "wobble"
+  },
+  "circle-x": {
+    "category": "Status",
+    "tags": [
+      "circle",
+      "x",
+      "close",
+      "cancel",
+      "error",
+      "remove"
+    ],
+    "animation": "quarter"
   },
   "clipboard": {
     "category": "Files",
@@ -430,6 +653,52 @@
     ],
     "animation": "float"
   },
+  "cloud-download": {
+    "category": "Files",
+    "tags": [
+      "cloud",
+      "download",
+      "sync",
+      "bajar",
+      "nube"
+    ],
+    "animation": "nudge-down"
+  },
+  "cloud-rain": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "rain",
+      "weather",
+      "storm",
+      "lluvia"
+    ],
+    "animation": "float"
+  },
+  "cloud-sun": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "sun",
+      "partly",
+      "cloudy",
+      "weather",
+      "nublado"
+    ],
+    "animation": "float"
+  },
+  "cloud-upload": {
+    "category": "Files",
+    "tags": [
+      "cloud",
+      "upload",
+      "backup",
+      "sync",
+      "subir",
+      "nube"
+    ],
+    "animation": "nudge-up"
+  },
   "code": {
     "category": "Technology",
     "tags": [
@@ -441,6 +710,28 @@
       "programar"
     ],
     "animation": "pulse"
+  },
+  "coins": {
+    "category": "Objects",
+    "tags": [
+      "coins",
+      "money",
+      "change",
+      "cash",
+      "monedas"
+    ],
+    "animation": "flip"
+  },
+  "compass": {
+    "category": "Places",
+    "tags": [
+      "compass",
+      "direction",
+      "explore",
+      "navigation",
+      "brujula"
+    ],
+    "animation": "spin-slow"
   },
   "copy": {
     "category": "Interface",
@@ -496,6 +787,32 @@
     ],
     "animation": "pulse"
   },
+  "database": {
+    "category": "Technology",
+    "tags": [
+      "database",
+      "storage",
+      "data",
+      "sql",
+      "server",
+      "base",
+      "de",
+      "datos"
+    ],
+    "animation": "pulse"
+  },
+  "dollar": {
+    "category": "Objects",
+    "tags": [
+      "dollar",
+      "money",
+      "currency",
+      "usd",
+      "price",
+      "precio"
+    ],
+    "animation": "flip"
+  },
   "dot": {
     "category": "Interface",
     "tags": [
@@ -522,6 +839,18 @@
       "exportar"
     ],
     "animation": "nudge-down"
+  },
+  "droplet": {
+    "category": "Weather",
+    "tags": [
+      "droplet",
+      "water",
+      "drop",
+      "liquid",
+      "humidity",
+      "gota"
+    ],
+    "animation": "drip"
   },
   "drum": {
     "category": "Music & Audio",
@@ -600,6 +929,40 @@
     ],
     "animation": "blink"
   },
+  "file": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "document",
+      "page",
+      "blank",
+      "archivo"
+    ],
+    "animation": "float"
+  },
+  "file-code": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "code",
+      "script",
+      "html",
+      "programming"
+    ],
+    "animation": "float"
+  },
+  "file-image": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "image",
+      "picture",
+      "photo",
+      "jpg",
+      "png"
+    ],
+    "animation": "float"
+  },
   "file-json": {
     "category": "Files",
     "tags": [
@@ -633,6 +996,18 @@
     ],
     "animation": "float"
   },
+  "film": {
+    "category": "Media",
+    "tags": [
+      "film",
+      "movie",
+      "cinema",
+      "video",
+      "reel",
+      "pelicula"
+    ],
+    "animation": "pulse"
+  },
   "flag": {
     "category": "Objects",
     "tags": [
@@ -643,6 +1018,19 @@
     ],
     "animation": "wave",
     "origin": "20% 50%"
+  },
+  "flame": {
+    "category": "Nature",
+    "tags": [
+      "flame",
+      "fire",
+      "hot",
+      "burn",
+      "trending",
+      "fuego"
+    ],
+    "animation": "flicker",
+    "origin": "50% 100%"
   },
   "floor-plan": {
     "category": "Places",
@@ -669,6 +1057,39 @@
       "carpeta"
     ],
     "animation": "bounce"
+  },
+  "folder-open": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "open",
+      "directory",
+      "browse",
+      "carpeta"
+    ],
+    "animation": "bounce"
+  },
+  "forward": {
+    "category": "Media",
+    "tags": [
+      "forward",
+      "fast",
+      "media",
+      "next"
+    ],
+    "animation": "nudge-right"
+  },
+  "frown": {
+    "category": "People",
+    "tags": [
+      "frown",
+      "sad",
+      "unhappy",
+      "face",
+      "emoji",
+      "triste"
+    ],
+    "animation": "wobble"
   },
   "funnel": {
     "category": "Interface",
@@ -722,6 +1143,18 @@
     ],
     "animation": "turn-y"
   },
+  "grid": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "layout",
+      "apps",
+      "tiles",
+      "gallery",
+      "view"
+    ],
+    "animation": "pulse"
+  },
   "grip": {
     "category": "Interface",
     "tags": [
@@ -736,6 +1169,19 @@
       "reordenar"
     ],
     "animation": "slide"
+  },
+  "hand": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "stop",
+      "palm",
+      "wave",
+      "raise",
+      "mano"
+    ],
+    "animation": "wave",
+    "origin": "50% 100%"
   },
   "headphones": {
     "category": "Music & Audio",
@@ -778,6 +1224,29 @@
     ],
     "animation": "bounce"
   },
+  "hospital": {
+    "category": "Places",
+    "tags": [
+      "hospital",
+      "clinic",
+      "health",
+      "medical",
+      "emergency"
+    ],
+    "animation": "pulse"
+  },
+  "id-card": {
+    "category": "People",
+    "tags": [
+      "id",
+      "card",
+      "identity",
+      "badge",
+      "license",
+      "identificacion"
+    ],
+    "animation": "flip"
+  },
   "image": {
     "category": "Media",
     "tags": [
@@ -788,6 +1257,27 @@
       "foto"
     ],
     "animation": "float"
+  },
+  "inbox": {
+    "category": "Communication",
+    "tags": [
+      "inbox",
+      "mail",
+      "tray",
+      "messages",
+      "received"
+    ],
+    "animation": "bounce"
+  },
+  "italic": {
+    "category": "Interface",
+    "tags": [
+      "italic",
+      "text",
+      "format",
+      "cursiva"
+    ],
+    "animation": "wobble"
   },
   "key": {
     "category": "Security",
@@ -800,6 +1290,40 @@
     ],
     "animation": "turn-key",
     "origin": "30% 70%"
+  },
+  "keyboard": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "type",
+      "keys",
+      "input",
+      "teclado"
+    ],
+    "animation": "pulse"
+  },
+  "laptop": {
+    "category": "Technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "notebook",
+      "portatil"
+    ],
+    "animation": "bounce"
+  },
+  "leaf": {
+    "category": "Nature",
+    "tags": [
+      "leaf",
+      "nature",
+      "eco",
+      "green",
+      "plant",
+      "hoja"
+    ],
+    "animation": "rock",
+    "origin": "20% 80%"
   },
   "lectern": {
     "category": "Religion",
@@ -815,6 +1339,344 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "letter-a": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter a",
+      "a",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-b": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter b",
+      "b",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-c": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter c",
+      "c",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-d": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter d",
+      "d",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-e": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter e",
+      "e",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-f": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter f",
+      "f",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-g": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter g",
+      "g",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-h": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter h",
+      "h",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-i": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter i",
+      "i",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-j": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter j",
+      "j",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-k": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter k",
+      "k",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-l": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter l",
+      "l",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-m": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter m",
+      "m",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-n": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter n",
+      "n",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-o": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter o",
+      "o",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-p": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter p",
+      "p",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-q": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter q",
+      "q",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-r": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter r",
+      "r",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-s": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter s",
+      "s",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-t": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter t",
+      "t",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-u": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter u",
+      "u",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-v": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter v",
+      "v",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-w": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter w",
+      "w",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-x": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter x",
+      "x",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-y": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter y",
+      "y",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
+  },
+  "letter-z": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "letter z",
+      "z",
+      "letter",
+      "alphabet",
+      "character",
+      "text",
+      "letra"
+    ],
+    "animation": "pop"
   },
   "lightbulb": {
     "category": "Objects",
@@ -845,6 +1707,17 @@
       "items",
       "bullets",
       "lista"
+    ],
+    "animation": "nudge-right"
+  },
+  "list-check": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "check",
+      "todo",
+      "tasks",
+      "checklist"
     ],
     "animation": "nudge-right"
   },
@@ -919,6 +1792,17 @@
     ],
     "animation": "float"
   },
+  "map": {
+    "category": "Places",
+    "tags": [
+      "map",
+      "location",
+      "travel",
+      "directions",
+      "mapa"
+    ],
+    "animation": "flip"
+  },
   "map-pin": {
     "category": "Places",
     "tags": [
@@ -935,6 +1819,16 @@
       "marcador"
     ],
     "animation": "bounce"
+  },
+  "maximize": {
+    "category": "Arrows",
+    "tags": [
+      "maximize",
+      "expand",
+      "fullscreen",
+      "enlarge"
+    ],
+    "animation": "pop"
   },
   "menu": {
     "category": "Interface",
@@ -977,6 +1871,29 @@
     "animation": "wiggle",
     "origin": "50% 90%"
   },
+  "microphone-off": {
+    "category": "Media",
+    "tags": [
+      "microphone",
+      "off",
+      "mute",
+      "mic",
+      "silence",
+      "silenciar"
+    ],
+    "animation": "shake"
+  },
+  "minimize": {
+    "category": "Arrows",
+    "tags": [
+      "minimize",
+      "collapse",
+      "exit",
+      "fullscreen",
+      "shrink"
+    ],
+    "animation": "pulse"
+  },
   "minus": {
     "category": "Actions",
     "tags": [
@@ -987,6 +1904,30 @@
       "restar"
     ],
     "animation": "pulse"
+  },
+  "money": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "cash",
+      "bill",
+      "payment",
+      "dinero",
+      "efectivo"
+    ],
+    "animation": "flip"
+  },
+  "monitor": {
+    "category": "Technology",
+    "tags": [
+      "monitor",
+      "desktop",
+      "computer",
+      "screen",
+      "display",
+      "pc"
+    ],
+    "animation": "bounce"
   },
   "moon": {
     "category": "Weather",
@@ -999,6 +1940,29 @@
       "oscuro"
     ],
     "animation": "rock"
+  },
+  "mouse": {
+    "category": "Technology",
+    "tags": [
+      "mouse",
+      "computer",
+      "click",
+      "pointer",
+      "raton"
+    ],
+    "animation": "bounce"
+  },
+  "move": {
+    "category": "Arrows",
+    "tags": [
+      "move",
+      "drag",
+      "arrows",
+      "all",
+      "directions",
+      "pan"
+    ],
+    "animation": "pop"
   },
   "mushroom": {
     "category": "Nature",
@@ -1029,6 +1993,138 @@
       "melodia"
     ],
     "animation": "dance"
+  },
+  "navigation": {
+    "category": "Places",
+    "tags": [
+      "navigation",
+      "location",
+      "arrow",
+      "gps",
+      "direction",
+      "navegacion"
+    ],
+    "animation": "nudge-diag"
+  },
+  "number-0": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 0",
+      "0",
+      "zero",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-1": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 1",
+      "1",
+      "one",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-2": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 2",
+      "2",
+      "two",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-3": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 3",
+      "3",
+      "three",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-4": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 4",
+      "4",
+      "four",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-5": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 5",
+      "5",
+      "five",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-6": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 6",
+      "6",
+      "six",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-7": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 7",
+      "7",
+      "seven",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-8": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 8",
+      "8",
+      "eight",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
+  },
+  "number-9": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "number 9",
+      "9",
+      "nine",
+      "number",
+      "digit",
+      "numero"
+    ],
+    "animation": "pop"
   },
   "paperclip": {
     "category": "Objects",
@@ -1063,6 +2159,17 @@
       "modificar"
     ],
     "animation": "write"
+  },
+  "percent": {
+    "category": "Objects",
+    "tags": [
+      "percent",
+      "discount",
+      "sale",
+      "percentage",
+      "porcentaje"
+    ],
+    "animation": "spin-slow"
   },
   "phone": {
     "category": "Communication",
@@ -1101,6 +2208,17 @@
     ],
     "animation": "nudge-right"
   },
+  "plug": {
+    "category": "Technology",
+    "tags": [
+      "plug",
+      "power",
+      "electricity",
+      "connect",
+      "enchufe"
+    ],
+    "animation": "wiggle"
+  },
   "plus": {
     "category": "Actions",
     "tags": [
@@ -1134,6 +2252,18 @@
       "lugar"
     ],
     "animation": "bounce"
+  },
+  "power": {
+    "category": "Actions",
+    "tags": [
+      "power",
+      "off",
+      "on",
+      "shutdown",
+      "start",
+      "apagar"
+    ],
+    "animation": "pulse"
   },
   "print": {
     "category": "Objects",
@@ -1172,6 +2302,17 @@
     ],
     "animation": "pulse"
   },
+  "quote": {
+    "category": "Communication",
+    "tags": [
+      "quote",
+      "quotation",
+      "citation",
+      "testimonial",
+      "cita"
+    ],
+    "animation": "pop"
+  },
   "radio-button": {
     "category": "Interface",
     "tags": [
@@ -1202,6 +2343,29 @@
     ],
     "animation": "pulse"
   },
+  "receipt": {
+    "category": "Objects",
+    "tags": [
+      "receipt",
+      "invoice",
+      "bill",
+      "purchase",
+      "recibo",
+      "factura"
+    ],
+    "animation": "float"
+  },
+  "redo": {
+    "category": "Arrows",
+    "tags": [
+      "redo",
+      "forward",
+      "rotate",
+      "right",
+      "rehacer"
+    ],
+    "animation": "nudge-right"
+  },
   "refresh": {
     "category": "Arrows",
     "tags": [
@@ -1212,6 +2376,28 @@
       "actualizar"
     ],
     "animation": "spin"
+  },
+  "repeat": {
+    "category": "Media",
+    "tags": [
+      "repeat",
+      "loop",
+      "again",
+      "media",
+      "repetir"
+    ],
+    "animation": "spin"
+  },
+  "reply": {
+    "category": "Communication",
+    "tags": [
+      "reply",
+      "answer",
+      "respond",
+      "back",
+      "message"
+    ],
+    "animation": "nudge-left"
   },
   "rock": {
     "category": "Nature",
@@ -1280,6 +2466,29 @@
     ],
     "animation": "search"
   },
+  "send": {
+    "category": "Communication",
+    "tags": [
+      "send",
+      "paper",
+      "plane",
+      "submit",
+      "message",
+      "enviar"
+    ],
+    "animation": "nudge-diag"
+  },
+  "server": {
+    "category": "Technology",
+    "tags": [
+      "server",
+      "hosting",
+      "rack",
+      "backend",
+      "servidor"
+    ],
+    "animation": "pulse"
+  },
   "share": {
     "category": "Communication",
     "tags": [
@@ -1301,6 +2510,51 @@
     ],
     "animation": "pulse"
   },
+  "shuffle": {
+    "category": "Media",
+    "tags": [
+      "shuffle",
+      "random",
+      "mix",
+      "media",
+      "aleatorio"
+    ],
+    "animation": "slide"
+  },
+  "signal": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "bars",
+      "cellular",
+      "network",
+      "coverage",
+      "senal"
+    ],
+    "animation": "signal"
+  },
+  "skip-back": {
+    "category": "Media",
+    "tags": [
+      "skip",
+      "back",
+      "previous",
+      "track",
+      "media"
+    ],
+    "animation": "nudge-left"
+  },
+  "skip-forward": {
+    "category": "Media",
+    "tags": [
+      "skip",
+      "forward",
+      "next",
+      "track",
+      "media"
+    ],
+    "animation": "nudge-right"
+  },
   "sliders": {
     "category": "Interface",
     "tags": [
@@ -1313,6 +2567,18 @@
     ],
     "animation": "slide"
   },
+  "smartphone": {
+    "category": "Technology",
+    "tags": [
+      "smartphone",
+      "mobile",
+      "phone",
+      "cell",
+      "device",
+      "celular"
+    ],
+    "animation": "ring"
+  },
   "smile": {
     "category": "People",
     "tags": [
@@ -1324,6 +2590,18 @@
       "cara"
     ],
     "animation": "wobble"
+  },
+  "snowflake": {
+    "category": "Weather",
+    "tags": [
+      "snowflake",
+      "snow",
+      "cold",
+      "winter",
+      "frozen",
+      "nieve"
+    ],
+    "animation": "spin-slow"
   },
   "solar-panel": {
     "category": "Nature",
@@ -1375,6 +2653,42 @@
     ],
     "animation": "beat"
   },
+  "sprout": {
+    "category": "Nature",
+    "tags": [
+      "sprout",
+      "plant",
+      "seedling",
+      "grow",
+      "garden",
+      "brote"
+    ],
+    "animation": "rock",
+    "origin": "50% 100%"
+  },
+  "square": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "checkbox",
+      "unchecked",
+      "box",
+      "shape"
+    ],
+    "animation": "pulse"
+  },
+  "square-check": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "check",
+      "checkbox",
+      "done",
+      "checked",
+      "task"
+    ],
+    "animation": "pop"
+  },
   "star": {
     "category": "Interface",
     "tags": [
@@ -1384,6 +2698,38 @@
       "estrella"
     ],
     "animation": "star"
+  },
+  "stop": {
+    "category": "Media",
+    "tags": [
+      "stop",
+      "square",
+      "media",
+      "halt"
+    ],
+    "animation": "pulse"
+  },
+  "store": {
+    "category": "Places",
+    "tags": [
+      "store",
+      "shop",
+      "market",
+      "business",
+      "tienda"
+    ],
+    "animation": "bounce"
+  },
+  "strikethrough": {
+    "category": "Interface",
+    "tags": [
+      "strikethrough",
+      "text",
+      "format",
+      "strike",
+      "tachado"
+    ],
+    "animation": "slide"
   },
   "sun": {
     "category": "Weather",
@@ -1397,6 +2743,28 @@
     ],
     "animation": "spin-slow"
   },
+  "table": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "spreadsheet",
+      "data",
+      "rows",
+      "columns",
+      "grid"
+    ],
+    "animation": "pulse"
+  },
+  "tablet": {
+    "category": "Technology",
+    "tags": [
+      "tablet",
+      "ipad",
+      "device",
+      "screen"
+    ],
+    "animation": "bounce"
+  },
   "tag": {
     "category": "Objects",
     "tags": [
@@ -1408,6 +2776,31 @@
     ],
     "animation": "swing",
     "origin": "20% 20%"
+  },
+  "thermometer": {
+    "category": "Weather",
+    "tags": [
+      "thermometer",
+      "temperature",
+      "heat",
+      "fever",
+      "termometro"
+    ],
+    "animation": "pulse"
+  },
+  "thumbs-down": {
+    "category": "Interface",
+    "tags": [
+      "thumbs",
+      "down",
+      "dislike",
+      "disapprove",
+      "no",
+      "me",
+      "gusta"
+    ],
+    "animation": "thumb",
+    "origin": "30% 20%"
   },
   "thumbs-up": {
     "category": "Interface",
@@ -1422,6 +2815,28 @@
     ],
     "animation": "thumb",
     "origin": "30% 80%"
+  },
+  "toggle-off": {
+    "category": "Interface",
+    "tags": [
+      "toggle",
+      "off",
+      "switch",
+      "disabled",
+      "inactive"
+    ],
+    "animation": "pop"
+  },
+  "toggle-on": {
+    "category": "Interface",
+    "tags": [
+      "toggle",
+      "on",
+      "switch",
+      "enabled",
+      "active"
+    ],
+    "animation": "pop"
   },
   "tooth": {
     "category": "Health",
@@ -1452,6 +2867,43 @@
     ],
     "animation": "shake"
   },
+  "tree": {
+    "category": "Nature",
+    "tags": [
+      "tree",
+      "nature",
+      "forest",
+      "pine",
+      "park",
+      "arbol"
+    ],
+    "animation": "rock",
+    "origin": "50% 100%"
+  },
+  "trending-down": {
+    "category": "Arrows",
+    "tags": [
+      "trending",
+      "down",
+      "decrease",
+      "loss",
+      "chart",
+      "fall"
+    ],
+    "animation": "nudge-down"
+  },
+  "trending-up": {
+    "category": "Arrows",
+    "tags": [
+      "trending",
+      "up",
+      "growth",
+      "increase",
+      "chart",
+      "rise"
+    ],
+    "animation": "nudge-diag"
+  },
   "triangle-alert": {
     "category": "Status",
     "tags": [
@@ -1467,6 +2919,39 @@
       "alerta"
     ],
     "animation": "shake"
+  },
+  "umbrella": {
+    "category": "Weather",
+    "tags": [
+      "umbrella",
+      "rain",
+      "protection",
+      "insurance",
+      "paraguas"
+    ],
+    "animation": "rock",
+    "origin": "50% 90%"
+  },
+  "underline": {
+    "category": "Interface",
+    "tags": [
+      "underline",
+      "text",
+      "format",
+      "subrayado"
+    ],
+    "animation": "slide"
+  },
+  "undo": {
+    "category": "Arrows",
+    "tags": [
+      "undo",
+      "back",
+      "rotate",
+      "left",
+      "deshacer"
+    ],
+    "animation": "nudge-left"
   },
   "upload": {
     "category": "Arrows",
@@ -1492,6 +2977,40 @@
     ],
     "animation": "bounce"
   },
+  "user-check": {
+    "category": "People",
+    "tags": [
+      "user",
+      "check",
+      "verified",
+      "approved",
+      "member"
+    ],
+    "animation": "pop"
+  },
+  "user-circle": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
+  "user-minus": {
+    "category": "People",
+    "tags": [
+      "user",
+      "minus",
+      "remove",
+      "delete",
+      "member"
+    ],
+    "animation": "shake"
+  },
   "user-plus": {
     "category": "People",
     "tags": [
@@ -1505,6 +3024,18 @@
       "usuario"
     ],
     "animation": "bounce"
+  },
+  "user-x": {
+    "category": "People",
+    "tags": [
+      "user",
+      "x",
+      "remove",
+      "block",
+      "delete",
+      "member"
+    ],
+    "animation": "shake"
   },
   "users": {
     "category": "People",
@@ -1532,6 +3063,17 @@
     ],
     "animation": "pulse"
   },
+  "video-off": {
+    "category": "Media",
+    "tags": [
+      "video",
+      "off",
+      "camera",
+      "disabled",
+      "no"
+    ],
+    "animation": "shake"
+  },
   "volume": {
     "category": "Media",
     "tags": [
@@ -1555,6 +3097,17 @@
     ],
     "animation": "shake"
   },
+  "wallet": {
+    "category": "Objects",
+    "tags": [
+      "wallet",
+      "money",
+      "payment",
+      "purse",
+      "billetera"
+    ],
+    "animation": "bounce"
+  },
   "wifi": {
     "category": "Technology",
     "tags": [
@@ -1566,6 +3119,17 @@
       "red"
     ],
     "animation": "signal"
+  },
+  "wind": {
+    "category": "Weather",
+    "tags": [
+      "wind",
+      "air",
+      "breeze",
+      "weather",
+      "viento"
+    ],
+    "animation": "slide"
   },
   "wrench": {
     "category": "Objects",
@@ -1600,5 +3164,28 @@
       "equis"
     ],
     "animation": "quarter"
+  },
+  "zoom-in": {
+    "category": "Interface",
+    "tags": [
+      "zoom",
+      "in",
+      "magnify",
+      "plus",
+      "enlarge",
+      "search"
+    ],
+    "animation": "pop"
+  },
+  "zoom-out": {
+    "category": "Interface",
+    "tags": [
+      "zoom",
+      "out",
+      "minus",
+      "reduce",
+      "shrink"
+    ],
+    "animation": "pulse"
   }
 }

@@ -78,7 +78,7 @@ Add the entry in **alphabetical order**:
 }
 ```
 
-- `category`: one of Actions, Arrows, Communication, Files, Health, Interface, Media, Music & Audio, Nature, Objects, People, Places, Religion, Security, Status, Technology, Weather.
+- `category`: one of Actions, Arrows, Communication, Files, Health, Interface, Letters & Numbers, Media, Music & Audio, Nature, Objects, People, Places, Religion, Security, Status, Technology, Weather.
 - `tags`: 3–30 lowercase search words (synonyms people would type). Other languages are welcome at the end.
 - `animation`: one of the `.ff-<name>` classes in `animations.css`. Pick what fits the object: `swing` (hangs from the top), `spin` (rotates), `beat` (heart, speaker), `shake` (warning, delete), `bounce` (objects, places, people), `nudge-left/right/up/down` (arrows), `wiggle` (tools), `float` (light things), `pop` (checks, bubbles), `pulse` (default).
 - `origin` (optional): pivot point of the animation when it is not the center, e.g. `"50% 12%"` for the top of a bell.
