@@ -1,11 +1,11 @@
 <div class="fondo" (click)="cerrar.emit()" aria-hidden="true"></div>
-<aside class="panel" role="dialog" aria-modal="false" [attr.aria-label]="'Ícono ' + icono().nombre">
+<aside class="panel" role="dialog" aria-modal="false" [attr.aria-label]="'Icon ' + icono().nombre">
   <header>
     <div>
       <h2>{{ icono().nombre }}</h2>
       <span class="categoria">{{ icono().categoria }}</span>
     </div>
-    <button type="button" class="cerrar" aria-label="Cerrar" title="Cerrar (Esc)" (click)="cerrar.emit()">
+    <button type="button" class="cerrar" aria-label="Close" title="Close (Esc)" (click)="cerrar.emit()">
       <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
     </button>
   </header>
@@ -14,10 +14,10 @@
     <span [innerHTML]="icono() | svg: version() : 120 : grosor()"></span>
   </div>
   @if (faltaRelleno()) {
-    <p class="nota">Este ícono todavía no tiene versión rellena. Se muestra la de línea.</p>
+    <p class="nota">This icon has no solid version yet. Showing the line version.</p>
   }
 
-  <h3>Versiones</h3>
+  <h3>Variants</h3>
   <div class="versiones">
     @for (v of versiones; track v.id) {
       <button type="button" [class.activa]="versionActiva() === v.id" (click)="cambiarVersion.emit(v.id)"
@@ -28,26 +28,26 @@
     }
   </div>
 
-  <h3>Tamaños</h3>
+  <h3>Sizes</h3>
   <div class="tamanos">
     @for (t of tamanos; track t) {
       <div><span [innerHTML]="icono() | svg: version() : t : grosor()"></span><small>{{ t }}</small></div>
     }
   </div>
 
-  <h3>Etiquetas</h3>
+  <h3>Tags</h3>
   <div class="etiquetas">
     @for (e of icono().etiquetas; track e) {
-      <button type="button" (click)="etiqueta.emit(e)" [title]="'Buscar «' + e + '»'">{{ e }}</button>
+      <button type="button" (click)="etiqueta.emit(e)" [title]="'Search “' + e + '”'">{{ e }}</button>
     }
   </div>
 
-  <h3>SVG @if (version() !== 'solid') { <span class="grosor">· grosor {{ grosor() }}</span> }</h3>
+  <h3>SVG @if (version() !== 'solid') { <span class="grosor">· stroke {{ grosor() }}</span> }</h3>
   <pre class="codigo"><code>{{ codigo() }}</code></pre>
   <div class="acciones">
-    <button type="button" class="boton principal" (click)="copiar(codigo(), 'SVG copiado')">Copiar SVG</button>
-    <button type="button" class="boton" (click)="descargar()">Descargar</button>
-    <button type="button" class="boton" (click)="copiar(icono().nombre, 'Nombre copiado')">Copiar nombre</button>
+    <button type="button" class="boton principal" (click)="copiar(codigo(), 'SVG copied')">Copy SVG</button>
+    <button type="button" class="boton" (click)="descargar()">Download</button>
+    <button type="button" class="boton" (click)="copiar(icono().nombre, 'Name copied')">Copy name</button>
   </div>
-  <p class="nota">El SVG usa <code>currentColor</code>: toma el color del texto donde lo pongas.</p>
+  <p class="nota">The SVG uses <code>currentColor</code>, so it takes the color of the surrounding text.</p>
 </aside>

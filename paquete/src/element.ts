@@ -1,5 +1,5 @@
 // <fontfine-icon> web component. Works in plain HTML, Angular, Vue, Svelte, etc.
-// <fontfine-icon name="llave" variant="bold" size="32" stroke-width="1.5"></fontfine-icon>
+// <fontfine-icon name="wrench" variant="bold" size="32" stroke-width="1.5"></fontfine-icon>
 import * as iconos from './iconos/index.js';
 import { toSvg, type IconData, type Variant } from './tipos.js';
 

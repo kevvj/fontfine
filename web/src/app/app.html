@@ -4,10 +4,10 @@
     <strong>fontfine</strong>
   </div>
   <div class="barra-derecha">
-    <span class="contador">{{ iconos.length }} íconos · 5 versiones</span>
+    <span class="contador">{{ iconos.length }} icons · 5 variants</span>
     <button class="boton-icono" type="button" (click)="alternarTema()"
-      [attr.aria-label]="tema() === 'claro' ? 'Cambiar a modo oscuro' : 'Cambiar a modo claro'"
-      [title]="tema() === 'claro' ? 'Modo oscuro' : 'Modo claro'">
+      [attr.aria-label]="tema() === 'claro' ? 'Switch to dark mode' : 'Switch to light mode'"
+      [title]="tema() === 'claro' ? 'Dark mode' : 'Light mode'">
       @if (tema() === 'claro') {
         <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
       } @else {
@@ -18,25 +18,25 @@
 </header>
 
 <section class="portada">
-  <h1>Íconos limpios, de línea fina</h1>
-  <p>Busca, mira cada versión y copia el SVG. Libres para cualquier proyecto.</p>
+  <h1>Clean, thin line icons</h1>
+  <p>Search, preview every variant and copy the SVG. Free and open source.</p>
   <label class="buscador">
     <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
-    <input #campoBusqueda type="search" placeholder="Buscar por nombre o idea: llave, borrar, usuario…"
-      aria-label="Buscar íconos" [value]="busqueda()" (input)="busqueda.set(campoBusqueda.value)" />
+    <input #campoBusqueda type="search" placeholder="Search icons: wrench, delete, user…"
+      aria-label="Search icons" [value]="busqueda()" (input)="busqueda.set(campoBusqueda.value)" />
     @if (busqueda()) {
-      <button type="button" class="limpiar" aria-label="Borrar búsqueda" (click)="busqueda.set(''); campoBusqueda.focus()">
+      <button type="button" class="limpiar" aria-label="Clear search" (click)="busqueda.set(''); campoBusqueda.focus()">
         <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
       </button>
     } @else {
-      <kbd title="Atajo para buscar">/</kbd>
+      <kbd title="Press / to search">/</kbd>
     }
   </label>
 </section>
 
 <div class="cuerpo">
-  <nav class="categorias" aria-label="Categorías">
-    <h2>Categorías</h2>
+  <nav class="categorias" aria-label="Categories">
+    <h2>Categories</h2>
     <ul>
       @for (c of categorias(); track c.nombre) {
         <li>
@@ -51,31 +51,31 @@
 
   <main>
     <div class="controles">
-      <div class="segmentos" role="radiogroup" aria-label="Versión">
+      <div class="segmentos" role="radiogroup" aria-label="Variant">
         @for (v of versiones; track v.id) {
           <button type="button" role="radio" [attr.aria-checked]="versionActiva() === v.id"
             [class.activa]="versionActiva() === v.id" (click)="elegirVersion(v.id)">{{ v.nombre }}</button>
         }
       </div>
       <label class="tamano">
-        <span>Grosor</span>
+        <span>Stroke</span>
         <input type="range" [min]="grosorMin" [max]="grosorMax" step="0.25" [value]="grosor()" #rangoGrosor
-          (input)="cambiarGrosor(+rangoGrosor.value)" aria-label="Grosor de línea" />
+          (input)="cambiarGrosor(+rangoGrosor.value)" aria-label="Stroke width" />
         <span class="valor">{{ version() === 'solid' ? '—' : grosor() }}</span>
       </label>
       <label class="tamano">
-        <span>Tamaño</span>
+        <span>Size</span>
         <input type="range" min="16" max="48" step="4" [value]="tamano()" #rango
-          (input)="tamano.set(+rango.value)" aria-label="Tamaño de los íconos" />
+          (input)="tamano.set(+rango.value)" aria-label="Icon size" />
         <span class="valor">{{ tamano() }} px</span>
       </label>
     </div>
 
     <p class="info-resultados" aria-live="polite">
-      @if (resultados().length === 1) { 1 ícono } @else { {{ resultados().length }} íconos }
-      @if (busqueda()) { para «{{ busqueda() }}» }
-      @if (categoria() !== todas) { en {{ categoria() }} }
-      @if (version() === 'solid') { · {{ cantidadRelleno }} ya tienen versión rellena }
+      @if (resultados().length === 1) { 1 icon } @else { {{ resultados().length }} icons }
+      @if (busqueda()) { for “{{ busqueda() }}” }
+      @if (categoria() !== todas) { in {{ categoria() }} }
+      
     </p>
 
     @if (resultados().length) {
@@ -87,7 +87,7 @@
               [attr.aria-label]="i.nombre" (click)="seleccionado.set(i)">
               <span class="dibujo" [innerHTML]="i | svg: version() : tamano() : grosor()"></span>
               <span class="nombre">{{ i.nombre }}</span>
-              @if (version() === 'solid' && !i.relleno) { <span class="pronto">sin relleno aún</span> }
+              @if (version() === 'solid' && !i.relleno) { <span class="pronto">no solid yet</span> }
             </button>
           </li>
         }
@@ -95,9 +95,9 @@
     } @else {
       <div class="vacio">
         <svg viewBox="0 0 24 24" width="40" height="40" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
-        <p><strong>No hay íconos para «{{ busqueda() }}».</strong></p>
-        <p>Prueba con otra palabra o pide el ícono que falta.</p>
-        <button type="button" class="boton" (click)="limpiar()">Ver todos</button>
+        <p><strong>No icons for “{{ busqueda() }}”.</strong></p>
+        <p>Try another word, or request the icon on GitHub.</p>
+        <button type="button" class="boton" (click)="limpiar()">Show all</button>
       </div>
     }
   </main>

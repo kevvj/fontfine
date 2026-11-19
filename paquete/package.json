@@ -22,7 +22,7 @@
   "files": ["dist", "svg", "README.md", "LICENSE"],
   "scripts": {
     "generar": "node ../scripts/paquete.mjs",
-    "build": "npm run generar && tsc -p tsconfig.json",
+    "build": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\" && npm run generar && tsc -p tsconfig.json",
     "test": "npm run build && node --test pruebas/*.test.mjs"
   },
   "peerDependencies": { "react": ">=17" },

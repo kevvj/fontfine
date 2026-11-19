@@ -11,12 +11,12 @@ npm install fontfine
 ## React
 
 ```jsx
-import { Llave, Lupa } from 'fontfine/react';
+import { Wrench, Search } from 'fontfine/react';
 
-<Llave />                                  // light, 24px, current text color
-<Lupa size={32} variant="bold" />
-<Llave strokeWidth={1.6} color="#262626" />
-<Llave variant="solid" title="Settings" />  // with title = accessible image
+<Wrench />                                 // light, 24px, current text color
+<Search size={32} variant="bold" />
+<Wrench strokeWidth={1.6} color="#262626" />
+<Wrench variant="solid" title="Settings" />  // with title = accessible image
 ```
 
 Each icon is its own component, so your bundle only includes the icons you use.
@@ -28,9 +28,9 @@ import 'fontfine/element';
 ```
 
 ```html
-<fontfine-icon name="llave"></fontfine-icon>
-<fontfine-icon name="lupa" variant="bold" size="32"></fontfine-icon>
-<fontfine-icon name="llave" stroke-width="1.6" label="Settings"></fontfine-icon>
+<fontfine-icon name="wrench"></fontfine-icon>
+<fontfine-icon name="search" variant="bold" size="32"></fontfine-icon>
+<fontfine-icon name="wrench" stroke-width="1.6" label="Settings"></fontfine-icon>
 ```
 
 In Angular, add `CUSTOM_ELEMENTS_SCHEMA` to the component's `schemas`.
@@ -38,16 +38,16 @@ In Angular, add `CUSTOM_ELEMENTS_SCHEMA` to the component's `schemas`.
 ## SVG string (any framework, Node, SSR)
 
 ```js
-import { toSvg, llave } from 'fontfine';
+import { toSvg, wrench } from 'fontfine';
 
-toSvg(llave, { size: 24, variant: 'regular', strokeWidth: 1.5 });
+toSvg(wrench, { size: 24, variant: 'regular', strokeWidth: 1.5 });
 ```
 
 ## Raw SVG files
 
 ```
-fontfine/svg/linea/<name>.svg     line version
-fontfine/svg/relleno/<name>.svg   solid version
+fontfine/svg/line/<name>.svg      line version
+fontfine/svg/solid/<name>.svg     solid version
 ```
 
 ## Options

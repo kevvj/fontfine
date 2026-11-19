@@ -8,16 +8,16 @@ Free and open source icons with a thin, clean line style. Every icon comes in fi
 
 ## Status
 
-- 63 icons, all with line and solid versions.
+- 120 icons, all with line and solid versions.
 - The npm package is in progress. For now, copy the SVG from the website or from the `svg/` folder.
 
 ## Repository
 
 | Folder | Contents |
 | --- | --- |
-| `svg/linea/` | Line icons (24×24 grid, source of truth) |
-| `svg/relleno/` | Solid icons |
-| `metadatos.json` | Category and search tags for each icon |
+| `svg/line/` | Line icons (24×24 grid, source of truth) |
+| `svg/solid/` | Solid icons |
+| `metadata.json` | Category and search tags for each icon |
 | `scripts/build.mjs` | Validates the icons and generates the data for the website |
 | `web/` | Website (Angular) |
 
@@ -32,9 +32,9 @@ npm start
 ## Adding an icon
 
 1. Draw it from scratch on a 24×24 grid: no fill, round caps and joins. Do not copy or trace icons from other sets.
-2. Save it as `svg/linea/<name>.svg` (lowercase, words separated by `-`, named after what it shows, e.g. `wrench`, not `maintenance`).
-3. Add the solid version in `svg/relleno/<name>.svg`.
-4. Add its category and tags in `metadatos.json`.
+2. Save it as `svg/line/<name>.svg` (English, lowercase, words separated by `-`, named after what it shows, e.g. `wrench`, not `maintenance`).
+3. Add the solid version in `svg/solid/<name>.svg`.
+4. Add its category and tags in `metadata.json`.
 5. Run `node scripts/build.mjs` to validate.
 
 ## License

@@ -1,11 +1,11 @@
-// Lee svg/linea, svg/relleno y metadatos.json, valida todo y genera los datos de la web.
+// Lee svg/linea, svg/relleno y metadata.json, valida todo y genera los datos de la web.
 // Uso: node scripts/build.mjs
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const raiz = join(dirname(fileURLToPath(import.meta.url)), "..");
-const metadatos = JSON.parse(readFileSync(join(raiz, "metadatos.json"), "utf8"));
+const metadatos = JSON.parse(readFileSync(join(raiz, "metadata.json"), "utf8"));
 
 function leerCarpeta(carpeta) {
   const dir = join(raiz, "svg", carpeta);
@@ -22,19 +22,19 @@ function leerCarpeta(carpeta) {
   return salida;
 }
 
-const linea = leerCarpeta("linea");
-const relleno = leerCarpeta("relleno");
+const linea = leerCarpeta("line");
+const relleno = leerCarpeta("solid");
 
 const errores = [];
-for (const n of Object.keys(linea)) if (!metadatos[n]) errores.push(`Falta "${n}" en metadatos.json`);
-for (const n of Object.keys(metadatos)) if (!linea[n]) errores.push(`metadatos.json tiene "${n}" pero no existe svg/linea/${n}.svg`);
-for (const n of Object.keys(relleno)) if (!linea[n]) errores.push(`svg/relleno/${n}.svg no tiene su versión de línea`);
+for (const n of Object.keys(linea)) if (!metadatos[n]) errores.push(`Falta "${n}" en metadata.json`);
+for (const n of Object.keys(metadatos)) if (!linea[n]) errores.push(`metadata.json tiene "${n}" pero no existe svg/line/${n}.svg`);
+for (const n of Object.keys(relleno)) if (!linea[n]) errores.push(`svg/solid/${n}.svg no tiene su versión de línea`);
 if (errores.length) { console.error(errores.join("\n")); process.exit(1); }
 
 const iconos = Object.keys(linea).map((nombre) => ({
   nombre,
-  categoria: metadatos[nombre].categoria,
-  etiquetas: metadatos[nombre].etiquetas,
+  categoria: metadatos[nombre].category,
+  etiquetas: metadatos[nombre].tags,
   linea: linea[nombre],
   relleno: relleno[nombre] ?? null,
 }));

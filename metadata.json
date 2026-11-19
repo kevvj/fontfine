@@ -1,0 +1,1467 @@
+{
+  "arrow-down": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down"
+    ]
+  },
+  "arrow-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "back",
+      "previous",
+      "flecha izquierda",
+      "volver",
+      "atras",
+      "regresar"
+    ]
+  },
+  "arrow-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "next",
+      "forward"
+    ]
+  },
+  "arrow-up": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up"
+    ]
+  },
+  "audio-mixer": {
+    "category": "Music & Audio",
+    "tags": [
+      "audio",
+      "mixer",
+      "sound",
+      "console",
+      "faders",
+      "volume",
+      "consola sonido",
+      "mezclador",
+      "volumen"
+    ]
+  },
+  "ban": {
+    "category": "Actions",
+    "tags": [
+      "ban",
+      "cancel",
+      "block",
+      "forbidden",
+      "prohibido",
+      "cancelar",
+      "bloquear",
+      "no",
+      "permitido"
+    ]
+  },
+  "bell": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "notification",
+      "alert",
+      "alarm",
+      "campana",
+      "notificaciones",
+      "avisos",
+      "alarma"
+    ]
+  },
+  "bible": {
+    "category": "Religion",
+    "tags": [
+      "bible",
+      "book",
+      "holy",
+      "scripture",
+      "religion",
+      "biblia",
+      "libro",
+      "sagrado",
+      "escrituras",
+      "palabra",
+      "lectura"
+    ]
+  },
+  "bolt": {
+    "category": "Weather",
+    "tags": [
+      "bolt",
+      "lightning",
+      "flash",
+      "power",
+      "energy",
+      "rayo"
+    ]
+  },
+  "bookmark": {
+    "category": "Interface",
+    "tags": [
+      "bookmark",
+      "save",
+      "favorite",
+      "marcador",
+      "guardar"
+    ]
+  },
+  "box": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "package",
+      "inventory",
+      "storage",
+      "shipping",
+      "caja",
+      "paquete",
+      "inventario",
+      "almacen",
+      "bodega",
+      "envio"
+    ]
+  },
+  "bug": {
+    "category": "Status",
+    "tags": [
+      "bug",
+      "error",
+      "issue",
+      "insect",
+      "bicho",
+      "falla",
+      "app",
+      "insecto"
+    ]
+  },
+  "calendar": {
+    "category": "Objects",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "schedule",
+      "calendario",
+      "fecha"
+    ]
+  },
+  "camera": {
+    "category": "Media",
+    "tags": [
+      "camera",
+      "photo",
+      "picture",
+      "camara",
+      "foto"
+    ]
+  },
+  "candle": {
+    "category": "Religion",
+    "tags": [
+      "candle",
+      "light",
+      "flame",
+      "prayer",
+      "vela",
+      "luz",
+      "llama",
+      "oracion",
+      "vigilia"
+    ]
+  },
+  "car": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "vehicle",
+      "auto",
+      "transport",
+      "carro"
+    ]
+  },
+  "cart": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "shopping",
+      "buy",
+      "store",
+      "carrito",
+      "compra"
+    ]
+  },
+  "chair": {
+    "category": "Objects",
+    "tags": [
+      "chair",
+      "seat",
+      "furniture",
+      "silla",
+      "asiento",
+      "mueble",
+      "comedor",
+      "sentarse"
+    ]
+  },
+  "chalice": {
+    "category": "Religion",
+    "tags": [
+      "chalice",
+      "cup",
+      "communion",
+      "wine",
+      "religion",
+      "caliz",
+      "copa",
+      "santa",
+      "cena",
+      "comunion",
+      "vino"
+    ]
+  },
+  "chat": {
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "comment",
+      "message",
+      "bubble",
+      "mensaje",
+      "comentario"
+    ]
+  },
+  "check": {
+    "category": "Actions",
+    "tags": [
+      "check",
+      "done",
+      "ok",
+      "confirm",
+      "tick",
+      "aceptar",
+      "listo",
+      "confirmar",
+      "guardar"
+    ]
+  },
+  "chevron-down": {
+    "category": "Arrows",
+    "tags": [
+      "chevron",
+      "down",
+      "expand",
+      "dropdown",
+      "chevron abajo",
+      "desplegar",
+      "abrir",
+      "lista",
+      "bajar"
+    ]
+  },
+  "chevron-left": {
+    "category": "Arrows",
+    "tags": [
+      "chevron",
+      "left",
+      "back",
+      "previous"
+    ]
+  },
+  "chevron-right": {
+    "category": "Arrows",
+    "tags": [
+      "chevron",
+      "right",
+      "next"
+    ]
+  },
+  "chevron-up": {
+    "category": "Arrows",
+    "tags": [
+      "chevron",
+      "up",
+      "collapse"
+    ]
+  },
+  "church": {
+    "category": "Places",
+    "tags": [
+      "church",
+      "chapel",
+      "temple",
+      "building",
+      "cross",
+      "iglesia",
+      "sede",
+      "templo",
+      "edificio",
+      "capilla",
+      "cruz"
+    ]
+  },
+  "circle-alert": {
+    "category": "Status",
+    "tags": [
+      "circle",
+      "alert",
+      "error",
+      "problem",
+      "exclamation",
+      "circulo alerta",
+      "problema",
+      "fallo"
+    ]
+  },
+  "circle-check": {
+    "category": "Status",
+    "tags": [
+      "circle",
+      "check",
+      "success",
+      "done",
+      "complete",
+      "circulo check",
+      "exito",
+      "listo",
+      "correcto",
+      "completado"
+    ]
+  },
+  "circle-info": {
+    "category": "Status",
+    "tags": [
+      "circle",
+      "info",
+      "information",
+      "help",
+      "circulo info",
+      "informacion",
+      "ayuda",
+      "detalle"
+    ]
+  },
+  "circle-question": {
+    "category": "Status",
+    "tags": [
+      "question",
+      "help",
+      "faq",
+      "support",
+      "ayuda",
+      "pregunta"
+    ]
+  },
+  "clipboard": {
+    "category": "Files",
+    "tags": [
+      "clipboard",
+      "paste",
+      "notes",
+      "list",
+      "portapapeles"
+    ]
+  },
+  "clock": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "time",
+      "hour",
+      "reloj",
+      "hora"
+    ]
+  },
+  "cloud": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "weather",
+      "storage",
+      "nube"
+    ]
+  },
+  "code": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "programming",
+      "developer",
+      "html",
+      "codigo",
+      "programar"
+    ]
+  },
+  "copy": {
+    "category": "Interface",
+    "tags": [
+      "copy",
+      "duplicate",
+      "clone",
+      "copiar"
+    ]
+  },
+  "credit-card": {
+    "category": "Objects",
+    "tags": [
+      "credit",
+      "card",
+      "payment",
+      "pay",
+      "tarjeta",
+      "pago"
+    ]
+  },
+  "cross": {
+    "category": "Religion",
+    "tags": [
+      "cross",
+      "christian",
+      "faith",
+      "religion",
+      "cruz",
+      "fe",
+      "cristiano",
+      "iglesia"
+    ]
+  },
+  "dashboard": {
+    "category": "Interface",
+    "tags": [
+      "dashboard",
+      "layout",
+      "panels",
+      "overview",
+      "summary",
+      "grid",
+      "paneles",
+      "resumen",
+      "tablero",
+      "inicio",
+      "panel",
+      "cuadros"
+    ]
+  },
+  "dot": {
+    "category": "Interface",
+    "tags": [
+      "dot",
+      "circle",
+      "status",
+      "bullet",
+      "punto",
+      "circulo",
+      "estado",
+      "separador"
+    ]
+  },
+  "download": {
+    "category": "Actions",
+    "tags": [
+      "download",
+      "save",
+      "export",
+      "descargar",
+      "bajar",
+      "guardar",
+      "exportar"
+    ]
+  },
+  "drum": {
+    "category": "Music & Audio",
+    "tags": [
+      "drum",
+      "percussion",
+      "instrument",
+      "music",
+      "tambor",
+      "bateria",
+      "percusion",
+      "ritmo",
+      "instrumento"
+    ]
+  },
+  "ellipsis": {
+    "category": "Interface",
+    "tags": [
+      "ellipsis",
+      "more",
+      "dots",
+      "menu",
+      "options",
+      "puntos",
+      "mas",
+      "opciones",
+      "tres"
+    ]
+  },
+  "external-link": {
+    "category": "Arrows",
+    "tags": [
+      "external",
+      "link",
+      "open",
+      "new",
+      "window",
+      "enlace externo",
+      "abrir",
+      "fuera",
+      "nueva",
+      "ventana"
+    ]
+  },
+  "eye": {
+    "category": "Interface",
+    "tags": [
+      "eye",
+      "view",
+      "show",
+      "visible",
+      "password",
+      "ojo",
+      "ver",
+      "mostrar",
+      "contraseña"
+    ]
+  },
+  "eye-off": {
+    "category": "Interface",
+    "tags": [
+      "eye",
+      "off",
+      "hide",
+      "hidden",
+      "invisible",
+      "password",
+      "ojo tachado",
+      "ocultar",
+      "esconder",
+      "contraseña"
+    ]
+  },
+  "file-json": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "json",
+      "code",
+      "data",
+      "braces",
+      "archivo json",
+      "codigo",
+      "datos",
+      "llaves",
+      "programacion"
+    ]
+  },
+  "file-text": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "document",
+      "text",
+      "report",
+      "page",
+      "documento",
+      "reporte",
+      "archivo",
+      "hoja",
+      "informe",
+      "texto"
+    ]
+  },
+  "flag": {
+    "category": "Objects",
+    "tags": [
+      "flag",
+      "report",
+      "mark",
+      "bandera"
+    ]
+  },
+  "floor-plan": {
+    "category": "Places",
+    "tags": [
+      "floor",
+      "plan",
+      "blueprint",
+      "architecture",
+      "rooms",
+      "plano",
+      "planta",
+      "casa",
+      "arquitectura",
+      "habitaciones",
+      "piso"
+    ]
+  },
+  "folder": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "directory",
+      "carpeta"
+    ]
+  },
+  "funnel": {
+    "category": "Interface",
+    "tags": [
+      "funnel",
+      "filter",
+      "sales",
+      "embudo",
+      "filtro",
+      "filtrar",
+      "ventas"
+    ]
+  },
+  "gear": {
+    "category": "Interface",
+    "tags": [
+      "gear",
+      "settings",
+      "cog",
+      "preferences",
+      "options",
+      "engranaje",
+      "ajustes",
+      "configuracion",
+      "opciones",
+      "preferencias"
+    ]
+  },
+  "gift": {
+    "category": "Objects",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "regalo"
+    ]
+  },
+  "globe": {
+    "category": "Interface",
+    "tags": [
+      "globe",
+      "world",
+      "internet",
+      "language",
+      "web",
+      "mundo",
+      "idioma"
+    ]
+  },
+  "grip": {
+    "category": "Interface",
+    "tags": [
+      "grip",
+      "drag",
+      "handle",
+      "move",
+      "reorder",
+      "agarre",
+      "arrastrar",
+      "mover",
+      "reordenar"
+    ]
+  },
+  "headphones": {
+    "category": "Music & Audio",
+    "tags": [
+      "headphones",
+      "audio",
+      "listen",
+      "music",
+      "headset",
+      "audifonos",
+      "auriculares",
+      "escuchar",
+      "monitoreo",
+      "cascos"
+    ]
+  },
+  "heart": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "like",
+      "love",
+      "favorite",
+      "corazon"
+    ]
+  },
+  "home": {
+    "category": "Places",
+    "tags": [
+      "home",
+      "house",
+      "main",
+      "start",
+      "casa",
+      "inicio",
+      "hogar",
+      "principal"
+    ]
+  },
+  "image": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "picture",
+      "photo",
+      "imagen",
+      "foto"
+    ]
+  },
+  "key": {
+    "category": "Security",
+    "tags": [
+      "key",
+      "password",
+      "access",
+      "clave",
+      "llave"
+    ]
+  },
+  "lectern": {
+    "category": "Religion",
+    "tags": [
+      "lectern",
+      "pulpit",
+      "podium",
+      "speech",
+      "atril",
+      "pulpito",
+      "podio",
+      "predica"
+    ]
+  },
+  "lightbulb": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "idea",
+      "light",
+      "bulb",
+      "bombillo"
+    ]
+  },
+  "link": {
+    "category": "Interface",
+    "tags": [
+      "link",
+      "chain",
+      "url",
+      "hyperlink",
+      "enlace"
+    ]
+  },
+  "list": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "items",
+      "bullets",
+      "lista"
+    ]
+  },
+  "lock": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "locked",
+      "secure",
+      "private",
+      "password",
+      "candado",
+      "bloqueado",
+      "cerrado",
+      "seguro",
+      "privado",
+      "clave"
+    ]
+  },
+  "lock-open": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "open",
+      "unlocked",
+      "access",
+      "candado abierto",
+      "desbloqueado",
+      "abierto",
+      "acceso",
+      "libre"
+    ]
+  },
+  "log-in": {
+    "category": "Arrows",
+    "tags": [
+      "log",
+      "in",
+      "sign",
+      "enter",
+      "login",
+      "entrar",
+      "iniciar",
+      "sesion"
+    ]
+  },
+  "log-out": {
+    "category": "Arrows",
+    "tags": [
+      "log",
+      "out",
+      "sign",
+      "exit",
+      "logout",
+      "salir",
+      "cerrar",
+      "sesion"
+    ]
+  },
+  "mail": {
+    "category": "Communication",
+    "tags": [
+      "mail",
+      "email",
+      "envelope",
+      "message",
+      "correo"
+    ]
+  },
+  "map-pin": {
+    "category": "Places",
+    "tags": [
+      "map",
+      "pin",
+      "location",
+      "place",
+      "address",
+      "marker",
+      "ubicacion",
+      "mapa",
+      "lugar",
+      "direccion",
+      "marcador"
+    ]
+  },
+  "menu": {
+    "category": "Interface",
+    "tags": [
+      "menu",
+      "bars",
+      "hamburger",
+      "navigation"
+    ]
+  },
+  "microchip": {
+    "category": "Objects",
+    "tags": [
+      "microchip",
+      "cpu",
+      "processor",
+      "chip",
+      "hardware",
+      "componente",
+      "procesador",
+      "electronica"
+    ]
+  },
+  "microphone": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "mic",
+      "voice",
+      "sing",
+      "record",
+      "microfono",
+      "voz",
+      "cantar",
+      "hablar",
+      "inalambrico"
+    ]
+  },
+  "minus": {
+    "category": "Actions",
+    "tags": [
+      "minus",
+      "remove",
+      "subtract",
+      "menos",
+      "restar"
+    ]
+  },
+  "moon": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "night",
+      "dark",
+      "mode",
+      "luna",
+      "oscuro"
+    ]
+  },
+  "mushroom": {
+    "category": "Nature",
+    "tags": [
+      "mushroom",
+      "fungus",
+      "nature",
+      "food",
+      "hongo",
+      "seta",
+      "champiñon",
+      "bosque",
+      "comida"
+    ]
+  },
+  "music": {
+    "category": "Music & Audio",
+    "tags": [
+      "music",
+      "note",
+      "song",
+      "melody",
+      "nota musical",
+      "musica",
+      "cancion",
+      "alabanza",
+      "melodia"
+    ]
+  },
+  "paperclip": {
+    "category": "Objects",
+    "tags": [
+      "paperclip",
+      "attach",
+      "attachment",
+      "clip",
+      "adjuntar"
+    ]
+  },
+  "pause": {
+    "category": "Media",
+    "tags": [
+      "pause",
+      "stop",
+      "pausa"
+    ]
+  },
+  "pencil": {
+    "category": "Actions",
+    "tags": [
+      "pencil",
+      "edit",
+      "write",
+      "modify",
+      "lapiz",
+      "editar",
+      "escribir",
+      "modificar"
+    ]
+  },
+  "phone": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "call",
+      "telephone",
+      "telefono",
+      "llamar"
+    ]
+  },
+  "piano": {
+    "category": "Music & Audio",
+    "tags": [
+      "piano",
+      "keyboard",
+      "keys",
+      "instrument",
+      "music",
+      "teclado musical",
+      "sintetizador",
+      "teclas",
+      "instrumento"
+    ]
+  },
+  "play": {
+    "category": "Media",
+    "tags": [
+      "play",
+      "start",
+      "video",
+      "audio",
+      "reproducir"
+    ]
+  },
+  "plus": {
+    "category": "Actions",
+    "tags": [
+      "plus",
+      "add",
+      "new",
+      "create",
+      "mas",
+      "agregar",
+      "nuevo",
+      "crear",
+      "sumar",
+      "añadir"
+    ]
+  },
+  "podium": {
+    "category": "Objects",
+    "tags": [
+      "podium",
+      "winner",
+      "ranking",
+      "competition",
+      "first",
+      "place",
+      "podio",
+      "ganador",
+      "premio",
+      "competencia",
+      "primer",
+      "lugar"
+    ]
+  },
+  "print": {
+    "category": "Objects",
+    "tags": [
+      "print",
+      "printer",
+      "imprimir",
+      "impresora"
+    ]
+  },
+  "projector": {
+    "category": "Music & Audio",
+    "tags": [
+      "projector",
+      "presentation",
+      "video",
+      "screen",
+      "proyector",
+      "pantalla",
+      "presentacion",
+      "diapositivas"
+    ]
+  },
+  "qr-code": {
+    "category": "Objects",
+    "tags": [
+      "qr",
+      "code",
+      "scan",
+      "tag",
+      "codigo",
+      "escanear",
+      "etiqueta"
+    ]
+  },
+  "radio-button": {
+    "category": "Interface",
+    "tags": [
+      "radio",
+      "button",
+      "option",
+      "select",
+      "form",
+      "radio boton",
+      "opcion",
+      "seleccion",
+      "formulario",
+      "elegir"
+    ]
+  },
+  "ram": {
+    "category": "Technology",
+    "tags": [
+      "ram",
+      "memory",
+      "hardware",
+      "computer",
+      "memoria ram",
+      "memoria",
+      "computador",
+      "pc"
+    ]
+  },
+  "refresh": {
+    "category": "Arrows",
+    "tags": [
+      "refresh",
+      "reload",
+      "rotate",
+      "sync",
+      "actualizar"
+    ]
+  },
+  "rock": {
+    "category": "Nature",
+    "tags": [
+      "rock",
+      "stone",
+      "mineral",
+      "roca",
+      "piedra",
+      "montaña"
+    ]
+  },
+  "save": {
+    "category": "Files",
+    "tags": [
+      "save",
+      "floppy",
+      "disk",
+      "guardar",
+      "disquete"
+    ]
+  },
+  "scan": {
+    "category": "Actions",
+    "tags": [
+      "scan",
+      "camera",
+      "read",
+      "qr",
+      "barcode",
+      "escanear",
+      "camara",
+      "leer"
+    ]
+  },
+  "school": {
+    "category": "Places",
+    "tags": [
+      "school",
+      "education",
+      "building",
+      "class",
+      "escuela",
+      "colegio",
+      "educacion",
+      "estudiar",
+      "clases"
+    ]
+  },
+  "search": {
+    "category": "Actions",
+    "tags": [
+      "search",
+      "magnifying",
+      "glass",
+      "find",
+      "zoom",
+      "lupa",
+      "buscar",
+      "busqueda",
+      "encontrar"
+    ]
+  },
+  "share": {
+    "category": "Communication",
+    "tags": [
+      "share",
+      "network",
+      "send",
+      "compartir"
+    ]
+  },
+  "shield": {
+    "category": "Security",
+    "tags": [
+      "shield",
+      "security",
+      "protection",
+      "escudo",
+      "seguridad"
+    ]
+  },
+  "sliders": {
+    "category": "Interface",
+    "tags": [
+      "sliders",
+      "settings",
+      "filters",
+      "adjust",
+      "controls",
+      "ajustes"
+    ]
+  },
+  "smile": {
+    "category": "People",
+    "tags": [
+      "smile",
+      "happy",
+      "face",
+      "emoji",
+      "feliz",
+      "cara"
+    ]
+  },
+  "solar-panel": {
+    "category": "Nature",
+    "tags": [
+      "solar",
+      "panel",
+      "energy",
+      "renewable",
+      "electricity",
+      "panel solar",
+      "energia",
+      "renovable",
+      "sol",
+      "electricidad"
+    ]
+  },
+  "sort-alphabetical": {
+    "category": "Interface",
+    "tags": [
+      "sort",
+      "alphabetical",
+      "az",
+      "order",
+      "list",
+      "orden alfabetico",
+      "ordenar",
+      "alfabeto",
+      "lista",
+      "abc"
+    ]
+  },
+  "speaker": {
+    "category": "Objects",
+    "tags": [
+      "speaker",
+      "audio",
+      "sound",
+      "loudspeaker",
+      "equipment",
+      "parlante",
+      "altavoz",
+      "bocina",
+      "sonido",
+      "equipo",
+      "accesorio"
+    ]
+  },
+  "star": {
+    "category": "Interface",
+    "tags": [
+      "star",
+      "favorite",
+      "rating",
+      "estrella"
+    ]
+  },
+  "sun": {
+    "category": "Weather",
+    "tags": [
+      "sun",
+      "light",
+      "day",
+      "bright",
+      "sol",
+      "claro"
+    ]
+  },
+  "tag": {
+    "category": "Objects",
+    "tags": [
+      "tag",
+      "label",
+      "price",
+      "etiqueta",
+      "precio"
+    ]
+  },
+  "thumbs-up": {
+    "category": "Interface",
+    "tags": [
+      "thumbs",
+      "up",
+      "like",
+      "approve",
+      "ok",
+      "me",
+      "gusta"
+    ]
+  },
+  "tooth": {
+    "category": "Health",
+    "tags": [
+      "tooth",
+      "dentist",
+      "dental",
+      "diente",
+      "dentista",
+      "muela",
+      "odontologia"
+    ]
+  },
+  "trash": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "delete",
+      "remove",
+      "bin",
+      "garbage",
+      "papelera",
+      "borrar",
+      "eliminar",
+      "basura",
+      "quitar"
+    ]
+  },
+  "triangle-alert": {
+    "category": "Status",
+    "tags": [
+      "triangle",
+      "alert",
+      "warning",
+      "caution",
+      "danger",
+      "triangulo alerta",
+      "advertencia",
+      "cuidado",
+      "peligro",
+      "alerta"
+    ]
+  },
+  "upload": {
+    "category": "Arrows",
+    "tags": [
+      "upload",
+      "send",
+      "export",
+      "subir"
+    ]
+  },
+  "user": {
+    "category": "People",
+    "tags": [
+      "user",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario",
+      "cuenta",
+      "perfil"
+    ]
+  },
+  "user-plus": {
+    "category": "People",
+    "tags": [
+      "user",
+      "plus",
+      "add",
+      "new",
+      "member",
+      "invite",
+      "agregar",
+      "usuario"
+    ]
+  },
+  "users": {
+    "category": "People",
+    "tags": [
+      "users",
+      "people",
+      "group",
+      "team",
+      "personas",
+      "usuarios",
+      "grupo",
+      "equipo",
+      "gente"
+    ]
+  },
+  "video": {
+    "category": "Media",
+    "tags": [
+      "video",
+      "film",
+      "movie",
+      "camera",
+      "record"
+    ]
+  },
+  "volume": {
+    "category": "Media",
+    "tags": [
+      "volume",
+      "sound",
+      "audio",
+      "speaker",
+      "volumen",
+      "sonido"
+    ]
+  },
+  "volume-off": {
+    "category": "Media",
+    "tags": [
+      "volume",
+      "off",
+      "mute",
+      "silent",
+      "silencio"
+    ]
+  },
+  "wifi": {
+    "category": "Technology",
+    "tags": [
+      "wifi",
+      "wireless",
+      "internet",
+      "network",
+      "signal",
+      "red"
+    ]
+  },
+  "wrench": {
+    "category": "Objects",
+    "tags": [
+      "wrench",
+      "tool",
+      "settings",
+      "maintenance",
+      "repair",
+      "fix",
+      "llave",
+      "herramienta",
+      "mantenimiento",
+      "reparar",
+      "arreglar",
+      "ajustar"
+    ]
+  },
+  "x": {
+    "category": "Actions",
+    "tags": [
+      "x",
+      "close",
+      "cancel",
+      "remove",
+      "times",
+      "cerrar",
+      "quitar",
+      "salir",
+      "equis"
+    ]
+  }
+}

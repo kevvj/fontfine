@@ -30,7 +30,7 @@ export class Detalle {
       await navigator.clipboard.writeText(texto);
       this.avisar.emit(mensaje);
     } catch {
-      this.avisar.emit('No se pudo copiar. Selecciona el código y cópialo a mano.');
+      this.avisar.emit('Could not copy. Select the code and copy it manually.');
     }
   }
 
@@ -42,6 +42,6 @@ export class Detalle {
     a.download = `${this.icono().nombre}${this.version() === 'light' ? '' : '-' + this.version()}.svg`;
     a.click();
     URL.revokeObjectURL(url);
-    this.avisar.emit('SVG descargado');
+    this.avisar.emit('SVG downloaded');
   }
 }

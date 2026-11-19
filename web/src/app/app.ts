@@ -4,7 +4,7 @@ import { GROSOR_MAX, GROSOR_MIN, Icono, VERSIONES, Version, normalizar } from '.
 import { SvgPipe } from './svg.pipe';
 import { Detalle } from './detalle/detalle';
 
-const TODAS = 'Todas';
+const TODAS = 'All';
 
 @Component({
   selector: 'app-root',
@@ -18,7 +18,7 @@ export class App {
   protected readonly todas = TODAS;
   protected readonly grosorMin = GROSOR_MIN;
   protected readonly grosorMax = GROSOR_MAX;
-  protected readonly logo = ICONOS.find((i) => i.nombre === 'paneles') ?? ICONOS[0];
+  protected readonly logo = ICONOS.find((i) => i.nombre === 'dashboard') ?? ICONOS[0];
 
   protected readonly busqueda = signal('');
   protected readonly categoria = signal(TODAS);
