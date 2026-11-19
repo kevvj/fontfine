@@ -116,7 +116,9 @@ kbd {
 
 /* Animaciones: apagadas o solo al pasar el mouse por la tarjeta. */
 .cuerpo[data-anim=off] .ff-anim,
-.cuerpo[data-anim=hover] .tarjeta:not(:hover):not(:focus-visible) .ff-anim { animation: none; }
+.cuerpo[data-anim=off] .ff-anim *,
+.cuerpo[data-anim=hover] .tarjeta:not(:hover):not(:focus-visible) .ff-anim,
+.cuerpo[data-anim=hover] .tarjeta:not(:hover):not(:focus-visible) .ff-anim * { animation: none; }
 .controles { flex-wrap: wrap; }
 
 .menu { display: flex; gap: 4px; margin-right: auto; margin-left: 28px; }
