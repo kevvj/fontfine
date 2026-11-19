@@ -1,0 +1,139 @@
+<div class="docs">
+  <nav class="indice" aria-label="On this page">
+    <h2>Docs</h2>
+    <ul>
+      @for (s of secciones; track s.id) {
+        <li><button type="button" (click)="ir(s.id)">{{ s.titulo }}</button></li>
+      }
+    </ul>
+  </nav>
+
+  <article>
+    <header class="intro">
+      <h1>Documentation</h1>
+      <p>fontfine is a free, open source set of {{ total }} icons. Every icon has 6 variants, its own animation and a stroke width you can change. It works with React, Angular, Vue, plain HTML and any server.</p>
+    </header>
+
+    <section id="install">
+      <h2>Install</h2>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.install }" />
+    </section>
+
+    <section id="react">
+      <h2>React</h2>
+      <p>Each icon is a component named in PascalCase (<code>arrow-left</code> → <code>ArrowLeft</code>). Your bundle only includes the icons you import.</p>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.react }" />
+      <p>Any other SVG prop (<code>className</code>, <code>style</code>, <code>onClick</code>, <code>ref</code>…) is passed to the <code>&lt;svg&gt;</code>.</p>
+    </section>
+
+    <section id="web-component">
+      <h2>Angular, Vue, Svelte or plain HTML</h2>
+      <p>Import the web component once. It registers <code>&lt;fontfine-icon&gt;</code>. Its default size is <code>1em</code>, so it follows the font size.</p>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.elementJs }" />
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.elementHtml }" />
+      <h3>Angular</h3>
+      <p>Add <code>CUSTOM_ELEMENTS_SCHEMA</code> to the component.</p>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.angular }" />
+      <h3>Vue</h3>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.vue }" />
+    </section>
+
+    <section id="svg-string">
+      <h2>SVG string</h2>
+      <p>For any framework, server rendering, emails or Node scripts. Icons are exported in camelCase (<code>arrowLeft</code>).</p>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.toSvg }" />
+    </section>
+
+    <section id="raw-svg">
+      <h2>Raw SVG files</h2>
+      <p>The package also ships the plain files. You can also copy or download any icon from the <strong>Icons</strong> page.</p>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.raw }" />
+    </section>
+
+    <section id="variants">
+      <h2>Variants and stroke</h2>
+      <div class="muestra">
+        @for (v of versiones; track v.id) {
+          <figure>
+            <span [innerHTML]="icono('bell') | svg: v.id : 36"></span>
+            <figcaption>{{ v.id }}</figcaption>
+          </figure>
+        }
+      </div>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.variants }" />
+      <p><code>strokeWidth</code> only affects line variants. Icons use <code>currentColor</code>, so they take the text color unless you pass <code>color</code>.</p>
+    </section>
+
+    <section id="duotone">
+      <h2>Duotone colors</h2>
+      <p>Duotone icons have two layers: <code>.ff-primary</code> (solid) and <code>.ff-secondary</code> (40% opacity). By default both use the icon color.</p>
+      <div class="muestra">
+        @for (n of ['bell', 'home', 'calendar', 'camera']; track n) {
+          <figure class="duo"><span [innerHTML]="icono(n) | svg: 'duotone' : 36"></span></figure>
+        }
+      </div>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.duotone }" />
+    </section>
+
+    <section id="animations">
+      <h2>Animations</h2>
+      <p>Every icon has its own animation: the bell swings, the heart beats, the gear spins. Hover the icons:</p>
+      <div class="muestra">
+        @for (i of animados; track i.nombre) {
+          <figure class="ff-hover">
+            <span class="ff-anim ff-{{ i.animacion }} ff-anim-hover" [style.--ff-origin]="i.origen" [innerHTML]="i | svg: 'light' : 36"></span>
+            <figcaption>{{ i.animacion }}</figcaption>
+          </figure>
+        }
+      </div>
+      <h3>React</h3>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.animReact }" />
+      <h3>Web component</h3>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.animHtml }" />
+      <p>Animations turn off automatically for people who enable "reduce motion" in their system.</p>
+    </section>
+
+    <section id="options">
+      <h2>All options</h2>
+      <div class="tabla">
+        <table>
+          <thead><tr><th>React / toSvg</th><th>Web component</th><th>Values</th><th>Default</th></tr></thead>
+          <tbody>
+            <tr><td><code>variant</code></td><td><code>variant</code></td><td>thin · light · regular · bold · solid · duotone</td><td>light</td></tr>
+            <tr><td><code>strokeWidth</code></td><td><code>stroke-width</code></td><td>any number (line variants)</td><td>from variant</td></tr>
+            <tr><td><code>size</code></td><td><code>size</code></td><td>number (px) or CSS size</td><td>24 · 1em</td></tr>
+            <tr><td><code>color</code></td><td><code>color</code></td><td>any CSS color</td><td>currentColor</td></tr>
+            <tr><td><code>title</code></td><td><code>label</code></td><td>accessible name</td><td>–</td></tr>
+            <tr><td><code>animate</code></td><td><code>animate</code></td><td>true · 'hover'</td><td>–</td></tr>
+            <tr><td><code>className</code></td><td><code>class</code></td><td>extra classes</td><td>–</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="accessibility">
+      <h2>Accessibility</h2>
+      <p>Without a title the icon is decorative and hidden from screen readers. Give it a title when it is the only content of a button or link.</p>
+      <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.a11y }" />
+    </section>
+
+    <section id="contributing">
+      <h2>Contributing</h2>
+      <p>New icons are welcome, drawn by hand or with AI. Every pull request is checked automatically and reviewed before it is merged.</p>
+      <ul class="enlaces">
+        <li><a href="https://github.com/kevvj/fontfine/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">How to contribute</a>: steps to add an icon and open a pull request.</li>
+        <li><a href="https://github.com/kevvj/fontfine/blob/main/AGENTS.md" target="_blank" rel="noopener">Style guide (AGENTS.md)</a>: exact rules; coding agents read it automatically.</li>
+        <li><a href="https://github.com/kevvj/fontfine/blob/main/docs/ai-prompt.md" target="_blank" rel="noopener">Prompt for chat AIs</a>: copy, paste and get the 3 files.</li>
+      </ul>
+    </section>
+  </article>
+</div>
+
+<ng-template #bloque let-texto>
+  <div class="codigo">
+    <pre><code>{{ texto }}</code></pre>
+    <button type="button" class="copiar" (click)="copiar(texto)" aria-label="Copy code" title="Copy">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></svg>
+    </button>
+  </div>
+</ng-template>

@@ -3,6 +3,11 @@
     <span class="logo" [innerHTML]="logo | svg: 'solid' : 22"></span>
     <strong>fontfine</strong>
   </div>
+  <nav class="menu" aria-label="Main">
+    <button type="button" [class.activa]="pagina() === 'icons'" (click)="verPagina('icons')">Icons</button>
+    <button type="button" [class.activa]="pagina() === 'docs'" (click)="verPagina('docs')">Docs</button>
+    <a href="https://github.com/kevvj/fontfine" target="_blank" rel="noopener">GitHub</a>
+  </nav>
   <div class="barra-derecha">
     <span class="contador">{{ iconos.length }} icons · 6 variants</span>
     <button class="boton-icono" type="button" (click)="alternarTema()"
@@ -17,6 +22,9 @@
   </div>
 </header>
 
+@if (pagina() === 'docs') {
+  <app-docs (avisar)="mostrarAviso($event)" />
+} @else {
 <section class="portada">
   <h1>Clean, thin line icons</h1>
   <p>Search, preview every variant and copy the SVG. Free and open source.</p>
@@ -112,6 +120,8 @@
 @if (seleccionado(); as s) {
   <app-detalle [icono]="s" [version]="version()" [grosor]="grosor()" [versionActiva]="versionActiva()" [movimiento]="movimiento()" (cerrar)="seleccionado.set(null)"
     (cambiarVersion)="elegirVersion($event)" (etiqueta)="buscarEtiqueta($event)" (avisar)="mostrarAviso($event)" />
+}
+
 }
 
 @if (aviso()) {

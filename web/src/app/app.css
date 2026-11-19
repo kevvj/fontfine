@@ -118,3 +118,9 @@ kbd {
 .cuerpo[data-anim=off] .ff-anim,
 .cuerpo[data-anim=hover] .tarjeta:not(:hover):not(:focus-visible) .ff-anim { animation: none; }
 .controles { flex-wrap: wrap; }
+
+.menu { display: flex; gap: 4px; margin-right: auto; margin-left: 28px; }
+.menu button, .menu a { border: 0; background: none; font: inherit; font-size: 14px; color: var(--texto-2); padding: 6px 10px; border-radius: 8px; cursor: pointer; text-decoration: none; }
+.menu button:hover, .menu a:hover { color: var(--texto); background: var(--suave-fondo); }
+.menu .activa { color: var(--texto); font-weight: 600; }
+@media (max-width: 600px) { .menu { margin-left: 8px; } .menu a { display: none; } }

@@ -3,12 +3,13 @@ import { ICONOS } from './datos/iconos.generado';
 import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, VERSIONES, Version, esRelleno, normalizar } from './datos/tipos';
 import { SvgPipe } from './svg.pipe';
 import { Detalle } from './detalle/detalle';
+import { Docs } from './docs/docs';
 
 const TODAS = 'All';
 
 @Component({
   selector: 'app-root',
-  imports: [SvgPipe, Detalle],
+  imports: [SvgPipe, Detalle, Docs],
   templateUrl: './app.html',
   styleUrl: './app.css',
 })
@@ -33,6 +34,8 @@ export class App {
   protected readonly tema = signal<'claro' | 'oscuro'>('claro');
   protected readonly seleccionado = signal<Icono | null>(null);
   protected readonly aviso = signal<string | null>(null);
+  /** Página visible: buscador de íconos o documentación. */
+  protected readonly pagina = signal<'icons' | 'docs'>('icons');
   /** Animaciones: apagadas, al pasar el mouse o siempre. */
   protected readonly movimiento = signal<Movimiento>("hover");
   protected readonly movimientos: { id: Movimiento; nombre: string }[] = [
@@ -76,6 +79,7 @@ export class App {
     // Estado inicial desde la URL (para compartir enlaces) y preferencia de tema.
     const p = new URLSearchParams(location.search);
     this.busqueda.set(p.get('q') ?? '');
+    if (p.get('page') === 'docs') this.pagina.set('docs');
     const v = p.get('version') as Version | null;
     if (v && VERSIONES.some((x) => x.id === v)) this.elegirVersion(v);
     const g = Number(p.get('grosor'));
@@ -92,6 +96,7 @@ export class App {
 
     effect(() => {
       const q = new URLSearchParams();
+      if (this.pagina() === 'docs') { history.replaceState(null, '', '?page=docs'); return; }
       if (this.busqueda()) q.set('q', this.busqueda());
       if (this.categoria() !== TODAS) q.set('categoria', this.categoria());
       const va = this.versionActiva();
@@ -118,6 +123,12 @@ export class App {
   protected cambiarGrosor(g: number): void {
     this.grosor.set(g);
     if (esRelleno(this.version())) this.version.set('light');
+  }
+
+  protected verPagina(p: 'icons' | 'docs'): void {
+    this.pagina.set(p);
+    this.seleccionado.set(null);
+    scrollTo({ top: 0 });
   }
 
   protected alternarTema(): void {
