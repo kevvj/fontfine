@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 581 / 3779**
+**Progress: 626 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1635,11 +1635,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] 00
 - [ ] 360-degrees
 
-## Extended: A (52/127)
+## Extended: A (62/127)
 
 - [ ] abacus
 - [ ] accent-grave
-- [ ] acorn
+- [x] acorn
 - [ ] aeropress
 - [ ] air-conditioner
 - [ ] airplay
@@ -1655,7 +1655,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] album-collection-circle-plus
 - [ ] album-collection-circle-user
 - [ ] alicorn
-- [ ] alien
+- [x] alien
 - [ ] alien-8bit
 - [ ] align-slash
 - [ ] almost-equal-to
@@ -1690,7 +1690,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] arrow-down-to-line
 - [ ] arrow-down-to-square
 - [ ] arrow-down-triangle-square
-- [ ] arrow-left-arrow-right
+- [x] arrow-left-arrow-right
 - [x] arrow-left-from-arc
 - [x] arrow-left-from-bracket
 - [x] arrow-left-from-dotted-line
@@ -1746,28 +1746,28 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] arrow-up-to-dotted-line
 - [x] arrow-up-to-line
 - [ ] arrow-up-triangle-square
-- [ ] arrows-cross
-- [ ] arrows-from-dotted-line
-- [ ] arrows-from-line
+- [x] arrows-cross
+- [x] arrows-from-dotted-line
+- [x] arrows-from-line
 - [x] arrows-maximize
 - [x] arrows-minimize
 - [ ] arrows-repeat
 - [ ] arrows-repeat-1
-- [ ] arrows-retweet
+- [x] arrows-retweet
 - [ ] arrows-rotate-reverse
-- [ ] arrows-to-dotted-line
-- [ ] arrows-to-line
+- [x] arrows-to-dotted-line
+- [x] arrows-to-line
 - [ ] atom-simple
 - [ ] audio-description-slash
 - [ ] australian-dollar-sign
-- [ ] avocado
+- [x] avocado
 - [ ] award-simple
 - [ ] axe
 - [ ] axe-battle
 
-## Extended: B (44/187)
+## Extended: B (67/187)
 
-- [ ] backpack
+- [x] backpack
 - [x] badge
 - [x] badge-check
 - [x] badge-dollar
@@ -1783,13 +1783,13 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] baguette
 - [ ] ball-pile
 - [ ] ball-yarn
-- [ ] balloon
-- [ ] balloons
-- [ ] ballot
-- [ ] ballot-check
+- [x] balloon
+- [x] balloons
+- [x] ballot
+- [x] ballot-check
 - [ ] ban-bug
 - [ ] ban-parking
-- [ ] banana
+- [x] banana
 - [ ] banjo
 - [ ] bar-progress
 - [x] bar-progress-empty
@@ -1798,7 +1798,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] bar-progress-quarter
 - [x] bar-progress-three-quarters
 - [ ] barcode-read
-- [ ] barcode-scan
+- [x] barcode-scan
 - [ ] barn
 - [x] bars-filter
 - [x] bars-sort
@@ -1813,10 +1813,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] battery-low
 - [x] battery-slash
 - [ ] bed-bunk
-- [ ] bed-empty
+- [x] bed-empty
 - [ ] bed-front
 - [ ] bee
-- [ ] beer-mug
+- [x] beer-mug
 - [x] bell-exclamation
 - [ ] bell-on
 - [x] bell-plus
@@ -1826,12 +1826,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] bells
 - [ ] bench-tree
 - [ ] bicep
-- [ ] billboard
+- [x] billboard
 - [ ] bin
 - [ ] bin-bottles
 - [ ] bin-bottles-recycle
 - [ ] bin-recycle
-- [ ] binary
+- [x] binary
 - [ ] binary-circle-check
 - [ ] binary-lock
 - [ ] binary-slash
@@ -1852,7 +1852,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] bone-break
 - [ ] book-arrow-right
 - [ ] book-arrow-up
-- [ ] book-blank
+- [x] book-blank
 - [ ] book-circle-arrow-right
 - [ ] book-circle-arrow-up
 - [ ] book-copy
@@ -1866,10 +1866,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] book-user
 - [x] bookmark-plus
 - [x] bookmark-slash
-- [ ] books
+- [x] books
 - [ ] books-medical
 - [ ] boombox
-- [ ] boot
+- [x] boot
 - [ ] boot-heeled
 - [ ] booth-curtain
 - [x] border-bottom
@@ -1881,12 +1881,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] border-outer
 - [x] border-right
 - [x] border-top
-- [ ] bottle-baby
+- [x] bottle-baby
 - [ ] bow-archery
 - [ ] bow-arrow
 - [ ] bowl-chopsticks
 - [ ] bowl-chopsticks-noodles
-- [ ] bowl-hot
+- [x] bowl-hot
 - [ ] bowl-scoop
 - [ ] bowl-scoops
 - [ ] bowl-soft-serve
@@ -1921,23 +1921,23 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] brain-arrow-curved-right
 - [ ] brain-circuit
 - [ ] brake-warning
-- [ ] bread-loaf
+- [x] bread-loaf
 - [ ] bread-slice-butter
 - [ ] bridge-suspension
 - [ ] briefcase-arrow-right
-- [ ] briefcase-blank
+- [x] briefcase-blank
 - [ ] briefs
-- [ ] brightness
-- [ ] brightness-low
+- [x] brightness
+- [x] brightness-low
 - [ ] bring-forward
 - [ ] bring-front
-- [ ] broccoli
+- [x] broccoli
 - [ ] broom-wide
 - [x] browser
 - [x] browsers
 - [ ] building-magnifying-glass
 - [ ] building-memo
-- [ ] buildings
+- [x] buildings
 - [ ] bulldozer
 - [ ] bullseye-arrow
 - [ ] bullseye-pointer
@@ -1953,16 +1953,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] bus-school
 - [ ] bus-stop
 - [ ] butter
-- [ ] butterfly
+- [x] butterfly
 
-## Extended: C (135/423)
+## Extended: C (147/423)
 
-- [ ] cabin
-- [ ] cabinet-filing
-- [ ] cactus
+- [x] cabin
+- [x] cabinet-filing
+- [x] cactus
 - [ ] caduceus
-- [ ] cake-slice
-- [ ] calculator-simple
+- [x] cake-slice
+- [x] calculator-simple
 - [ ] calendar-arrow-down
 - [ ] calendar-arrow-up
 - [ ] calendar-circle-exclamation
@@ -1973,34 +1973,34 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] calendar-exclamation
 - [x] calendar-heart
 - [ ] calendar-image
-- [ ] calendar-lines
+- [x] calendar-lines
 - [ ] calendar-lines-pen
 - [x] calendar-pen
-- [ ] calendar-range
+- [x] calendar-range
 - [x] calendar-star
 - [ ] calendar-users
 - [ ] calendars
-- [ ] camcorder
+- [x] camcorder
 - [ ] camera-cctv
 - [ ] camera-circle-ellipsis
 - [ ] camera-clock
 - [ ] camera-movie
-- [ ] camera-polaroid
+- [x] camera-polaroid
 - [ ] camera-security
 - [ ] camera-shutter
 - [x] camera-slash
 - [ ] camera-viewfinder
 - [ ] camera-web
 - [ ] camera-web-slash
-- [ ] campfire
+- [x] campfire
 - [ ] can-food
 - [ ] candle-holder
-- [ ] candy
+- [x] candy
 - [ ] candy-bar
 - [ ] candy-corn
 - [ ] cannon
 - [ ] canoe-person
-- [ ] capsule
+- [x] capsule
 - [ ] car-bolt
 - [ ] car-building
 - [ ] car-bump

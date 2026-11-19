@@ -1,4 +1,27 @@
 {
+  "acorn": {
+    "category": "Nature",
+    "tags": [
+      "acorn",
+      "nut",
+      "oak",
+      "autumn",
+      "seed",
+      "bellota"
+    ],
+    "animation": "rock",
+    "origin": "50% 10%"
+  },
+  "alien": {
+    "category": "People",
+    "tags": [
+      "alien",
+      "ufo",
+      "space",
+      "extraterrestrial"
+    ],
+    "animation": "wobble"
+  },
   "align-center": {
     "category": "Interface",
     "tags": [
@@ -225,6 +248,18 @@
       "regresar"
     ],
     "animation": "nudge-left"
+  },
+  "arrow-left-arrow-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "right",
+      "swap",
+      "exchange",
+      "transfer"
+    ],
+    "animation": "slide"
   },
   "arrow-left-from-arc": {
     "category": "Arrows",
@@ -769,6 +804,40 @@
     ],
     "animation": "nudge-up"
   },
+  "arrows-cross": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "cross",
+      "shuffle",
+      "random",
+      "swap"
+    ],
+    "animation": "pulse"
+  },
+  "arrows-from-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "from",
+      "dotted",
+      "line",
+      "expand",
+      "split"
+    ],
+    "animation": "pulse"
+  },
+  "arrows-from-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "from",
+      "line",
+      "expand",
+      "split"
+    ],
+    "animation": "pulse"
+  },
   "arrows-left-right": {
     "category": "Arrows",
     "tags": [
@@ -804,6 +873,41 @@
     ],
     "animation": "squash"
   },
+  "arrows-retweet": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "retweet",
+      "share",
+      "repost",
+      "repeat"
+    ],
+    "animation": "spin"
+  },
+  "arrows-to-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "to",
+      "dotted",
+      "line",
+      "collapse",
+      "merge"
+    ],
+    "animation": "squash"
+  },
+  "arrows-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "to",
+      "line",
+      "collapse",
+      "merge",
+      "center"
+    ],
+    "animation": "squash"
+  },
   "arrows-up-down": {
     "category": "Arrows",
     "tags": [
@@ -830,6 +934,28 @@
       "volumen"
     ],
     "animation": "slide"
+  },
+  "avocado": {
+    "category": "Nature",
+    "tags": [
+      "avocado",
+      "fruit",
+      "food",
+      "healthy",
+      "aguacate"
+    ],
+    "animation": "rock"
+  },
+  "backpack": {
+    "category": "Objects",
+    "tags": [
+      "backpack",
+      "bag",
+      "school",
+      "travel",
+      "mochila"
+    ],
+    "animation": "bounce"
   },
   "backward": {
     "category": "Media",
@@ -888,6 +1014,50 @@
     ],
     "animation": "spin-slow"
   },
+  "balloon": {
+    "category": "Objects",
+    "tags": [
+      "balloon",
+      "party",
+      "birthday",
+      "celebration",
+      "globo"
+    ],
+    "animation": "float"
+  },
+  "balloons": {
+    "category": "Objects",
+    "tags": [
+      "balloons",
+      "party",
+      "birthday",
+      "celebration",
+      "globos"
+    ],
+    "animation": "float"
+  },
+  "ballot": {
+    "category": "Objects",
+    "tags": [
+      "ballot",
+      "list",
+      "form",
+      "vote",
+      "options"
+    ],
+    "animation": "pop"
+  },
+  "ballot-check": {
+    "category": "Objects",
+    "tags": [
+      "ballot",
+      "check",
+      "vote",
+      "list",
+      "done"
+    ],
+    "animation": "pop"
+  },
   "ban": {
     "category": "Actions",
     "tags": [
@@ -902,6 +1072,16 @@
       "permitido"
     ],
     "animation": "shake"
+  },
+  "banana": {
+    "category": "Nature",
+    "tags": [
+      "banana",
+      "fruit",
+      "food",
+      "platano"
+    ],
+    "animation": "rock"
   },
   "bank": {
     "category": "Places",
@@ -972,6 +1152,18 @@
       "loading",
       "status",
       "percent"
+    ],
+    "animation": "pulse"
+  },
+  "barcode-scan": {
+    "category": "Technology",
+    "tags": [
+      "barcode",
+      "scan",
+      "scanner",
+      "product",
+      "price",
+      "codigo"
     ],
     "animation": "pulse"
   },
@@ -1082,6 +1274,29 @@
     ],
     "animation": "shake"
   },
+  "bed-empty": {
+    "category": "Objects",
+    "tags": [
+      "bed",
+      "empty",
+      "sleep",
+      "hotel",
+      "room",
+      "cama"
+    ],
+    "animation": "bounce"
+  },
+  "beer-mug": {
+    "category": "Objects",
+    "tags": [
+      "beer",
+      "mug",
+      "drink",
+      "bar",
+      "cerveza"
+    ],
+    "animation": "wiggle"
+  },
   "bell": {
     "category": "Interface",
     "tags": [
@@ -1175,6 +1390,29 @@
     ],
     "animation": "flip"
   },
+  "billboard": {
+    "category": "Places",
+    "tags": [
+      "billboard",
+      "sign",
+      "advertising",
+      "cartel"
+    ],
+    "animation": "bounce"
+  },
+  "binary": {
+    "category": "Technology",
+    "tags": [
+      "binary",
+      "code",
+      "bits",
+      "data",
+      "zeros",
+      "ones",
+      "binario"
+    ],
+    "animation": "flash"
+  },
   "block-quote": {
     "category": "Interface",
     "tags": [
@@ -1224,6 +1462,18 @@
     ],
     "animation": "shake"
   },
+  "book-blank": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "blank",
+      "closed",
+      "read",
+      "cuaderno",
+      "libro"
+    ],
+    "animation": "flip"
+  },
   "bookmark": {
     "category": "Interface",
     "tags": [
@@ -1261,6 +1511,27 @@
       "guardar"
     ],
     "animation": "shake"
+  },
+  "books": {
+    "category": "Objects",
+    "tags": [
+      "books",
+      "library",
+      "shelf",
+      "reading",
+      "libros"
+    ],
+    "animation": "bounce"
+  },
+  "boot": {
+    "category": "Objects",
+    "tags": [
+      "boot",
+      "shoe",
+      "footwear",
+      "bota"
+    ],
+    "animation": "bounce"
   },
   "border-bottom": {
     "category": "Interface",
@@ -1363,6 +1634,29 @@
       "format"
     ],
     "animation": "pop"
+  },
+  "bottle-baby": {
+    "category": "Objects",
+    "tags": [
+      "baby",
+      "bottle",
+      "milk",
+      "infant",
+      "biberon"
+    ],
+    "animation": "wiggle"
+  },
+  "bowl-hot": {
+    "category": "Objects",
+    "tags": [
+      "bowl",
+      "hot",
+      "soup",
+      "food",
+      "meal",
+      "sopa"
+    ],
+    "animation": "float"
   },
   "box": {
     "category": "Objects",
@@ -1513,6 +1807,61 @@
     ],
     "animation": "squash"
   },
+  "bread-loaf": {
+    "category": "Objects",
+    "tags": [
+      "bread",
+      "loaf",
+      "bakery",
+      "food",
+      "pan"
+    ],
+    "animation": "bounce"
+  },
+  "briefcase-blank": {
+    "category": "Objects",
+    "tags": [
+      "briefcase",
+      "work",
+      "business",
+      "bag",
+      "maletin"
+    ],
+    "animation": "bounce"
+  },
+  "brightness": {
+    "category": "Interface",
+    "tags": [
+      "brightness",
+      "screen",
+      "light",
+      "display",
+      "brillo"
+    ],
+    "animation": "spin-slow"
+  },
+  "brightness-low": {
+    "category": "Interface",
+    "tags": [
+      "brightness",
+      "low",
+      "dim",
+      "screen",
+      "light"
+    ],
+    "animation": "spin-slow"
+  },
+  "broccoli": {
+    "category": "Nature",
+    "tags": [
+      "broccoli",
+      "vegetable",
+      "food",
+      "healthy",
+      "brocoli"
+    ],
+    "animation": "bounce"
+  },
   "browser": {
     "category": "Technology",
     "tags": [
@@ -1576,6 +1925,74 @@
     ],
     "animation": "bounce"
   },
+  "buildings": {
+    "category": "Places",
+    "tags": [
+      "buildings",
+      "city",
+      "office",
+      "company",
+      "edificios"
+    ],
+    "animation": "bounce"
+  },
+  "butterfly": {
+    "category": "Nature",
+    "tags": [
+      "butterfly",
+      "insect",
+      "nature",
+      "spring",
+      "mariposa"
+    ],
+    "animation": "flicker"
+  },
+  "cabin": {
+    "category": "Places",
+    "tags": [
+      "cabin",
+      "house",
+      "wood",
+      "cottage",
+      "cabana"
+    ],
+    "animation": "bounce"
+  },
+  "cabinet-filing": {
+    "category": "Objects",
+    "tags": [
+      "cabinet",
+      "filing",
+      "drawers",
+      "archive",
+      "office",
+      "archivador"
+    ],
+    "animation": "bounce"
+  },
+  "cactus": {
+    "category": "Nature",
+    "tags": [
+      "cactus",
+      "desert",
+      "plant",
+      "succulent"
+    ],
+    "animation": "rock",
+    "origin": "50% 100%"
+  },
+  "cake-slice": {
+    "category": "Objects",
+    "tags": [
+      "cake",
+      "slice",
+      "dessert",
+      "birthday",
+      "piece",
+      "pastel"
+    ],
+    "animation": "bounce"
+  },
   "calculator": {
     "category": "Objects",
     "tags": [
@@ -1583,6 +2000,17 @@
       "math",
       "numbers",
       "accounting",
+      "calculadora"
+    ],
+    "animation": "pop"
+  },
+  "calculator-simple": {
+    "category": "Objects",
+    "tags": [
+      "calculator",
+      "simple",
+      "math",
+      "operations",
       "calculadora"
     ],
     "animation": "pop"
@@ -1655,6 +2083,17 @@
     ],
     "animation": "flip"
   },
+  "calendar-lines": {
+    "category": "Interface",
+    "tags": [
+      "calendar",
+      "lines",
+      "agenda",
+      "notes",
+      "schedule"
+    ],
+    "animation": "flip"
+  },
   "calendar-minus": {
     "category": "Objects",
     "tags": [
@@ -1695,6 +2134,18 @@
     ],
     "animation": "flip"
   },
+  "calendar-range": {
+    "category": "Interface",
+    "tags": [
+      "calendar",
+      "range",
+      "dates",
+      "period",
+      "from",
+      "to"
+    ],
+    "animation": "flip"
+  },
   "calendar-star": {
     "category": "Objects",
     "tags": [
@@ -1723,6 +2174,17 @@
     ],
     "animation": "flip"
   },
+  "camcorder": {
+    "category": "Media",
+    "tags": [
+      "camcorder",
+      "video",
+      "camera",
+      "record",
+      "filmadora"
+    ],
+    "animation": "pulse"
+  },
   "camera": {
     "category": "Media",
     "tags": [
@@ -1731,6 +2193,17 @@
       "picture",
       "camara",
       "foto"
+    ],
+    "animation": "flash"
+  },
+  "camera-polaroid": {
+    "category": "Media",
+    "tags": [
+      "camera",
+      "polaroid",
+      "instant",
+      "photo",
+      "picture"
     ],
     "animation": "flash"
   },
@@ -1749,6 +2222,18 @@
     ],
     "animation": "shake"
   },
+  "campfire": {
+    "category": "Nature",
+    "tags": [
+      "campfire",
+      "fire",
+      "camping",
+      "logs",
+      "fogata"
+    ],
+    "animation": "flicker",
+    "origin": "50% 100%"
+  },
   "candle": {
     "category": "Religion",
     "tags": [
@@ -1764,6 +2249,27 @@
     ],
     "animation": "flicker",
     "origin": "50% 100%"
+  },
+  "candy": {
+    "category": "Objects",
+    "tags": [
+      "candy",
+      "sweet",
+      "wrapped",
+      "dulce"
+    ],
+    "animation": "wiggle"
+  },
+  "capsule": {
+    "category": "Health",
+    "tags": [
+      "capsule",
+      "pill",
+      "medicine",
+      "drug",
+      "capsula"
+    ],
+    "animation": "rock"
   },
   "car": {
     "category": "Objects",
