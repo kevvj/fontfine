@@ -84,6 +84,46 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-from-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "from",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-from-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "from",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-from-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "from",
+      "dotted",
+      "line",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-down-from-line": {
     "category": "Arrows",
     "tags": [
@@ -118,6 +158,46 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-to-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "to",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-to-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "to",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-to-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "to",
+      "dotted",
+      "line",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-down-to-line": {
     "category": "Arrows",
     "tags": [
@@ -146,6 +226,46 @@
     ],
     "animation": "nudge-left"
   },
+  "arrow-left-from-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "from",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-left-from-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "from",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-left-from-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "from",
+      "dotted",
+      "line",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
   "arrow-left-from-line": {
     "category": "Arrows",
     "tags": [
@@ -155,6 +275,46 @@
       "line",
       "download",
       "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-left-to-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "to",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-left-to-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "to",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-left-to-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "to",
+      "dotted",
+      "line",
+      "move",
       "export",
       "import"
     ],
@@ -184,6 +344,46 @@
     ],
     "animation": "nudge-right"
   },
+  "arrow-right-from-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "from",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-from-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "from",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-from-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "from",
+      "dotted",
+      "line",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-right"
+  },
   "arrow-right-from-line": {
     "category": "Arrows",
     "tags": [
@@ -193,6 +393,46 @@
       "line",
       "download",
       "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-to-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "to",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-to-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "to",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-to-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "to",
+      "dotted",
+      "line",
+      "move",
       "export",
       "import"
     ],
@@ -212,6 +452,29 @@
     ],
     "animation": "nudge-right"
   },
+  "arrow-turn-down-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "turn",
+      "down",
+      "left",
+      "return",
+      "enter"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-turn-down-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "turn",
+      "down",
+      "right",
+      "forward"
+    ],
+    "animation": "nudge-right"
+  },
   "arrow-turn-left": {
     "category": "Arrows",
     "tags": [
@@ -222,6 +485,26 @@
     ],
     "animation": "nudge-left"
   },
+  "arrow-turn-left-down": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "turn",
+      "left",
+      "down"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-turn-left-up": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "turn",
+      "left",
+      "up"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-turn-right": {
     "category": "Arrows",
     "tags": [
@@ -229,6 +512,110 @@
       "turn",
       "right",
       "diagonal"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-u-turn-down-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "down",
+      "left",
+      "back",
+      "return"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-u-turn-down-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "down",
+      "right",
+      "back",
+      "return"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-u-turn-left-down": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "left",
+      "down",
+      "back",
+      "return"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-u-turn-left-up": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "left",
+      "up",
+      "back",
+      "return"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-u-turn-right-down": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "right",
+      "down",
+      "back",
+      "return"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-u-turn-right-up": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "right",
+      "up",
+      "back",
+      "return"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-u-turn-up-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "up",
+      "left",
+      "back",
+      "return"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-u-turn-up-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "u",
+      "turn",
+      "up",
+      "right",
+      "back",
+      "return"
     ],
     "animation": "nudge-right"
   },
@@ -251,6 +638,46 @@
       "sort",
       "swap",
       "order"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-from-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "from",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-from-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "from",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-from-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "from",
+      "dotted",
+      "line",
+      "move",
+      "export",
+      "import"
     ],
     "animation": "nudge-up"
   },
@@ -287,6 +714,46 @@
       "diagonal"
     ],
     "animation": "nudge-diag"
+  },
+  "arrow-up-to-arc": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "to",
+      "arc",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-to-bracket": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "to",
+      "bracket",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-to-dotted-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "to",
+      "dotted",
+      "line",
+      "move",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-up"
   },
   "arrow-up-to-line": {
     "category": "Arrows",
@@ -1458,6 +1925,20 @@
     ],
     "animation": "pulse"
   },
+  "chart-bullet": {
+    "category": "Interface",
+    "tags": [
+      "bullet",
+      "progress",
+      "target",
+      "goal",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
   "chart-candlestick": {
     "category": "Interface",
     "tags": [
@@ -1467,6 +1948,35 @@
       "market",
       "trading",
       "finance"
+    ],
+    "animation": "pulse"
+  },
+  "chart-fft": {
+    "category": "Interface",
+    "tags": [
+      "fft",
+      "frequency",
+      "spectrum",
+      "audio",
+      "bars",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
+  "chart-kanban": {
+    "category": "Interface",
+    "tags": [
+      "kanban",
+      "board",
+      "columns",
+      "tasks",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
     ],
     "animation": "pulse"
   },
@@ -1508,6 +2018,33 @@
     ],
     "animation": "nudge-diag"
   },
+  "chart-mixed": {
+    "category": "Interface",
+    "tags": [
+      "mixed",
+      "bars",
+      "line",
+      "combo",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
+  "chart-network": {
+    "category": "Interface",
+    "tags": [
+      "network",
+      "nodes",
+      "graph",
+      "connections",
+      "chart",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
   "chart-pie": {
     "category": "Interface",
     "tags": [
@@ -1519,6 +2056,45 @@
       "torta"
     ],
     "animation": "spin-slow"
+  },
+  "chart-pie-simple": {
+    "category": "Interface",
+    "tags": [
+      "pie",
+      "simple",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "spin-slow"
+  },
+  "chart-pyramid": {
+    "category": "Interface",
+    "tags": [
+      "pyramid",
+      "levels",
+      "hierarchy",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
+  "chart-radar": {
+    "category": "Interface",
+    "tags": [
+      "radar",
+      "spider",
+      "web",
+      "skills",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
   },
   "chart-scatter": {
     "category": "Interface",
@@ -1532,6 +2108,19 @@
     ],
     "animation": "pulse"
   },
+  "chart-scatter-bubble": {
+    "category": "Interface",
+    "tags": [
+      "scatter",
+      "bubble",
+      "plot",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
   "chart-simple-horizontal": {
     "category": "Interface",
     "tags": [
@@ -1540,6 +2129,47 @@
       "horizontal",
       "graph",
       "statistics"
+    ],
+    "animation": "pulse"
+  },
+  "chart-sine": {
+    "category": "Interface",
+    "tags": [
+      "sine",
+      "wave",
+      "signal",
+      "frequency",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "slide"
+  },
+  "chart-tree-map": {
+    "category": "Interface",
+    "tags": [
+      "tree",
+      "map",
+      "blocks",
+      "areas",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pop"
+  },
+  "chart-waterfall": {
+    "category": "Interface",
+    "tags": [
+      "waterfall",
+      "bars",
+      "finance",
+      "chart",
+      "graph",
+      "statistics",
+      "data"
     ],
     "animation": "pulse"
   },

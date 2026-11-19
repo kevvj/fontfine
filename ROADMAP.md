@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 533 / 3779**
+**Progress: 581 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -120,7 +120,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] spider
 - [ ] worm
 
-## Arrows (23/119)
+## Arrows (26/119)
 
 - [ ] angle-down
 - [ ] angle-left
@@ -145,9 +145,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-pointer
 - [x] arrow-right
 - [ ] arrow-right-arrow-left
-- [ ] arrow-right-from-bracket
+- [x] arrow-right-from-bracket
 - [ ] arrow-right-long
-- [ ] arrow-right-to-bracket
+- [x] arrow-right-to-bracket
 - [ ] arrow-rotate-left
 - [ ] arrow-rotate-right
 - [ ] arrow-trend-down
@@ -158,7 +158,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-up-1-9
 - [ ] arrow-up-9-1
 - [ ] arrow-up-a-z
-- [ ] arrow-up-from-bracket
+- [x] arrow-up-from-bracket
 - [ ] arrow-up-long
 - [ ] arrow-up-right-dots
 - [ ] arrow-up-right-from-square
@@ -1635,7 +1635,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] 00
 - [ ] 360-degrees
 
-## Extended: A (19/127)
+## Extended: A (52/127)
 
 - [ ] abacus
 - [ ] accent-grave
@@ -1674,9 +1674,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-archery
 - [x] arrow-down-arrow-up
 - [ ] arrow-down-big-small
-- [ ] arrow-down-from-arc
-- [ ] arrow-down-from-bracket
-- [ ] arrow-down-from-dotted-line
+- [x] arrow-down-from-arc
+- [x] arrow-down-from-bracket
+- [x] arrow-down-from-dotted-line
 - [x] arrow-down-from-line
 - [x] arrow-down-left
 - [ ] arrow-down-left-and-arrow-up-right-to-center
@@ -1684,29 +1684,29 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] arrow-down-right
 - [ ] arrow-down-small-big
 - [ ] arrow-down-square-triangle
-- [ ] arrow-down-to-arc
-- [ ] arrow-down-to-bracket
-- [ ] arrow-down-to-dotted-line
+- [x] arrow-down-to-arc
+- [x] arrow-down-to-bracket
+- [x] arrow-down-to-dotted-line
 - [x] arrow-down-to-line
 - [ ] arrow-down-to-square
 - [ ] arrow-down-triangle-square
 - [ ] arrow-left-arrow-right
-- [ ] arrow-left-from-arc
-- [ ] arrow-left-from-bracket
-- [ ] arrow-left-from-dotted-line
+- [x] arrow-left-from-arc
+- [x] arrow-left-from-bracket
+- [x] arrow-left-from-dotted-line
 - [x] arrow-left-from-line
 - [ ] arrow-left-long-to-line
-- [ ] arrow-left-to-arc
-- [ ] arrow-left-to-bracket
-- [ ] arrow-left-to-dotted-line
+- [x] arrow-left-to-arc
+- [x] arrow-left-to-bracket
+- [x] arrow-left-to-dotted-line
 - [x] arrow-left-to-line
 - [ ] arrow-progress
-- [ ] arrow-right-from-arc
-- [ ] arrow-right-from-dotted-line
+- [x] arrow-right-from-arc
+- [x] arrow-right-from-dotted-line
 - [x] arrow-right-from-line
 - [ ] arrow-right-long-to-line
-- [ ] arrow-right-to-arc
-- [ ] arrow-right-to-dotted-line
+- [x] arrow-right-to-arc
+- [x] arrow-right-to-dotted-line
 - [x] arrow-right-to-line
 - [ ] arrow-rotate-left-10
 - [ ] arrow-rotate-left-15
@@ -1714,24 +1714,24 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-rotate-right-10
 - [ ] arrow-rotate-right-15
 - [ ] arrow-rotate-right-30
-- [ ] arrow-turn-down-left
-- [ ] arrow-turn-down-right
+- [x] arrow-turn-down-left
+- [x] arrow-turn-down-right
 - [x] arrow-turn-left
-- [ ] arrow-turn-left-down
-- [ ] arrow-turn-left-up
+- [x] arrow-turn-left-down
+- [x] arrow-turn-left-up
 - [x] arrow-turn-right
-- [ ] arrow-u-turn-down-left
-- [ ] arrow-u-turn-down-right
-- [ ] arrow-u-turn-left-down
-- [ ] arrow-u-turn-left-up
-- [ ] arrow-u-turn-right-down
-- [ ] arrow-u-turn-right-up
-- [ ] arrow-u-turn-up-left
-- [ ] arrow-u-turn-up-right
+- [x] arrow-u-turn-down-left
+- [x] arrow-u-turn-down-right
+- [x] arrow-u-turn-left-down
+- [x] arrow-u-turn-left-up
+- [x] arrow-u-turn-right-down
+- [x] arrow-u-turn-right-up
+- [x] arrow-u-turn-up-left
+- [x] arrow-u-turn-up-right
 - [x] arrow-up-arrow-down
 - [ ] arrow-up-big-small
-- [ ] arrow-up-from-arc
-- [ ] arrow-up-from-dotted-line
+- [x] arrow-up-from-arc
+- [x] arrow-up-from-dotted-line
 - [x] arrow-up-from-line
 - [ ] arrow-up-from-square
 - [x] arrow-up-left
@@ -1741,9 +1741,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-up-right-and-arrow-down-left-from-center
 - [ ] arrow-up-small-big
 - [ ] arrow-up-square-triangle
-- [ ] arrow-up-to-arc
-- [ ] arrow-up-to-bracket
-- [ ] arrow-up-to-dotted-line
+- [x] arrow-up-to-arc
+- [x] arrow-up-to-bracket
+- [x] arrow-up-to-dotted-line
 - [x] arrow-up-to-line
 - [ ] arrow-up-triangle-square
 - [ ] arrows-cross
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] butter
 - [ ] butterfly
 
-## Extended: C (123/423)
+## Extended: C (135/423)
 
 - [ ] cabin
 - [ ] cabinet-filing
@@ -2048,30 +2048,30 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] cauldron
 - [ ] chair-office
 - [ ] champagne-glass
-- [ ] chart-bullet
+- [x] chart-bullet
 - [x] chart-candlestick
-- [ ] chart-fft
-- [ ] chart-kanban
+- [x] chart-fft
+- [x] chart-kanban
 - [x] chart-line-down
 - [x] chart-line-up
 - [ ] chart-line-up-down
-- [ ] chart-mixed
+- [x] chart-mixed
 - [ ] chart-mixed-up-circle-currency
 - [ ] chart-mixed-up-circle-dollar
-- [ ] chart-network
-- [ ] chart-pie-simple
+- [x] chart-network
+- [x] chart-pie-simple
 - [ ] chart-pie-simple-circle-currency
 - [ ] chart-pie-simple-circle-dollar
-- [ ] chart-pyramid
-- [ ] chart-radar
+- [x] chart-pyramid
+- [x] chart-radar
 - [x] chart-scatter
 - [ ] chart-scatter-3d
-- [ ] chart-scatter-bubble
+- [x] chart-scatter-bubble
 - [x] chart-simple-horizontal
-- [ ] chart-sine
-- [ ] chart-tree-map
+- [x] chart-sine
+- [x] chart-tree-map
 - [ ] chart-user
-- [ ] chart-waterfall
+- [x] chart-waterfall
 - [ ] cheese-swiss
 - [ ] chemex
 - [ ] cherries
