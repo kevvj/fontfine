@@ -60,6 +60,20 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-from-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "from",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-down-left": {
     "category": "Arrows",
     "tags": [
@@ -80,6 +94,20 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "to",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-left": {
     "category": "Arrows",
     "tags": [
@@ -94,6 +122,34 @@
     ],
     "animation": "nudge-left"
   },
+  "arrow-left-from-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "from",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
+  "arrow-left-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "to",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-left"
+  },
   "arrow-right": {
     "category": "Arrows",
     "tags": [
@@ -101,6 +157,34 @@
       "right",
       "next",
       "forward"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-from-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "from",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "to",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
     ],
     "animation": "nudge-right"
   },
@@ -134,6 +218,20 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-from-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "from",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-up-left": {
     "category": "Arrows",
     "tags": [
@@ -153,6 +251,20 @@
       "diagonal"
     ],
     "animation": "nudge-diag"
+  },
+  "arrow-up-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "to",
+      "line",
+      "download",
+      "upload",
+      "export",
+      "import"
+    ],
+    "animation": "nudge-up"
   },
   "arrows-left-right": {
     "category": "Arrows",
@@ -203,6 +315,53 @@
     ],
     "animation": "nudge-left"
   },
+  "badge": {
+    "category": "Status",
+    "tags": [
+      "badge",
+      "seal",
+      "certificate",
+      "verified",
+      "award"
+    ],
+    "animation": "spin-slow"
+  },
+  "badge-check": {
+    "category": "Status",
+    "tags": [
+      "badge",
+      "seal",
+      "certificate",
+      "verified",
+      "award",
+      "check"
+    ],
+    "animation": "pop"
+  },
+  "badge-dollar": {
+    "category": "Status",
+    "tags": [
+      "badge",
+      "seal",
+      "certificate",
+      "verified",
+      "award",
+      "dollar"
+    ],
+    "animation": "spin-slow"
+  },
+  "badge-percent": {
+    "category": "Status",
+    "tags": [
+      "badge",
+      "seal",
+      "certificate",
+      "verified",
+      "award",
+      "percent"
+    ],
+    "animation": "spin-slow"
+  },
   "ban": {
     "category": "Actions",
     "tags": [
@@ -229,6 +388,66 @@
       "banco"
     ],
     "animation": "bounce"
+  },
+  "bar-progress-empty": {
+    "category": "Interface",
+    "tags": [
+      "progress",
+      "bar",
+      "empty",
+      "loading",
+      "status",
+      "percent"
+    ],
+    "animation": "pulse"
+  },
+  "bar-progress-full": {
+    "category": "Interface",
+    "tags": [
+      "progress",
+      "bar",
+      "full",
+      "loading",
+      "status",
+      "percent"
+    ],
+    "animation": "pulse"
+  },
+  "bar-progress-half": {
+    "category": "Interface",
+    "tags": [
+      "progress",
+      "bar",
+      "half",
+      "loading",
+      "status",
+      "percent"
+    ],
+    "animation": "pulse"
+  },
+  "bar-progress-quarter": {
+    "category": "Interface",
+    "tags": [
+      "progress",
+      "bar",
+      "quarter",
+      "loading",
+      "status",
+      "percent"
+    ],
+    "animation": "pulse"
+  },
+  "bar-progress-three-quarters": {
+    "category": "Interface",
+    "tags": [
+      "progress",
+      "bar",
+      "three-quarters",
+      "loading",
+      "status",
+      "percent"
+    ],
+    "animation": "pulse"
   },
   "battery-bolt": {
     "category": "Technology",
@@ -501,6 +720,108 @@
     ],
     "animation": "bounce"
   },
+  "bracket-curly": {
+    "category": "Interface",
+    "tags": [
+      "bracket",
+      "curly",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "bracket-curly-right": {
+    "category": "Interface",
+    "tags": [
+      "bracket",
+      "curly",
+      "right",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "bracket-round": {
+    "category": "Interface",
+    "tags": [
+      "bracket",
+      "round",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "bracket-round-right": {
+    "category": "Interface",
+    "tags": [
+      "bracket",
+      "round",
+      "right",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "bracket-square": {
+    "category": "Interface",
+    "tags": [
+      "bracket",
+      "square",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "bracket-square-right": {
+    "category": "Interface",
+    "tags": [
+      "bracket",
+      "square",
+      "right",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "brackets-curly": {
+    "category": "Interface",
+    "tags": [
+      "brackets",
+      "curly",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "brackets-round": {
+    "category": "Interface",
+    "tags": [
+      "brackets",
+      "round",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
+  "brackets-square": {
+    "category": "Interface",
+    "tags": [
+      "brackets",
+      "square",
+      "code",
+      "syntax",
+      "parenthesis"
+    ],
+    "animation": "squash"
+  },
   "browser": {
     "category": "Technology",
     "tags": [
@@ -672,6 +993,54 @@
       "carro"
     ],
     "animation": "drive"
+  },
+  "caret-large-down": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "large",
+      "down",
+      "triangle",
+      "arrow",
+      "dropdown"
+    ],
+    "animation": "nudge-down"
+  },
+  "caret-large-left": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "large",
+      "left",
+      "triangle",
+      "arrow",
+      "dropdown"
+    ],
+    "animation": "nudge-left"
+  },
+  "caret-large-right": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "large",
+      "right",
+      "triangle",
+      "arrow",
+      "dropdown"
+    ],
+    "animation": "nudge-right"
+  },
+  "caret-large-up": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "large",
+      "up",
+      "triangle",
+      "arrow",
+      "dropdown"
+    ],
+    "animation": "nudge-up"
   },
   "cart": {
     "category": "Objects",
@@ -1010,6 +1379,126 @@
     ],
     "animation": "bounce"
   },
+  "circle-0": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "0",
+      "number",
+      "zero",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-1": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "1",
+      "number",
+      "one",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-2": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "2",
+      "number",
+      "two",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-3": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "3",
+      "number",
+      "three",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-4": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "4",
+      "number",
+      "four",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-5": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "5",
+      "number",
+      "five",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-6": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "6",
+      "number",
+      "six",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-7": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "7",
+      "number",
+      "seven",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-8": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "8",
+      "number",
+      "eight",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "circle-9": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "9",
+      "number",
+      "nine",
+      "digit",
+      "badge"
+    ],
+    "animation": "pop"
+  },
   "circle-alert": {
     "category": "Status",
     "tags": [
@@ -1110,6 +1599,18 @@
     ],
     "animation": "quarter"
   },
+  "circle-quarter": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "quarter",
+      "pie",
+      "progress",
+      "25",
+      "percent"
+    ],
+    "animation": "spin-slow"
+  },
   "circle-question": {
     "category": "Status",
     "tags": [
@@ -1132,6 +1633,19 @@
       "badge"
     ],
     "animation": "star"
+  },
+  "circle-three-quarters": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "three",
+      "quarters",
+      "pie",
+      "progress",
+      "75",
+      "percent"
+    ],
+    "animation": "spin-slow"
   },
   "circle-x": {
     "category": "Status",
@@ -1165,6 +1679,162 @@
       "hour",
       "reloj",
       "hora"
+    ],
+    "animation": "tick"
+  },
+  "clock-eight": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "eight",
+      "8",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-eleven": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "eleven",
+      "11",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-five": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "five",
+      "5",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-four": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "four",
+      "4",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-nine": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "nine",
+      "9",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-one": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "one",
+      "1",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-seven": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "seven",
+      "7",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-six": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "six",
+      "6",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-ten": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "ten",
+      "10",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-three": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "three",
+      "3",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-twelve": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "twelve",
+      "12",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "clock-two": {
+    "category": "Objects",
+    "tags": [
+      "clock",
+      "two",
+      "2",
+      "o'clock",
+      "time",
+      "hour",
+      "reloj"
     ],
     "animation": "tick"
   },

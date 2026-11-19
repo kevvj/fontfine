@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 276 / 3779**
+**Progress: 329 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1635,7 +1635,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] 00
 - [ ] 360-degrees
 
-## Extended: A (6/127)
+## Extended: A (14/127)
 
 - [ ] abacus
 - [ ] accent-grave
@@ -1677,7 +1677,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-down-from-arc
 - [ ] arrow-down-from-bracket
 - [ ] arrow-down-from-dotted-line
-- [ ] arrow-down-from-line
+- [x] arrow-down-from-line
 - [x] arrow-down-left
 - [ ] arrow-down-left-and-arrow-up-right-to-center
 - [ ] arrow-down-long-to-line
@@ -1687,27 +1687,27 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-down-to-arc
 - [ ] arrow-down-to-bracket
 - [ ] arrow-down-to-dotted-line
-- [ ] arrow-down-to-line
+- [x] arrow-down-to-line
 - [ ] arrow-down-to-square
 - [ ] arrow-down-triangle-square
 - [ ] arrow-left-arrow-right
 - [ ] arrow-left-from-arc
 - [ ] arrow-left-from-bracket
 - [ ] arrow-left-from-dotted-line
-- [ ] arrow-left-from-line
+- [x] arrow-left-from-line
 - [ ] arrow-left-long-to-line
 - [ ] arrow-left-to-arc
 - [ ] arrow-left-to-bracket
 - [ ] arrow-left-to-dotted-line
-- [ ] arrow-left-to-line
+- [x] arrow-left-to-line
 - [ ] arrow-progress
 - [ ] arrow-right-from-arc
 - [ ] arrow-right-from-dotted-line
-- [ ] arrow-right-from-line
+- [x] arrow-right-from-line
 - [ ] arrow-right-long-to-line
 - [ ] arrow-right-to-arc
 - [ ] arrow-right-to-dotted-line
-- [ ] arrow-right-to-line
+- [x] arrow-right-to-line
 - [ ] arrow-rotate-left-10
 - [ ] arrow-rotate-left-15
 - [ ] arrow-rotate-left-30
@@ -1732,7 +1732,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-up-big-small
 - [ ] arrow-up-from-arc
 - [ ] arrow-up-from-dotted-line
-- [ ] arrow-up-from-line
+- [x] arrow-up-from-line
 - [ ] arrow-up-from-square
 - [x] arrow-up-left
 - [ ] arrow-up-left-from-circle
@@ -1744,7 +1744,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-up-to-arc
 - [ ] arrow-up-to-bracket
 - [ ] arrow-up-to-dotted-line
-- [ ] arrow-up-to-line
+- [x] arrow-up-to-line
 - [ ] arrow-up-triangle-square
 - [ ] arrows-cross
 - [ ] arrows-from-dotted-line
@@ -1765,13 +1765,13 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] axe
 - [ ] axe-battle
 
-## Extended: B (11/187)
+## Extended: B (29/187)
 
 - [ ] backpack
-- [ ] badge
-- [ ] badge-check
-- [ ] badge-dollar
-- [ ] badge-percent
+- [x] badge
+- [x] badge-check
+- [x] badge-dollar
+- [x] badge-percent
 - [ ] badge-sheriff
 - [ ] badger-honey
 - [ ] badminton
@@ -1792,11 +1792,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] banana
 - [ ] banjo
 - [ ] bar-progress
-- [ ] bar-progress-empty
-- [ ] bar-progress-full
-- [ ] bar-progress-half
-- [ ] bar-progress-quarter
-- [ ] bar-progress-three-quarters
+- [x] bar-progress-empty
+- [x] bar-progress-full
+- [x] bar-progress-half
+- [x] bar-progress-quarter
+- [x] bar-progress-three-quarters
 - [ ] barcode-read
 - [ ] barcode-scan
 - [ ] barn
@@ -1909,15 +1909,15 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] box-taped
 - [ ] boxing-glove
 - [ ] bra
-- [ ] bracket-curly
-- [ ] bracket-curly-right
-- [ ] bracket-round
-- [ ] bracket-round-right
-- [ ] bracket-square
-- [ ] bracket-square-right
-- [ ] brackets-curly
-- [ ] brackets-round
-- [ ] brackets-square
+- [x] bracket-curly
+- [x] bracket-curly-right
+- [x] bracket-round
+- [x] bracket-round-right
+- [x] bracket-square
+- [x] bracket-square-right
+- [x] brackets-curly
+- [x] brackets-round
+- [x] brackets-square
 - [ ] brain-arrow-curved-right
 - [ ] brain-circuit
 - [ ] brake-warning
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] butter
 - [ ] butterfly
 
-## Extended: C (24/423)
+## Extended: C (51/423)
 
 - [ ] cabin
 - [ ] cabinet-filing
@@ -2022,10 +2022,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] card-spade
 - [ ] cards
 - [ ] cards-blank
-- [ ] caret-large-down
-- [ ] caret-large-left
-- [ ] caret-large-right
-- [ ] caret-large-up
+- [x] caret-large-down
+- [x] caret-large-left
+- [x] caret-large-right
+- [x] caret-large-up
 - [ ] carpool
 - [ ] cars
 - [ ] cart-arrow-up
@@ -2092,16 +2092,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] chf-sign
 - [ ] chimney
 - [ ] chopsticks
-- [ ] circle-0
-- [ ] circle-1
-- [ ] circle-2
-- [ ] circle-3
-- [ ] circle-4
-- [ ] circle-5
-- [ ] circle-6
-- [ ] circle-7
-- [ ] circle-8
-- [ ] circle-9
+- [x] circle-0
+- [x] circle-1
+- [x] circle-2
+- [x] circle-3
+- [x] circle-4
+- [x] circle-5
+- [x] circle-6
+- [x] circle-7
+- [x] circle-8
+- [x] circle-9
 - [ ] circle-a
 - [ ] circle-ampersand
 - [ ] circle-arrow-down-left
@@ -2190,7 +2190,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-phone-hangup
 - [ ] circle-polish-zloty
 - [ ] circle-q
-- [ ] circle-quarter
+- [x] circle-quarter
 - [ ] circle-quarter-stroke
 - [ ] circle-quarters
 - [ ] circle-r
@@ -2210,7 +2210,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-swedish-krona
 - [ ] circle-t
 - [ ] circle-tenge
-- [ ] circle-three-quarters
+- [x] circle-three-quarters
 - [ ] circle-three-quarters-stroke
 - [ ] circle-trash
 - [ ] circle-tugrik
@@ -2252,28 +2252,28 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] clipboard-medical
 - [ ] clipboard-prescription
 - [ ] clock-desk
-- [ ] clock-eight
+- [x] clock-eight
 - [ ] clock-eight-thirty
-- [ ] clock-eleven
+- [x] clock-eleven
 - [ ] clock-eleven-thirty
-- [ ] clock-five
+- [x] clock-five
 - [ ] clock-five-thirty
 - [ ] clock-four-thirty
-- [ ] clock-nine
+- [x] clock-nine
 - [ ] clock-nine-thirty
-- [ ] clock-one
+- [x] clock-one
 - [ ] clock-one-thirty
-- [ ] clock-seven
+- [x] clock-seven
 - [ ] clock-seven-thirty
-- [ ] clock-six
+- [x] clock-six
 - [ ] clock-six-thirty
-- [ ] clock-ten
+- [x] clock-ten
 - [ ] clock-ten-thirty
-- [ ] clock-three
+- [x] clock-three
 - [ ] clock-three-thirty
-- [ ] clock-twelve
+- [x] clock-twelve
 - [ ] clock-twelve-thirty
-- [ ] clock-two
+- [x] clock-two
 - [ ] clock-two-thirty
 - [ ] clone-plus
 - [ ] clothes-hanger
