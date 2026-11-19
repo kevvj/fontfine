@@ -1,0 +1,586 @@
+{
+  "paneles": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "resumen",
+      "tablero",
+      "dashboard",
+      "inicio",
+      "panel",
+      "cuadros"
+    ]
+  },
+  "casa": {
+    "categoria": "Lugares",
+    "etiquetas": [
+      "inicio",
+      "hogar",
+      "home",
+      "principal"
+    ]
+  },
+  "parlante": {
+    "categoria": "Objetos",
+    "etiquetas": [
+      "altavoz",
+      "bocina",
+      "sonido",
+      "audio",
+      "equipo",
+      "accesorio"
+    ]
+  },
+  "caja": {
+    "categoria": "Objetos",
+    "etiquetas": [
+      "paquete",
+      "inventario",
+      "almacen",
+      "bodega",
+      "envio"
+    ]
+  },
+  "iglesia": {
+    "categoria": "Lugares",
+    "etiquetas": [
+      "sede",
+      "templo",
+      "edificio",
+      "capilla",
+      "cruz"
+    ]
+  },
+  "pin": {
+    "categoria": "Lugares",
+    "etiquetas": [
+      "ubicacion",
+      "mapa",
+      "lugar",
+      "direccion",
+      "marcador"
+    ]
+  },
+  "documento": {
+    "categoria": "Documentos",
+    "etiquetas": [
+      "reporte",
+      "archivo",
+      "hoja",
+      "informe",
+      "texto"
+    ]
+  },
+  "llave": {
+    "categoria": "Objetos",
+    "etiquetas": [
+      "herramienta",
+      "mantenimiento",
+      "reparar",
+      "arreglar",
+      "ajustar"
+    ]
+  },
+  "personas": {
+    "categoria": "Personas",
+    "etiquetas": [
+      "usuarios",
+      "grupo",
+      "equipo",
+      "gente"
+    ]
+  },
+  "persona": {
+    "categoria": "Personas",
+    "etiquetas": [
+      "usuario",
+      "cuenta",
+      "perfil"
+    ]
+  },
+  "engranaje": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "ajustes",
+      "configuracion",
+      "opciones",
+      "preferencias"
+    ]
+  },
+  "campana": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "notificaciones",
+      "avisos",
+      "alarma"
+    ]
+  },
+  "lupa": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "buscar",
+      "busqueda",
+      "encontrar",
+      "zoom"
+    ]
+  },
+  "mas": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "agregar",
+      "nuevo",
+      "crear",
+      "sumar",
+      "añadir"
+    ]
+  },
+  "lapiz": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "editar",
+      "escribir",
+      "modificar"
+    ]
+  },
+  "papelera": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "borrar",
+      "eliminar",
+      "basura",
+      "quitar"
+    ]
+  },
+  "descargar": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "bajar",
+      "guardar",
+      "exportar"
+    ]
+  },
+  "check": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "aceptar",
+      "listo",
+      "confirmar",
+      "guardar",
+      "ok"
+    ]
+  },
+  "prohibido": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "cancelar",
+      "bloquear",
+      "no",
+      "permitido"
+    ]
+  },
+  "x": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "cerrar",
+      "quitar",
+      "salir",
+      "equis"
+    ]
+  },
+  "puntos": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "mas",
+      "opciones",
+      "menu",
+      "tres",
+      "puntos"
+    ]
+  },
+  "flecha-izquierda": {
+    "categoria": "Flechas",
+    "etiquetas": [
+      "volver",
+      "atras",
+      "regresar"
+    ]
+  },
+  "chevron-abajo": {
+    "categoria": "Flechas",
+    "etiquetas": [
+      "desplegar",
+      "abrir",
+      "lista",
+      "bajar"
+    ]
+  },
+  "enlace-externo": {
+    "categoria": "Flechas",
+    "etiquetas": [
+      "abrir",
+      "fuera",
+      "nueva",
+      "ventana",
+      "link"
+    ]
+  },
+  "agarre": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "arrastrar",
+      "mover",
+      "reordenar"
+    ]
+  },
+  "ojo": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "ver",
+      "mostrar",
+      "visible",
+      "contraseña"
+    ]
+  },
+  "ojo-tachado": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "ocultar",
+      "esconder",
+      "invisible",
+      "contraseña"
+    ]
+  },
+  "qr": {
+    "categoria": "Objetos",
+    "etiquetas": [
+      "codigo",
+      "qr",
+      "escanear",
+      "etiqueta"
+    ]
+  },
+  "escanear": {
+    "categoria": "Acciones",
+    "etiquetas": [
+      "escanear",
+      "camara",
+      "leer",
+      "qr"
+    ]
+  },
+  "triangulo-alerta": {
+    "categoria": "Estados",
+    "etiquetas": [
+      "advertencia",
+      "cuidado",
+      "peligro",
+      "alerta"
+    ]
+  },
+  "circulo-info": {
+    "categoria": "Estados",
+    "etiquetas": [
+      "informacion",
+      "ayuda",
+      "detalle"
+    ]
+  },
+  "circulo-alerta": {
+    "categoria": "Estados",
+    "etiquetas": [
+      "error",
+      "problema",
+      "fallo"
+    ]
+  },
+  "circulo-check": {
+    "categoria": "Estados",
+    "etiquetas": [
+      "exito",
+      "listo",
+      "correcto",
+      "completado"
+    ]
+  },
+  "bicho": {
+    "categoria": "Estados",
+    "etiquetas": [
+      "bug",
+      "falla",
+      "error",
+      "app",
+      "insecto"
+    ]
+  },
+  "chip": {
+    "categoria": "Objetos",
+    "etiquetas": [
+      "componente",
+      "procesador",
+      "electronica",
+      "hardware"
+    ]
+  },
+  "punto": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "circulo",
+      "estado",
+      "separador"
+    ]
+  },
+  "biblia": {
+    "categoria": "Iglesia",
+    "etiquetas": [
+      "libro",
+      "sagrado",
+      "escrituras",
+      "palabra",
+      "lectura"
+    ]
+  },
+  "cruz": {
+    "categoria": "Iglesia",
+    "etiquetas": [
+      "fe",
+      "cristiano",
+      "religion",
+      "iglesia"
+    ]
+  },
+  "caliz": {
+    "categoria": "Iglesia",
+    "etiquetas": [
+      "copa",
+      "santa",
+      "cena",
+      "comunion",
+      "vino"
+    ]
+  },
+  "vela": {
+    "categoria": "Iglesia",
+    "etiquetas": [
+      "luz",
+      "llama",
+      "oracion",
+      "vigilia"
+    ]
+  },
+  "atril": {
+    "categoria": "Iglesia",
+    "etiquetas": [
+      "pulpito",
+      "podio",
+      "predica",
+      "lectern"
+    ]
+  },
+  "microfono": {
+    "categoria": "Música y sonido",
+    "etiquetas": [
+      "mic",
+      "voz",
+      "cantar",
+      "hablar",
+      "inalambrico"
+    ]
+  },
+  "audifonos": {
+    "categoria": "Música y sonido",
+    "etiquetas": [
+      "auriculares",
+      "escuchar",
+      "monitoreo",
+      "audio",
+      "cascos"
+    ]
+  },
+  "teclado-musical": {
+    "categoria": "Música y sonido",
+    "etiquetas": [
+      "piano",
+      "sintetizador",
+      "teclas",
+      "instrumento"
+    ]
+  },
+  "consola-sonido": {
+    "categoria": "Música y sonido",
+    "etiquetas": [
+      "mezclador",
+      "mixer",
+      "faders",
+      "audio",
+      "volumen"
+    ]
+  },
+  "tambor": {
+    "categoria": "Música y sonido",
+    "etiquetas": [
+      "bateria",
+      "percusion",
+      "ritmo",
+      "instrumento"
+    ]
+  },
+  "proyector": {
+    "categoria": "Música y sonido",
+    "etiquetas": [
+      "video",
+      "pantalla",
+      "presentacion",
+      "diapositivas"
+    ]
+  },
+  "nota-musical": {
+    "categoria": "Música y sonido",
+    "etiquetas": [
+      "musica",
+      "cancion",
+      "alabanza",
+      "melodia"
+    ]
+  },
+  "diente": {
+    "categoria": "Salud",
+    "etiquetas": [
+      "dentista",
+      "muela",
+      "odontologia",
+      "dental"
+    ]
+  },
+  "hongo": {
+    "categoria": "Naturaleza",
+    "etiquetas": [
+      "seta",
+      "champiñon",
+      "bosque",
+      "comida"
+    ]
+  },
+  "silla": {
+    "categoria": "Objetos",
+    "etiquetas": [
+      "asiento",
+      "mueble",
+      "comedor",
+      "sentarse"
+    ]
+  },
+  "radio-boton": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "opcion",
+      "seleccion",
+      "formulario",
+      "elegir"
+    ]
+  },
+  "candado": {
+    "categoria": "Seguridad",
+    "etiquetas": [
+      "bloqueado",
+      "cerrado",
+      "seguro",
+      "privado",
+      "clave"
+    ]
+  },
+  "candado-abierto": {
+    "categoria": "Seguridad",
+    "etiquetas": [
+      "desbloqueado",
+      "abierto",
+      "acceso",
+      "libre"
+    ]
+  },
+  "memoria-ram": {
+    "categoria": "Tecnología",
+    "etiquetas": [
+      "ram",
+      "memoria",
+      "computador",
+      "hardware",
+      "pc"
+    ]
+  },
+  "archivo-json": {
+    "categoria": "Documentos",
+    "etiquetas": [
+      "codigo",
+      "datos",
+      "json",
+      "llaves",
+      "programacion"
+    ]
+  },
+  "plano": {
+    "categoria": "Lugares",
+    "etiquetas": [
+      "planta",
+      "casa",
+      "arquitectura",
+      "habitaciones",
+      "piso"
+    ]
+  },
+  "orden-alfabetico": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "ordenar",
+      "az",
+      "alfabeto",
+      "lista",
+      "abc"
+    ]
+  },
+  "roca": {
+    "categoria": "Naturaleza",
+    "etiquetas": [
+      "piedra",
+      "mineral",
+      "montaña"
+    ]
+  },
+  "escuela": {
+    "categoria": "Lugares",
+    "etiquetas": [
+      "colegio",
+      "educacion",
+      "estudiar",
+      "clases"
+    ]
+  },
+  "embudo": {
+    "categoria": "Interfaz",
+    "etiquetas": [
+      "filtro",
+      "filtrar",
+      "embudo",
+      "ventas"
+    ]
+  },
+  "panel-solar": {
+    "categoria": "Naturaleza",
+    "etiquetas": [
+      "energia",
+      "renovable",
+      "sol",
+      "electricidad",
+      "solar"
+    ]
+  },
+  "podio": {
+    "categoria": "Objetos",
+    "etiquetas": [
+      "ganador",
+      "premio",
+      "ranking",
+      "competencia",
+      "primer",
+      "lugar"
+    ]
+  }
+}
