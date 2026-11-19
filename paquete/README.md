@@ -1,6 +1,6 @@
 # fontfine
 
-Free and open source **thin line icons**. Every icon comes in 5 variants (**thin**, **light**, **regular**, **bold**, **solid**) and the stroke width can be set to any value.
+Free and open source **thin line icons**. Every icon comes in 6 variants (**thin**, **light**, **regular**, **bold**, **solid**, **duotone**) and the stroke width can be set to any value.
 
 **Browse the icons:** https://fontfine.vercel.app
 
@@ -34,6 +34,8 @@ import 'fontfine/element';
 ```
 
 In Angular, add `CUSTOM_ELEMENTS_SCHEMA` to the component's `schemas`.
+
+Duotone icons have two layers: `.ff-primary` and `.ff-secondary` (40% opacity). Change them with CSS, e.g. `.ff-secondary { opacity: 1; fill: #93c5fd; }`.
 
 ## Animations
 
@@ -74,7 +76,7 @@ fontfine/svg/solid/<name>.svg     solid version
 
 | Option | Values | Default |
 | --- | --- | --- |
-| `variant` | `thin` (0.75) · `light` (1.25) · `regular` (1.75) · `bold` (2.25) · `solid` | `light` |
+| `variant` | `thin` (0.75) · `light` (1.25) · `regular` (1.75) · `bold` (2.25) · `solid` · `duotone` | `light` |
 | `strokeWidth` | any number, overrides the variant (line variants only) | – |
 | `size` | number (px) or CSS size | `24` (`1em` in the web component) |
 | `color` | any CSS color | `currentColor` |

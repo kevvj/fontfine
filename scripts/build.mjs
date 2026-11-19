@@ -24,6 +24,7 @@ function leerCarpeta(carpeta) {
 
 const linea = leerCarpeta("line");
 const relleno = leerCarpeta("solid");
+const duotono = leerCarpeta("duotone");
 
 const errores = [];
 for (const n of Object.keys(linea)) if (!metadatos[n]) errores.push(`Falta "${n}" en metadata.json`);
@@ -37,6 +38,7 @@ const iconos = Object.keys(linea).map((nombre) => ({
   etiquetas: metadatos[nombre].tags,
   linea: linea[nombre],
   relleno: relleno[nombre] ?? null,
+  duotono: duotono[nombre] ?? null,
   animacion: metadatos[nombre].animation ?? "pulse",
   origen: metadatos[nombre].origin ?? null,
 }));

@@ -24,9 +24,10 @@ mkdirSync(dirIconos, { recursive: true });
 const aviso = "// Generado por scripts/paquete.mjs. No editar a mano.\n";
 for (const n of nombres) {
   const linea = cuerpo(join(raiz, "svg", "line", `${n}.svg`));
-  let relleno = null;
+  let relleno = null, duotono = null;
+  try { duotono = cuerpo(join(raiz, "svg", "duotone", `${n}.svg`)); } catch { /* sin duotone */ }
   try { relleno = cuerpo(join(raiz, "svg", "solid", `${n}.svg`)); } catch { /* sin relleno */ }
-  const datos = { name: n, category: metadatos[n]?.category ?? "", tags: metadatos[n]?.tags ?? [], line: linea, solid: relleno, animation: metadatos[n]?.animation ?? "pulse", origin: metadatos[n]?.origin ?? null };
+  const datos = { name: n, category: metadatos[n]?.category ?? "", tags: metadatos[n]?.tags ?? [], line: linea, solid: relleno, duotone: duotono, animation: metadatos[n]?.animation ?? "pulse", origin: metadatos[n]?.origin ?? null };
   writeFileSync(join(dirIconos, `${n}.ts`), `${aviso}import type { IconData } from '../tipos.js';\n\nexport const ${camel(n)}: IconData = ${JSON.stringify(datos, null, 2)};\n`);
 }
 writeFileSync(join(dirIconos, "index.ts"), aviso + nombres.map((n) => `export { ${camel(n)} } from './${n}.js';`).join("\n") + "\n");

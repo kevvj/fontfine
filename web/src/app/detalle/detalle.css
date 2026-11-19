@@ -24,7 +24,7 @@ h2 { margin: 0; font-size: 20px; font-weight: 650; word-break: break-word; }
 
 h3 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--texto-2); margin: 22px 0 10px; font-weight: 600; }
 
-.versiones { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
+.versiones { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; }
 .versiones button {
   display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 10px 2px 8px;
   border: 1px solid var(--borde); border-radius: 10px; background: none; color: var(--icono); cursor: pointer; font: inherit;

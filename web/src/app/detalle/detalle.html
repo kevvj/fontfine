@@ -49,7 +49,7 @@
     }
   </div>
 
-  <h3>SVG @if (version() !== 'solid') { <span class="grosor">· stroke {{ grosor() }}</span> }</h3>
+  <h3>SVG @if (!esRelleno(version())) { <span class="grosor">· stroke {{ grosor() }}</span> }</h3>
   <pre class="codigo"><code>{{ codigo() }}</code></pre>
   <div class="acciones">
     <button type="button" class="boton principal" (click)="copiar(codigo(), 'SVG copied')">Copy SVG</button>

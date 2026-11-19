@@ -1,6 +1,6 @@
 import { Component, HostListener, computed, effect, signal, viewChild, ElementRef } from '@angular/core';
 import { ICONOS } from './datos/iconos.generado';
-import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, VERSIONES, Version, normalizar } from './datos/tipos';
+import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, VERSIONES, Version, esRelleno, normalizar } from './datos/tipos';
 import { SvgPipe } from './svg.pipe';
 import { Detalle } from './detalle/detalle';
 
@@ -16,6 +16,7 @@ export class App {
   protected readonly iconos = ICONOS;
   protected readonly versiones = VERSIONES;
   protected readonly todas = TODAS;
+  protected readonly esRelleno = esRelleno;
   protected readonly grosorMin = GROSOR_MIN;
   protected readonly grosorMax = GROSOR_MAX;
   protected readonly logo = ICONOS.find((i) => i.nombre === 'dashboard') ?? ICONOS[0];
@@ -28,7 +29,7 @@ export class App {
   protected readonly grosor = signal(1.25);
   /** La versión que coincide con el grosor actual (o null si es personalizado). */
   protected readonly versionActiva = computed<Version | null>(() =>
-    this.version() === 'solid' ? 'solid' : (VERSIONES.find((v) => v.grosor === this.grosor())?.id ?? null));
+    esRelleno(this.version()) ? this.version() : (VERSIONES.find((v) => v.grosor === this.grosor())?.id ?? null));
   protected readonly tema = signal<'claro' | 'oscuro'>('claro');
   protected readonly seleccionado = signal<Icono | null>(null);
   protected readonly aviso = signal<string | null>(null);
@@ -116,7 +117,7 @@ export class App {
 
   protected cambiarGrosor(g: number): void {
     this.grosor.set(g);
-    if (this.version() === 'solid') this.version.set('light');
+    if (esRelleno(this.version())) this.version.set('light');
   }
 
   protected alternarTema(): void {

@@ -70,3 +70,11 @@ test('React: animate y style juntos', () => {
   assert.match(html, /--ff-origin:50% 12%/);
   assert.match(html, /color:red/);
 });
+
+test('duotone: dos capas y sin trazo', () => {
+  const s = core.toSvg(core.bell, { variant: 'duotone' });
+  assert.match(s, /class="ff-secondary" opacity=".4"/);
+  assert.match(s, /class="ff-primary"/);
+  assert.match(s, /fill="currentColor"/);
+  assert.equal(iconos.filter((i) => !i.duotone).length, 0);
+});

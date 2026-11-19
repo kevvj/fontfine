@@ -5,16 +5,18 @@ export interface IconData {
   tags: string[];
   line: string;
   solid: string | null;
+  /** Duotone Sharp: layers with classes ff-secondary (40% opacity) and ff-primary. */
+  duotone: string | null;
   /** Name of the icon's own animation (class ff-<name> in animations.css). */
   animation: string;
   /** Transform origin of the animation, when it is not the center. */
   origin: string | null;
 }
 
-export type Variant = 'thin' | 'light' | 'regular' | 'bold' | 'solid';
+export type Variant = 'thin' | 'light' | 'regular' | 'bold' | 'solid' | 'duotone';
 
 /** Stroke width of each line variant. */
-export const STROKE_WIDTHS: Record<Exclude<Variant, 'solid'>, number> = {
+export const STROKE_WIDTHS: Record<Exclude<Variant, 'solid' | 'duotone'>, number> = {
   thin: 0.75,
   light: 1.25,
   regular: 1.75,
@@ -45,7 +47,8 @@ export function partes(icon: IconData, opts: SvgOptions = {}) {
   const variant = opts.variant ?? 'light';
   const color = opts.color ?? 'currentColor';
   const size = opts.size ?? 24;
-  const solid = variant === 'solid' && icon.solid !== null;
+  const relleno = variant === 'duotone' ? icon.duotone : variant === 'solid' ? icon.solid : null;
+  const solid = relleno !== null;
   const attrs: Record<string, string> = {
     xmlns: 'http://www.w3.org/2000/svg',
     viewBox: '0 0 24 24',
@@ -56,7 +59,7 @@ export function partes(icon: IconData, opts: SvgOptions = {}) {
     attrs['fill'] = color;
     attrs['fill-rule'] = 'evenodd';
   } else {
-    const ancho = opts.strokeWidth ?? STROKE_WIDTHS[variant === 'solid' ? 'light' : variant];
+    const ancho = opts.strokeWidth ?? STROKE_WIDTHS[variant === 'solid' || variant === 'duotone' ? 'light' : variant];
     Object.assign(attrs, { fill: 'none', stroke: color, 'stroke-width': String(ancho), 'stroke-linecap': 'round', 'stroke-linejoin': 'round' });
   }
   const clases = [opts.className];
@@ -69,7 +72,7 @@ export function partes(icon: IconData, opts: SvgOptions = {}) {
   if (opts.title) attrs['role'] = 'img';
   else attrs['aria-hidden'] = 'true';
   const titulo = opts.title ? `<title>${escapar(opts.title)}</title>` : '';
-  return { attrs, inner: titulo + (solid ? icon.solid! : icon.line) };
+  return { attrs, inner: titulo + (relleno ?? icon.line) };
 }
 
 /** Returns the icon as an SVG string. */

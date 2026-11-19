@@ -4,7 +4,7 @@
     <strong>fontfine</strong>
   </div>
   <div class="barra-derecha">
-    <span class="contador">{{ iconos.length }} icons · 5 variants</span>
+    <span class="contador">{{ iconos.length }} icons · 6 variants</span>
     <button class="boton-icono" type="button" (click)="alternarTema()"
       [attr.aria-label]="tema() === 'claro' ? 'Switch to dark mode' : 'Switch to light mode'"
       [title]="tema() === 'claro' ? 'Dark mode' : 'Light mode'">
@@ -67,7 +67,7 @@
         <span>Stroke</span>
         <input type="range" [min]="grosorMin" [max]="grosorMax" step="0.25" [value]="grosor()" #rangoGrosor
           (input)="cambiarGrosor(+rangoGrosor.value)" aria-label="Stroke width" />
-        <span class="valor">{{ version() === 'solid' ? '—' : grosor() }}</span>
+        <span class="valor">{{ esRelleno(version()) ? '—' : grosor() }}</span>
       </label>
       <label class="tamano">
         <span>Size</span>

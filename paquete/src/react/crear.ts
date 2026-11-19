@@ -4,7 +4,7 @@ import { partes, type IconData, type Variant } from '../tipos.js';
 export interface IconProps extends Omit<SVGProps<SVGSVGElement>, 'children' | 'ref'> {
   /** Width and height. Default: 24. */
   size?: number | string;
-  /** 'thin' | 'light' | 'regular' | 'bold' | 'solid'. Default: 'light'. */
+  /** 'thin' | 'light' | 'regular' | 'bold' | 'solid' | 'duotone'. Default: 'light'. */
   variant?: Variant;
   /** Custom stroke width for line variants. */
   strokeWidth?: number;

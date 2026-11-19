@@ -1,33 +1,77 @@
 {
   "name": "fontfine",
   "version": "0.1.0",
-  "description": "Free and open source thin line icons with 5 variants (thin, light, regular, bold, solid) and adjustable stroke width. A free alternative to Font Awesome for React, Angular, Vue and plain HTML.",
-  "keywords": ["icons", "icon", "svg", "react", "angular", "vue", "web-component", "line-icons", "thin", "solid", "font-awesome-alternative", "fontawesome", "iconos"],
+  "description": "Free and open source thin line icons with 6 variants (thin, light, regular, bold, solid, duotone), per-icon animations and adjustable stroke width. A free alternative to Font Awesome for React, Angular, Vue and plain HTML.",
+  "keywords": [
+    "icons",
+    "icon",
+    "svg",
+    "react",
+    "angular",
+    "vue",
+    "web-component",
+    "line-icons",
+    "thin",
+    "solid",
+    "font-awesome-alternative",
+    "fontawesome",
+    "iconos",
+    "duotone",
+    "animated-icons"
+  ],
   "license": "MIT",
   "author": "Kevin Tapias",
   "homepage": "https://fontfine.vercel.app",
-  "repository": { "type": "git", "url": "git+https://github.com/kevvj/fontfine.git", "directory": "paquete" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevvj/fontfine.git",
+    "directory": "paquete"
+  },
   "bugs": "https://github.com/kevvj/fontfine/issues",
   "type": "module",
-  "sideEffects": ["./dist/element.js", "*.css"],
+  "sideEffects": [
+    "./dist/element.js",
+    "*.css"
+  ],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
-    ".": { "types": "./dist/index.d.ts", "default": "./dist/index.js" },
-    "./react": { "types": "./dist/react/index.d.ts", "default": "./dist/react/index.js" },
-    "./element": { "types": "./dist/element.d.ts", "default": "./dist/element.js" },
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./react": {
+      "types": "./dist/react/index.d.ts",
+      "default": "./dist/react/index.js"
+    },
+    "./element": {
+      "types": "./dist/element.d.ts",
+      "default": "./dist/element.js"
+    },
     "./animations.css": "./animations.css",
     "./svg/*": "./svg/*",
     "./package.json": "./package.json"
   },
-  "files": ["dist", "svg", "animations.css", "README.md", "LICENSE"],
+  "files": [
+    "dist",
+    "svg",
+    "animations.css",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "generar": "node ../scripts/paquete.mjs",
     "build": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\" && npm run generar && tsc -p tsconfig.json",
     "test": "npm run build && node --test pruebas/*.test.mjs"
   },
-  "peerDependencies": { "react": ">=17" },
-  "peerDependenciesMeta": { "react": { "optional": true } },
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
   "devDependencies": {
     "@types/react": "^19.0.0",
     "react": "^19.0.0",

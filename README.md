@@ -1,6 +1,6 @@
 # fontfine
 
-Free and open source icons with a thin, clean line style. Every icon comes in five versions (**Thin**, **Light**, **Regular**, **Bold** and **Solid**), has its own animation, and the stroke width can be set to any value.
+Free and open source icons with a thin, clean line style. Every icon comes in six versions (**Thin**, **Light**, **Regular**, **Bold**, **Solid** and **Duotone**), has its own animation, and the stroke width can be set to any value.
 
 **Website:** https://fontfine.vercel.app (search, preview and copy the SVG)
 
@@ -41,6 +41,8 @@ import 'fontfine/element';
 
 In Angular, add `CUSTOM_ELEMENTS_SCHEMA` to the component's `schemas`.
 
+Duotone icons have two layers: `.ff-primary` and `.ff-secondary` (40% opacity). Change them with CSS, e.g. `.ff-secondary { opacity: 1; fill: #93c5fd; }`.
+
 ### Animations
 
 Every icon has its own animation: the bell swings, the heart beats, the gear spins, the trash shakes... Import the CSS once:
@@ -80,7 +82,7 @@ fontfine/svg/solid/<name>.svg     solid version
 
 | Option | Values | Default |
 | --- | --- | --- |
-| `variant` | `thin` (0.75) · `light` (1.25) · `regular` (1.75) · `bold` (2.25) · `solid` | `light` |
+| `variant` | `thin` (0.75) · `light` (1.25) · `regular` (1.75) · `bold` (2.25) · `solid` · `duotone` | `light` |
 | `strokeWidth` | any number, overrides the variant (line variants only) | – |
 | `size` | number (px) or CSS size | `24` (`1em` in the web component) |
 | `color` | any CSS color | `currentColor` |

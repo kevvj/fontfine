@@ -1,5 +1,5 @@
 import { Component, computed, input, output } from '@angular/core';
-import { Icono, Movimiento, VERSIONES, Version, svgDe } from '../datos/tipos';
+import { Icono, Movimiento, VERSIONES, Version, esRelleno, svgDe } from '../datos/tipos';
 import { SvgPipe } from '../svg.pipe';
 
 @Component({
@@ -32,6 +32,7 @@ export class Detalle {
   readonly avisar = output<string>();
 
   protected readonly versiones = VERSIONES;
+  protected readonly esRelleno = esRelleno;
   protected readonly tamanos = [16, 20, 24, 32, 48];
 
   /** Si piden Solid y este ícono no lo tiene, se muestra la línea y se avisa. */
