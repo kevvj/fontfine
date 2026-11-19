@@ -9,7 +9,7 @@ One icon = **3 SVG files with the same name** + **1 entry in `metadata.json`**:
 ```
 svg/line/<name>.svg      thin line, the source of truth
 svg/solid/<name>.svg     filled
-svg/duotone/<name>.svg   two tones, sharp corners
+svg/duotone/<name>.svg   two tones, straight corners
 metadata.json            category, tags, animation
 ```
 
@@ -50,13 +50,13 @@ Example (`svg/line/bell.svg` style):
 - Details are **holes**: draw them as extra subpaths in the same `<path>` (`fill-rule="evenodd"` cuts them out). Careful: two overlapping subpaths in one path also make a hole.
 - If you need a gap that crosses shapes, use a `<mask id="ff-<name>">` with `#fff` / `#000` (see `svg/solid/eye-off.svg`).
 
-### duotone (Duotone Sharp)
+### duotone
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" fill-rule="evenodd"><g class="ff-secondary" opacity=".4">…</g><g class="ff-primary">…</g></svg>
 ```
 
-- **Sharp**: straight corners. If you use strokes here: `stroke-linecap="square"` or `"butt"`, `stroke-linejoin="miter"`. Never `round`.
+- **Straight corners**. If you use strokes here: `stroke-linecap="square"` or `"butt"`, `stroke-linejoin="miter"`. Never `round`.
 - **Secondary** (40 %): the big body (the bell, the house, the card).
 - **Primary** (solid): the detail that gives meaning (the clapper, the roof and door, the stripe). If the icon is a single simple shape, put it all in primary and leave out the secondary group.
 - Both layers are filled shapes; strokes are allowed with `fill="none" stroke="currentColor"`.

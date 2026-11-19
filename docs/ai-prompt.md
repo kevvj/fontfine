@@ -25,7 +25,7 @@ Shapes must NOT set stroke, stroke-width or fill (they inherit). Leave at least 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" fill-rule="evenodd">
 Same shape filled, same visual size as the line version (outer edge about 0.6 px outside the line path). Details are holes made with extra subpaths in the same path (evenodd). A mask is allowed only with id="ff-ICON_NAME" and fills #fff/#000.
 
-3) DUOTONE SHARP. Start exactly with:
+3) DUOTONE. Start exactly with:
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" fill-rule="evenodd">
 Then <g class="ff-secondary" opacity=".4"> with the main body, and <g class="ff-primary"> with the detail that gives meaning. Straight, sharp corners. If you use strokes: fill="none" stroke="currentColor", stroke-linecap square or butt, stroke-linejoin miter (never round).
 

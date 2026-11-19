@@ -6,7 +6,7 @@ export interface Icono {
   linea: string;
   /** Contenido interno del SVG relleno, o null si todavía no existe. */
   relleno: string | null;
-  /** Contenido del SVG Duotone Sharp (capas ff-secondary y ff-primary), o null. */
+  /** Contenido del SVG Duotone (capas ff-secondary y ff-primary), o null. */
   duotono: string | null;
   /** Animación propia del ícono (clase ff-<nombre> de animations.css). */
   animacion: string;

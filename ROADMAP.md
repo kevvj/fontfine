@@ -1,12 +1,12 @@
 # Roadmap
 
-The goal is to cover the common icon concepts people need (the same list of ideas as the "Classic" set of Font Awesome, free and Pro, without brand logos). **Only the concept and the name are taken from that list: every icon is drawn from scratch** in the fontfine style (see [AGENTS.md](AGENTS.md)). Final names may differ; when they do, the fontfine name is shown in parentheses.
+The goal is to cover the icon concepts people commonly need in apps and websites (no brand logos). **Every icon is drawn from scratch** in the fontfine style (see [AGENTS.md](AGENTS.md)). When the final fontfine name differs, it is shown in parentheses.
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
 **Progress: 234 / 3779**
 
-The first part follows the free set, grouped by category. The **Extended** part (Pro concepts) comes after, in alphabetical order.
+The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
 Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
 
@@ -3371,7 +3371,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] rectangle-n-a
 - [ ] rectangle-new
 - [ ] rectangle-plus
-- [ ] rectangle-pro
+- [ ] rectangle-wide
 - [ ] rectangle-tall
 - [ ] rectangle-terminal
 - [ ] rectangle-vertical
@@ -3693,9 +3693,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] standard-definition
 - [ ] star-christmas
 - [ ] star-exclamation
-- [ ] star-sharp
-- [ ] star-sharp-half
-- [ ] star-sharp-half-stroke
+- [ ] star-pointed
+- [ ] star-pointed-half
+- [ ] star-pointed-half-outline
 - [ ] star-shooting
 - [ ] starfighter
 - [ ] starfighter-twin-ion-engine

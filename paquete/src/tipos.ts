@@ -5,7 +5,7 @@ export interface IconData {
   tags: string[];
   line: string;
   solid: string | null;
-  /** Duotone Sharp: layers with classes ff-secondary (40% opacity) and ff-primary. */
+  /** Duotone: layers with classes ff-secondary (40% opacity) and ff-primary. */
   duotone: string | null;
   /** Name of the icon's own animation (class ff-<name> in animations.css). */
   animation: string;

@@ -69,7 +69,7 @@ for (const name of all) {
     if (v === "duotone") {
       if (!/<g class="ff-primary">/.test(src)) fail(rel, 'needs a <g class="ff-primary"> layer');
       if (/<g class="ff-secondary"/.test(src) && !/<g class="ff-secondary" opacity="\.4">/.test(src)) fail(rel, 'the secondary layer must be <g class="ff-secondary" opacity=".4">');
-      if (/stroke-linecap="round"|stroke-linejoin="round"/.test(src)) fail(rel, "duotone is sharp: use square/butt caps and miter joins");
+      if (/stroke-linecap="round"|stroke-linejoin="round"/.test(src)) fail(rel, "duotone uses straight corners: square/butt caps and miter/bevel joins");
     }
   }
 }
