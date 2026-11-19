@@ -34,8 +34,11 @@ test('toSvg: solid usa relleno', () => {
   assert.doesNotMatch(s, /stroke-width/);
 });
 
-test('todos los íconos tienen versión solid', () => {
-  for (const i of iconos) assert.ok(i.solid, i.name);
+test('solid sin archivo propio usa la línea en bold', () => {
+  const sinSolid = iconos.filter((i) => !i.solid);
+  assert.ok(sinSolid.length > 0);
+  for (const i of sinSolid) assert.match(core.toSvg(i, { variant: 'solid' }), /stroke-width="2\.25"/, i.name);
+  assert.match(core.toSvg(core.wrench, { variant: 'solid' }), /fill-rule="evenodd"/);
 });
 
 test('React: renderiza con props', () => {

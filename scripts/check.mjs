@@ -38,7 +38,7 @@ for (const name of all) {
     const rel = `svg/${v}/${name}.svg`;
     const file = join(root, rel);
     let src;
-    try { src = readFileSync(file, "utf8"); } catch { fail(rel, `missing (every icon needs line, solid and duotone)`); continue; }
+    try { src = readFileSync(file, "utf8"); } catch { if (v !== "solid") fail(rel, `missing (every icon needs line and duotone; solid is optional)`); continue; }
     if (statSync(file).size > MAX_BYTES) fail(rel, `too big (${statSync(file).size} bytes, max ${MAX_BYTES}). Simplify the paths.`);
     if (!src.startsWith(HEADERS[v])) fail(rel, `must start exactly with:\n  ${HEADERS[v]}`);
     if (!src.trimEnd().endsWith("</svg>")) fail(rel, "must end with </svg>");
@@ -64,7 +64,7 @@ for (const name of all) {
         if (k === "class" && (v !== "duotone" || !["ff-primary", "ff-secondary"].includes(val))) fail(rel, `class="${val}": only ff-primary / ff-secondary in duotone`);
       }
       // Line icons inherit stroke and width from the root, so the variants (thin, bold...) work.
-      if (v === "line" && tag !== "svg" && tag !== "mask" && /\s(stroke|stroke-width)="/.test(attrs) && !src.includes("<mask")) fail(rel, "line icons must not set stroke or stroke-width on shapes (they come from the root, so the width can change)");
+      if (v === "line" && tag !== "svg" && tag !== "mask" && /\s(stroke|stroke-width)="/.test(attrs) && !src.includes("<mask") && !(/\sstroke="none"/.test(attrs) && /\sfill="currentColor"/.test(attrs) && !/stroke-width/.test(attrs))) fail(rel, "line icons must not set stroke or stroke-width on shapes (they come from the root, so the width can change)");
     }
     if (v === "duotone") {
       if (!/<g class="ff-primary">/.test(src)) fail(rel, 'needs a <g class="ff-primary"> layer');
@@ -90,4 +90,4 @@ if (errors.length) {
   console.error(`✗ ${errors.length} problem(s):\n\n` + errors.map((e) => "- " + e).join("\n"));
   process.exit(1);
 }
-console.log(`✓ ${all.size} icons OK (line, solid, duotone and metadata)`);
+console.log(`✓ ${all.size} icons OK (line, solid when needed, duotone and metadata)`);

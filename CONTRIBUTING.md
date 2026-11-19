@@ -10,7 +10,7 @@ Not sure what to draw? Pick unchecked icons from **[ROADMAP.md](ROADMAP.md)**.
 2. Create a branch: `git checkout -b icon/<name>`.
 3. Add the 3 files and the metadata, following the style guide in **[AGENTS.md](AGENTS.md)**:
    - `svg/line/<name>.svg`
-   - `svg/solid/<name>.svg`
+   - `svg/solid/<name>.svg` (not needed for icons made only of lines)
    - `svg/duotone/<name>.svg`
    - an entry in `metadata.json`
 4. Run the checks (Node 20+):

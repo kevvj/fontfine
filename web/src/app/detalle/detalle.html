@@ -13,15 +13,12 @@
   <div class="vista">
     <span class="ff-anim ff-{{ icono().animacion }}" [class.quieto]="movimiento() === 'off'" [style.--ff-origin]="icono().origen" [innerHTML]="icono() | svg: version() : 120 : grosor()"></span>
   </div>
-  @if (faltaRelleno()) {
-    <p class="nota">This icon has no solid version yet. Showing the line version.</p>
-  }
 
   <h3>Variants</h3>
   <div class="versiones">
     @for (v of versiones; track v.id) {
       <button type="button" [class.activa]="versionActiva() === v.id" (click)="cambiarVersion.emit(v.id)"
-        [disabled]="v.id === 'solid' && !icono().relleno" [attr.aria-pressed]="versionActiva() === v.id">
+        [attr.aria-pressed]="versionActiva() === v.id">
         <span [innerHTML]="icono() | svg: v.id : 28"></span>
         <small>{{ v.nombre }}</small>
       </button>

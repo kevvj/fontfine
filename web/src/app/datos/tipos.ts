@@ -33,14 +33,14 @@ export const VERSIONES: { id: Version; nombre: string; grosor: number | null }[]
 export const GROSOR_MIN = 0.5;
 export const GROSOR_MAX = 3;
 
-/** Arma el SVG completo de un ícono en una versión. Si no hay relleno, usa la línea. */
+/** Arma el SVG completo de un ícono en una versión. Sin relleno propio (íconos de solo líneas), el relleno es la línea en bold. */
 export function svgDe(icono: Icono, version: Version, tamano = 24, grosor?: number, color = 'currentColor'): string {
   const v = VERSIONES.find((x) => x.id === version)!;
   const relleno = version === 'duotone' ? icono.duotono : version === 'solid' ? icono.relleno : null;
   if (relleno) {
     return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="${tamano}" height="${tamano}" fill="${color}" fill-rule="evenodd">${relleno}</svg>`;
   }
-  const trazo = grosor ?? v.grosor ?? 1.25;
+  const trazo = version === 'solid' ? 2.25 : (grosor ?? v.grosor ?? 1.25);
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="${tamano}" height="${tamano}" fill="none" stroke="${color}" stroke-width="${trazo}" stroke-linecap="round" stroke-linejoin="round">${icono.linea}</svg>`;
 }
 

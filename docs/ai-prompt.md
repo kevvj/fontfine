@@ -9,7 +9,7 @@ Icon: ICON_NAME  (what it shows: DESCRIBE THE OBJECT IN ONE SENTENCE)
 
 Give me exactly 4 code blocks, nothing else:
 1. svg/line/ICON_NAME.svg
-2. svg/solid/ICON_NAME.svg
+2. svg/solid/ICON_NAME.svg (skip it if the icon is only lines, like an arrow: then the bold line is used)
 3. svg/duotone/ICON_NAME.svg
 4. the metadata.json entry
 

@@ -59,7 +59,7 @@ export function partes(icon: IconData, opts: SvgOptions = {}) {
     attrs['fill'] = color;
     attrs['fill-rule'] = 'evenodd';
   } else {
-    const ancho = opts.strokeWidth ?? STROKE_WIDTHS[variant === 'solid' || variant === 'duotone' ? 'light' : variant];
+    const ancho = opts.strokeWidth ?? STROKE_WIDTHS[variant === 'solid' ? 'bold' : variant === 'duotone' ? 'light' : variant];
     Object.assign(attrs, { fill: 'none', stroke: color, 'stroke-width': String(ancho), 'stroke-linecap': 'round', 'stroke-linejoin': 'round' });
   }
   const clases = [opts.className];

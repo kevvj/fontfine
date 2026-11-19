@@ -8,7 +8,7 @@ One icon = **3 SVG files with the same name** + **1 entry in `metadata.json`**:
 
 ```
 svg/line/<name>.svg      thin line, the source of truth
-svg/solid/<name>.svg     filled
+svg/solid/<name>.svg     filled (only when the icon has areas to fill)
 svg/duotone/<name>.svg   two tones, straight corners
 metadata.json            category, tags, animation
 ```
@@ -31,6 +31,7 @@ Start the file with exactly this line (one line, no line breaks inside the tag):
 
 - Shapes inherit stroke from the root. **Never** set `stroke`, `stroke-width`, or a color on shapes. That way users can change the width (thin 0.75 to bold 2.25).
 - No fill, except tiny dots (`r` ≤ 1) when really needed.
+- Inner parts that must keep their size at any width (battery charge bars, progress fill, dotted grids): `fill="currentColor" stroke="none"`, and leave at least 1.5 px to the outline. Check the icon at stroke 2.25.
 - Simple and clean: few paths, round ends, gaps of at least 1.5 px between lines so it still reads at 16 px and at stroke 2.25.
 - Prefer `<path>`, `<circle>`, `<rect rx>`. Use 1 or 2 decimals at most.
 
@@ -46,6 +47,7 @@ Example (`svg/line/bell.svg` style):
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" fill-rule="evenodd">
 ```
 
+- **Only when the icon has areas to fill** (a bell, a folder, a heart). Icons made only of lines (arrows, chevrons, letters, check, menu) have **no solid file**: the library shows the line at bold width (2.25) instead.
 - Same shape as the line icon, filled. It must look **the same size** as the line version (the outer edge of the solid = the outer edge of the line stroke, about 0.6 px bigger than the line path).
 - Details are **holes**: draw them as extra subpaths in the same `<path>` (`fill-rule="evenodd"` cuts them out). Careful: two overlapping subpaths in one path also make a hole.
 - If you need a gap that crosses shapes, use a `<mask id="ff-<name>">` with `#fff` / `#000` (see `svg/solid/eye-off.svg`).
