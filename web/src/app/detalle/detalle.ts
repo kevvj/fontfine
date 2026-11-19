@@ -1,5 +1,5 @@
 import { Component, computed, input, output } from '@angular/core';
-import { Icono, VERSIONES, Version, svgDe } from '../datos/tipos';
+import { Icono, Movimiento, VERSIONES, Version, svgDe } from '../datos/tipos';
 import { SvgPipe } from '../svg.pipe';
 
 @Component({
@@ -13,6 +13,19 @@ export class Detalle {
   readonly version = input.required<Version>();
   readonly grosor = input.required<number>();
   readonly versionActiva = input.required<Version | null>();
+  readonly movimiento = input<Movimiento>("hover");
+  /** Cómo usar la animación de este ícono (React y CSS). */
+  protected readonly codigoAnimacion = computed(() => {
+    const i = this.icono();
+    const p = i.nombre.split("-").map((x) => x[0].toUpperCase() + x.slice(1)).join("");
+    return `import 'fontfine/animations.css';
+
+// React
+<${p} animate="hover" />
+
+<!-- HTML, Angular, Vue -->
+<fontfine-icon name="${i.nombre}" animate="hover"></fontfine-icon>`;
+  });
   readonly cerrar = output<void>();
   readonly cambiarVersion = output<Version>();
   readonly etiqueta = output<string>();

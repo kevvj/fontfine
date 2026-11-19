@@ -37,6 +37,8 @@ const iconos = Object.keys(linea).map((nombre) => ({
   etiquetas: metadatos[nombre].tags,
   linea: linea[nombre],
   relleno: relleno[nombre] ?? null,
+  animacion: metadatos[nombre].animation ?? "pulse",
+  origen: metadatos[nombre].origin ?? null,
 }));
 
 const destino = join(raiz, "web", "src", "app", "datos");
@@ -47,4 +49,6 @@ import type { Icono } from './tipos';
 
 export const ICONOS: Icono[] = ${JSON.stringify(iconos, null, 2)};
 `);
+// Animaciones: la web usa el mismo CSS que el paquete.
+writeFileSync(join(raiz, "web", "src", "animaciones.generado.css"), readFileSync(join(raiz, "animations.css"), "utf8"));
 console.log(`${iconos.length} íconos (${Object.keys(relleno).length} con relleno) -> web/src/app/datos/`);

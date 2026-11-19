@@ -4,7 +4,8 @@
     "tags": [
       "arrow",
       "down"
-    ]
+    ],
+    "animation": "nudge-down"
   },
   "arrow-left": {
     "category": "Arrows",
@@ -17,7 +18,8 @@
       "volver",
       "atras",
       "regresar"
-    ]
+    ],
+    "animation": "nudge-left"
   },
   "arrow-right": {
     "category": "Arrows",
@@ -26,14 +28,16 @@
       "right",
       "next",
       "forward"
-    ]
+    ],
+    "animation": "nudge-right"
   },
   "arrow-up": {
     "category": "Arrows",
     "tags": [
       "arrow",
       "up"
-    ]
+    ],
+    "animation": "nudge-up"
   },
   "audio-mixer": {
     "category": "Music & Audio",
@@ -47,7 +51,8 @@
       "consola sonido",
       "mezclador",
       "volumen"
-    ]
+    ],
+    "animation": "slide"
   },
   "ban": {
     "category": "Actions",
@@ -61,7 +66,8 @@
       "bloquear",
       "no",
       "permitido"
-    ]
+    ],
+    "animation": "shake"
   },
   "bell": {
     "category": "Interface",
@@ -74,7 +80,9 @@
       "notificaciones",
       "avisos",
       "alarma"
-    ]
+    ],
+    "animation": "swing",
+    "origin": "50% 12%"
   },
   "bible": {
     "category": "Religion",
@@ -90,7 +98,8 @@
       "escrituras",
       "palabra",
       "lectura"
-    ]
+    ],
+    "animation": "flip"
   },
   "bolt": {
     "category": "Weather",
@@ -101,7 +110,8 @@
       "power",
       "energy",
       "rayo"
-    ]
+    ],
+    "animation": "flash"
   },
   "bookmark": {
     "category": "Interface",
@@ -111,7 +121,8 @@
       "favorite",
       "marcador",
       "guardar"
-    ]
+    ],
+    "animation": "bounce"
   },
   "box": {
     "category": "Objects",
@@ -127,7 +138,8 @@
       "almacen",
       "bodega",
       "envio"
-    ]
+    ],
+    "animation": "bounce"
   },
   "bug": {
     "category": "Status",
@@ -140,7 +152,8 @@
       "falla",
       "app",
       "insecto"
-    ]
+    ],
+    "animation": "wiggle"
   },
   "calendar": {
     "category": "Objects",
@@ -151,7 +164,8 @@
       "schedule",
       "calendario",
       "fecha"
-    ]
+    ],
+    "animation": "flip"
   },
   "camera": {
     "category": "Media",
@@ -161,7 +175,8 @@
       "picture",
       "camara",
       "foto"
-    ]
+    ],
+    "animation": "flash"
   },
   "candle": {
     "category": "Religion",
@@ -175,7 +190,9 @@
       "llama",
       "oracion",
       "vigilia"
-    ]
+    ],
+    "animation": "flicker",
+    "origin": "50% 100%"
   },
   "car": {
     "category": "Objects",
@@ -185,7 +202,8 @@
       "auto",
       "transport",
       "carro"
-    ]
+    ],
+    "animation": "drive"
   },
   "cart": {
     "category": "Objects",
@@ -196,7 +214,8 @@
       "store",
       "carrito",
       "compra"
-    ]
+    ],
+    "animation": "drive"
   },
   "chair": {
     "category": "Objects",
@@ -209,7 +228,9 @@
       "mueble",
       "comedor",
       "sentarse"
-    ]
+    ],
+    "animation": "rock",
+    "origin": "50% 100%"
   },
   "chalice": {
     "category": "Religion",
@@ -225,7 +246,9 @@
       "cena",
       "comunion",
       "vino"
-    ]
+    ],
+    "animation": "rock",
+    "origin": "50% 100%"
   },
   "chat": {
     "category": "Communication",
@@ -236,7 +259,8 @@
       "bubble",
       "mensaje",
       "comentario"
-    ]
+    ],
+    "animation": "pop"
   },
   "check": {
     "category": "Actions",
@@ -250,7 +274,8 @@
       "listo",
       "confirmar",
       "guardar"
-    ]
+    ],
+    "animation": "pop"
   },
   "chevron-down": {
     "category": "Arrows",
@@ -264,7 +289,8 @@
       "abrir",
       "lista",
       "bajar"
-    ]
+    ],
+    "animation": "nudge-down"
   },
   "chevron-left": {
     "category": "Arrows",
@@ -273,7 +299,8 @@
       "left",
       "back",
       "previous"
-    ]
+    ],
+    "animation": "nudge-left"
   },
   "chevron-right": {
     "category": "Arrows",
@@ -281,7 +308,8 @@
       "chevron",
       "right",
       "next"
-    ]
+    ],
+    "animation": "nudge-right"
   },
   "chevron-up": {
     "category": "Arrows",
@@ -289,7 +317,8 @@
       "chevron",
       "up",
       "collapse"
-    ]
+    ],
+    "animation": "nudge-up"
   },
   "church": {
     "category": "Places",
@@ -305,7 +334,8 @@
       "edificio",
       "capilla",
       "cruz"
-    ]
+    ],
+    "animation": "bounce"
   },
   "circle-alert": {
     "category": "Status",
@@ -318,7 +348,8 @@
       "circulo alerta",
       "problema",
       "fallo"
-    ]
+    ],
+    "animation": "shake"
   },
   "circle-check": {
     "category": "Status",
@@ -333,7 +364,8 @@
       "listo",
       "correcto",
       "completado"
-    ]
+    ],
+    "animation": "pop"
   },
   "circle-info": {
     "category": "Status",
@@ -346,7 +378,8 @@
       "informacion",
       "ayuda",
       "detalle"
-    ]
+    ],
+    "animation": "pop"
   },
   "circle-question": {
     "category": "Status",
@@ -357,7 +390,8 @@
       "support",
       "ayuda",
       "pregunta"
-    ]
+    ],
+    "animation": "wobble"
   },
   "clipboard": {
     "category": "Files",
@@ -367,7 +401,9 @@
       "notes",
       "list",
       "portapapeles"
-    ]
+    ],
+    "animation": "rock",
+    "origin": "50% 0%"
   },
   "clock": {
     "category": "Objects",
@@ -377,7 +413,8 @@
       "hour",
       "reloj",
       "hora"
-    ]
+    ],
+    "animation": "tick"
   },
   "cloud": {
     "category": "Weather",
@@ -386,7 +423,8 @@
       "weather",
       "storage",
       "nube"
-    ]
+    ],
+    "animation": "float"
   },
   "code": {
     "category": "Technology",
@@ -397,7 +435,8 @@
       "html",
       "codigo",
       "programar"
-    ]
+    ],
+    "animation": "pulse"
   },
   "copy": {
     "category": "Interface",
@@ -406,7 +445,8 @@
       "duplicate",
       "clone",
       "copiar"
-    ]
+    ],
+    "animation": "nudge-diag"
   },
   "credit-card": {
     "category": "Objects",
@@ -417,7 +457,8 @@
       "pay",
       "tarjeta",
       "pago"
-    ]
+    ],
+    "animation": "flip"
   },
   "cross": {
     "category": "Religion",
@@ -430,7 +471,8 @@
       "fe",
       "cristiano",
       "iglesia"
-    ]
+    ],
+    "animation": "pulse"
   },
   "dashboard": {
     "category": "Interface",
@@ -447,7 +489,8 @@
       "inicio",
       "panel",
       "cuadros"
-    ]
+    ],
+    "animation": "pulse"
   },
   "dot": {
     "category": "Interface",
@@ -460,7 +503,8 @@
       "circulo",
       "estado",
       "separador"
-    ]
+    ],
+    "animation": "pulse"
   },
   "download": {
     "category": "Actions",
@@ -472,7 +516,8 @@
       "bajar",
       "guardar",
       "exportar"
-    ]
+    ],
+    "animation": "nudge-down"
   },
   "drum": {
     "category": "Music & Audio",
@@ -486,7 +531,8 @@
       "percusion",
       "ritmo",
       "instrumento"
-    ]
+    ],
+    "animation": "beat-fast"
   },
   "ellipsis": {
     "category": "Interface",
@@ -500,7 +546,8 @@
       "mas",
       "opciones",
       "tres"
-    ]
+    ],
+    "animation": "dots"
   },
   "external-link": {
     "category": "Arrows",
@@ -515,7 +562,8 @@
       "fuera",
       "nueva",
       "ventana"
-    ]
+    ],
+    "animation": "nudge-diag"
   },
   "eye": {
     "category": "Interface",
@@ -529,7 +577,8 @@
       "ver",
       "mostrar",
       "contraseña"
-    ]
+    ],
+    "animation": "blink"
   },
   "eye-off": {
     "category": "Interface",
@@ -544,7 +593,8 @@
       "ocultar",
       "esconder",
       "contraseña"
-    ]
+    ],
+    "animation": "blink"
   },
   "file-json": {
     "category": "Files",
@@ -559,7 +609,8 @@
       "datos",
       "llaves",
       "programacion"
-    ]
+    ],
+    "animation": "float"
   },
   "file-text": {
     "category": "Files",
@@ -575,7 +626,8 @@
       "hoja",
       "informe",
       "texto"
-    ]
+    ],
+    "animation": "float"
   },
   "flag": {
     "category": "Objects",
@@ -584,7 +636,9 @@
       "report",
       "mark",
       "bandera"
-    ]
+    ],
+    "animation": "wave",
+    "origin": "20% 50%"
   },
   "floor-plan": {
     "category": "Places",
@@ -600,7 +654,8 @@
       "arquitectura",
       "habitaciones",
       "piso"
-    ]
+    ],
+    "animation": "pulse"
   },
   "folder": {
     "category": "Files",
@@ -608,7 +663,8 @@
       "folder",
       "directory",
       "carpeta"
-    ]
+    ],
+    "animation": "bounce"
   },
   "funnel": {
     "category": "Interface",
@@ -620,7 +676,8 @@
       "filtro",
       "filtrar",
       "ventas"
-    ]
+    ],
+    "animation": "drip"
   },
   "gear": {
     "category": "Interface",
@@ -635,7 +692,8 @@
       "configuracion",
       "opciones",
       "preferencias"
-    ]
+    ],
+    "animation": "spin"
   },
   "gift": {
     "category": "Objects",
@@ -644,7 +702,8 @@
       "present",
       "birthday",
       "regalo"
-    ]
+    ],
+    "animation": "shake"
   },
   "globe": {
     "category": "Interface",
@@ -656,7 +715,8 @@
       "web",
       "mundo",
       "idioma"
-    ]
+    ],
+    "animation": "turn-y"
   },
   "grip": {
     "category": "Interface",
@@ -670,7 +730,8 @@
       "arrastrar",
       "mover",
       "reordenar"
-    ]
+    ],
+    "animation": "slide"
   },
   "headphones": {
     "category": "Music & Audio",
@@ -685,7 +746,8 @@
       "escuchar",
       "monitoreo",
       "cascos"
-    ]
+    ],
+    "animation": "beat"
   },
   "heart": {
     "category": "Interface",
@@ -695,7 +757,8 @@
       "love",
       "favorite",
       "corazon"
-    ]
+    ],
+    "animation": "beat"
   },
   "home": {
     "category": "Places",
@@ -708,7 +771,8 @@
       "inicio",
       "hogar",
       "principal"
-    ]
+    ],
+    "animation": "bounce"
   },
   "image": {
     "category": "Media",
@@ -718,7 +782,8 @@
       "photo",
       "imagen",
       "foto"
-    ]
+    ],
+    "animation": "float"
   },
   "key": {
     "category": "Security",
@@ -728,7 +793,9 @@
       "access",
       "clave",
       "llave"
-    ]
+    ],
+    "animation": "turn-key",
+    "origin": "30% 70%"
   },
   "lectern": {
     "category": "Religion",
@@ -741,7 +808,9 @@
       "pulpito",
       "podio",
       "predica"
-    ]
+    ],
+    "animation": "rock",
+    "origin": "50% 100%"
   },
   "lightbulb": {
     "category": "Objects",
@@ -751,7 +820,8 @@
       "light",
       "bulb",
       "bombillo"
-    ]
+    ],
+    "animation": "glow"
   },
   "link": {
     "category": "Interface",
@@ -761,7 +831,8 @@
       "url",
       "hyperlink",
       "enlace"
-    ]
+    ],
+    "animation": "wiggle"
   },
   "list": {
     "category": "Interface",
@@ -770,7 +841,8 @@
       "items",
       "bullets",
       "lista"
-    ]
+    ],
+    "animation": "nudge-right"
   },
   "lock": {
     "category": "Security",
@@ -786,7 +858,8 @@
       "seguro",
       "privado",
       "clave"
-    ]
+    ],
+    "animation": "shake"
   },
   "lock-open": {
     "category": "Security",
@@ -800,7 +873,8 @@
       "abierto",
       "acceso",
       "libre"
-    ]
+    ],
+    "animation": "wiggle"
   },
   "log-in": {
     "category": "Arrows",
@@ -813,7 +887,8 @@
       "entrar",
       "iniciar",
       "sesion"
-    ]
+    ],
+    "animation": "nudge-right"
   },
   "log-out": {
     "category": "Arrows",
@@ -826,7 +901,8 @@
       "salir",
       "cerrar",
       "sesion"
-    ]
+    ],
+    "animation": "nudge-right"
   },
   "mail": {
     "category": "Communication",
@@ -836,7 +912,8 @@
       "envelope",
       "message",
       "correo"
-    ]
+    ],
+    "animation": "float"
   },
   "map-pin": {
     "category": "Places",
@@ -852,7 +929,8 @@
       "lugar",
       "direccion",
       "marcador"
-    ]
+    ],
+    "animation": "bounce"
   },
   "menu": {
     "category": "Interface",
@@ -861,7 +939,8 @@
       "bars",
       "hamburger",
       "navigation"
-    ]
+    ],
+    "animation": "squash"
   },
   "microchip": {
     "category": "Objects",
@@ -874,7 +953,8 @@
       "componente",
       "procesador",
       "electronica"
-    ]
+    ],
+    "animation": "pulse"
   },
   "microphone": {
     "category": "Music & Audio",
@@ -889,7 +969,9 @@
       "cantar",
       "hablar",
       "inalambrico"
-    ]
+    ],
+    "animation": "wiggle",
+    "origin": "50% 90%"
   },
   "minus": {
     "category": "Actions",
@@ -899,7 +981,8 @@
       "subtract",
       "menos",
       "restar"
-    ]
+    ],
+    "animation": "pulse"
   },
   "moon": {
     "category": "Weather",
@@ -910,7 +993,8 @@
       "mode",
       "luna",
       "oscuro"
-    ]
+    ],
+    "animation": "rock"
   },
   "mushroom": {
     "category": "Nature",
@@ -924,7 +1008,8 @@
       "champiñon",
       "bosque",
       "comida"
-    ]
+    ],
+    "animation": "bounce"
   },
   "music": {
     "category": "Music & Audio",
@@ -938,7 +1023,8 @@
       "cancion",
       "alabanza",
       "melodia"
-    ]
+    ],
+    "animation": "dance"
   },
   "paperclip": {
     "category": "Objects",
@@ -948,7 +1034,8 @@
       "attachment",
       "clip",
       "adjuntar"
-    ]
+    ],
+    "animation": "wiggle"
   },
   "pause": {
     "category": "Media",
@@ -956,7 +1043,8 @@
       "pause",
       "stop",
       "pausa"
-    ]
+    ],
+    "animation": "pulse"
   },
   "pencil": {
     "category": "Actions",
@@ -969,7 +1057,8 @@
       "editar",
       "escribir",
       "modificar"
-    ]
+    ],
+    "animation": "write"
   },
   "phone": {
     "category": "Communication",
@@ -979,7 +1068,8 @@
       "telephone",
       "telefono",
       "llamar"
-    ]
+    ],
+    "animation": "ring"
   },
   "piano": {
     "category": "Music & Audio",
@@ -993,7 +1083,8 @@
       "sintetizador",
       "teclas",
       "instrumento"
-    ]
+    ],
+    "animation": "beat"
   },
   "play": {
     "category": "Media",
@@ -1003,7 +1094,8 @@
       "video",
       "audio",
       "reproducir"
-    ]
+    ],
+    "animation": "nudge-right"
   },
   "plus": {
     "category": "Actions",
@@ -1018,7 +1110,8 @@
       "crear",
       "sumar",
       "añadir"
-    ]
+    ],
+    "animation": "quarter"
   },
   "podium": {
     "category": "Objects",
@@ -1035,7 +1128,8 @@
       "competencia",
       "primer",
       "lugar"
-    ]
+    ],
+    "animation": "bounce"
   },
   "print": {
     "category": "Objects",
@@ -1044,7 +1138,8 @@
       "printer",
       "imprimir",
       "impresora"
-    ]
+    ],
+    "animation": "nudge-down"
   },
   "projector": {
     "category": "Music & Audio",
@@ -1057,7 +1152,8 @@
       "pantalla",
       "presentacion",
       "diapositivas"
-    ]
+    ],
+    "animation": "glow"
   },
   "qr-code": {
     "category": "Objects",
@@ -1069,7 +1165,8 @@
       "codigo",
       "escanear",
       "etiqueta"
-    ]
+    ],
+    "animation": "pulse"
   },
   "radio-button": {
     "category": "Interface",
@@ -1084,7 +1181,8 @@
       "seleccion",
       "formulario",
       "elegir"
-    ]
+    ],
+    "animation": "pop"
   },
   "ram": {
     "category": "Technology",
@@ -1097,7 +1195,8 @@
       "memoria",
       "computador",
       "pc"
-    ]
+    ],
+    "animation": "pulse"
   },
   "refresh": {
     "category": "Arrows",
@@ -1107,7 +1206,8 @@
       "rotate",
       "sync",
       "actualizar"
-    ]
+    ],
+    "animation": "spin"
   },
   "rock": {
     "category": "Nature",
@@ -1118,7 +1218,8 @@
       "roca",
       "piedra",
       "montaña"
-    ]
+    ],
+    "animation": "wobble"
   },
   "save": {
     "category": "Files",
@@ -1128,7 +1229,8 @@
       "disk",
       "guardar",
       "disquete"
-    ]
+    ],
+    "animation": "bounce"
   },
   "scan": {
     "category": "Actions",
@@ -1141,7 +1243,8 @@
       "escanear",
       "camara",
       "leer"
-    ]
+    ],
+    "animation": "pulse"
   },
   "school": {
     "category": "Places",
@@ -1155,7 +1258,8 @@
       "educacion",
       "estudiar",
       "clases"
-    ]
+    ],
+    "animation": "bounce"
   },
   "search": {
     "category": "Actions",
@@ -1169,7 +1273,8 @@
       "buscar",
       "busqueda",
       "encontrar"
-    ]
+    ],
+    "animation": "search"
   },
   "share": {
     "category": "Communication",
@@ -1178,7 +1283,8 @@
       "network",
       "send",
       "compartir"
-    ]
+    ],
+    "animation": "pop"
   },
   "shield": {
     "category": "Security",
@@ -1188,7 +1294,8 @@
       "protection",
       "escudo",
       "seguridad"
-    ]
+    ],
+    "animation": "pulse"
   },
   "sliders": {
     "category": "Interface",
@@ -1199,7 +1306,8 @@
       "adjust",
       "controls",
       "ajustes"
-    ]
+    ],
+    "animation": "slide"
   },
   "smile": {
     "category": "People",
@@ -1210,7 +1318,8 @@
       "emoji",
       "feliz",
       "cara"
-    ]
+    ],
+    "animation": "wobble"
   },
   "solar-panel": {
     "category": "Nature",
@@ -1225,7 +1334,9 @@
       "renovable",
       "sol",
       "electricidad"
-    ]
+    ],
+    "animation": "rock",
+    "origin": "50% 100%"
   },
   "sort-alphabetical": {
     "category": "Interface",
@@ -1240,7 +1351,8 @@
       "alfabeto",
       "lista",
       "abc"
-    ]
+    ],
+    "animation": "nudge-down"
   },
   "speaker": {
     "category": "Objects",
@@ -1256,7 +1368,8 @@
       "sonido",
       "equipo",
       "accesorio"
-    ]
+    ],
+    "animation": "beat"
   },
   "star": {
     "category": "Interface",
@@ -1265,7 +1378,8 @@
       "favorite",
       "rating",
       "estrella"
-    ]
+    ],
+    "animation": "star"
   },
   "sun": {
     "category": "Weather",
@@ -1276,7 +1390,8 @@
       "bright",
       "sol",
       "claro"
-    ]
+    ],
+    "animation": "spin-slow"
   },
   "tag": {
     "category": "Objects",
@@ -1286,7 +1401,9 @@
       "price",
       "etiqueta",
       "precio"
-    ]
+    ],
+    "animation": "swing",
+    "origin": "20% 20%"
   },
   "thumbs-up": {
     "category": "Interface",
@@ -1298,7 +1415,9 @@
       "ok",
       "me",
       "gusta"
-    ]
+    ],
+    "animation": "thumb",
+    "origin": "30% 80%"
   },
   "tooth": {
     "category": "Health",
@@ -1310,7 +1429,8 @@
       "dentista",
       "muela",
       "odontologia"
-    ]
+    ],
+    "animation": "wiggle"
   },
   "trash": {
     "category": "Actions",
@@ -1325,7 +1445,8 @@
       "eliminar",
       "basura",
       "quitar"
-    ]
+    ],
+    "animation": "shake"
   },
   "triangle-alert": {
     "category": "Status",
@@ -1340,7 +1461,8 @@
       "cuidado",
       "peligro",
       "alerta"
-    ]
+    ],
+    "animation": "shake"
   },
   "upload": {
     "category": "Arrows",
@@ -1349,7 +1471,8 @@
       "send",
       "export",
       "subir"
-    ]
+    ],
+    "animation": "nudge-up"
   },
   "user": {
     "category": "People",
@@ -1362,7 +1485,8 @@
       "usuario",
       "cuenta",
       "perfil"
-    ]
+    ],
+    "animation": "bounce"
   },
   "user-plus": {
     "category": "People",
@@ -1375,7 +1499,8 @@
       "invite",
       "agregar",
       "usuario"
-    ]
+    ],
+    "animation": "bounce"
   },
   "users": {
     "category": "People",
@@ -1389,7 +1514,8 @@
       "grupo",
       "equipo",
       "gente"
-    ]
+    ],
+    "animation": "bounce"
   },
   "video": {
     "category": "Media",
@@ -1399,7 +1525,8 @@
       "movie",
       "camera",
       "record"
-    ]
+    ],
+    "animation": "pulse"
   },
   "volume": {
     "category": "Media",
@@ -1410,7 +1537,8 @@
       "speaker",
       "volumen",
       "sonido"
-    ]
+    ],
+    "animation": "beat"
   },
   "volume-off": {
     "category": "Media",
@@ -1420,7 +1548,8 @@
       "mute",
       "silent",
       "silencio"
-    ]
+    ],
+    "animation": "shake"
   },
   "wifi": {
     "category": "Technology",
@@ -1431,7 +1560,8 @@
       "network",
       "signal",
       "red"
-    ]
+    ],
+    "animation": "signal"
   },
   "wrench": {
     "category": "Objects",
@@ -1448,7 +1578,9 @@
       "reparar",
       "arreglar",
       "ajustar"
-    ]
+    ],
+    "animation": "wiggle",
+    "origin": "25% 75%"
   },
   "x": {
     "category": "Actions",
@@ -1462,6 +1594,7 @@
       "quitar",
       "salir",
       "equis"
-    ]
+    ],
+    "animation": "quarter"
   }
 }

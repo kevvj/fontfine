@@ -1,0 +1,86 @@
+/* fontfine animations. With the npm package use the `animate` option; by hand, add class "ff-anim ff-<name>" to the svg or its wrapper.
+   Origin: set --ff-origin (default 50% 50%). Respects prefers-reduced-motion. */
+.ff-anim{display:inline-flex;transform-origin:var(--ff-origin,50% 50%);animation-iteration-count:infinite}
+@keyframes ff-nudge-left{0%,100%{transform:none}50%{transform:translateX(-3px)}}
+@keyframes ff-nudge-right{0%,100%{transform:none}50%{transform:translateX(3px)}}
+@keyframes ff-nudge-up{0%,100%{transform:none}50%{transform:translateY(-3px)}}
+@keyframes ff-nudge-down{0%,100%{transform:none}50%{transform:translateY(3px)}}
+@keyframes ff-nudge-diag{0%,100%{transform:none}50%{transform:translate(2px,-2px)}}
+@keyframes ff-spin{to{transform:rotate(360deg)}}
+@keyframes ff-spin-slow{to{transform:rotate(360deg)}}
+@keyframes ff-turn-y{0%{transform:perspective(60px) rotateY(0)}100%{transform:perspective(60px) rotateY(360deg)}}
+@keyframes ff-quarter{0%,60%{transform:none}100%{transform:rotate(90deg)}}
+@keyframes ff-swing{0%,100%{transform:rotate(0)}15%{transform:rotate(16deg)}30%{transform:rotate(-12deg)}45%{transform:rotate(8deg)}60%{transform:rotate(-4deg)}75%{transform:rotate(0)}}
+@keyframes ff-wave{0%,100%{transform:skewY(0)}25%{transform:skewY(-6deg)}75%{transform:skewY(6deg)}}
+@keyframes ff-beat{0%,40%,100%{transform:scale(1)}10%,30%{transform:scale(1.18)}20%{transform:scale(1.05)}}
+@keyframes ff-beat-fast{0%,100%{transform:scale(1)}50%{transform:scale(1.15)}}
+@keyframes ff-shake{0%,50%,100%{transform:none}5%,15%,25%,35%{transform:translateX(-2px) rotate(-3deg)}10%,20%,30%,40%{transform:translateX(2px) rotate(3deg)}}
+@keyframes ff-wiggle{0%,60%,100%{transform:rotate(0)}10%,30%{transform:rotate(-14deg)}20%,40%{transform:rotate(14deg)}50%{transform:rotate(-6deg)}}
+@keyframes ff-slide{0%,100%{transform:translateX(0)}50%{transform:translateX(2px)}}
+@keyframes ff-tick{0%{transform:rotate(0)}12.5%{transform:rotate(6deg)}25%{transform:rotate(6deg)}37.5%{transform:rotate(0)}50%{transform:rotate(0)}62.5%{transform:rotate(-6deg)}75%{transform:rotate(-6deg)}87.5%,100%{transform:rotate(0)}}
+@keyframes ff-bounce{0%,100%{transform:translateY(0) scale(1)}30%{transform:translateY(-4px) scale(1)}50%{transform:translateY(0) scale(1.06,.94)}65%{transform:translateY(-1px)}}
+@keyframes ff-pop{0%,100%{transform:scale(1)}30%{transform:scale(1.22)}55%{transform:scale(.94)}75%{transform:scale(1.04)}}
+@keyframes ff-star{0%,100%{transform:rotate(0) scale(1)}40%{transform:rotate(72deg) scale(1.2)}70%,90%{transform:rotate(72deg) scale(1)}}
+@keyframes ff-wobble{0%,100%{transform:rotate(0)}20%{transform:rotate(-10deg)}40%{transform:rotate(8deg)}60%{transform:rotate(-5deg)}80%{transform:rotate(2deg)}}
+@keyframes ff-blink{0%,40%,50%,100%{transform:scaleY(1)}45%{transform:scaleY(.1)}}
+@keyframes ff-flicker{0%,100%{transform:scale(1,1)}20%{transform:scale(.97,1.04)}40%{transform:scale(1.03,.97)}60%{transform:scale(.98,1.03)}80%{transform:scale(1.02,.98)}}
+@keyframes ff-glow{0%,100%{opacity:1;filter:none}50%{opacity:.55}}
+@keyframes ff-flash{0%,30%,60%,100%{opacity:1}15%,45%{opacity:.2}}
+@keyframes ff-write{0%,100%{transform:translate(0,0) rotate(0)}25%{transform:translate(2px,1px) rotate(-6deg)}50%{transform:translate(0,2px) rotate(0)}75%{transform:translate(-2px,1px) rotate(6deg)}}
+@keyframes ff-dance{0%,100%{transform:translateY(0) rotate(0)}25%{transform:translateY(-2px) rotate(-10deg)}75%{transform:translateY(-2px) rotate(10deg)}}
+@keyframes ff-ring{0%,50%,100%{transform:rotate(0)}5%,15%,25%,35%{transform:rotate(-15deg)}10%,20%,30%,40%{transform:rotate(15deg)}}
+@keyframes ff-drive{0%,100%{transform:translate(0,0)}25%{transform:translate(1.5px,-.8px)}50%{transform:translate(3px,0)}75%{transform:translate(1.5px,-.8px)}}
+@keyframes ff-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes ff-rock{0%,100%{transform:rotate(0)}25%{transform:rotate(-8deg)}75%{transform:rotate(8deg)}}
+@keyframes ff-flip{0%,30%{transform:perspective(60px) rotateY(0)}70%,100%{transform:perspective(60px) rotateY(180deg)}}
+@keyframes ff-thumb{0%,100%{transform:rotate(0)}30%{transform:rotate(-18deg)}50%{transform:rotate(-14deg)}70%{transform:rotate(0)}}
+@keyframes ff-turn-key{0%,100%{transform:rotate(0)}40%,60%{transform:rotate(-40deg)}}
+@keyframes ff-search{0%,100%{transform:translate(0,0)}25%{transform:translate(2px,-2px)}50%{transform:translate(0,-3px)}75%{transform:translate(-2px,-2px)}}
+@keyframes ff-drip{0%,100%{transform:scaleY(1)}50%{transform:scaleY(.88) translateY(1px)}}
+@keyframes ff-signal{0%{opacity:.25}50%,100%{opacity:1}}
+@keyframes ff-dots{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes ff-squash{0%,100%{transform:scaleX(1)}50%{transform:scaleX(.75)}}
+@keyframes ff-pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(.9);opacity:.7}}
+.ff-beat{animation:ff-beat 1.4s ease-in-out infinite}
+.ff-beat-fast{animation:ff-beat-fast .45s ease-in-out infinite}
+.ff-blink{animation:ff-blink 1.6s ease-in-out infinite}
+.ff-bounce{animation:ff-bounce 1.6s ease-in-out infinite}
+.ff-dance{animation:ff-dance 1.6s ease-in-out infinite}
+.ff-dots{animation:ff-dots 1.6s ease-in-out infinite}
+.ff-drip{animation:ff-drip 1.6s ease-in-out infinite}
+.ff-drive{animation:ff-drive 1.6s ease-in-out infinite}
+.ff-flash{animation:ff-flash 1.6s ease-in-out infinite}
+.ff-flicker{animation:ff-flicker 1.6s ease-in-out infinite}
+.ff-flip{animation:ff-flip 1.6s ease-in-out infinite}
+.ff-float{animation:ff-float 1.6s ease-in-out infinite}
+.ff-glow{animation:ff-glow 1.6s ease-in-out infinite}
+.ff-nudge-diag{animation:ff-nudge-diag 1.6s ease-in-out infinite}
+.ff-nudge-down{animation:ff-nudge-down 1.6s ease-in-out infinite}
+.ff-nudge-left{animation:ff-nudge-left 1.6s ease-in-out infinite}
+.ff-nudge-right{animation:ff-nudge-right 1.6s ease-in-out infinite}
+.ff-nudge-up{animation:ff-nudge-up 1.6s ease-in-out infinite}
+.ff-pop{animation:ff-pop 1.6s ease-in-out infinite}
+.ff-pulse{animation:ff-pulse 1.6s ease-in-out infinite}
+.ff-quarter{animation:ff-quarter 1.6s ease-in-out infinite}
+.ff-ring{animation:ff-ring 1.6s ease-in-out infinite}
+.ff-rock{animation:ff-rock 1.6s ease-in-out infinite}
+.ff-search{animation:ff-search 1.6s ease-in-out infinite}
+.ff-shake{animation:ff-shake 1.6s ease-in-out infinite}
+.ff-signal{animation:ff-signal 1.6s ease-in-out infinite}
+.ff-slide{animation:ff-slide 1.6s ease-in-out infinite}
+.ff-spin{animation:ff-spin 1.4s linear infinite}
+.ff-spin-slow{animation:ff-spin-slow 6s linear infinite}
+.ff-squash{animation:ff-squash 1.6s ease-in-out infinite}
+.ff-star{animation:ff-star 1.6s ease-in-out infinite}
+.ff-swing{animation:ff-swing 1.6s ease-in-out infinite}
+.ff-thumb{animation:ff-thumb 1.6s ease-in-out infinite}
+.ff-tick{animation:ff-tick 1.6s ease-in-out infinite}
+.ff-turn-key{animation:ff-turn-key 1.6s ease-in-out infinite}
+.ff-turn-y{animation:ff-turn-y 2.4s linear infinite}
+.ff-wave{animation:ff-wave 1.6s ease-in-out infinite}
+.ff-wiggle{animation:ff-wiggle 1.6s ease-in-out infinite}
+.ff-wobble{animation:ff-wobble 1.6s ease-in-out infinite}
+.ff-write{animation:ff-write 1.6s ease-in-out infinite}
+/* animate="hover": only while the icon, or a parent with class ff-hover, is hovered */
+.ff-anim-hover:not(:hover, .ff-hover:hover *, .ff-hover:focus-visible *){animation:none}
+@media (prefers-reduced-motion:reduce){.ff-anim{animation:none!important}}

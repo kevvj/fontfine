@@ -2,4 +2,5 @@ node_modules/
 dist/
 .angular/
 web/src/app/datos/iconos.generado.ts
+web/src/animaciones.generado.css
 .env*

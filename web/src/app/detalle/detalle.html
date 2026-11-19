@@ -11,7 +11,7 @@
   </header>
 
   <div class="vista">
-    <span [innerHTML]="icono() | svg: version() : 120 : grosor()"></span>
+    <span class="ff-anim ff-{{ icono().animacion }}" [class.quieto]="movimiento() === 'off'" [style.--ff-origin]="icono().origen" [innerHTML]="icono() | svg: version() : 120 : grosor()"></span>
   </div>
   @if (faltaRelleno()) {
     <p class="nota">This icon has no solid version yet. Showing the line version.</p>
@@ -34,6 +34,13 @@
       <div><span [innerHTML]="icono() | svg: version() : t : grosor()"></span><small>{{ t }}</small></div>
     }
   </div>
+
+  <h3>Animation <span class="grosor">· {{ icono().animacion }}</span></h3>
+  <pre class="codigo"><code>{{ codigoAnimacion() }}</code></pre>
+  <div class="acciones">
+    <button type="button" class="boton" (click)="copiar(codigoAnimacion(), 'Animation code copied')">Copy animation code</button>
+  </div>
+  <p class="nota">Use <code>animate</code> to always play it, or <code>animate="hover"</code>. Turns off for users who prefer reduced motion.</p>
 
   <h3>Tags</h3>
   <div class="etiquetas">

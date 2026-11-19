@@ -55,3 +55,18 @@ test('React: un componente por ícono', () => {
 test('element: se puede importar en el servidor', async () => {
   await import('fontfine/element');
 });
+
+test('animate: clase de su animación, origen y modo hover', () => {
+  const s = core.toSvg(core.bell, { animate: true });
+  assert.match(s, /class="ff-anim ff-swing"/);
+  assert.match(s, /style="--ff-origin: 50% 12%"/);
+  assert.match(core.toSvg(core.gear, { animate: 'hover', className: 'x' }), /class="ff-anim ff-spin ff-anim-hover x"/);
+  assert.doesNotMatch(core.toSvg(core.gear), /ff-anim/);
+});
+
+test('React: animate y style juntos', () => {
+  const html = renderToStaticMarkup(createElement(react.Bell, { animate: 'hover', style: { color: 'red' } }));
+  assert.match(html, /class="ff-anim ff-swing ff-anim-hover"/);
+  assert.match(html, /--ff-origin:50% 12%/);
+  assert.match(html, /color:red/);
+});

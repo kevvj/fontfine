@@ -5,6 +5,10 @@ export interface IconData {
   tags: string[];
   line: string;
   solid: string | null;
+  /** Name of the icon's own animation (class ff-<name> in animations.css). */
+  animation: string;
+  /** Transform origin of the animation, when it is not the center. */
+  origin: string | null;
 }
 
 export type Variant = 'thin' | 'light' | 'regular' | 'bold' | 'solid';
@@ -30,6 +34,8 @@ export interface SvgOptions {
   title?: string;
   /** Extra class names. */
   className?: string;
+  /** Play the icon's own animation: true = always, 'hover' = on hover. Needs fontfine/animations.css. */
+  animate?: boolean | 'hover';
 }
 
 const escapar = (t: string) => t.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
@@ -53,7 +59,13 @@ export function partes(icon: IconData, opts: SvgOptions = {}) {
     const ancho = opts.strokeWidth ?? STROKE_WIDTHS[variant === 'solid' ? 'light' : variant];
     Object.assign(attrs, { fill: 'none', stroke: color, 'stroke-width': String(ancho), 'stroke-linecap': 'round', 'stroke-linejoin': 'round' });
   }
-  if (opts.className) attrs['class'] = opts.className;
+  const clases = [opts.className];
+  if (opts.animate) {
+    clases.unshift(`ff-anim ff-${icon.animation}` + (opts.animate === 'hover' ? ' ff-anim-hover' : ''));
+    if (icon.origin) attrs['style'] = `--ff-origin: ${icon.origin}`;
+  }
+  const clase = clases.filter(Boolean).join(' ');
+  if (clase) attrs['class'] = clase;
   if (opts.title) attrs['role'] = 'img';
   else attrs['aria-hidden'] = 'true';
   const titulo = opts.title ? `<title>${escapar(opts.title)}</title>` : '';

@@ -113,3 +113,8 @@ kbd {
   .tamano input { width: 90px; }
   .rejilla { grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); }
 }
+
+/* Animaciones: apagadas o solo al pasar el mouse por la tarjeta. */
+.cuerpo[data-anim=off] .ff-anim,
+.cuerpo[data-anim=hover] .tarjeta:not(:hover):not(:focus-visible) .ff-anim { animation: none; }
+.controles { flex-wrap: wrap; }

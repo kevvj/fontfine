@@ -1,6 +1,6 @@
 # fontfine
 
-Free and open source icons with a thin, clean line style. Every icon comes in five versions: **Thin**, **Light**, **Regular**, **Bold** and **Solid**, and the stroke width can be set to any value.
+Free and open source icons with a thin, clean line style. Every icon comes in five versions (**Thin**, **Light**, **Regular**, **Bold** and **Solid**), has its own animation, and the stroke width can be set to any value.
 
 **Website:** https://fontfine.vercel.app (search, preview and copy the SVG)
 
@@ -41,6 +41,26 @@ import 'fontfine/element';
 
 In Angular, add `CUSTOM_ELEMENTS_SCHEMA` to the component's `schemas`.
 
+### Animations
+
+Every icon has its own animation: the bell swings, the heart beats, the gear spins, the trash shakes... Import the CSS once:
+
+```js
+import 'fontfine/animations.css';
+```
+
+```jsx
+<Bell animate />             // always
+<Bell animate="hover" />     // only on hover
+```
+
+```html
+<fontfine-icon name="bell" animate></fontfine-icon>
+<fontfine-icon name="bell" animate="hover"></fontfine-icon>
+```
+
+With `animate="hover"`, add the class `ff-hover` to a parent (a button, for example) to animate the icon when the parent is hovered. Animations turn off for users who prefer reduced motion.
+
 ### SVG string (any framework, Node, SSR)
 
 ```js
@@ -65,6 +85,7 @@ fontfine/svg/solid/<name>.svg     solid version
 | `size` | number (px) or CSS size | `24` (`1em` in the web component) |
 | `color` | any CSS color | `currentColor` |
 | `title` / `label` | accessible name; without it the icon is decorative | – |
+| `animate` | `true` or `'hover'` (needs `fontfine/animations.css`) | – |
 
 ## Repository
 

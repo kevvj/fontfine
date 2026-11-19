@@ -34,7 +34,7 @@
   </label>
 </section>
 
-<div class="cuerpo">
+<div class="cuerpo" [attr.data-anim]="movimiento()">
   <nav class="categorias" aria-label="Categories">
     <h2>Categories</h2>
     <ul>
@@ -55,6 +55,12 @@
         @for (v of versiones; track v.id) {
           <button type="button" role="radio" [attr.aria-checked]="versionActiva() === v.id"
             [class.activa]="versionActiva() === v.id" (click)="elegirVersion(v.id)">{{ v.nombre }}</button>
+        }
+      </div>
+      <div class="segmentos" role="radiogroup" aria-label="Animation" title="Animation">
+        @for (m of movimientos; track m.id) {
+          <button type="button" role="radio" [attr.aria-checked]="movimiento() === m.id"
+            [class.activa]="movimiento() === m.id" (click)="movimiento.set(m.id)">{{ m.nombre }}</button>
         }
       </div>
       <label class="tamano">
@@ -85,7 +91,7 @@
             <button type="button" class="tarjeta" [class.elegida]="seleccionado()?.nombre === i.nombre"
               [class.sin-relleno]="version() === 'solid' && !i.relleno"
               [attr.aria-label]="i.nombre" (click)="seleccionado.set(i)">
-              <span class="dibujo" [innerHTML]="i | svg: version() : tamano() : grosor()"></span>
+              <span class="dibujo"><span class="ff-anim ff-{{ i.animacion }}" [style.--ff-origin]="i.origen" [innerHTML]="i | svg: version() : tamano() : grosor()"></span></span>
               <span class="nombre">{{ i.nombre }}</span>
               @if (version() === 'solid' && !i.relleno) { <span class="pronto">no solid yet</span> }
             </button>
@@ -104,7 +110,7 @@
 </div>
 
 @if (seleccionado(); as s) {
-  <app-detalle [icono]="s" [version]="version()" [grosor]="grosor()" [versionActiva]="versionActiva()" (cerrar)="seleccionado.set(null)"
+  <app-detalle [icono]="s" [version]="version()" [grosor]="grosor()" [versionActiva]="versionActiva()" [movimiento]="movimiento()" (cerrar)="seleccionado.set(null)"
     (cambiarVersion)="elegirVersion($event)" (etiqueta)="buscarEtiqueta($event)" (avisar)="mostrarAviso($event)" />
 }
 

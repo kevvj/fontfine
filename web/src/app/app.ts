@@ -1,6 +1,6 @@
 import { Component, HostListener, computed, effect, signal, viewChild, ElementRef } from '@angular/core';
 import { ICONOS } from './datos/iconos.generado';
-import { GROSOR_MAX, GROSOR_MIN, Icono, VERSIONES, Version, normalizar } from './datos/tipos';
+import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, VERSIONES, Version, normalizar } from './datos/tipos';
 import { SvgPipe } from './svg.pipe';
 import { Detalle } from './detalle/detalle';
 
@@ -32,6 +32,10 @@ export class App {
   protected readonly tema = signal<'claro' | 'oscuro'>('claro');
   protected readonly seleccionado = signal<Icono | null>(null);
   protected readonly aviso = signal<string | null>(null);
+  /** Animaciones: apagadas, al pasar el mouse o siempre. */
+  protected readonly movimiento = signal<Movimiento>("hover");
+  protected readonly movimientos: { id: Movimiento; nombre: string }[] = [
+    { id: "off", nombre: "Off" }, { id: "hover", nombre: "Hover" }, { id: "always", nombre: "Always" }];
 
   private readonly campoBusqueda = viewChild<ElementRef<HTMLInputElement>>('campoBusqueda');
   private temporizadorAviso?: ReturnType<typeof setTimeout>;

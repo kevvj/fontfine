@@ -6,7 +6,13 @@ export interface Icono {
   linea: string;
   /** Contenido interno del SVG relleno, o null si todavía no existe. */
   relleno: string | null;
+  /** Animación propia del ícono (clase ff-<nombre> de animations.css). */
+  animacion: string;
+  /** Punto de giro de la animación, si no es el centro. */
+  origen: string | null;
 }
+
+export type Movimiento = "off" | "hover" | "always";
 
 export type Version = 'thin' | 'light' | 'regular' | 'bold' | 'solid';
 

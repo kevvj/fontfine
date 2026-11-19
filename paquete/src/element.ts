@@ -1,5 +1,6 @@
 // <fontfine-icon> web component. Works in plain HTML, Angular, Vue, Svelte, etc.
 // <fontfine-icon name="wrench" variant="bold" size="32" stroke-width="1.5"></fontfine-icon>
+// <fontfine-icon name="bell" animate></fontfine-icon>  or  animate="hover" (needs fontfine/animations.css)
 import * as iconos from './iconos/index.js';
 import { toSvg, type IconData, type Variant } from './tipos.js';
 
@@ -9,7 +10,7 @@ const porNombre = new Map<string, IconData>(Object.values(iconos).map((i) => [i.
 const Base = (typeof HTMLElement === 'undefined' ? class {} : HTMLElement) as typeof HTMLElement;
 
 export class FontfineIcon extends Base {
-  static observedAttributes = ['name', 'variant', 'size', 'stroke-width', 'color', 'label'];
+  static observedAttributes = ['name', 'variant', 'size', 'stroke-width', 'color', 'label', 'animate'];
 
   connectedCallback() { this.render(); }
   attributeChangedCallback() { this.render(); }
@@ -25,6 +26,7 @@ export class FontfineIcon extends Base {
       strokeWidth: ancho ? Number(ancho) : undefined,
       color: this.getAttribute('color') ?? undefined,
       title: this.getAttribute('label') ?? undefined,
+      animate: this.hasAttribute('animate') ? (this.getAttribute('animate') === 'hover' ? 'hover' : true) : undefined,
     });
   }
 }

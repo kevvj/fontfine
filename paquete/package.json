@@ -9,17 +9,18 @@
   "repository": { "type": "git", "url": "git+https://github.com/kevvj/fontfine.git", "directory": "paquete" },
   "bugs": "https://github.com/kevvj/fontfine/issues",
   "type": "module",
-  "sideEffects": ["./dist/element.js"],
+  "sideEffects": ["./dist/element.js", "*.css"],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": { "types": "./dist/index.d.ts", "default": "./dist/index.js" },
     "./react": { "types": "./dist/react/index.d.ts", "default": "./dist/react/index.js" },
     "./element": { "types": "./dist/element.d.ts", "default": "./dist/element.js" },
+    "./animations.css": "./animations.css",
     "./svg/*": "./svg/*",
     "./package.json": "./package.json"
   },
-  "files": ["dist", "svg", "README.md", "LICENSE"],
+  "files": ["dist", "svg", "animations.css", "README.md", "LICENSE"],
   "scripts": {
     "generar": "node ../scripts/paquete.mjs",
     "build": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\" && npm run generar && tsc -p tsconfig.json",

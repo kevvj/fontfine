@@ -12,17 +12,22 @@ export interface IconProps extends Omit<SVGProps<SVGSVGElement>, 'children' | 'r
   color?: string;
   /** Accessible title. Without it the icon is decorative. */
   title?: string;
+  /** Play the icon's own animation: true = always, 'hover' = on hover. Import 'fontfine/animations.css' once. */
+  animate?: boolean | 'hover';
 }
 
 const aReact = (k: string) => k.replace(/-([a-z])/g, (_, l: string) => l.toUpperCase());
 
 export function createIcon(icon: IconData, displayName: string) {
   const Componente = forwardRef<SVGSVGElement, IconProps>(function Icono(
-    { size, variant, strokeWidth, color, title, className, ...resto },
+    { size, variant, strokeWidth, color, title, className, animate, style, ...resto },
     ref,
   ) {
-    const { attrs, inner } = partes(icon, { size, variant, strokeWidth, color, title, className });
+    const { attrs, inner } = partes(icon, { size, variant, strokeWidth, color, title, className, animate });
     const props: Record<string, unknown> = { ref, dangerouslySetInnerHTML: { __html: inner } };
+    const origen = attrs['style'];
+    delete attrs['style'];
+    if (origen || style) props['style'] = { ...(origen ? { '--ff-origin': icon.origin } : {}), ...style };
     for (const [k, v] of Object.entries(attrs)) props[k === 'class' ? 'className' : k.startsWith('aria-') ? k : aReact(k)] = v;
     return createElement('svg', { ...props, ...resto });
   });
