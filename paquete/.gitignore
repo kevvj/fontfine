@@ -1,0 +1,5 @@
+node_modules/
+dist/
+svg/
+src/iconos/
+src/react/iconos.ts
