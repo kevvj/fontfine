@@ -44,6 +44,10 @@ try {
   }
 } catch { /* sin git: todos iguales */ }
 const ahora = Math.floor(Date.now() / 1000);
+// "New": los íconos de las 3 últimas tandas (commits que agregaron íconos). Lo que aún no está en git también.
+const TANDAS_NUEVAS = 3;
+const fechas = [...new Set(Object.values(agregado))].sort((a, b) => b - a);
+const corte = fechas[TANDAS_NUEVAS - 1] ?? Infinity; // sin historial suficiente: ninguno
 
 const iconos = Object.keys(linea).map((nombre) => ({
   nombre,
@@ -55,6 +59,7 @@ const iconos = Object.keys(linea).map((nombre) => ({
   animacion: metadatos[nombre].animation ?? "pulse",
   origen: metadatos[nombre].origin ?? null,
   agregado: agregado[nombre] ?? ahora,
+  nuevo: (agregado[nombre] ?? ahora) >= corte,
 }));
 
 const destino = join(raiz, "web", "src", "app", "datos");

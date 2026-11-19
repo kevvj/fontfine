@@ -106,6 +106,7 @@
               [attr.aria-label]="i.nombre" (click)="seleccionado.set(i)">
               <span class="dibujo"><span class="ff-anim ff-{{ i.animacion }}" [style.--ff-origin]="i.origen" [innerHTML]="i | svg: version() : tamano() : grosor()"></span></span>
               <span class="nombre">{{ i.nombre }}</span>
+              @if (i.nuevo) { <span class="nuevo">New</span> }
             </button>
           </li>
         }

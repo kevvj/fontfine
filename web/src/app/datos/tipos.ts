@@ -14,6 +14,8 @@ export interface Icono {
   origen: string | null;
   /** Cuándo se agregó (segundos Unix), para ordenar por más recientes. */
   agregado: number;
+  /** Está entre las últimas tandas publicadas (muestra la etiqueta New). */
+  nuevo: boolean;
 }
 
 export type Orden = 'az' | 'new';
