@@ -1,6 +1,6 @@
 import { Component, HostListener, computed, effect, signal, viewChild, ElementRef } from '@angular/core';
 import { ICONOS } from './datos/iconos.generado';
-import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, VERSIONES, Version, esRelleno, normalizar } from './datos/tipos';
+import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, Orden, VERSIONES, Version, esRelleno, normalizar } from './datos/tipos';
 import { SvgPipe } from './svg.pipe';
 import { Detalle } from './detalle/detalle';
 import { Docs } from './docs/docs';
@@ -41,6 +41,12 @@ export class App {
   protected readonly movimientos: { id: Movimiento; nombre: string }[] = [
     { id: "off", nombre: "Off" }, { id: "hover", nombre: "Hover" }, { id: "always", nombre: "Always" }];
 
+  /** Orden de la rejilla: alfabético o más recientes primero. */
+  protected readonly orden = signal<Orden>('az');
+  protected readonly ordenes: { id: Orden; nombre: string }[] = [{ id: 'az', nombre: 'A–Z' }, { id: 'new', nombre: 'Newest' }];
+  private readonly comparar = (a: Icono, b: Icono): number =>
+    this.orden() === 'new' ? b.agregado - a.agregado || a.nombre.localeCompare(b.nombre) : a.nombre.localeCompare(b.nombre);
+
   private readonly campoBusqueda = viewChild<ElementRef<HTMLInputElement>>('campoBusqueda');
   private temporizadorAviso?: ReturnType<typeof setTimeout>;
 
@@ -55,7 +61,7 @@ export class App {
     const q = normalizar(this.busqueda());
     const cat = this.categoria();
     const base = cat === TODAS ? this.iconos : this.iconos.filter((i) => i.categoria === cat);
-    if (!q) return base;
+    if (!q) return [...base].sort(this.comparar);
     const puntaje = (i: Icono): number => {
       const nombre = normalizar(i.nombre.replace(/-/g, ' '));
       if (nombre === q) return 0;
@@ -69,7 +75,7 @@ export class App {
     return base
       .map((i) => ({ i, p: puntaje(i) }))
       .filter((x) => x.p >= 0)
-      .sort((a, b) => a.p - b.p || a.i.nombre.localeCompare(b.i.nombre))
+      .sort((a, b) => a.p - b.p || this.comparar(a.i, b.i))
       .map((x) => x.i);
   });
 
@@ -86,6 +92,7 @@ export class App {
     if (g >= GROSOR_MIN && g <= GROSOR_MAX) this.grosor.set(g);
     const c = p.get('categoria');
     if (c && this.iconos.some((i) => i.categoria === c)) this.categoria.set(c);
+    if (p.get('sort') === 'new') this.orden.set('new');
     const sel = this.iconos.find((i) => i.nombre === p.get('icono'));
     if (sel) this.seleccionado.set(sel);
     try {
@@ -99,6 +106,7 @@ export class App {
       if (this.pagina() === 'docs') { history.replaceState(null, '', '?page=docs'); return; }
       if (this.busqueda()) q.set('q', this.busqueda());
       if (this.categoria() !== TODAS) q.set('categoria', this.categoria());
+      if (this.orden() === 'new') q.set('sort', 'new');
       const va = this.versionActiva();
       if (va && va !== 'light') q.set('version', va);
       if (!va) q.set('grosor', String(this.grosor()));

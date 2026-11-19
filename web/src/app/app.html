@@ -71,6 +71,12 @@
             [class.activa]="movimiento() === m.id" (click)="movimiento.set(m.id)">{{ m.nombre }}</button>
         }
       </div>
+      <div class="segmentos" role="radiogroup" aria-label="Sort" title="Sort">
+        @for (o of ordenes; track o.id) {
+          <button type="button" role="radio" [attr.aria-checked]="orden() === o.id"
+            [class.activa]="orden() === o.id" (click)="orden.set(o.id)">{{ o.nombre }}</button>
+        }
+      </div>
       <label class="tamano">
         <span>Stroke</span>
         <input type="range" [min]="grosorMin" [max]="grosorMax" step="0.25" [value]="grosor()" #rangoGrosor

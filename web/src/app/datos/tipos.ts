@@ -12,7 +12,11 @@ export interface Icono {
   animacion: string;
   /** Punto de giro de la animación, si no es el centro. */
   origen: string | null;
+  /** Cuándo se agregó (segundos Unix), para ordenar por más recientes. */
+  agregado: number;
 }
+
+export type Orden = 'az' | 'new';
 
 export type Movimiento = "off" | "hover" | "always";
 

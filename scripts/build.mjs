@@ -3,6 +3,7 @@
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { execFileSync } from "node:child_process";
 
 const raiz = join(dirname(fileURLToPath(import.meta.url)), "..");
 const metadatos = JSON.parse(readFileSync(join(raiz, "metadata.json"), "utf8"));
@@ -32,6 +33,18 @@ for (const n of Object.keys(metadatos)) if (!linea[n]) errores.push(`metadata.js
 for (const n of Object.keys(relleno)) if (!linea[n]) errores.push(`svg/solid/${n}.svg no tiene su versión de línea`);
 if (errores.length) { console.error(errores.join("\n")); process.exit(1); }
 
+// Fecha de alta: primer commit que agregó svg/line/<nombre>.svg. Lo que aún no está en git cuenta como ahora.
+const agregado = {};
+try {
+  const log = execFileSync("git", ["log", "--diff-filter=A", "--format=@%ct", "--name-only", "--", "svg/line"], { cwd: raiz, encoding: "utf8" });
+  let t = 0;
+  for (const l of log.split(/\r?\n/)) {
+    if (l.startsWith("@")) t = Number(l.slice(1));
+    else if (l.startsWith("svg/line/")) agregado[l.slice(9, -4)] = t; // el log va de nuevo a viejo: queda el primero
+  }
+} catch { /* sin git: todos iguales */ }
+const ahora = Math.floor(Date.now() / 1000);
+
 const iconos = Object.keys(linea).map((nombre) => ({
   nombre,
   categoria: metadatos[nombre].category,
@@ -41,6 +54,7 @@ const iconos = Object.keys(linea).map((nombre) => ({
   duotono: duotono[nombre] ?? null,
   animacion: metadatos[nombre].animation ?? "pulse",
   origen: metadatos[nombre].origin ?? null,
+  agregado: agregado[nombre] ?? ahora,
 }));
 
 const destino = join(raiz, "web", "src", "app", "datos");
