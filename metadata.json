@@ -1961,6 +1961,16 @@
     ],
     "animation": "pop"
   },
+  "circle-bolt": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "bolt",
+      "round",
+      "button"
+    ],
+    "animation": "flash"
+  },
   "circle-c": {
     "category": "Letters & Numbers",
     "tags": [
@@ -2116,6 +2126,16 @@
     ],
     "animation": "dots"
   },
+  "circle-envelope": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "envelope",
+      "round",
+      "button"
+    ],
+    "animation": "bounce"
+  },
   "circle-equals": {
     "category": "Interface",
     "tags": [
@@ -2185,6 +2205,16 @@
       "favorite"
     ],
     "animation": "beat"
+  },
+  "circle-house": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "house",
+      "home",
+      "button"
+    ],
+    "animation": "bounce"
   },
   "circle-i": {
     "category": "Letters & Numbers",
@@ -2260,6 +2290,16 @@
     ],
     "animation": "pop"
   },
+  "circle-microphone": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "microphone",
+      "round",
+      "button"
+    ],
+    "animation": "pulse"
+  },
   "circle-minus": {
     "category": "Actions",
     "tags": [
@@ -2317,6 +2357,16 @@
       "initial"
     ],
     "animation": "pop"
+  },
+  "circle-phone": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "phone",
+      "round",
+      "button"
+    ],
+    "animation": "ring"
   },
   "circle-plus": {
     "category": "Actions",
@@ -2470,6 +2520,17 @@
       "initial"
     ],
     "animation": "pop"
+  },
+  "circle-video": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "video",
+      "camera",
+      "call",
+      "button"
+    ],
+    "animation": "pulse"
   },
   "circle-w": {
     "category": "Letters & Numbers",
@@ -5634,6 +5695,49 @@
     ],
     "animation": "pulse"
   },
+  "square-a": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "a",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-b": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "b",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-bolt": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "bolt",
+      "box",
+      "button"
+    ],
+    "animation": "flash"
+  },
+  "square-c": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "c",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "square-check": {
     "category": "Interface",
     "tags": [
@@ -5656,6 +5760,28 @@
     ],
     "animation": "pop"
   },
+  "square-d": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "d",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-dashed": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "dashed",
+      "selection",
+      "outline",
+      "placeholder"
+    ],
+    "animation": "pulse"
+  },
   "square-divide": {
     "category": "Interface",
     "tags": [
@@ -5676,6 +5802,28 @@
     ],
     "animation": "flip"
   },
+  "square-down": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "down",
+      "arrow",
+      "direction",
+      "button"
+    ],
+    "animation": "nudge-down"
+  },
+  "square-e": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "e",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "square-ellipsis": {
     "category": "Interface",
     "tags": [
@@ -5687,6 +5835,16 @@
       "dots"
     ],
     "animation": "dots"
+  },
+  "square-envelope": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "envelope",
+      "box",
+      "button"
+    ],
+    "animation": "bounce"
   },
   "square-equals": {
     "category": "Interface",
@@ -5707,6 +5865,49 @@
       "button"
     ],
     "animation": "shake"
+  },
+  "square-f": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "f",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-full": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "full",
+      "shape",
+      "block"
+    ],
+    "animation": "pulse"
+  },
+  "square-g": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "g",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-h": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "h",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
   },
   "square-half": {
     "category": "Interface",
@@ -5729,6 +5930,17 @@
     ],
     "animation": "beat"
   },
+  "square-i": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "i",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "square-info": {
     "category": "Interface",
     "tags": [
@@ -5739,6 +5951,91 @@
     ],
     "animation": "pop"
   },
+  "square-j": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "j",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-k": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "k",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-kanban": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "kanban",
+      "box",
+      "button"
+    ],
+    "animation": "pulse"
+  },
+  "square-l": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "l",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "left",
+      "arrow",
+      "direction",
+      "button"
+    ],
+    "animation": "nudge-left"
+  },
+  "square-list": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "list",
+      "box",
+      "button"
+    ],
+    "animation": "slide"
+  },
+  "square-m": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "m",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-microphone": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "microphone",
+      "box",
+      "button"
+    ],
+    "animation": "pulse"
+  },
   "square-minus": {
     "category": "Interface",
     "tags": [
@@ -5746,6 +6043,51 @@
       "minus",
       "box",
       "button"
+    ],
+    "animation": "pop"
+  },
+  "square-n": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "n",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-o": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "o",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-p": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "p",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-parking": {
+    "category": "Places",
+    "tags": [
+      "square",
+      "parking",
+      "p",
+      "car",
+      "park",
+      "estacionamiento"
     ],
     "animation": "pop"
   },
@@ -5759,6 +6101,16 @@
     ],
     "animation": "write"
   },
+  "square-phone": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "phone",
+      "box",
+      "button"
+    ],
+    "animation": "ring"
+  },
   "square-plus": {
     "category": "Interface",
     "tags": [
@@ -5766,6 +6118,17 @@
       "plus",
       "box",
       "button"
+    ],
+    "animation": "pop"
+  },
+  "square-q": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "q",
+      "letter",
+      "alphabet",
+      "initial"
     ],
     "animation": "pop"
   },
@@ -5789,6 +6152,71 @@
     ],
     "animation": "wobble"
   },
+  "square-quote": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "quote",
+      "box",
+      "button"
+    ],
+    "animation": "pop"
+  },
+  "square-r": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "r",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "right",
+      "arrow",
+      "direction",
+      "button"
+    ],
+    "animation": "nudge-right"
+  },
+  "square-root": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "root",
+      "math",
+      "radical",
+      "formula",
+      "raiz"
+    ],
+    "animation": "pop"
+  },
+  "square-s": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "s",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-sliders": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "sliders",
+      "box",
+      "button"
+    ],
+    "animation": "slide"
+  },
   "square-small": {
     "category": "Interface",
     "tags": [
@@ -5810,6 +6238,92 @@
     ],
     "animation": "star"
   },
+  "square-t": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "t",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-terminal": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "terminal",
+      "box",
+      "button"
+    ],
+    "animation": "blink"
+  },
+  "square-u": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "u",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-up": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "up",
+      "arrow",
+      "direction",
+      "button"
+    ],
+    "animation": "nudge-up"
+  },
+  "square-user": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "user",
+      "box",
+      "button"
+    ],
+    "animation": "bounce"
+  },
+  "square-v": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "v",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-w": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "w",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-x": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "x",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
   "square-xmark": {
     "category": "Interface",
     "tags": [
@@ -5819,6 +6333,28 @@
       "button"
     ],
     "animation": "shake"
+  },
+  "square-y": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "y",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-z": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "z",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "pop"
   },
   "star": {
     "category": "Interface",

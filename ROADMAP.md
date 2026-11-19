@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 483 / 3779**
+**Progress: 533 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -87,10 +87,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] skull-crossbones
 - [x] triangle-exclamation (as `triangle-alert`)
 
-## Alphabet (1/2)
+## Alphabet (2/2)
 
 - [x] circle-h
-- [ ] square-h
+- [x] square-h
 
 ## Animals (0/25)
 
@@ -374,7 +374,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] vihara
 - [ ] warehouse
 
-## Business (30/88)
+## Business (32/88)
 
 - [ ] address-book
 - [ ] bars-progress
@@ -447,9 +447,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] signature
 - [ ] sitemap
 - [ ] socks
-- [ ] square-envelope
+- [x] square-envelope
 - [x] square-pen
-- [ ] square-phone
+- [x] square-phone
 - [ ] square-phone-flip
 - [ ] square-poll-horizontal
 - [ ] square-poll-vertical
@@ -932,7 +932,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] wine-glass
 - [ ] wine-glass-empty
 
-## Gaming (0/27)
+## Gaming (1/27)
 
 - [ ] book-skull
 - [ ] chess
@@ -958,7 +958,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] headset
 - [ ] ring
 - [ ] scroll
-- [ ] square-full
+- [x] square-full
 - [ ] vr-cardboard
 - [ ] wand-sparkles
 
@@ -1173,7 +1173,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] train
 - [ ] truck-fast
 
-## Maps (9/41)
+## Maps (10/41)
 
 - [ ] bag-shopping
 - [ ] basket-shopping
@@ -1207,7 +1207,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] restroom
 - [ ] rocket
 - [ ] snowplow
-- [ ] square-parking
+- [x] square-parking
 - [x] square-plus
 - [ ] street-view
 - [ ] suitcase
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] butter
 - [ ] butterfly
 
-## Extended: C (117/423)
+## Extended: C (123/423)
 
 - [ ] cabin
 - [ ] cabinet-filing
@@ -2114,7 +2114,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-baht
 - [ ] circle-bangladeshi-taka
 - [ ] circle-bitcoin
-- [ ] circle-bolt
+- [x] circle-bolt
 - [ ] circle-book-open
 - [ ] circle-bookmark
 - [ ] circle-brazilian-real
@@ -2142,7 +2142,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-e
 - [x] circle-ellipsis
 - [x] circle-ellipsis-vertical
-- [ ] circle-envelope
+- [x] circle-envelope
 - [x] circle-equals
 - [ ] circle-euro
 - [ ] circle-eurozone
@@ -2157,7 +2157,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-half-horizontal
 - [ ] circle-half-stroke-horizontal
 - [x] circle-heart
-- [ ] circle-house
+- [x] circle-house
 - [ ] circle-hryvnia
 - [x] circle-i
 - [ ] circle-indian-rupee
@@ -2172,7 +2172,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-m
 - [ ] circle-malaysian-ringgit
 - [ ] circle-manat
-- [ ] circle-microphone
+- [x] circle-microphone
 - [ ] circle-microphone-lines
 - [ ] circle-mill
 - [ ] circle-moon
@@ -2185,7 +2185,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-peruvian-soles
 - [ ] circle-peseta
 - [ ] circle-peso
-- [ ] circle-phone
+- [x] circle-phone
 - [ ] circle-phone-flip
 - [ ] circle-phone-hangup
 - [ ] circle-polish-zloty
@@ -2228,7 +2228,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] circle-user-circle-xmark
 - [ ] circle-user-clock
 - [x] circle-v
-- [ ] circle-video
+- [x] circle-video
 - [x] circle-w
 - [ ] circle-waveform-lines
 - [ ] circle-wifi
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] ruler-triangle
 - [ ] rv
 
-## Extended: S (22/317)
+## Extended: S (61/317)
 
 - [ ] sack
 - [ ] salad
@@ -3559,7 +3559,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-7
 - [ ] square-8
 - [ ] square-9
-- [ ] square-a
+- [x] square-a
 - [ ] square-a-lock
 - [ ] square-ampersand
 - [ ] square-arrow-down
@@ -3571,13 +3571,13 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-arrow-up-left
 - [ ] square-austral
 - [ ] square-australian-dollar
-- [ ] square-b
+- [x] square-b
 - [ ] square-baht
 - [ ] square-bangladeshi-taka
 - [ ] square-bitcoin
-- [ ] square-bolt
+- [x] square-bolt
 - [ ] square-brazilian-real
-- [ ] square-c
+- [x] square-c
 - [ ] square-cedi
 - [ ] square-cent
 - [ ] square-chevron-down
@@ -3589,28 +3589,28 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-colon
 - [ ] square-cruzeiro
 - [ ] square-currency
-- [ ] square-d
+- [x] square-d
 - [ ] square-danish-krone
-- [ ] square-dashed
+- [x] square-dashed
 - [ ] square-dashed-circle-plus
 - [x] square-divide
 - [x] square-dollar
 - [ ] square-dong
-- [ ] square-down
+- [x] square-down
 - [ ] square-down-left
 - [ ] square-down-right
-- [ ] square-e
+- [x] square-e
 - [x] square-ellipsis
 - [ ] square-ellipsis-vertical
 - [x] square-equals
 - [ ] square-euro
 - [ ] square-eurozone
 - [x] square-exclamation
-- [ ] square-f
+- [x] square-f
 - [ ] square-florin
 - [ ] square-fragile
 - [ ] square-franc
-- [ ] square-g
+- [x] square-g
 - [ ] square-guarani
 - [x] square-half
 - [ ] square-half-horizontal
@@ -3618,72 +3618,72 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-half-stroke-horizontal
 - [x] square-heart
 - [ ] square-hryvnia
-- [ ] square-i
+- [x] square-i
 - [ ] square-indian-rupee
 - [x] square-info
-- [ ] square-j
-- [ ] square-k
-- [ ] square-kanban
+- [x] square-j
+- [x] square-k
+- [x] square-kanban
 - [ ] square-kip
-- [ ] square-l
+- [x] square-l
 - [ ] square-lari
-- [ ] square-left
+- [x] square-left
 - [ ] square-lira
-- [ ] square-list
+- [x] square-list
 - [ ] square-litecoin
-- [ ] square-m
+- [x] square-m
 - [ ] square-malaysian-ringgit
 - [ ] square-manat
-- [ ] square-microphone
+- [x] square-microphone
 - [ ] square-mill
-- [ ] square-n
+- [x] square-n
 - [ ] square-naira
 - [ ] square-norwegian-krone
-- [ ] square-o
-- [ ] square-p
+- [x] square-o
+- [x] square-p
 - [ ] square-parking-slash
 - [ ] square-peruvian-soles
 - [ ] square-peseta
 - [ ] square-peso
 - [ ] square-phone-hangup
 - [ ] square-polish-zloty
-- [ ] square-q
+- [x] square-q
 - [x] square-quarters
 - [x] square-question
-- [ ] square-quote
-- [ ] square-r
+- [x] square-quote
+- [x] square-r
 - [ ] square-renminbi
-- [ ] square-right
+- [x] square-right
 - [ ] square-ring
-- [ ] square-root
+- [x] square-root
 - [ ] square-ruble
 - [ ] square-rupee
 - [ ] square-rupiah
-- [ ] square-s
+- [x] square-s
 - [ ] square-shekel
-- [ ] square-sliders
+- [x] square-sliders
 - [ ] square-sliders-vertical
 - [x] square-small
 - [x] square-star
 - [ ] square-sterling
 - [ ] square-swedish-krona
-- [ ] square-t
+- [x] square-t
 - [ ] square-tenge
-- [ ] square-terminal
+- [x] square-terminal
 - [ ] square-this-way-up
 - [ ] square-tugrik
 - [ ] square-turkish-lira
-- [ ] square-u
-- [ ] square-up
+- [x] square-u
+- [x] square-up
 - [ ] square-up-left
-- [ ] square-user
-- [ ] square-v
-- [ ] square-w
+- [x] square-user
+- [x] square-v
+- [x] square-w
 - [ ] square-won
-- [ ] square-x
-- [ ] square-y
+- [x] square-x
+- [x] square-y
 - [ ] square-yen
-- [ ] square-z
+- [x] square-z
 - [ ] squareapore-dollar
 - [ ] squid
 - [ ] squirrel
