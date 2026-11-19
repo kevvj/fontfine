@@ -108,13 +108,9 @@ npm install
 npm start
 ```
 
-## Adding an icon
+## Contributing
 
-1. Draw it from scratch on a 24×24 grid: no fill, round caps and joins. Do not copy or trace icons from other sets.
-2. Save it as `svg/line/<name>.svg` (English, lowercase, words separated by `-`, named after what it shows, e.g. `wrench`, not `maintenance`).
-3. Add the solid version in `svg/solid/<name>.svg`.
-4. Add its category and tags in `metadata.json`.
-5. Run `node scripts/build.mjs` to validate.
+New icons are welcome, drawn by hand or with AI. Read [CONTRIBUTING.md](CONTRIBUTING.md). AI assistants: follow [AGENTS.md](AGENTS.md), or use the [prompt for chat AIs](docs/ai-prompt.md). Every pull request is checked automatically (`node scripts/check.mjs`) and reviewed before merging.
 
 ## License
 

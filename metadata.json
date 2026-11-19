@@ -3,7 +3,9 @@
     "category": "Arrows",
     "tags": [
       "arrow",
-      "down"
+      "down",
+      "south",
+      "descend"
     ],
     "animation": "nudge-down"
   },
@@ -35,7 +37,9 @@
     "category": "Arrows",
     "tags": [
       "arrow",
-      "up"
+      "up",
+      "north",
+      "ascend"
     ],
     "animation": "nudge-up"
   },

@@ -1,0 +1,80 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# Read-only: pull requests from forks cannot write to the repo or read secrets.
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  icons:
+    name: Icons
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check SVGs and metadata
+        run: node scripts/check.mjs
+
+  library:
+    name: Library tests
+    needs: icons
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: paquete/package-lock.json
+      - run: npm ci --ignore-scripts
+        working-directory: paquete
+      - run: npm test
+        working-directory: paquete
+
+  website:
+    name: Website build
+    needs: icons
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci --ignore-scripts
+        working-directory: web
+      - run: npm run build
+        working-directory: web
+
+  scope:
+    name: Files changed
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Warn when a PR changes more than icons
+        run: |
+          other=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" | grep -vE '^(svg/(line|solid|duotone)/[a-z0-9-]+\.svg|metadata\.json)$' || true)
+          if [ -n "$other" ]; then
+            echo "::warning::This PR changes files outside svg/ and metadata.json. A maintainer must review them carefully:"
+            echo "$other"
+          else
+            echo "Only icons and metadata changed."
+          fi
