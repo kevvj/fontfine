@@ -7318,6 +7318,18 @@
     ],
     "animation": "wiggle"
   },
+  "ear-muffs": {
+    "category": "Objects",
+    "tags": [
+      "ear",
+      "muffs",
+      "winter",
+      "warm",
+      "cold",
+      "orejeras"
+    ],
+    "animation": "wiggle"
+  },
   "egg-fried": {
     "category": "Objects",
     "tags": [
@@ -7337,6 +7349,17 @@
       "vegetable",
       "food",
       "berenjena"
+    ],
+    "animation": "rock"
+  },
+  "elephant": {
+    "category": "Nature",
+    "tags": [
+      "elephant",
+      "animal",
+      "zoo",
+      "safari",
+      "elefante"
     ],
     "animation": "rock"
   },
@@ -7367,6 +7390,30 @@
     ],
     "animation": "pop"
   },
+  "envelope-dot": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "dot",
+      "unread",
+      "notification",
+      "mail",
+      "new"
+    ],
+    "animation": "shake"
+  },
+  "envelope-heart": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "heart",
+      "love",
+      "letter",
+      "valentine",
+      "mail"
+    ],
+    "animation": "beat"
+  },
   "envelope-open": {
     "category": "Communication",
     "tags": [
@@ -7378,6 +7425,32 @@
       "sobre"
     ],
     "animation": "flip"
+  },
+  "envelope-slash": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "slash",
+      "off",
+      "mute",
+      "mail",
+      "no",
+      "email",
+      "message",
+      "correo"
+    ],
+    "animation": "shake"
+  },
+  "envelopes": {
+    "category": "Communication",
+    "tags": [
+      "envelopes",
+      "mails",
+      "messages",
+      "multiple",
+      "inbox"
+    ],
+    "animation": "pop"
   },
   "eraser": {
     "category": "Actions",
@@ -7400,6 +7473,16 @@
       "escalera"
     ],
     "animation": "slide"
+  },
+  "excavator": {
+    "category": "Places",
+    "tags": [
+      "excavator",
+      "digger",
+      "construction",
+      "machine"
+    ],
+    "animation": "rock"
   },
   "external-link": {
     "category": "Arrows",
@@ -7494,6 +7577,85 @@
     ],
     "animation": "shake"
   },
+  "face-dizzy": {
+    "category": "People",
+    "tags": [
+      "face",
+      "dizzy",
+      "confused",
+      "dazed",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-frown": {
+    "category": "People",
+    "tags": [
+      "face",
+      "frown",
+      "sad",
+      "unhappy",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-grimace": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grimace",
+      "awkward",
+      "nervous",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-grin": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "happy",
+      "teeth",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-grin-wide": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "wide",
+      "happy",
+      "big",
+      "smile",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-hushed": {
+    "category": "People",
+    "tags": [
+      "face",
+      "hushed",
+      "surprised",
+      "quiet",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-kiss": {
+    "category": "People",
+    "tags": [
+      "face",
+      "kiss",
+      "love",
+      "lips",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-laugh": {
     "category": "People",
     "tags": [
@@ -7517,6 +7679,31 @@
     ],
     "animation": "wobble"
   },
+  "face-meh-blank": {
+    "category": "People",
+    "tags": [
+      "face",
+      "meh",
+      "blank",
+      "neutral",
+      "no",
+      "mouth",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-rolling-eyes": {
+    "category": "People",
+    "tags": [
+      "face",
+      "rolling",
+      "eyes",
+      "annoyed",
+      "whatever",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-sad-tear": {
     "category": "People",
     "tags": [
@@ -7526,6 +7713,31 @@
       "cry",
       "emoji",
       "triste"
+    ],
+    "animation": "wobble"
+  },
+  "face-sleeping": {
+    "category": "People",
+    "tags": [
+      "face",
+      "sleeping",
+      "sleepy",
+      "zzz",
+      "tired",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-smile-beam": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "beam",
+      "happy",
+      "joy",
+      "beaming",
+      "emoji"
     ],
     "animation": "wobble"
   },
@@ -7540,6 +7752,51 @@
     ],
     "animation": "wobble"
   },
+  "face-tired": {
+    "category": "People",
+    "tags": [
+      "face",
+      "tired",
+      "exhausted",
+      "weary",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-wink": {
+    "category": "People",
+    "tags": [
+      "face",
+      "wink",
+      "playful",
+      "flirt",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "fan-table": {
+    "category": "Objects",
+    "tags": [
+      "fan",
+      "table",
+      "desk",
+      "cooling",
+      "air",
+      "ventilador"
+    ],
+    "animation": "spin"
+  },
+  "farm": {
+    "category": "Places",
+    "tags": [
+      "farm",
+      "barn",
+      "agriculture",
+      "rural",
+      "granja"
+    ],
+    "animation": "pop"
+  },
   "fax": {
     "category": "Communication",
     "tags": [
@@ -7551,6 +7808,29 @@
     ],
     "animation": "pulse"
   },
+  "fence": {
+    "category": "Places",
+    "tags": [
+      "fence",
+      "garden",
+      "yard",
+      "boundary",
+      "cerca"
+    ],
+    "animation": "pop"
+  },
+  "ferris-wheel": {
+    "category": "Places",
+    "tags": [
+      "ferris",
+      "wheel",
+      "fair",
+      "amusement",
+      "park",
+      "rueda"
+    ],
+    "animation": "spin-slow"
+  },
   "file": {
     "category": "Files",
     "tags": [
@@ -7561,6 +7841,67 @@
       "archivo"
     ],
     "animation": "float"
+  },
+  "file-arrow-down": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "arrow",
+      "down",
+      "download",
+      "save",
+      "document"
+    ],
+    "animation": "nudge-down"
+  },
+  "file-arrow-up": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "arrow",
+      "up",
+      "upload",
+      "send",
+      "document"
+    ],
+    "animation": "nudge-up"
+  },
+  "file-audio": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "audio",
+      "music",
+      "sound",
+      "mp3",
+      "document"
+    ],
+    "animation": "pop"
+  },
+  "file-certificate": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "certificate",
+      "award",
+      "diploma",
+      "verified",
+      "document"
+    ],
+    "animation": "pop"
+  },
+  "file-chart-column": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "chart",
+      "column",
+      "bar",
+      "report",
+      "statistics",
+      "document"
+    ],
+    "animation": "pop"
   },
   "file-check": {
     "category": "Files",
@@ -7584,6 +7925,18 @@
       "programming"
     ],
     "animation": "float"
+  },
+  "file-contract": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "contract",
+      "agreement",
+      "legal",
+      "terms",
+      "document"
+    ],
+    "animation": "pop"
   },
   "file-exclamation": {
     "category": "Files",
@@ -7637,6 +7990,42 @@
     ],
     "animation": "float"
   },
+  "file-lock": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "lock",
+      "secure",
+      "private",
+      "protected",
+      "document"
+    ],
+    "animation": "shake"
+  },
+  "file-magnifying-glass": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "magnifying",
+      "glass",
+      "search",
+      "find",
+      "document"
+    ],
+    "animation": "pop"
+  },
+  "file-medical": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "medical",
+      "health",
+      "record",
+      "prescription",
+      "document"
+    ],
+    "animation": "pulse"
+  },
   "file-minus": {
     "category": "Files",
     "tags": [
@@ -7673,6 +8062,29 @@
     ],
     "animation": "float"
   },
+  "file-shield": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "shield",
+      "protected",
+      "security",
+      "safe",
+      "document"
+    ],
+    "animation": "pop"
+  },
+  "file-signature": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "signature",
+      "sign",
+      "contract",
+      "document"
+    ],
+    "animation": "write"
+  },
   "file-slash": {
     "category": "Files",
     "tags": [
@@ -7686,6 +8098,19 @@
       "archivo"
     ],
     "animation": "shake"
+  },
+  "file-spreadsheet": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "spreadsheet",
+      "sheet",
+      "table",
+      "excel",
+      "data",
+      "document"
+    ],
+    "animation": "pop"
   },
   "file-text": {
     "category": "Files",
@@ -7704,6 +8129,42 @@
     ],
     "animation": "float"
   },
+  "file-user": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "user",
+      "person",
+      "profile",
+      "account",
+      "document"
+    ],
+    "animation": "pop"
+  },
+  "file-video": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "video",
+      "movie",
+      "clip",
+      "mp4",
+      "document"
+    ],
+    "animation": "pulse"
+  },
+  "file-waveform": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "waveform",
+      "audio",
+      "sound",
+      "wave",
+      "document"
+    ],
+    "animation": "beat"
+  },
   "file-xmark": {
     "category": "Files",
     "tags": [
@@ -7715,6 +8176,18 @@
       "archivo"
     ],
     "animation": "float"
+  },
+  "file-zipper": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "zipper",
+      "zip",
+      "archive",
+      "compressed",
+      "document"
+    ],
+    "animation": "pop"
   },
   "film": {
     "category": "Media",
@@ -7728,6 +8201,21 @@
     ],
     "animation": "pulse"
   },
+  "film-slash": {
+    "category": "Media",
+    "tags": [
+      "film",
+      "slash",
+      "off",
+      "no",
+      "video",
+      "movie",
+      "cinema",
+      "reel",
+      "pelicula"
+    ],
+    "animation": "shake"
+  },
   "fingerprint": {
     "category": "Security",
     "tags": [
@@ -7739,6 +8227,40 @@
     ],
     "animation": "pulse"
   },
+  "fire-hydrant": {
+    "category": "Places",
+    "tags": [
+      "fire",
+      "hydrant",
+      "water",
+      "emergency",
+      "street"
+    ],
+    "animation": "pop"
+  },
+  "fireplace": {
+    "category": "Places",
+    "tags": [
+      "fireplace",
+      "hearth",
+      "home",
+      "warm",
+      "chimenea"
+    ],
+    "animation": "flicker"
+  },
+  "fishing-rod": {
+    "category": "Objects",
+    "tags": [
+      "fishing",
+      "rod",
+      "fish",
+      "hobby",
+      "caña",
+      "pesca"
+    ],
+    "animation": "swing"
+  },
   "flag": {
     "category": "Objects",
     "tags": [
@@ -7749,6 +8271,31 @@
     ],
     "animation": "wave",
     "origin": "20% 50%"
+  },
+  "flag-pennant": {
+    "category": "Objects",
+    "tags": [
+      "flag",
+      "pennant",
+      "banner",
+      "sports",
+      "triangle",
+      "banderin"
+    ],
+    "animation": "wave"
+  },
+  "flag-slash": {
+    "category": "Objects",
+    "tags": [
+      "flag",
+      "slash",
+      "off",
+      "unflag",
+      "report",
+      "mark",
+      "bandera"
+    ],
+    "animation": "shake"
   },
   "flame": {
     "category": "Nature",
@@ -7762,6 +8309,29 @@
     ],
     "animation": "flicker",
     "origin": "50% 100%"
+  },
+  "flashlight": {
+    "category": "Objects",
+    "tags": [
+      "flashlight",
+      "torch",
+      "light",
+      "linterna"
+    ],
+    "animation": "flicker"
+  },
+  "flask-round": {
+    "category": "Health",
+    "tags": [
+      "flask",
+      "round",
+      "chemistry",
+      "science",
+      "potion",
+      "lab",
+      "matraz"
+    ],
+    "animation": "float"
   },
   "floor-plan": {
     "category": "Places",
