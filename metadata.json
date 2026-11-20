@@ -9195,6 +9195,29 @@
     ],
     "animation": "rock"
   },
+  "dumbbell": {
+    "category": "Objects",
+    "tags": [
+      "dumbbell",
+      "gym",
+      "fitness",
+      "weight",
+      "exercise",
+      "pesa"
+    ],
+    "animation": "bounce"
+  },
+  "dumpster": {
+    "category": "Objects",
+    "tags": [
+      "dumpster",
+      "trash",
+      "garbage",
+      "container",
+      "basura"
+    ],
+    "animation": "pop"
+  },
   "ear": {
     "category": "Health",
     "tags": [
@@ -9205,6 +9228,17 @@
       "oreja"
     ],
     "animation": "wiggle"
+  },
+  "ear-listen": {
+    "category": "Health",
+    "tags": [
+      "ear",
+      "listen",
+      "hearing",
+      "audio",
+      "sound"
+    ],
+    "animation": "pulse"
   },
   "ear-muffs": {
     "category": "Objects",
@@ -9217,6 +9251,61 @@
       "orejeras"
     ],
     "animation": "wiggle"
+  },
+  "earth-africa": {
+    "category": "Places",
+    "tags": [
+      "earth",
+      "africa",
+      "world",
+      "globe",
+      "planet"
+    ],
+    "animation": "spin-slow"
+  },
+  "earth-americas": {
+    "category": "Places",
+    "tags": [
+      "earth",
+      "americas",
+      "world",
+      "globe",
+      "planet"
+    ],
+    "animation": "spin-slow"
+  },
+  "earth-asia": {
+    "category": "Places",
+    "tags": [
+      "earth",
+      "asia",
+      "world",
+      "globe",
+      "planet"
+    ],
+    "animation": "spin-slow"
+  },
+  "earth-europe": {
+    "category": "Places",
+    "tags": [
+      "earth",
+      "europe",
+      "world",
+      "globe",
+      "planet"
+    ],
+    "animation": "spin-slow"
+  },
+  "egg": {
+    "category": "Nature",
+    "tags": [
+      "egg",
+      "food",
+      "breakfast",
+      "easter",
+      "huevo"
+    ],
+    "animation": "wobble"
   },
   "egg-fried": {
     "category": "Objects",
@@ -9278,6 +9367,50 @@
     ],
     "animation": "pop"
   },
+  "envelope-circle-check": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "circle",
+      "check",
+      "mail",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "envelope-circle-exclamation": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "circle",
+      "exclamation",
+      "mail",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "envelope-circle-plus": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "circle",
+      "plus",
+      "mail",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "envelope-circle-xmark": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "circle",
+      "xmark",
+      "mail",
+      "status"
+    ],
+    "animation": "pop"
+  },
   "envelope-dot": {
     "category": "Communication",
     "tags": [
@@ -9314,6 +9447,18 @@
     ],
     "animation": "flip"
   },
+  "envelope-open-text": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "open",
+      "text",
+      "letter",
+      "mail",
+      "read"
+    ],
+    "animation": "pop"
+  },
   "envelope-slash": {
     "category": "Communication",
     "tags": [
@@ -9340,6 +9485,17 @@
     ],
     "animation": "pop"
   },
+  "envelopes-bulk": {
+    "category": "Communication",
+    "tags": [
+      "envelopes",
+      "bulk",
+      "mail",
+      "many",
+      "newsletter"
+    ],
+    "animation": "pop"
+  },
   "eraser": {
     "category": "Actions",
     "tags": [
@@ -9361,6 +9517,28 @@
       "escalera"
     ],
     "animation": "slide"
+  },
+  "ethernet": {
+    "category": "Technology",
+    "tags": [
+      "ethernet",
+      "network",
+      "cable",
+      "lan",
+      "port"
+    ],
+    "animation": "pop"
+  },
+  "euro-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "euro",
+      "sign",
+      "money",
+      "currency",
+      "eur"
+    ],
+    "animation": "pop"
   },
   "excavator": {
     "category": "Places",
@@ -9426,6 +9604,17 @@
       "gotero"
     ],
     "animation": "drip"
+  },
+  "eye-low-vision": {
+    "category": "Health",
+    "tags": [
+      "eye",
+      "low",
+      "vision",
+      "accessibility",
+      "impaired"
+    ],
+    "animation": "pulse"
   },
   "eye-off": {
     "category": "Interface",
@@ -10323,6 +10512,18 @@
     ],
     "animation": "pop"
   },
+  "file-brackets-curly": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "brackets",
+      "curly",
+      "json",
+      "code",
+      "document"
+    ],
+    "animation": "pop"
+  },
   "file-certificate": {
     "category": "Files",
     "tags": [
@@ -10348,6 +10549,18 @@
     ],
     "animation": "pop"
   },
+  "file-chart-pie": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "chart",
+      "pie",
+      "report",
+      "statistics",
+      "document"
+    ],
+    "animation": "pop"
+  },
   "file-check": {
     "category": "Files",
     "tags": [
@@ -10359,6 +10572,83 @@
       "archivo"
     ],
     "animation": "float"
+  },
+  "file-circle-check": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "circle",
+      "check",
+      "document",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "file-circle-exclamation": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "circle",
+      "exclamation",
+      "document",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "file-circle-info": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "circle",
+      "info",
+      "document",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "file-circle-minus": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "circle",
+      "minus",
+      "document",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "file-circle-plus": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "circle",
+      "plus",
+      "document",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "file-circle-question": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "circle",
+      "question",
+      "document",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "file-circle-xmark": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "circle",
+      "xmark",
+      "document",
+      "status"
+    ],
+    "animation": "pop"
   },
   "file-code": {
     "category": "Files",
@@ -10383,6 +10673,18 @@
     ],
     "animation": "pop"
   },
+  "file-dashed-line": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "dashed",
+      "line",
+      "cut",
+      "tear",
+      "document"
+    ],
+    "animation": "pop"
+  },
   "file-exclamation": {
     "category": "Files",
     "tags": [
@@ -10394,6 +10696,18 @@
       "archivo"
     ],
     "animation": "float"
+  },
+  "file-export": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "export",
+      "share",
+      "send",
+      "out",
+      "document"
+    ],
+    "animation": "nudge-right"
   },
   "file-heart": {
     "category": "Files",
@@ -10419,6 +10733,41 @@
     ],
     "animation": "float"
   },
+  "file-import": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "import",
+      "load",
+      "bring",
+      "in",
+      "document"
+    ],
+    "animation": "nudge-left"
+  },
+  "file-invoice": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "invoice",
+      "bill",
+      "receipt",
+      "document"
+    ],
+    "animation": "pop"
+  },
+  "file-invoice-dollar": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "invoice",
+      "dollar",
+      "bill",
+      "money",
+      "document"
+    ],
+    "animation": "pop"
+  },
   "file-json": {
     "category": "Files",
     "tags": [
@@ -10434,6 +10783,17 @@
       "programacion"
     ],
     "animation": "float"
+  },
+  "file-lines": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "lines",
+      "text",
+      "document",
+      "page"
+    ],
+    "animation": "pop"
   },
   "file-lock": {
     "category": "Files",
@@ -10483,6 +10843,18 @@
     ],
     "animation": "float"
   },
+  "file-music": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "music",
+      "audio",
+      "song",
+      "mp3",
+      "document"
+    ],
+    "animation": "pop"
+  },
   "file-pen": {
     "category": "Files",
     "tags": [
@@ -10506,6 +10878,31 @@
       "archivo"
     ],
     "animation": "float"
+  },
+  "file-plus-minus": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "plus",
+      "minus",
+      "add",
+      "remove",
+      "difference",
+      "document"
+    ],
+    "animation": "pop"
+  },
+  "file-prescription": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "prescription",
+      "medicine",
+      "rx",
+      "doctor",
+      "document"
+    ],
+    "animation": "pop"
   },
   "file-shield": {
     "category": "Files",
@@ -10634,6 +11031,16 @@
     ],
     "animation": "pop"
   },
+  "files": {
+    "category": "Files",
+    "tags": [
+      "files",
+      "documents",
+      "copies",
+      "multiple"
+    ],
+    "animation": "pop"
+  },
   "film": {
     "category": "Media",
     "tags": [
@@ -10728,6 +11135,28 @@
     ],
     "animation": "pulse"
   },
+  "fire": {
+    "category": "Nature",
+    "tags": [
+      "fire",
+      "flame",
+      "hot",
+      "burn",
+      "fuego"
+    ],
+    "animation": "flicker"
+  },
+  "fire-burner": {
+    "category": "Objects",
+    "tags": [
+      "fire",
+      "burner",
+      "stove",
+      "gas",
+      "cooking"
+    ],
+    "animation": "flicker"
+  },
   "fire-extinguisher": {
     "category": "Objects",
     "tags": [
@@ -10738,6 +11167,27 @@
       "extintor"
     ],
     "animation": "shake"
+  },
+  "fire-extinguisher-simple": {
+    "category": "Objects",
+    "tags": [
+      "fire",
+      "extinguisher",
+      "safety",
+      "emergency"
+    ],
+    "animation": "shake"
+  },
+  "fire-flame-curved": {
+    "category": "Nature",
+    "tags": [
+      "fire",
+      "flame",
+      "curved",
+      "hot",
+      "burn"
+    ],
+    "animation": "flicker"
   },
   "fire-hydrant": {
     "category": "Places",
