@@ -48,6 +48,15 @@ const ahora = Math.floor(Date.now() / 1000);
 const TANDAS_NUEVAS = 3;
 const fechas = [...new Set(Object.values(agregado))].sort((a, b) => b - a);
 const corte = fechas[TANDAS_NUEVAS - 1] ?? Infinity; // sin historial suficiente: ninguno
+// Vista previa de una tanda: "New" solo en los íconos que no están en main (FF_TANDA=1) o en la ref dada (FF_TANDA=<ref>).
+let enMain = null;
+if (process.env.FF_TANDA) {
+  try {
+    enMain = new Set(execFileSync("git", ["ls-tree", "--name-only", process.env.FF_TANDA === "1" ? "main" : process.env.FF_TANDA, "svg/line/"], { cwd: raiz, encoding: "utf8" })
+      .split(/\r?\n/).filter(Boolean).map((f) => f.slice(9, -4)));
+  } catch { /* sin git: regla normal */ }
+}
+const esNuevo = (nombre) => (enMain ? !enMain.has(nombre) : (agregado[nombre] ?? ahora) >= corte);
 
 const iconos = Object.keys(linea).map((nombre) => ({
   nombre,
@@ -59,7 +68,7 @@ const iconos = Object.keys(linea).map((nombre) => ({
   animacion: metadatos[nombre].animation ?? "pulse",
   origen: metadatos[nombre].origin ?? null,
   agregado: agregado[nombre] ?? ahora,
-  nuevo: (agregado[nombre] ?? ahora) >= corte,
+  nuevo: esNuevo(nombre),
 }));
 
 const destino = join(raiz, "web", "src", "app", "datos");

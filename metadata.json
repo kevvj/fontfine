@@ -2593,6 +2593,30 @@
     ],
     "animation": "flip"
   },
+  "calendar-arrow-down": {
+    "category": "Interface",
+    "tags": [
+      "calendar",
+      "arrow",
+      "down",
+      "date",
+      "download",
+      "schedule"
+    ],
+    "animation": "nudge-down"
+  },
+  "calendar-arrow-up": {
+    "category": "Interface",
+    "tags": [
+      "calendar",
+      "arrow",
+      "up",
+      "date",
+      "upload",
+      "schedule"
+    ],
+    "animation": "nudge-up"
+  },
   "calendar-check": {
     "category": "Objects",
     "tags": [
@@ -2648,6 +2672,17 @@
       "fecha"
     ],
     "animation": "flip"
+  },
+  "calendar-image": {
+    "category": "Interface",
+    "tags": [
+      "calendar",
+      "image",
+      "photo",
+      "date",
+      "event"
+    ],
+    "animation": "pop"
   },
   "calendar-lines": {
     "category": "Interface",
@@ -2762,6 +2797,30 @@
     ],
     "animation": "flash"
   },
+  "camera-cctv": {
+    "category": "Security",
+    "tags": [
+      "camera",
+      "cctv",
+      "surveillance",
+      "security",
+      "video",
+      "vigilancia"
+    ],
+    "animation": "turn-y"
+  },
+  "camera-movie": {
+    "category": "Media",
+    "tags": [
+      "camera",
+      "movie",
+      "film",
+      "cinema",
+      "video",
+      "pelicula"
+    ],
+    "animation": "spin-slow"
+  },
   "camera-polaroid": {
     "category": "Media",
     "tags": [
@@ -2788,6 +2847,44 @@
     ],
     "animation": "shake"
   },
+  "camera-viewfinder": {
+    "category": "Media",
+    "tags": [
+      "camera",
+      "viewfinder",
+      "photo",
+      "screenshot",
+      "capture"
+    ],
+    "animation": "pop"
+  },
+  "camera-web": {
+    "category": "Technology",
+    "tags": [
+      "camera",
+      "web",
+      "webcam",
+      "video",
+      "call",
+      "computer"
+    ],
+    "animation": "pulse"
+  },
+  "camera-web-slash": {
+    "category": "Technology",
+    "tags": [
+      "camera",
+      "web",
+      "slash",
+      "off",
+      "disabled",
+      "webcam",
+      "video",
+      "call",
+      "computer"
+    ],
+    "animation": "shake"
+  },
   "campfire": {
     "category": "Nature",
     "tags": [
@@ -2799,6 +2896,18 @@
     ],
     "animation": "flicker",
     "origin": "50% 100%"
+  },
+  "can-food": {
+    "category": "Objects",
+    "tags": [
+      "can",
+      "food",
+      "tin",
+      "canned",
+      "pantry",
+      "lata"
+    ],
+    "animation": "rock"
   },
   "candle": {
     "category": "Religion",
@@ -2816,12 +2925,46 @@
     "animation": "flicker",
     "origin": "50% 100%"
   },
+  "candle-holder": {
+    "category": "Objects",
+    "tags": [
+      "candle",
+      "holder",
+      "light",
+      "candlestick",
+      "vela"
+    ],
+    "animation": "flicker",
+    "origin": "50% 100%"
+  },
   "candy": {
     "category": "Objects",
     "tags": [
       "candy",
       "sweet",
       "wrapped",
+      "dulce"
+    ],
+    "animation": "wiggle"
+  },
+  "candy-bar": {
+    "category": "Objects",
+    "tags": [
+      "candy",
+      "bar",
+      "chocolate",
+      "sweet",
+      "snack"
+    ],
+    "animation": "wiggle"
+  },
+  "candy-corn": {
+    "category": "Objects",
+    "tags": [
+      "candy",
+      "corn",
+      "halloween",
+      "sweet",
       "dulce"
     ],
     "animation": "wiggle"
@@ -2847,6 +2990,81 @@
       "carro"
     ],
     "animation": "drive"
+  },
+  "caravan-simple": {
+    "category": "Places",
+    "tags": [
+      "caravan",
+      "trailer",
+      "camping",
+      "travel",
+      "rv"
+    ],
+    "animation": "drive"
+  },
+  "card-club": {
+    "category": "Objects",
+    "tags": [
+      "card",
+      "club",
+      "playing",
+      "cards",
+      "poker",
+      "game",
+      "treboles"
+    ],
+    "animation": "flip"
+  },
+  "card-diamond": {
+    "category": "Objects",
+    "tags": [
+      "card",
+      "diamond",
+      "playing",
+      "cards",
+      "poker",
+      "game",
+      "diamantes"
+    ],
+    "animation": "flip"
+  },
+  "card-heart": {
+    "category": "Objects",
+    "tags": [
+      "card",
+      "heart",
+      "playing",
+      "cards",
+      "poker",
+      "game",
+      "corazones"
+    ],
+    "animation": "flip"
+  },
+  "card-spade": {
+    "category": "Objects",
+    "tags": [
+      "card",
+      "spade",
+      "playing",
+      "cards",
+      "poker",
+      "game",
+      "picas"
+    ],
+    "animation": "flip"
+  },
+  "cards-blank": {
+    "category": "Objects",
+    "tags": [
+      "cards",
+      "blank",
+      "playing",
+      "deck",
+      "game",
+      "cartas"
+    ],
+    "animation": "flip"
   },
   "caret-large-down": {
     "category": "Arrows",
@@ -2923,6 +3141,33 @@
     ],
     "animation": "drive"
   },
+  "cart-flatbed-boxes": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "flatbed",
+      "boxes",
+      "hand",
+      "truck",
+      "moving",
+      "delivery",
+      "carretilla"
+    ],
+    "animation": "drive"
+  },
+  "cart-flatbed-empty": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "flatbed",
+      "hand",
+      "truck",
+      "dolly",
+      "moving",
+      "carretilla"
+    ],
+    "animation": "drive"
+  },
   "cart-minus": {
     "category": "Objects",
     "tags": [
@@ -2952,6 +3197,52 @@
     ],
     "animation": "drive"
   },
+  "cassette-tape": {
+    "category": "Music & Audio",
+    "tags": [
+      "cassette",
+      "tape",
+      "music",
+      "audio",
+      "retro",
+      "casete"
+    ],
+    "animation": "spin-slow"
+  },
+  "cassette-vhs": {
+    "category": "Media",
+    "tags": [
+      "cassette",
+      "vhs",
+      "video",
+      "tape",
+      "retro",
+      "movie"
+    ],
+    "animation": "spin-slow"
+  },
+  "castle": {
+    "category": "Places",
+    "tags": [
+      "castle",
+      "fortress",
+      "kingdom",
+      "medieval",
+      "castillo"
+    ],
+    "animation": "bounce"
+  },
+  "cauldron": {
+    "category": "Objects",
+    "tags": [
+      "cauldron",
+      "pot",
+      "witch",
+      "halloween",
+      "caldero"
+    ],
+    "animation": "wiggle"
+  },
   "chair": {
     "category": "Objects",
     "tags": [
@@ -2966,6 +3257,18 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "chair-office": {
+    "category": "Objects",
+    "tags": [
+      "chair",
+      "office",
+      "desk",
+      "furniture",
+      "work",
+      "silla"
+    ],
+    "animation": "spin-slow"
   },
   "chalice": {
     "category": "Religion",
@@ -2984,6 +3287,18 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "champagne-glass": {
+    "category": "Objects",
+    "tags": [
+      "champagne",
+      "glass",
+      "toast",
+      "celebration",
+      "drink",
+      "copa"
+    ],
+    "animation": "wiggle"
   },
   "chart-bar": {
     "category": "Interface",
@@ -3357,6 +3672,100 @@
     ],
     "animation": "pop"
   },
+  "cheese-swiss": {
+    "category": "Objects",
+    "tags": [
+      "cheese",
+      "swiss",
+      "food",
+      "dairy",
+      "queso"
+    ],
+    "animation": "wiggle"
+  },
+  "cherries": {
+    "category": "Nature",
+    "tags": [
+      "cherries",
+      "fruit",
+      "food",
+      "cerezas"
+    ],
+    "animation": "rock",
+    "origin": "60% 15%"
+  },
+  "chess-bishop-piece": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "bishop",
+      "piece",
+      "game",
+      "strategy",
+      "alfil"
+    ],
+    "animation": "bounce"
+  },
+  "chess-clock": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "clock",
+      "timer",
+      "game",
+      "tournament",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "chess-king-piece": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "king",
+      "piece",
+      "game",
+      "crown",
+      "rey"
+    ],
+    "animation": "bounce"
+  },
+  "chess-pawn-piece": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "pawn",
+      "piece",
+      "game",
+      "strategy",
+      "peon"
+    ],
+    "animation": "bounce"
+  },
+  "chess-rook-piece": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "rook",
+      "castle",
+      "tower",
+      "piece",
+      "game",
+      "torre"
+    ],
+    "animation": "bounce"
+  },
+  "chest-drawers": {
+    "category": "Objects",
+    "tags": [
+      "chest",
+      "drawers",
+      "dresser",
+      "furniture",
+      "comoda"
+    ],
+    "animation": "pulse"
+  },
   "chevron-down": {
     "category": "Arrows",
     "tags": [
@@ -3439,6 +3848,17 @@
       "chevron"
     ],
     "animation": "nudge-up"
+  },
+  "chopsticks": {
+    "category": "Objects",
+    "tags": [
+      "chopsticks",
+      "asian",
+      "food",
+      "eat",
+      "palillos"
+    ],
+    "animation": "wiggle"
   },
   "church": {
     "category": "Places",
@@ -3673,6 +4093,17 @@
     ],
     "animation": "flash"
   },
+  "circle-bookmark": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "bookmark",
+      "save",
+      "favorite",
+      "marcador"
+    ],
+    "animation": "pop"
+  },
   "circle-c": {
     "category": "Letters & Numbers",
     "tags": [
@@ -3728,6 +4159,17 @@
       "dropdown"
     ],
     "animation": "nudge-up"
+  },
+  "circle-cent": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "cent",
+      "currency",
+      "money",
+      "coin"
+    ],
+    "animation": "pop"
   },
   "circle-check": {
     "category": "Status",
@@ -3791,6 +4233,28 @@
     ],
     "animation": "flip"
   },
+  "circle-down-left": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "down",
+      "left",
+      "arrow",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
+  },
+  "circle-down-right": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "down",
+      "right",
+      "arrow",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
+  },
   "circle-e": {
     "category": "Letters & Numbers",
     "tags": [
@@ -3849,6 +4313,17 @@
     ],
     "animation": "pop"
   },
+  "circle-euro": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "euro",
+      "currency",
+      "money",
+      "price"
+    ],
+    "animation": "pop"
+  },
   "circle-f": {
     "category": "Letters & Numbers",
     "tags": [
@@ -3894,6 +4369,18 @@
       "theme",
       "dark",
       "light"
+    ],
+    "animation": "turn-y"
+  },
+  "circle-half-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "half",
+      "horizontal",
+      "contrast",
+      "split",
+      "mitad"
     ],
     "animation": "turn-y"
   },
@@ -3980,6 +4467,18 @@
     ],
     "animation": "pop"
   },
+  "circle-location-arrow": {
+    "category": "Places",
+    "tags": [
+      "circle",
+      "location",
+      "arrow",
+      "navigation",
+      "gps",
+      "direction"
+    ],
+    "animation": "nudge-diag"
+  },
   "circle-m": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4011,6 +4510,18 @@
       "subtract"
     ],
     "animation": "pulse"
+  },
+  "circle-moon": {
+    "category": "Weather",
+    "tags": [
+      "circle",
+      "moon",
+      "night",
+      "dark",
+      "mode",
+      "luna"
+    ],
+    "animation": "rock"
   },
   "circle-n": {
     "category": "Letters & Numbers",
@@ -4057,6 +4568,18 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-parking": {
+    "category": "Places",
+    "tags": [
+      "circle",
+      "parking",
+      "car",
+      "park",
+      "lot",
+      "estacionamiento"
     ],
     "animation": "pop"
   },
