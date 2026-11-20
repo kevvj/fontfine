@@ -3466,6 +3466,18 @@
     ],
     "animation": "pop"
   },
+  "brand-anthropic": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "ai",
+      "claude",
+      "company",
+      "llm"
+    ],
+    "animation": "pop"
+  },
   "brand-apple": {
     "category": "Brands",
     "tags": [
@@ -3488,6 +3500,44 @@
       "browser",
       "google",
       "web"
+    ],
+    "animation": "pop"
+  },
+  "brand-claude": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "ai",
+      "anthropic",
+      "chatbot",
+      "assistant",
+      "llm"
+    ],
+    "animation": "pop"
+  },
+  "brand-copilot": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "ai",
+      "github",
+      "copilot",
+      "code",
+      "assistant"
+    ],
+    "animation": "pop"
+  },
+  "brand-deepseek": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "ai",
+      "deepseek",
+      "chatbot",
+      "llm"
     ],
     "animation": "pop"
   },
@@ -3550,6 +3600,20 @@
     ],
     "animation": "pop"
   },
+  "brand-gemini": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "ai",
+      "google",
+      "gemini",
+      "bard",
+      "chatbot",
+      "llm"
+    ],
+    "animation": "pop"
+  },
   "brand-github": {
     "category": "Brands",
     "tags": [
@@ -3609,6 +3673,32 @@
     ],
     "animation": "pop"
   },
+  "brand-meta": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "meta",
+      "facebook",
+      "company",
+      "ai",
+      "llama"
+    ],
+    "animation": "pop"
+  },
+  "brand-mistral": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "ai",
+      "mistral",
+      "llm",
+      "open",
+      "model"
+    ],
+    "animation": "pop"
+  },
   "brand-netflix": {
     "category": "Brands",
     "tags": [
@@ -3654,6 +3744,19 @@
       "payment",
       "money",
       "pay"
+    ],
+    "animation": "pop"
+  },
+  "brand-perplexity": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "ai",
+      "search",
+      "answer",
+      "engine",
+      "llm"
     ],
     "animation": "pop"
   },
