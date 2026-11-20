@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 1827 / 3779**
+**Progress: 1973 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -49,7 +49,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] 8 (as `number-8`)
 - [x] 9 (as `number-9`)
 
-## Accessibility (13/23)
+## Accessibility (15/23)
 
 - [x] address-card
 - [ ] audio-description
@@ -66,8 +66,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] hands
 - [ ] hands-asl-interpreting
 - [ ] handshake-angle
-- [ ] person-cane
-- [ ] person-walking-with-cane
+- [x] person-cane
+- [x] person-walking-with-cane
 - [x] phone-volume
 - [x] question (as `circle-question`)
 - [ ] tty
@@ -75,7 +75,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] wheelchair
 - [ ] wheelchair-move
 
-## Alert (7/9)
+## Alert (8/9)
 
 - [x] alarm-clock
 - [x] bell
@@ -84,7 +84,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-radiation
 - [ ] exclamation
 - [x] radiation
-- [ ] skull-crossbones
+- [x] skull-crossbones
 - [x] triangle-exclamation (as `triangle-alert`)
 
 ## Alphabet (2/2)
@@ -92,7 +92,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-h
 - [x] square-h
 
-## Animals (10/25)
+## Animals (11/25)
 
 - [ ] bugs
 - [x] cat
@@ -117,7 +117,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] shield-cat
 - [ ] shield-dog
 - [ ] shrimp
-- [ ] spider
+- [x] spider
 - [x] worm
 
 ## Arrows (38/119)
@@ -265,7 +265,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] user-astronaut
 - [ ] virgo
 
-## Automotive (13/29)
+## Automotive (14/29)
 
 - [x] bus
 - [ ] bus-side
@@ -284,7 +284,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gauge-high
 - [x] gauge-simple
 - [x] gauge-simple-high
-- [ ] motorcycle
+- [x] motorcycle
 - [x] oil-can
 - [ ] spray-can-sparkles
 - [x] taxi
@@ -297,7 +297,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] truck-pickup
 - [ ] van-shuttle
 
-## Buildings (36/74)
+## Buildings (41/74)
 
 - [x] archway
 - [ ] arrow-right-to-city
@@ -343,18 +343,18 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] industry
 - [x] kaaba
 - [x] landmark
-- [ ] landmark-dome
-- [ ] landmark-flag
-- [ ] monument
+- [x] landmark-dome
+- [x] landmark-flag
+- [x] monument
 - [x] mosque
-- [ ] mountain-city
+- [x] mountain-city
 - [ ] oil-well
 - [x] place-of-worship
 - [x] school
 - [x] school-circle-check
 - [x] school-circle-exclamation
 - [x] school-circle-xmark
-- [ ] school-flag
+- [x] school-flag
 - [ ] school-lock
 - [ ] shop
 - [ ] shop-lock
@@ -374,7 +374,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vihara
 - [x] warehouse
 
-## Business (69/88)
+## Business (75/88)
 
 - [x] address-book
 - [ ] bars-progress
@@ -428,23 +428,23 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] paperclip
 - [ ] paste
 - [x] pen (as `pencil`)
-- [ ] pen-clip
-- [ ] pen-fancy
+- [x] pen-clip
+- [x] pen-fancy
 - [x] pen-nib
 - [x] pen-to-square
 - [x] pencil
 - [x] percent
 - [ ] person-chalkboard
 - [x] phone
-- [ ] phone-flip
+- [x] phone-flip
 - [x] phone-slash
 - [x] print
 - [x] registered
 - [x] scale-balanced
-- [ ] scale-unbalanced
+- [x] scale-unbalanced
 - [ ] scale-unbalanced-flip
 - [x] scissors
-- [ ] signature
+- [x] signature
 - [ ] sitemap
 - [x] socks
 - [x] square-envelope
@@ -457,7 +457,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] table
 - [x] table-columns
 - [x] tag
-- [ ] tags
+- [x] tags
 - [ ] thumbtack
 - [ ] thumbtack-slash
 - [x] timeline
@@ -465,7 +465,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vault
 - [x] wallet
 
-## Camping (14/24)
+## Camping (18/24)
 
 - [x] bottle-water
 - [x] bucket
@@ -477,16 +477,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] kit-medical
 - [x] map
 - [ ] map-location
-- [ ] map-location-dot
+- [x] map-location-dot
 - [ ] mattress-pillow
 - [ ] mosquito-net
 - [x] mountain
 - [x] mountain-sun
-- [ ] people-roof
-- [ ] person-hiking
+- [x] people-roof
+- [x] person-hiking
 - [ ] person-shelter
 - [x] route
-- [ ] signs-post
+- [x] signs-post
 - [ ] tarp
 - [ ] tarp-droplet
 - [x] toilet-paper
@@ -526,7 +526,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] hexagon-nodes
 - [ ] hexagon-nodes-bolt
 
-## Childhood (15/21)
+## Childhood (16/21)
 
 - [x] apple-whole
 - [x] baby
@@ -543,7 +543,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gamepad
 - [x] ice-cream
 - [x] mitten
-- [ ] person-biking
+- [x] person-biking
 - [ ] person-breastfeeding
 - [x] puzzle-piece
 - [x] robot
@@ -562,7 +562,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vest
 - [ ] vest-patches
 
-## Coding (26/36)
+## Coding (27/36)
 
 - [ ] barcode
 - [x] bars (as `menu`)
@@ -590,7 +590,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] microchip
 - [ ] notdef
 - [x] qrcode (as `qr-code`)
-- [ ] rectangle-xmark
+- [x] rectangle-xmark
 - [x] shield
 - [x] shield-halved (as `shield`)
 - [ ] square-binary
@@ -601,7 +601,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] window-minimize
 - [x] window-restore
 
-## Communication (21/37)
+## Communication (27/37)
 
 - [x] at
 - [ ] blender-phone
@@ -616,20 +616,20 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] face-smile (as `smile`)
 - [ ] icons
 - [x] inbox
-- [ ] language
+- [x] language
 - [x] message
 - [x] microphone
 - [x] microphone-lines
 - [ ] microphone-lines-slash
 - [ ] microphone-slash
-- [ ] mobile
-- [ ] mobile-button
+- [x] mobile
+- [x] mobile-button
 - [x] mobile-retro
-- [ ] mobile-screen
-- [ ] mobile-screen-button
+- [x] mobile-screen
+- [x] mobile-screen-button
 - [x] mobile-vibrate
 - [x] paper-plane
-- [ ] poo
+- [x] poo
 - [ ] quote-left
 - [ ] quote-right
 - [ ] single-quote-left
@@ -651,7 +651,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] tower-broadcast
 - [x] wifi
 
-## Construction (9/23)
+## Construction (14/23)
 
 - [ ] arrow-up-from-ground-water
 - [ ] bore-hole
@@ -663,14 +663,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] helmet-safety
 - [ ] mound
 - [x] paint-roller
-- [ ] pen-ruler
+- [x] pen-ruler
 - [ ] person-digging
 - [x] ruler
-- [ ] ruler-combined
-- [ ] ruler-horizontal
-- [ ] ruler-vertical
+- [x] ruler-combined
+- [x] ruler-horizontal
+- [x] ruler-vertical
 - [x] screwdriver
-- [ ] screwdriver-wrench
+- [x] screwdriver-wrench
 - [ ] sheet-plastic
 - [x] toolbox
 - [ ] trowel
@@ -705,7 +705,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] wand-magic
 - [x] wand-magic-sparkles
 
-## Devices + Hardware (15/22)
+## Devices + Hardware (16/22)
 
 - [x] camera
 - [x] camera-retro
@@ -720,7 +720,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] laptop
 - [x] memory (as `ram`)
 - [x] plug
-- [ ] power-off
+- [x] power-off
 - [x] sd-card
 - [x] server
 - [x] sim-card
@@ -858,7 +858,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] sun
 - [ ] water
 
-## Files (16/24)
+## Files (17/24)
 
 - [x] file-arrow-down
 - [x] file-arrow-up
@@ -883,7 +883,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] file-word
 - [x] file-zipper
 - [x] folder-closed
-- [ ] photo-film
+- [x] photo-film
 
 ## Film + Video (5/5)
 
@@ -962,18 +962,18 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vr-cardboard
 - [ ] wand-sparkles
 
-## Genders (4/15)
+## Genders (8/15)
 
 - [x] genderless
 - [x] mars
-- [ ] mars-and-venus
-- [ ] mars-double
+- [x] mars-and-venus
+- [x] mars-double
 - [ ] mars-stroke
 - [ ] mars-stroke-right
 - [ ] mars-stroke-up
 - [ ] mercury
-- [ ] neuter
-- [ ] non-binary
+- [x] neuter
+- [x] non-binary
 - [ ] person-half-dress
 - [ ] transgender
 - [x] venus
@@ -1045,7 +1045,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] toilet-paper-slash
 - [ ] utensils
 
-## Humanitarian (49/114)
+## Humanitarian (55/114)
 
 - [x] anchor
 - [x] anchor-circle-check
@@ -1085,12 +1085,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] mars-and-venus-burst
 - [ ] mask-face
 - [ ] mask-ventilator
-- [ ] money-bill-transfer
-- [ ] money-bill-trend-up
+- [x] money-bill-transfer
+- [x] money-bill-trend-up
 - [ ] money-bill-wheat
 - [x] money-bills
 - [ ] people-arrows
-- [ ] people-group
+- [x] people-group
 - [ ] people-line
 - [ ] people-pulling
 - [ ] people-robbery
@@ -1116,7 +1116,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] person-rays
 - [ ] person-through-window
 - [x] person-walking
-- [ ] person-walking-luggage
+- [x] person-walking-luggage
 - [x] pills
 - [x] plane-circle-check
 - [x] plane-circle-exclamation
@@ -1127,12 +1127,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ranking-star
 - [x] road
 - [x] road-barrier
-- [ ] road-bridge
+- [x] road-bridge
 - [ ] road-circle-check
 - [ ] road-circle-exclamation
 - [ ] road-circle-xmark
 - [ ] road-lock
-- [ ] road-spikes
+- [x] road-spikes
 - [x] sack-dollar
 - [ ] sack-xmark
 - [x] sailboat
@@ -1173,7 +1173,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] train
 - [ ] truck-fast
 
-## Maps (33/41)
+## Maps (36/41)
 
 - [x] bag-shopping
 - [x] basket-shopping
@@ -1193,15 +1193,15 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] key
 - [x] location-crosshairs
 - [x] location-dot (as `map-pin`)
-- [ ] location-pin
+- [x] location-pin
 - [x] magnet
 - [x] magnifying-glass (as `search`)
 - [x] magnifying-glass-location
 - [x] magnifying-glass-minus
 - [x] magnifying-glass-plus
 - [x] map-pin
-- [ ] money-bill
-- [ ] money-bill-1
+- [x] money-bill
+- [x] money-bill-1
 - [x] newspaper
 - [x] plane
 - [x] restroom
@@ -1217,11 +1217,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] trophy
 - [x] umbrella
 
-## Maritime (0/1)
+## Maritime (1/1)
 
-- [ ] person-swimming
+- [x] person-swimming
 
-## Marketing (4/7)
+## Marketing (5/7)
 
 - [x] comment-dollar
 - [ ] comments-dollar
@@ -1229,7 +1229,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] envelopes-bulk
 - [ ] filter-circle-dollar
 - [x] magnifying-glass-dollar
-- [ ] rectangle-ad
+- [x] rectangle-ad
 
 ## Mathematics (14/18)
 
@@ -1277,7 +1277,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] volume-off
 - [x] volume-xmark (as `volume-off`)
 
-## Medical + Health (21/48)
+## Medical + Health (23/48)
 
 - [ ] bacteria
 - [ ] ban-smoking
@@ -1302,13 +1302,13 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] joint
 - [x] laptop-medical
 - [ ] lungs-virus
-- [ ] mortar-pestle
+- [x] mortar-pestle
 - [x] notes-medical
 - [ ] pager
 - [ ] person-dots-from-line
 - [ ] prescription
 - [x] prescription-bottle
-- [ ] prescription-bottle-medical
+- [x] prescription-bottle-medical
 - [ ] pump-medical
 - [x] receipt
 - [x] shield-virus
@@ -1328,7 +1328,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] weight-scale
 - [x] x-ray
 
-## Money (8/43)
+## Money (9/43)
 
 - [ ] austral-sign
 - [ ] baht-sign
@@ -1360,7 +1360,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] money-bill-1-wave
 - [x] money-bill-wave
 - [x] money-check
-- [ ] money-check-dollar
+- [x] money-check-dollar
 - [ ] naira-sign
 - [ ] peseta-sign
 - [ ] peso-sign
@@ -1374,11 +1374,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] won-sign
 - [ ] yen-sign
 
-## Moving (1/6)
+## Moving (2/6)
 
 - [x] box-open
 - [ ] people-carry-box
-- [ ] sign-hanging
+- [x] sign-hanging
 - [ ] tape
 - [ ] truck-moving
 - [ ] truck-ramp-box
@@ -1404,12 +1404,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] image-portrait
 - [ ] panorama
 
-## Political (0/5)
+## Political (1/5)
 
 - [ ] check-to-slot
 - [ ] democrat
 - [ ] flag-usa
-- [ ] person-booth
+- [x] person-booth
 - [ ] republican
 
 ## Punctuation + Symbols (2/3)
@@ -1494,7 +1494,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] slash
 - [x] spinner
 
-## Sports + Fitness (10/20)
+## Sports + Fitness (12/20)
 
 - [x] baseball
 - [x] basketball
@@ -1506,9 +1506,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] golf-ball-tee
 - [x] hockey-puck
 - [x] medal
-- [ ] person-running
+- [x] person-running
 - [ ] person-skating
-- [ ] person-skiing
+- [x] person-skiing
 - [ ] person-skiing-nordic
 - [ ] person-snowboarding
 - [ ] spa
@@ -1517,7 +1517,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] volleyball
 - [ ] weight-hanging
 
-## Text Formatting (17/32)
+## Text Formatting (19/32)
 
 - [x] align-center
 - [x] align-justify
@@ -1535,10 +1535,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] italic
 - [x] list
 - [x] list-ol
-- [ ] list-ul
+- [x] list-ul
 - [x] outdent
 - [x] paragraph
-- [ ] rectangle-list
+- [x] rectangle-list
 - [ ] spell-check
 - [x] strikethrough
 - [ ] table-cells
@@ -2925,7 +2925,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] knife
 - [ ] knife-kitchen
 
-## Extended: L (32/83)
+## Extended: L (41/83)
 
 - [ ] label
 - [ ] lacrosse-stick
@@ -2938,15 +2938,15 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] landmark-magnifying-glass
 - [x] laptop-arrow-down
 - [ ] laptop-binary
-- [ ] laptop-mobile
+- [x] laptop-mobile
 - [x] laptop-slash
-- [ ] lasso
+- [x] lasso
 - [ ] lasso-sparkles
 - [ ] layer
 - [x] layer-minus
 - [x] layer-plus
 - [ ] leaf-heart
-- [ ] leaf-maple
+- [x] leaf-maple
 - [ ] leaf-oak
 - [ ] leafy-green
 - [ ] left
@@ -2965,10 +2965,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] light-switch-on
 - [ ] lightbulb-cfl
 - [ ] lightbulb-cfl-on
-- [ ] lightbulb-dollar
+- [x] lightbulb-dollar
 - [x] lightbulb-exclamation
 - [ ] lightbulb-exclamation-on
-- [ ] lightbulb-gear
+- [x] lightbulb-gear
 - [ ] lightbulb-message
 - [x] lightbulb-on
 - [x] lightbulb-slash
@@ -2977,7 +2977,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] line-columns
 - [x] line-height
 - [ ] link-broken
-- [ ] link-horizontal
+- [x] link-horizontal
 - [ ] link-horizontal-slash
 - [x] link-simple
 - [x] link-simple-slash
@@ -2985,7 +2985,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] list-dropdown
 - [x] list-music
 - [x] list-radio
-- [ ] list-timeline
+- [x] list-timeline
 - [x] list-tree
 - [ ] loader
 - [ ] lobster
@@ -3005,21 +3005,21 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] lock-a
 - [ ] lock-hashtag
 - [x] lock-keyhole
-- [ ] lock-keyhole-open
+- [x] lock-keyhole-open
 - [x] lollipop
-- [ ] loveseat
+- [x] loveseat
 - [ ] luchador-mask
 - [ ] lychee
 
-## Extended: M (41/111)
+## Extended: M (64/111)
 
 - [ ] mace
 - [ ] magnifying-glass-arrows-rotate
 - [ ] magnifying-glass-music
-- [ ] magnifying-glass-play
-- [ ] magnifying-glass-waveform
+- [x] magnifying-glass-play
+- [x] magnifying-glass-waveform
 - [x] mailbox
-- [ ] mailbox-flag-up
+- [x] mailbox-flag-up
 - [ ] mailbox-open-empty
 - [ ] mailbox-open-letter
 - [ ] malaysian-ringgit-sign
@@ -3032,39 +3032,39 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] megaphone
 - [ ] melon
 - [ ] melon-slice
-- [ ] memo
-- [ ] memo-circle-check
-- [ ] memo-circle-info
-- [ ] memo-pad
+- [x] memo
+- [x] memo-circle-check
+- [x] memo-circle-info
+- [x] memo-pad
 - [ ] merge
 - [x] message-arrow-down
 - [x] message-arrow-up
-- [ ] message-arrow-up-right
-- [ ] message-bot
+- [x] message-arrow-up-right
+- [x] message-bot
 - [ ] message-captions
 - [x] message-check
 - [x] message-code
 - [x] message-dollar
-- [ ] message-dot
+- [x] message-dot
 - [x] message-dots
 - [x] message-exclamation
 - [x] message-heart
-- [ ] message-image
+- [x] message-image
 - [x] message-lines
-- [ ] message-medical
+- [x] message-medical
 - [ ] message-middle
 - [ ] message-middle-top
 - [x] message-minus
-- [ ] message-music
+- [x] message-music
 - [x] message-pen
 - [x] message-plus
 - [x] message-question
 - [x] message-quote
 - [x] message-slash
 - [x] message-smile
-- [ ] message-sms
-- [ ] message-text
-- [ ] message-waveform
+- [x] message-sms
+- [x] message-text
+- [x] message-waveform
 - [x] message-xmark
 - [x] messages
 - [ ] messages-dollar
@@ -3083,15 +3083,15 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] mistletoe
 - [x] mobile-arrow-down
 - [x] mobile-notch
-- [ ] mobile-rotate
+- [x] mobile-rotate
 - [ ] mobile-rotate-reverse
-- [ ] mobile-signal
+- [x] mobile-signal
 - [ ] mobile-signal-out
 - [x] mobile-slash
 - [ ] mobile-vibrate-slash
-- [ ] money-bill-simple
+- [x] money-bill-simple
 - [ ] money-bill-simple-wave
-- [ ] money-bills-simple
+- [x] money-bills-simple
 - [ ] money-check-dollar-pen
 - [ ] money-check-pen
 - [ ] money-from-bracket
@@ -3115,17 +3115,17 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] mouse-field
 - [ ] mp3-player
 - [x] mug
-- [ ] mug-marshmallows
+- [x] mug-marshmallows
 - [x] mug-tea
-- [ ] mug-tea-saucer
+- [x] mug-tea-saucer
 - [x] mushroom
 - [ ] music-magnifying-glass
 - [x] music-note
-- [ ] music-note-slash
+- [x] music-note-slash
 - [x] music-slash
 - [x] mustache
 
-## Extended: N (4/17)
+## Extended: N (6/17)
 
 - [ ] narwhal
 - [ ] nas
@@ -3140,12 +3140,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] norwegian-krone-sign
 - [ ] nose
 - [ ] note
-- [ ] note-medical
+- [x] note-medical
 - [x] notebook
-- [ ] notes
+- [x] notes
 - [x] notes-sticky
 
-## Extended: O (23/35)
+## Extended: O (24/35)
 
 - [ ] oar
 - [ ] oars
@@ -3172,7 +3172,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] oil-temperature
 - [x] olive
 - [ ] olive-branch
-- [ ] omega
+- [x] omega
 - [x] onion
 - [ ] open-captioning
 - [ ] opossum
@@ -3183,22 +3183,22 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] overline
 - [x] owl
 
-## Extended: P (26/152)
+## Extended: P (44/152)
 
 - [ ] padel
 - [ ] padel-ball
 - [ ] page
 - [ ] page-caret-down
 - [ ] page-caret-up
-- [ ] paintbrush-fine
+- [x] paintbrush-fine
 - [ ] paintbrush-fine-slash
 - [ ] paintbrush-pencil
 - [ ] paintbrush-slash
 - [ ] pallet-box
-- [ ] pallet-boxes
+- [x] pallet-boxes
 - [ ] pan-food
-- [ ] pan-frying
-- [ ] pancakes
+- [x] pan-frying
+- [x] pancakes
 - [ ] panel-ews
 - [ ] panel-fire
 - [ ] panties
@@ -3218,24 +3218,24 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] pear
 - [ ] pedestal
 - [ ] pegasus
-- [ ] pen-circle
+- [x] pen-circle
 - [ ] pen-clip-slash
 - [ ] pen-fancy-slash
 - [ ] pen-field
-- [ ] pen-line
+- [x] pen-line
 - [ ] pen-nib-slash
 - [ ] pen-paintbrush
 - [ ] pen-slash
 - [ ] pen-swirl
-- [ ] pencil-line
-- [ ] pencil-mechanical
+- [x] pencil-line
+- [x] pencil-mechanical
 - [ ] pencil-slash
 - [ ] people
 - [ ] people-dress
-- [ ] people-dress-simple
+- [x] people-dress-simple
 - [ ] people-pants
 - [ ] people-pants-simple
-- [ ] people-simple
+- [x] people-simple
 - [ ] pepper
 - [ ] period
 - [x] person-arms-raised
@@ -3246,7 +3246,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] person-dolly
 - [ ] person-dolly-empty
 - [ ] person-dress-fairy
-- [ ] person-dress-simple
+- [x] person-dress-simple
 - [ ] person-fairy
 - [ ] person-from-portal
 - [ ] person-golfing
@@ -3258,7 +3258,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] person-seat-reclined
 - [ ] person-seat-window
 - [ ] person-sign
-- [ ] person-simple
+- [x] person-simple
 - [ ] person-ski-jumping
 - [ ] person-ski-lift
 - [ ] person-sledding
@@ -3275,16 +3275,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] phone-arrow-right
 - [x] phone-arrow-up-right
 - [ ] phone-connection
-- [ ] phone-hangup
+- [x] phone-hangup
 - [ ] phone-intercom
 - [x] phone-missed
-- [ ] phone-office
+- [x] phone-office
 - [x] phone-plus
-- [ ] phone-rotary
-- [ ] phone-waveform
+- [x] phone-rotary
+- [x] phone-waveform
 - [x] phone-xmark
 - [ ] photo-film-music
-- [ ] pi
+- [x] pi
 - [x] piano
 - [x] piano-keyboard
 - [x] pickaxe
@@ -3336,16 +3336,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] pump-impeller
 - [x] pumpkin
 - [ ] puzzle
-- [ ] puzzle-piece-simple
+- [x] puzzle-piece-simple
 
 ## Extended: Q (1/2)
 
 - [x] qrcode-read
 - [ ] quotes
 
-## Extended: R (7/67)
+## Extended: R (23/67)
 
-- [ ] rabbit
+- [x] rabbit
 - [ ] rabbit-running
 - [ ] raccoon
 - [ ] racquet
@@ -3359,26 +3359,26 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] rectangle
 - [ ] rectangle-4k
 - [ ] rectangle-api
-- [ ] rectangle-barcode
+- [x] rectangle-barcode
 - [ ] rectangle-beta
-- [ ] rectangle-code
+- [x] rectangle-code
 - [ ] rectangle-high-dynamic-range
 - [ ] rectangle-history
 - [ ] rectangle-history-circle-plus
 - [ ] rectangle-history-circle-user
 - [ ] rectangle-irc
-- [ ] rectangle-minus
+- [x] rectangle-minus
 - [ ] rectangle-n-a
 - [ ] rectangle-new
-- [ ] rectangle-plus
-- [ ] rectangle-wide
+- [x] rectangle-plus
+- [x] rectangle-wide
 - [ ] rectangle-tall
-- [ ] rectangle-terminal
-- [ ] rectangle-vertical
+- [x] rectangle-terminal
+- [x] rectangle-vertical
 - [ ] rectangle-vertical-history
 - [ ] rectangle-video-on-demand
-- [ ] rectangle-wide
-- [ ] rectangles-mixed
+- [x] rectangle-wide
+- [x] rectangles-mixed
 - [ ] reel
 - [ ] reflect-both
 - [ ] reflect-horizontal
@@ -3386,7 +3386,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] refrigerator
 - [ ] remote
 - [ ] renminbi-sign
-- [ ] repeat-1
+- [x] repeat-1
 - [ ] reply-clock
 - [ ] restroom-simple
 - [x] rhombus
@@ -3397,28 +3397,28 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] right-long-to-line
 - [ ] right-to-dotted-line
 - [ ] right-to-line
-- [ ] ring-diamond
+- [x] ring-diamond
 - [ ] rings-wedding
 - [ ] robot-astromech
-- [ ] rocket-launch
+- [x] rocket-launch
 - [ ] rocket-vertical
 - [ ] roller-coaster
 - [ ] rotate-exclamation
 - [ ] rotate-reverse
-- [ ] route-highway
+- [x] route-highway
 - [ ] route-interstate
 - [x] router
 - [ ] rows-3
 - [x] rugby-ball
-- [ ] ruler-triangle
-- [ ] rv
+- [x] ruler-triangle
+- [x] rv
 
-## Extended: S (112/317)
+## Extended: S (130/317)
 
 - [x] sack
-- [ ] salad
-- [ ] salt-shaker
-- [ ] sandwich
+- [x] salad
+- [x] salt-shaker
+- [x] sandwich
 - [ ] sausage
 - [ ] saxophone
 - [ ] saxophone-fire
@@ -3439,9 +3439,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] scrubber
 - [ ] scythe
 - [ ] sd-cards
-- [ ] seal
-- [ ] seal-exclamation
-- [ ] seal-question
+- [x] seal
+- [x] seal-exclamation
+- [x] seal-question
 - [ ] seat
 - [ ] seat-airline
 - [ ] seat-airline-window
@@ -3496,13 +3496,13 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] signal-bars-good
 - [x] signal-bars-slash
 - [x] signal-bars-weak
-- [ ] signal-fair
-- [ ] signal-good
+- [x] signal-fair
+- [x] signal-good
 - [x] signal-slash
-- [ ] signal-stream
+- [x] signal-stream
 - [ ] signal-stream-slash
-- [ ] signal-strong
-- [ ] signal-weak
+- [x] signal-strong
+- [x] signal-weak
 - [ ] signapore-dollar-sign
 - [ ] signature-lock
 - [ ] signature-slash
@@ -3513,17 +3513,17 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] skeleton-ribs
 - [ ] ski-boot
 - [ ] ski-boot-ski
-- [ ] skull-cow
+- [x] skull-cow
 - [ ] slash-back
 - [ ] slash-forward
 - [ ] slider
 - [ ] slider-circle
-- [ ] sliders-simple
-- [ ] sliders-up
-- [ ] slot-machine
+- [x] sliders-simple
+- [x] sliders-up
+- [x] slot-machine
 - [ ] smoke
 - [ ] snake
-- [ ] sneaker
+- [x] sneaker
 - [ ] sneaker-running
 - [ ] snooze
 - [ ] snow-blowing
@@ -3614,7 +3614,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] square-guarani
 - [x] square-half
 - [ ] square-half-horizontal
-- [ ] square-half-stroke
+- [x] square-half-stroke
 - [ ] square-half-stroke-horizontal
 - [x] square-heart
 - [ ] square-hryvnia
@@ -3685,7 +3685,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] square-yen
 - [x] square-z
 - [ ] squareapore-dollar
-- [ ] squid
+- [x] squid
 - [ ] squirrel
 - [ ] stadium
 - [ ] staff
