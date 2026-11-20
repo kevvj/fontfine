@@ -7672,6 +7672,234 @@
     ],
     "animation": "pop"
   },
+  "comment": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "talk",
+      "speech",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-check": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "check",
+      "message",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "comment-code": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "code",
+      "developer",
+      "snippet",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-dollar": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "dollar",
+      "money",
+      "payment",
+      "price",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-dots": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "dots",
+      "typing",
+      "writing",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "dots"
+  },
+  "comment-exclamation": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "exclamation",
+      "message",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "comment-heart": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "heart",
+      "love",
+      "like",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "beat"
+  },
+  "comment-lines": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "lines",
+      "text",
+      "conversation",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-medical": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "medical",
+      "health",
+      "doctor",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-minus": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "minus",
+      "message",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "comment-plus": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "plus",
+      "message",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "comment-question": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "question",
+      "message",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "comment-quote": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "quote",
+      "citation",
+      "testimonial",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-slash": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "slash",
+      "mute",
+      "no",
+      "messages",
+      "disabled",
+      "talk",
+      "speech",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "shake"
+  },
+  "comment-smile": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "smile",
+      "happy",
+      "emoji",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-sms": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "sms",
+      "text",
+      "message",
+      "chat",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-xmark": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "xmark",
+      "message",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "comments": {
+    "category": "Communication",
+    "tags": [
+      "comments",
+      "conversation",
+      "chat",
+      "discussion"
+    ],
+    "animation": "pop"
+  },
+  "compact-disc": {
+    "category": "Media",
+    "tags": [
+      "compact",
+      "disc",
+      "cd",
+      "dvd",
+      "music",
+      "album"
+    ],
+    "animation": "spin"
+  },
   "compass": {
     "category": "Places",
     "tags": [
@@ -7708,6 +7936,17 @@
       "mac"
     ],
     "animation": "bounce"
+  },
+  "computer-mouse": {
+    "category": "Technology",
+    "tags": [
+      "computer",
+      "mouse",
+      "click",
+      "pointer",
+      "raton"
+    ],
+    "animation": "pop"
   },
   "computer-mouse-scrollwheel": {
     "category": "Technology",
@@ -7756,6 +7995,27 @@
     ],
     "animation": "slide"
   },
+  "cookie": {
+    "category": "Objects",
+    "tags": [
+      "cookie",
+      "biscuit",
+      "snack",
+      "galleta"
+    ],
+    "animation": "spin-slow"
+  },
+  "cookie-bite": {
+    "category": "Objects",
+    "tags": [
+      "cookie",
+      "bite",
+      "biscuit",
+      "snack",
+      "mordida"
+    ],
+    "animation": "spin-slow"
+  },
   "copy": {
     "category": "Interface",
     "tags": [
@@ -7765,6 +8025,16 @@
       "copiar"
     ],
     "animation": "nudge-diag"
+  },
+  "copyright": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "copyright",
+      "legal",
+      "rights",
+      "brand"
+    ],
+    "animation": "pop"
   },
   "corn": {
     "category": "Nature",
@@ -7785,6 +8055,18 @@
       "border",
       "radius",
       "esquina"
+    ],
+    "animation": "pop"
+  },
+  "couch": {
+    "category": "Objects",
+    "tags": [
+      "couch",
+      "sofa",
+      "living",
+      "room",
+      "furniture",
+      "sillon"
     ],
     "animation": "pop"
   },
@@ -7811,6 +8093,17 @@
     ],
     "animation": "swing",
     "origin": "50% 10%"
+  },
+  "crab": {
+    "category": "Nature",
+    "tags": [
+      "crab",
+      "sea",
+      "animal",
+      "beach",
+      "cangrejo"
+    ],
+    "animation": "wiggle"
   },
   "crate-apple": {
     "category": "Objects",
@@ -7884,6 +8177,27 @@
     "animation": "swing",
     "origin": "20% 80%"
   },
+  "croissant": {
+    "category": "Objects",
+    "tags": [
+      "croissant",
+      "bread",
+      "pastry",
+      "breakfast"
+    ],
+    "animation": "rock"
+  },
+  "crop": {
+    "category": "Interface",
+    "tags": [
+      "crop",
+      "image",
+      "cut",
+      "resize",
+      "recortar"
+    ],
+    "animation": "pop"
+  },
   "cross": {
     "category": "Religion",
     "tags": [
@@ -7898,6 +8212,29 @@
     ],
     "animation": "pulse"
   },
+  "crosshairs": {
+    "category": "Interface",
+    "tags": [
+      "crosshairs",
+      "target",
+      "aim",
+      "focus",
+      "gps"
+    ],
+    "animation": "spin-slow"
+  },
+  "crown": {
+    "category": "Objects",
+    "tags": [
+      "crown",
+      "king",
+      "queen",
+      "royal",
+      "premium",
+      "corona"
+    ],
+    "animation": "float"
+  },
   "crutch": {
     "category": "Health",
     "tags": [
@@ -7908,6 +8245,37 @@
       "muleta"
     ],
     "animation": "rock"
+  },
+  "crystal-ball": {
+    "category": "Objects",
+    "tags": [
+      "crystal",
+      "ball",
+      "magic",
+      "fortune",
+      "future"
+    ],
+    "animation": "glow"
+  },
+  "cube": {
+    "category": "Objects",
+    "tags": [
+      "cube",
+      "3d",
+      "box",
+      "shape"
+    ],
+    "animation": "turn-y"
+  },
+  "cupcake": {
+    "category": "Objects",
+    "tags": [
+      "cupcake",
+      "muffin",
+      "dessert",
+      "sweet"
+    ],
+    "animation": "pop"
   },
   "dagger": {
     "category": "Objects",
@@ -7985,6 +8353,17 @@
       "escritorio"
     ],
     "animation": "bounce"
+  },
+  "desktop": {
+    "category": "Technology",
+    "tags": [
+      "desktop",
+      "computer",
+      "monitor",
+      "pc",
+      "screen"
+    ],
+    "animation": "pop"
   },
   "dharmachakra": {
     "category": "Religion",
@@ -8179,6 +8558,17 @@
     ],
     "animation": "pop"
   },
+  "diamond": {
+    "category": "Objects",
+    "tags": [
+      "diamond",
+      "gem",
+      "jewel",
+      "shape",
+      "rhombus"
+    ],
+    "animation": "glow"
+  },
   "diamond-exclamation": {
     "category": "Status",
     "tags": [
@@ -8200,6 +8590,18 @@
       "rombo"
     ],
     "animation": "turn-y"
+  },
+  "diamond-turn-right": {
+    "category": "Arrows",
+    "tags": [
+      "diamond",
+      "turn",
+      "right",
+      "road",
+      "sign",
+      "direction"
+    ],
+    "animation": "nudge-right"
   },
   "diamonds-4": {
     "category": "Interface",
@@ -8263,6 +8665,78 @@
       "dado"
     ],
     "animation": "rock"
+  },
+  "dice-five": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "five",
+      "game",
+      "random",
+      "chance",
+      "dado"
+    ],
+    "animation": "spin"
+  },
+  "dice-four": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "four",
+      "game",
+      "random",
+      "chance",
+      "dado"
+    ],
+    "animation": "spin"
+  },
+  "dice-one": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "one",
+      "game",
+      "random",
+      "chance",
+      "dado"
+    ],
+    "animation": "spin"
+  },
+  "dice-six": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "six",
+      "game",
+      "random",
+      "chance",
+      "dado"
+    ],
+    "animation": "spin"
+  },
+  "dice-three": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "three",
+      "game",
+      "random",
+      "chance",
+      "dado"
+    ],
+    "animation": "spin"
+  },
+  "dice-two": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "two",
+      "game",
+      "random",
+      "chance",
+      "dado"
+    ],
+    "animation": "spin"
   },
   "diploma": {
     "category": "Objects",
@@ -8408,6 +8882,16 @@
     ],
     "animation": "pop"
   },
+  "divide": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "divide",
+      "division",
+      "math",
+      "operator"
+    ],
+    "animation": "pop"
+  },
   "dna": {
     "category": "Health",
     "tags": [
@@ -8446,6 +8930,17 @@
     ],
     "animation": "flip"
   },
+  "dollar-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "dollar",
+      "sign",
+      "money",
+      "currency",
+      "usd"
+    ],
+    "animation": "pop"
+  },
   "dolly-empty": {
     "category": "Objects",
     "tags": [
@@ -8458,6 +8953,17 @@
     ],
     "animation": "drive"
   },
+  "dolphin": {
+    "category": "Nature",
+    "tags": [
+      "dolphin",
+      "sea",
+      "ocean",
+      "animal",
+      "delfin"
+    ],
+    "animation": "float"
+  },
   "donut": {
     "category": "Objects",
     "tags": [
@@ -8468,6 +8974,29 @@
       "dona"
     ],
     "animation": "spin-slow"
+  },
+  "door-closed": {
+    "category": "Places",
+    "tags": [
+      "door",
+      "closed",
+      "exit",
+      "shut",
+      "puerta"
+    ],
+    "animation": "pop"
+  },
+  "door-open": {
+    "category": "Places",
+    "tags": [
+      "door",
+      "open",
+      "enter",
+      "exit",
+      "entrance",
+      "puerta"
+    ],
+    "animation": "turn-y"
   },
   "dot": {
     "category": "Interface",
