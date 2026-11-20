@@ -1,6 +1,6 @@
 import { computed, signal } from '@angular/core';
 
-/** Idioma de la web. Se guarda en localStorage; la primera vez sigue al navegador. */
+/** Idioma de la web: inglés por defecto; si eligen español se recuerda en localStorage. */
 export type Idioma = 'en' | 'es';
 
 const inicial = (): Idioma => {
@@ -8,7 +8,7 @@ const inicial = (): Idioma => {
     const g = localStorage.getItem('idioma');
     if (g === 'en' || g === 'es') return g;
   } catch { /* sin almacenamiento */ }
-  return typeof navigator !== 'undefined' && navigator.language?.toLowerCase().startsWith('es') ? 'es' : 'en';
+  return 'en';
 };
 
 export const idioma = signal<Idioma>(inicial());
