@@ -1,4 +1,4 @@
-import { Component, HostListener, computed, effect, signal, viewChild, ElementRef } from '@angular/core';
+import { Component, HostListener, computed, effect, linkedSignal, signal, viewChild, ElementRef } from '@angular/core';
 import { ICONOS } from './data/icons.generated';
 import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, Orden, VERSIONES, Version, esRelleno, normalizar } from './data/types';
 import { SvgPipe } from './svg.pipe';
@@ -6,6 +6,8 @@ import { Detalle } from './detail/detail';
 import { Docs } from './docs/docs';
 
 const TODAS = 'All';
+/** Íconos por página en la rejilla. */
+const POR_PAGINA = 100;
 
 @Component({
   selector: 'app-root',
@@ -24,10 +26,10 @@ export class App {
 
   protected readonly busqueda = signal('');
   protected readonly categoria = signal(TODAS);
-  protected readonly version = signal<Version>('light');
-  protected readonly tamano = signal(28);
+  protected readonly version = signal<Version>('regular');
+  protected readonly tamano = signal(36);
   /** Grosor de línea actual. Las versiones Thin a Bold son atajos a un grosor. */
-  protected readonly grosor = signal(1.25);
+  protected readonly grosor = signal(1.75);
   /** La versión que coincide con el grosor actual (o null si es personalizado). */
   protected readonly versionActiva = computed<Version | null>(() =>
     esRelleno(this.version()) ? this.version() : (VERSIONES.find((v) => v.grosor === this.grosor())?.id ?? null));
@@ -79,6 +81,29 @@ export class App {
       .map((x) => x.i);
   });
 
+  /** Página actual de la rejilla; vuelve a la 1 cuando cambian los resultados. */
+  protected readonly paginaActual = linkedSignal<Icono[], number>({ source: this.resultados, computation: () => 1 });
+  protected readonly totalPaginas = computed(() => Math.max(1, Math.ceil(this.resultados().length / POR_PAGINA)));
+  protected readonly visibles = computed(() => {
+    const inicio = (this.paginaActual() - 1) * POR_PAGINA;
+    return this.resultados().slice(inicio, inicio + POR_PAGINA);
+  });
+  /** Números del paginador, con "…" cuando hay muchas páginas: 1 … 4 5 6 … 14 */
+  protected readonly numerosPagina = computed<(number | null)[]>(() => {
+    const total = this.totalPaginas(), actual = this.paginaActual();
+    const lista: (number | null)[] = [];
+    for (let n = 1; n <= total; n++) {
+      if (n === 1 || n === total || Math.abs(n - actual) <= 1) lista.push(n);
+      else if (lista[lista.length - 1] !== null) lista.push(null);
+    }
+    return lista;
+  });
+
+  protected irAPagina(n: number): void {
+    this.paginaActual.set(Math.min(Math.max(1, n), this.totalPaginas()));
+    document.querySelector('.info-resultados')?.scrollIntoView({ block: 'start' });
+  }
+
   protected readonly cantidadRelleno = this.iconos.filter((i) => i.relleno).length;
 
   constructor() {
@@ -108,7 +133,7 @@ export class App {
       if (this.categoria() !== TODAS) q.set('categoria', this.categoria());
       if (this.orden() === 'new') q.set('sort', 'new');
       const va = this.versionActiva();
-      if (va && va !== 'light') q.set('version', va);
+      if (va && va !== 'regular') q.set('version', va);
       if (!va) q.set('grosor', String(this.grosor()));
       const s = this.seleccionado();
       if (s) q.set('icono', s.nombre);
@@ -130,7 +155,7 @@ export class App {
 
   protected cambiarGrosor(g: number): void {
     this.grosor.set(g);
-    if (esRelleno(this.version())) this.version.set('light');
+    if (esRelleno(this.version())) this.version.set('regular');
   }
 
   protected verPagina(p: 'icons' | 'docs'): void {

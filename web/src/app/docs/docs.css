@@ -1,41 +1,41 @@
-.docs { display: grid; grid-template-columns: 200px minmax(0, 760px); gap: 48px; max-width: 1100px; margin: 0 auto; padding: 40px 24px 80px; }
-.indice { position: sticky; top: 24px; align-self: start; }
-.indice h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--texto-2); margin: 0 0 10px; }
+.docs { display: grid; grid-template-columns: 250px minmax(0, 950px); gap: 60px; max-width: 1375px; margin: 0 auto; padding: 50px 30px 100px; }
+.indice { position: sticky; top: 30px; align-self: start; }
+.indice h2 { font-size: 15px; text-transform: uppercase; letter-spacing: .06em; color: var(--texto-2); margin: 0 0 12.5px; }
 .indice ul { list-style: none; margin: 0; padding: 0; }
-.indice button { display: block; width: 100%; text-align: left; border: 0; background: none; color: var(--texto-2); font: inherit; font-size: 14px; padding: 6px 10px; border-radius: 8px; cursor: pointer; }
+.indice button { display: block; width: 100%; text-align: left; border: 0; background: none; color: var(--texto-2); font: inherit; font-size: 17.5px; padding: 7.5px 12.5px; border-radius: 10px; cursor: pointer; }
 .indice button:hover { color: var(--texto); background: var(--suave-fondo); }
 
-.intro h1 { font-size: 34px; letter-spacing: -0.02em; margin: 0 0 8px; }
-.intro p { color: var(--texto-2); font-size: 16px; margin: 0 0 12px; }
-section { padding-top: 28px; scroll-margin-top: 16px; }
-section h2 { font-size: 22px; margin: 0 0 10px; }
-section h3 { font-size: 15px; margin: 22px 0 6px; }
-section p { margin: 8px 0; }
-code { font-variant-ligatures: none; font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-size: .9em; background: var(--suave-fondo); padding: 1px 5px; border-radius: 5px; }
+.intro h1 { font-size: 42.5px; letter-spacing: -0.02em; margin: 0 0 10px; }
+.intro p { color: var(--texto-2); font-size: 20px; margin: 0 0 15px; }
+section { padding-top: 35px; scroll-margin-top: 20px; }
+section h2 { font-size: 27.5px; margin: 0 0 12.5px; }
+section h3 { font-size: 18.75px; margin: 27.5px 0 7.5px; }
+section p { margin: 10px 0; }
+code { font-variant-ligatures: none; font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-size: .9em; background: var(--suave-fondo); padding: 1px 6.25px; border-radius: 6.25px; }
 
-.codigo { position: relative; margin: 10px 0; }
-.codigo pre { margin: 0; padding: 14px 48px 14px 16px; background: var(--suave-fondo); border: 1px solid var(--borde); border-radius: 12px; overflow-x: auto; }
-.codigo pre code { background: none; padding: 0; font-size: 13px; line-height: 1.6; }
-.copiar { position: absolute; top: 8px; right: 8px; display: inline-flex; padding: 6px; border: 1px solid var(--borde); border-radius: 8px; background: var(--tarjeta); color: var(--texto-2); cursor: pointer; }
+.codigo { position: relative; margin: 12.5px 0; }
+.codigo pre { margin: 0; padding: 17.5px 60px 17.5px 20px; background: var(--suave-fondo); border: 1px solid var(--borde); border-radius: 15px; overflow-x: auto; }
+.codigo pre code { background: none; padding: 0; font-size: 16.25px; line-height: 1.6; }
+.copiar { position: absolute; top: 10px; right: 10px; display: inline-flex; padding: 7.5px; border: 1px solid var(--borde); border-radius: 10px; background: var(--tarjeta); color: var(--texto-2); cursor: pointer; }
 .copiar:hover { color: var(--texto); }
 
-.muestra { display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0; }
-.muestra figure { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 14px 16px 10px; min-width: 84px; border: 1px solid var(--borde); border-radius: 12px; background: var(--tarjeta); color: var(--icono); }
+.muestra { display: flex; flex-wrap: wrap; gap: 12.5px; margin: 15px 0; }
+.muestra figure { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 7.5px; padding: 17.5px 20px 12.5px; min-width: 105px; border: 1px solid var(--borde); border-radius: 15px; background: var(--tarjeta); color: var(--icono); }
 .muestra span { display: inline-flex; }
-.muestra figcaption { font-size: 12px; color: var(--texto-2); }
+.muestra figcaption { font-size: 15px; color: var(--texto-2); }
 .muestra .duo { color: #2563eb; }
 
 .tabla { overflow-x: auto; }
-table { border-collapse: collapse; width: 100%; font-size: 14px; }
-th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--borde); vertical-align: top; }
-th { color: var(--texto-2); font-weight: 600; font-size: 13px; }
-.enlaces { padding-left: 18px; }
-.enlaces li { margin: 6px 0; }
+table { border-collapse: collapse; width: 100%; font-size: 17.5px; }
+th, td { text-align: left; padding: 11.25px 12.5px; border-bottom: 1px solid var(--borde); vertical-align: top; }
+th { color: var(--texto-2); font-weight: 600; font-size: 16.25px; }
+.enlaces { padding-left: 22.5px; }
+.enlaces li { margin: 7.5px 0; }
 .enlaces a { color: var(--texto); font-weight: 600; }
 
-@media (max-width: 760px) {
-  .docs { grid-template-columns: 1fr; gap: 16px; padding: 24px 16px 60px; }
+@media (max-width: 950px) {
+  .docs { grid-template-columns: 1fr; gap: 20px; padding: 30px 20px 75px; }
   .indice { position: static; }
-  .indice ul { display: flex; flex-wrap: wrap; gap: 4px; }
+  .indice ul { display: flex; flex-wrap: wrap; gap: 5px; }
   .indice button { width: auto; border: 1px solid var(--borde); }
 }

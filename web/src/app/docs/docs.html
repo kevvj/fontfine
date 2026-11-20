@@ -55,7 +55,7 @@
       <div class="muestra">
         @for (v of versiones; track v.id) {
           <figure>
-            <span [innerHTML]="icono('bell') | svg: v.id : 36"></span>
+            <span [innerHTML]="icono('bell') | svg: v.id : 45"></span>
             <figcaption>{{ v.id }}</figcaption>
           </figure>
         }
@@ -69,7 +69,7 @@
       <p>Duotone icons have two layers: <code>.ff-primary</code> (solid) and <code>.ff-secondary</code> (40% opacity). By default both use the icon color.</p>
       <div class="muestra">
         @for (n of ['bell', 'home', 'calendar', 'camera']; track n) {
-          <figure class="duo"><span [innerHTML]="icono(n) | svg: 'duotone' : 36"></span></figure>
+          <figure class="duo"><span [innerHTML]="icono(n) | svg: 'duotone' : 45"></span></figure>
         }
       </div>
       <ng-container *ngTemplateOutlet="bloque; context: { $implicit: codigo.duotone }" />
@@ -81,7 +81,7 @@
       <div class="muestra">
         @for (i of animados; track i.nombre) {
           <figure class="ff-hover">
-            <span class="ff-anim ff-{{ i.animacion }} ff-anim-hover" [style.--ff-origin]="i.origen" [innerHTML]="i | svg: 'light' : 36"></span>
+            <span class="ff-anim ff-{{ i.animacion }} ff-anim-hover" [style.--ff-origin]="i.origen" [innerHTML]="i | svg: 'light' : 45"></span>
             <figcaption>{{ i.animacion }}</figcaption>
           </figure>
         }
@@ -133,7 +133,7 @@
   <div class="codigo">
     <pre><code>{{ texto }}</code></pre>
     <button type="button" class="copiar" (click)="copiar(texto)" aria-label="Copy code" title="Copy">
-      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></svg>
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></svg>
     </button>
   </div>
 </ng-template>
