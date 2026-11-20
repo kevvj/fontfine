@@ -8979,6 +8979,143 @@
     ],
     "animation": "wiggle"
   },
+  "garage": {
+    "category": "Places",
+    "tags": [
+      "garage",
+      "parking",
+      "house",
+      "car",
+      "door"
+    ],
+    "animation": "pop"
+  },
+  "garlic": {
+    "category": "Nature",
+    "tags": [
+      "garlic",
+      "food",
+      "vegetable",
+      "cooking",
+      "ajo"
+    ],
+    "animation": "rock"
+  },
+  "gas-pump": {
+    "category": "Places",
+    "tags": [
+      "gas",
+      "pump",
+      "fuel",
+      "station",
+      "petrol",
+      "gasolina"
+    ],
+    "animation": "pop"
+  },
+  "gas-pump-slash": {
+    "category": "Places",
+    "tags": [
+      "gas",
+      "pump",
+      "slash",
+      "no",
+      "fuel",
+      "empty",
+      "closed",
+      "station",
+      "petrol",
+      "gasolina"
+    ],
+    "animation": "shake"
+  },
+  "gate": {
+    "category": "Places",
+    "tags": [
+      "gate",
+      "fence",
+      "entrance",
+      "door",
+      "portón"
+    ],
+    "animation": "swing"
+  },
+  "gauge": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "medium",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
+  "gauge-high": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "high",
+      "fast",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
+  "gauge-low": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "low",
+      "slow",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
+  "gauge-max": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "maximum",
+      "fastest",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
+  "gauge-min": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "minimum",
+      "lowest",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
+  "gavel": {
+    "category": "Objects",
+    "tags": [
+      "gavel",
+      "judge",
+      "law",
+      "court",
+      "auction",
+      "mazo"
+    ],
+    "animation": "rock"
+  },
   "gear": {
     "category": "Interface",
     "tags": [
@@ -8995,6 +9132,28 @@
     ],
     "animation": "spin"
   },
+  "gem": {
+    "category": "Objects",
+    "tags": [
+      "gem",
+      "diamond",
+      "jewel",
+      "precious",
+      "gema"
+    ],
+    "animation": "pop"
+  },
+  "ghost": {
+    "category": "People",
+    "tags": [
+      "ghost",
+      "spooky",
+      "halloween",
+      "phantom",
+      "fantasma"
+    ],
+    "animation": "float"
+  },
   "gift": {
     "category": "Objects",
     "tags": [
@@ -9002,6 +9161,114 @@
       "present",
       "birthday",
       "regalo"
+    ],
+    "animation": "shake"
+  },
+  "gift-card": {
+    "category": "Objects",
+    "tags": [
+      "gift",
+      "card",
+      "voucher",
+      "present",
+      "coupon"
+    ],
+    "animation": "pop"
+  },
+  "glass": {
+    "category": "Objects",
+    "tags": [
+      "glass",
+      "tumbler",
+      "drink",
+      "water",
+      "cup",
+      "vaso"
+    ],
+    "animation": "rock"
+  },
+  "glass-crack": {
+    "category": "Objects",
+    "tags": [
+      "glass",
+      "crack",
+      "broken",
+      "fragile",
+      "vaso",
+      "roto"
+    ],
+    "animation": "shake"
+  },
+  "glass-empty": {
+    "category": "Objects",
+    "tags": [
+      "glass",
+      "empty",
+      "wine",
+      "goblet",
+      "drink",
+      "copa"
+    ],
+    "animation": "rock"
+  },
+  "glass-half": {
+    "category": "Objects",
+    "tags": [
+      "glass",
+      "half",
+      "full",
+      "empty",
+      "drink",
+      "vaso"
+    ],
+    "animation": "rock"
+  },
+  "glass-water": {
+    "category": "Objects",
+    "tags": [
+      "glass",
+      "water",
+      "drink",
+      "hydration",
+      "vaso",
+      "agua"
+    ],
+    "animation": "rock"
+  },
+  "glasses": {
+    "category": "People",
+    "tags": [
+      "glasses",
+      "eyewear",
+      "spectacles",
+      "vision",
+      "gafas"
+    ],
+    "animation": "pop"
+  },
+  "glasses-round": {
+    "category": "People",
+    "tags": [
+      "glasses",
+      "round",
+      "eyewear",
+      "spectacles",
+      "vintage",
+      "gafas"
+    ],
+    "animation": "pop"
+  },
+  "glasses-slash": {
+    "category": "People",
+    "tags": [
+      "glasses",
+      "slash",
+      "no",
+      "vision",
+      "blind",
+      "eyewear",
+      "spectacles",
+      "gafas"
     ],
     "animation": "shake"
   },
@@ -9018,6 +9285,85 @@
     ],
     "animation": "turn-y"
   },
+  "globe-stand": {
+    "category": "Objects",
+    "tags": [
+      "globe",
+      "stand",
+      "world",
+      "map",
+      "geography",
+      "school"
+    ],
+    "animation": "spin-slow"
+  },
+  "golf-ball-tee": {
+    "category": "Objects",
+    "tags": [
+      "golf",
+      "ball",
+      "tee",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
+  },
+  "graduation-cap": {
+    "category": "Objects",
+    "tags": [
+      "graduation",
+      "cap",
+      "school",
+      "education",
+      "degree",
+      "birrete"
+    ],
+    "animation": "pop"
+  },
+  "grapes": {
+    "category": "Nature",
+    "tags": [
+      "grapes",
+      "fruit",
+      "wine",
+      "vineyard",
+      "uvas"
+    ],
+    "animation": "rock"
+  },
+  "grave": {
+    "category": "Religion",
+    "tags": [
+      "grave",
+      "tomb",
+      "cemetery",
+      "rip",
+      "tumba"
+    ],
+    "animation": "pop"
+  },
+  "greater-than": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "greater",
+      "than",
+      "math",
+      "compare",
+      "mayor"
+    ],
+    "animation": "pop"
+  },
+  "greater-than-equal": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "greater",
+      "than",
+      "equal",
+      "math",
+      "compare"
+    ],
+    "animation": "pop"
+  },
   "grid": {
     "category": "Interface",
     "tags": [
@@ -9029,6 +9375,17 @@
       "view"
     ],
     "animation": "pulse"
+  },
+  "grill": {
+    "category": "Objects",
+    "tags": [
+      "grill",
+      "barbecue",
+      "bbq",
+      "cooking",
+      "parrilla"
+    ],
+    "animation": "pop"
   },
   "grip": {
     "category": "Interface",
@@ -9045,6 +9402,40 @@
     ],
     "animation": "slide"
   },
+  "grip-dots": {
+    "category": "Interface",
+    "tags": [
+      "grip",
+      "dots",
+      "horizontal",
+      "handle",
+      "drag",
+      "move"
+    ],
+    "animation": "pop"
+  },
+  "grip-lines": {
+    "category": "Interface",
+    "tags": [
+      "grip",
+      "lines",
+      "handle",
+      "drag",
+      "move"
+    ],
+    "animation": "pop"
+  },
+  "grip-lines-vertical": {
+    "category": "Interface",
+    "tags": [
+      "grip",
+      "lines",
+      "vertical",
+      "handle",
+      "drag"
+    ],
+    "animation": "pop"
+  },
   "guitar": {
     "category": "Music & Audio",
     "tags": [
@@ -9055,6 +9446,50 @@
       "guitarra"
     ],
     "animation": "rock"
+  },
+  "h1": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "h1",
+      "heading",
+      "title",
+      "text",
+      "header"
+    ],
+    "animation": "pop"
+  },
+  "h2": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "h2",
+      "heading",
+      "subtitle",
+      "text",
+      "header"
+    ],
+    "animation": "pop"
+  },
+  "h3": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "h3",
+      "heading",
+      "text",
+      "header"
+    ],
+    "animation": "pop"
+  },
+  "hammer": {
+    "category": "Objects",
+    "tags": [
+      "hammer",
+      "tool",
+      "build",
+      "construction",
+      "martillo"
+    ],
+    "animation": "swing",
+    "origin": "50% 100%"
   },
   "hamsa": {
     "category": "Religion",
@@ -9105,6 +9540,73 @@
     ],
     "animation": "swing"
   },
+  "hard-drive": {
+    "category": "Technology",
+    "tags": [
+      "hard",
+      "drive",
+      "disk",
+      "storage",
+      "hdd",
+      "disco"
+    ],
+    "animation": "pop"
+  },
+  "hashtag": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "hashtag",
+      "hash",
+      "pound",
+      "number",
+      "tag"
+    ],
+    "animation": "pop"
+  },
+  "hat-chef": {
+    "category": "Objects",
+    "tags": [
+      "hat",
+      "chef",
+      "cook",
+      "kitchen",
+      "gorro"
+    ],
+    "animation": "rock"
+  },
+  "hat-cowboy": {
+    "category": "Objects",
+    "tags": [
+      "hat",
+      "cowboy",
+      "western",
+      "rodeo",
+      "sombrero"
+    ],
+    "animation": "rock"
+  },
+  "hat-winter": {
+    "category": "Objects",
+    "tags": [
+      "hat",
+      "winter",
+      "beanie",
+      "cold",
+      "gorro"
+    ],
+    "animation": "rock"
+  },
+  "hat-wizard": {
+    "category": "Objects",
+    "tags": [
+      "hat",
+      "wizard",
+      "magic",
+      "witch",
+      "fantasy"
+    ],
+    "animation": "rock"
+  },
   "headphones": {
     "category": "Music & Audio",
     "tags": [
@@ -9136,6 +9638,17 @@
     ],
     "animation": "shake"
   },
+  "headset": {
+    "category": "Communication",
+    "tags": [
+      "headset",
+      "support",
+      "call",
+      "center",
+      "microphone"
+    ],
+    "animation": "pulse"
+  },
   "heart": {
     "category": "Interface",
     "tags": [
@@ -9144,6 +9657,106 @@
       "love",
       "favorite",
       "corazon"
+    ],
+    "animation": "beat"
+  },
+  "heart-circle-bolt": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "circle",
+      "bolt",
+      "energy",
+      "power",
+      "love",
+      "like"
+    ],
+    "animation": "beat"
+  },
+  "heart-circle-check": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "circle",
+      "check",
+      "verified",
+      "approved",
+      "love",
+      "like"
+    ],
+    "animation": "beat"
+  },
+  "heart-circle-exclamation": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "circle",
+      "exclamation",
+      "alert",
+      "warning",
+      "love",
+      "like"
+    ],
+    "animation": "beat"
+  },
+  "heart-circle-minus": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "circle",
+      "minus",
+      "remove",
+      "unfavorite",
+      "love",
+      "like"
+    ],
+    "animation": "beat"
+  },
+  "heart-circle-plus": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "circle",
+      "plus",
+      "add",
+      "favorite",
+      "love",
+      "like"
+    ],
+    "animation": "beat"
+  },
+  "heart-circle-xmark": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "circle",
+      "xmark",
+      "remove",
+      "cancel",
+      "love",
+      "like"
+    ],
+    "animation": "beat"
+  },
+  "heart-crack": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "crack",
+      "broken",
+      "love",
+      "breakup"
+    ],
+    "animation": "shake"
+  },
+  "heart-half": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "half",
+      "love",
+      "rating",
+      "partial"
     ],
     "animation": "beat"
   },
@@ -9172,6 +9785,39 @@
       "corazon"
     ],
     "animation": "shake"
+  },
+  "hearts": {
+    "category": "Interface",
+    "tags": [
+      "hearts",
+      "love",
+      "two",
+      "couple",
+      "romance"
+    ],
+    "animation": "beat"
+  },
+  "helicopter": {
+    "category": "Places",
+    "tags": [
+      "helicopter",
+      "aircraft",
+      "flight",
+      "transport",
+      "helicoptero"
+    ],
+    "animation": "float"
+  },
+  "hexagon": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "shape",
+      "polygon",
+      "six",
+      "hexagono"
+    ],
+    "animation": "spin-slow"
   },
   "home": {
     "category": "Places",
