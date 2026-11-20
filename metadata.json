@@ -12427,6 +12427,56 @@
     ],
     "animation": "rock"
   },
+  "moon-first-quarter": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "first",
+      "quarter",
+      "half",
+      "phase",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
+  "moon-full": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "full",
+      "bright",
+      "phase",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
+  "moon-last-quarter": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "last",
+      "quarter",
+      "half",
+      "phase",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
+  "moon-new": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "new",
+      "phase",
+      "dark",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
   "moon-star": {
     "category": "Weather",
     "tags": [
@@ -12448,6 +12498,58 @@
       "sleep"
     ],
     "animation": "float"
+  },
+  "moon-waning-crescent": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "waning",
+      "crescent",
+      "shrinking",
+      "phase",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
+  "moon-waning-gibbous": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "waning",
+      "gibbous",
+      "shrinking",
+      "phase",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
+  "moon-waxing-crescent": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "waxing",
+      "crescent",
+      "growing",
+      "phase",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
+  "moon-waxing-gibbous": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "waxing",
+      "gibbous",
+      "growing",
+      "phase",
+      "night",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
   },
   "mosque": {
     "category": "Religion",
@@ -18633,6 +18735,17 @@
     ],
     "animation": "pop"
   },
+  "waffle": {
+    "category": "Objects",
+    "tags": [
+      "waffle",
+      "breakfast",
+      "food",
+      "sweet",
+      "gofre"
+    ],
+    "animation": "pop"
+  },
   "walkie-talkie": {
     "category": "Communication",
     "tags": [
@@ -18712,6 +18825,37 @@
     ],
     "animation": "tick"
   },
+  "watch-fitness": {
+    "category": "Health",
+    "tags": [
+      "watch",
+      "fitness",
+      "tracker",
+      "health",
+      "wearable"
+    ],
+    "animation": "beat"
+  },
+  "watch-smart": {
+    "category": "Technology",
+    "tags": [
+      "watch",
+      "smart",
+      "smartwatch",
+      "wearable"
+    ],
+    "animation": "tick"
+  },
+  "water-ladder": {
+    "category": "Places",
+    "tags": [
+      "water",
+      "ladder",
+      "pool",
+      "swimming"
+    ],
+    "animation": "pop"
+  },
   "watermelon-slice": {
     "category": "Nature",
     "tags": [
@@ -18722,6 +18866,17 @@
       "sandia"
     ],
     "animation": "rock"
+  },
+  "wave-pulse": {
+    "category": "Health",
+    "tags": [
+      "wave",
+      "pulse",
+      "heartbeat",
+      "ecg",
+      "health"
+    ],
+    "animation": "beat"
   },
   "wave-sine": {
     "category": "Music & Audio",
@@ -18755,6 +18910,27 @@
     ],
     "animation": "wave"
   },
+  "waveform-lines": {
+    "category": "Music & Audio",
+    "tags": [
+      "waveform",
+      "lines",
+      "audio",
+      "sound",
+      "voice"
+    ],
+    "animation": "beat"
+  },
+  "webhook": {
+    "category": "Technology",
+    "tags": [
+      "webhook",
+      "api",
+      "integration",
+      "callback"
+    ],
+    "animation": "pop"
+  },
   "weight-scale": {
     "category": "Health",
     "tags": [
@@ -18767,6 +18943,78 @@
     ],
     "animation": "bounce"
   },
+  "whale": {
+    "category": "Nature",
+    "tags": [
+      "whale",
+      "sea",
+      "ocean",
+      "animal",
+      "ballena"
+    ],
+    "animation": "float"
+  },
+  "wheat-awn": {
+    "category": "Nature",
+    "tags": [
+      "wheat",
+      "awn",
+      "grain",
+      "harvest",
+      "agriculture",
+      "trigo"
+    ],
+    "animation": "swing"
+  },
+  "wheat-awn-slash": {
+    "category": "Nature",
+    "tags": [
+      "wheat",
+      "awn",
+      "slash",
+      "gluten",
+      "free",
+      "no",
+      "grain",
+      "harvest",
+      "agriculture",
+      "trigo"
+    ],
+    "animation": "shake"
+  },
+  "wheelchair": {
+    "category": "Health",
+    "tags": [
+      "wheelchair",
+      "accessibility",
+      "disability",
+      "silla",
+      "ruedas"
+    ],
+    "animation": "drive"
+  },
+  "whiskey-glass": {
+    "category": "Objects",
+    "tags": [
+      "whiskey",
+      "glass",
+      "drink",
+      "alcohol",
+      "bar"
+    ],
+    "animation": "rock"
+  },
+  "whistle": {
+    "category": "Objects",
+    "tags": [
+      "whistle",
+      "referee",
+      "sport",
+      "coach",
+      "silbato"
+    ],
+    "animation": "shake"
+  },
   "wifi": {
     "category": "Technology",
     "tags": [
@@ -18776,6 +19024,28 @@
       "network",
       "signal",
       "red"
+    ],
+    "animation": "signal"
+  },
+  "wifi-exclamation": {
+    "category": "Technology",
+    "tags": [
+      "wifi",
+      "exclamation",
+      "warning",
+      "no",
+      "internet"
+    ],
+    "animation": "shake"
+  },
+  "wifi-fair": {
+    "category": "Technology",
+    "tags": [
+      "wifi",
+      "fair",
+      "signal",
+      "medium",
+      "wireless"
     ],
     "animation": "signal"
   },
@@ -18794,6 +19064,17 @@
     ],
     "animation": "shake"
   },
+  "wifi-weak": {
+    "category": "Technology",
+    "tags": [
+      "wifi",
+      "weak",
+      "signal",
+      "poor",
+      "wireless"
+    ],
+    "animation": "signal"
+  },
   "wind": {
     "category": "Weather",
     "tags": [
@@ -18804,6 +19085,126 @@
       "viento"
     ],
     "animation": "slide"
+  },
+  "wind-turbine": {
+    "category": "Nature",
+    "tags": [
+      "wind",
+      "turbine",
+      "energy",
+      "renewable",
+      "power",
+      "eolica"
+    ],
+    "animation": "spin"
+  },
+  "window": {
+    "category": "Interface",
+    "tags": [
+      "window",
+      "app",
+      "browser",
+      "frame"
+    ],
+    "animation": "pop"
+  },
+  "window-maximize": {
+    "category": "Interface",
+    "tags": [
+      "window",
+      "maximize",
+      "fullscreen",
+      "expand"
+    ],
+    "animation": "pop"
+  },
+  "window-minimize": {
+    "category": "Interface",
+    "tags": [
+      "window",
+      "minimize",
+      "collapse",
+      "hide"
+    ],
+    "animation": "pop"
+  },
+  "window-restore": {
+    "category": "Interface",
+    "tags": [
+      "window",
+      "restore",
+      "overlap",
+      "windows"
+    ],
+    "animation": "pop"
+  },
+  "windsock": {
+    "category": "Weather",
+    "tags": [
+      "windsock",
+      "wind",
+      "direction",
+      "airport",
+      "manga"
+    ],
+    "animation": "wave"
+  },
+  "wine-bottle": {
+    "category": "Objects",
+    "tags": [
+      "wine",
+      "bottle",
+      "drink",
+      "alcohol",
+      "botella"
+    ],
+    "animation": "rock"
+  },
+  "wine-glass": {
+    "category": "Objects",
+    "tags": [
+      "wine",
+      "glass",
+      "drink",
+      "alcohol",
+      "red",
+      "copa",
+      "vino"
+    ],
+    "animation": "rock"
+  },
+  "wine-glass-crack": {
+    "category": "Objects",
+    "tags": [
+      "wine",
+      "glass",
+      "crack",
+      "broken",
+      "fragile"
+    ],
+    "animation": "shake"
+  },
+  "worm": {
+    "category": "Nature",
+    "tags": [
+      "worm",
+      "earthworm",
+      "bug",
+      "garden",
+      "gusano"
+    ],
+    "animation": "wiggle"
+  },
+  "wreath": {
+    "category": "Religion",
+    "tags": [
+      "wreath",
+      "christmas",
+      "holiday",
+      "door",
+      "corona"
+    ],
+    "animation": "spin-slow"
   },
   "wrench": {
     "category": "Objects",
@@ -18824,6 +19225,18 @@
     "animation": "wiggle",
     "origin": "25% 75%"
   },
+  "wrench-simple": {
+    "category": "Objects",
+    "tags": [
+      "wrench",
+      "simple",
+      "tool",
+      "fix",
+      "repair",
+      "settings"
+    ],
+    "animation": "rock"
+  },
   "x": {
     "category": "Actions",
     "tags": [
@@ -18838,6 +19251,40 @@
       "equis"
     ],
     "animation": "quarter"
+  },
+  "x-ray": {
+    "category": "Health",
+    "tags": [
+      "x",
+      "ray",
+      "radiography",
+      "bones",
+      "scan",
+      "medical"
+    ],
+    "animation": "pulse"
+  },
+  "xmark-large": {
+    "category": "Interface",
+    "tags": [
+      "xmark",
+      "large",
+      "close",
+      "cancel",
+      "delete"
+    ],
+    "animation": "pop"
+  },
+  "xmarks-lines": {
+    "category": "Interface",
+    "tags": [
+      "xmarks",
+      "lines",
+      "cross",
+      "out",
+      "errors"
+    ],
+    "animation": "pop"
   },
   "yin-yang": {
     "category": "Religion",
