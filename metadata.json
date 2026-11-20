@@ -14072,6 +14072,17 @@
     ],
     "animation": "pop"
   },
+  "podcast": {
+    "category": "Music & Audio",
+    "tags": [
+      "podcast",
+      "broadcast",
+      "audio",
+      "show",
+      "radio"
+    ],
+    "animation": "signal"
+  },
   "podium": {
     "category": "Objects",
     "tags": [
@@ -14089,6 +14100,99 @@
       "lugar"
     ],
     "animation": "bounce"
+  },
+  "poker-chip": {
+    "category": "Objects",
+    "tags": [
+      "poker",
+      "chip",
+      "casino",
+      "bet",
+      "gamble",
+      "ficha"
+    ],
+    "animation": "spin"
+  },
+  "poll-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "poll",
+      "horizontal",
+      "survey",
+      "vote",
+      "chart",
+      "results"
+    ],
+    "animation": "pop"
+  },
+  "poll-vertical": {
+    "category": "Interface",
+    "tags": [
+      "poll",
+      "vertical",
+      "survey",
+      "vote",
+      "chart",
+      "results"
+    ],
+    "animation": "bars"
+  },
+  "popcorn": {
+    "category": "Objects",
+    "tags": [
+      "popcorn",
+      "movie",
+      "cinema",
+      "snack",
+      "palomitas"
+    ],
+    "animation": "pop"
+  },
+  "popsicle": {
+    "category": "Objects",
+    "tags": [
+      "popsicle",
+      "ice",
+      "pop",
+      "summer",
+      "dessert",
+      "paleta"
+    ],
+    "animation": "wobble"
+  },
+  "postage-stamp": {
+    "category": "Objects",
+    "tags": [
+      "postage",
+      "stamp",
+      "mail",
+      "letter",
+      "post",
+      "estampilla"
+    ],
+    "animation": "pop"
+  },
+  "pot-food": {
+    "category": "Objects",
+    "tags": [
+      "pot",
+      "food",
+      "cooking",
+      "soup",
+      "kitchen",
+      "olla"
+    ],
+    "animation": "float"
+  },
+  "potato": {
+    "category": "Nature",
+    "tags": [
+      "potato",
+      "vegetable",
+      "food",
+      "papa"
+    ],
+    "animation": "rock"
   },
   "power": {
     "category": "Actions",
@@ -14114,6 +14218,17 @@
     ],
     "animation": "wiggle"
   },
+  "presentation-screen": {
+    "category": "Objects",
+    "tags": [
+      "presentation",
+      "screen",
+      "board",
+      "slides",
+      "projector"
+    ],
+    "animation": "pop"
+  },
   "print": {
     "category": "Objects",
     "tags": [
@@ -14123,6 +14238,53 @@
       "impresora"
     ],
     "animation": "nudge-down"
+  },
+  "progress-full": {
+    "category": "Status",
+    "tags": [
+      "progress",
+      "full",
+      "100",
+      "complete",
+      "done",
+      "loading",
+      "percent"
+    ],
+    "animation": "spin-slow"
+  },
+  "progress-half": {
+    "category": "Status",
+    "tags": [
+      "progress",
+      "half",
+      "50",
+      "loading",
+      "percent"
+    ],
+    "animation": "spin-slow"
+  },
+  "progress-quarter": {
+    "category": "Status",
+    "tags": [
+      "progress",
+      "quarter",
+      "25",
+      "loading",
+      "percent"
+    ],
+    "animation": "spin-slow"
+  },
+  "progress-three-quarters": {
+    "category": "Status",
+    "tags": [
+      "progress",
+      "three",
+      "quarters",
+      "75",
+      "loading",
+      "percent"
+    ],
+    "animation": "spin-slow"
   },
   "projector": {
     "category": "Music & Audio",
@@ -14138,6 +14300,77 @@
     ],
     "animation": "glow"
   },
+  "pull-request": {
+    "category": "Technology",
+    "tags": [
+      "pull",
+      "request",
+      "git",
+      "merge",
+      "code",
+      "review",
+      "pr"
+    ],
+    "animation": "pop"
+  },
+  "pull-request-closed": {
+    "category": "Technology",
+    "tags": [
+      "pull",
+      "request",
+      "closed",
+      "git",
+      "rejected",
+      "pr"
+    ],
+    "animation": "pop"
+  },
+  "pull-request-draft": {
+    "category": "Technology",
+    "tags": [
+      "pull",
+      "request",
+      "draft",
+      "git",
+      "wip",
+      "pr"
+    ],
+    "animation": "pop"
+  },
+  "pumpkin": {
+    "category": "Nature",
+    "tags": [
+      "pumpkin",
+      "halloween",
+      "autumn",
+      "fall",
+      "calabaza"
+    ],
+    "animation": "rock"
+  },
+  "puzzle-piece": {
+    "category": "Objects",
+    "tags": [
+      "puzzle",
+      "piece",
+      "jigsaw",
+      "plugin",
+      "addon",
+      "game"
+    ],
+    "animation": "wiggle"
+  },
+  "pyramid": {
+    "category": "Places",
+    "tags": [
+      "pyramid",
+      "egypt",
+      "monument",
+      "ancient",
+      "piramide"
+    ],
+    "animation": "pop"
+  },
   "qr-code": {
     "category": "Objects",
     "tags": [
@@ -14151,6 +14384,17 @@
     ],
     "animation": "pulse"
   },
+  "qrcode-read": {
+    "category": "Technology",
+    "tags": [
+      "qr",
+      "code",
+      "read",
+      "scan",
+      "camera"
+    ],
+    "animation": "pulse"
+  },
   "quote": {
     "category": "Communication",
     "tags": [
@@ -14161,6 +14405,27 @@
       "cita"
     ],
     "animation": "pop"
+  },
+  "radar": {
+    "category": "Technology",
+    "tags": [
+      "radar",
+      "scan",
+      "detect",
+      "sonar"
+    ],
+    "animation": "spin"
+  },
+  "radiation": {
+    "category": "Status",
+    "tags": [
+      "radiation",
+      "nuclear",
+      "hazard",
+      "danger",
+      "radioactive"
+    ],
+    "animation": "spin-slow"
   },
   "radio": {
     "category": "Music & Audio",
@@ -14189,6 +14454,28 @@
     ],
     "animation": "pop"
   },
+  "rainbow": {
+    "category": "Weather",
+    "tags": [
+      "rainbow",
+      "colors",
+      "sky",
+      "weather",
+      "arcoiris"
+    ],
+    "animation": "pop"
+  },
+  "raindrops": {
+    "category": "Weather",
+    "tags": [
+      "raindrops",
+      "rain",
+      "water",
+      "drops",
+      "lluvia"
+    ],
+    "animation": "drip"
+  },
   "ram": {
     "category": "Technology",
     "tags": [
@@ -14202,6 +14489,17 @@
       "pc"
     ],
     "animation": "pulse"
+  },
+  "ranking-star": {
+    "category": "Status",
+    "tags": [
+      "ranking",
+      "star",
+      "podium",
+      "leaderboard",
+      "winner"
+    ],
+    "animation": "pop"
   },
   "receipt": {
     "category": "Objects",
@@ -14249,6 +14547,27 @@
     ],
     "animation": "spin"
   },
+  "refrigerator": {
+    "category": "Objects",
+    "tags": [
+      "refrigerator",
+      "fridge",
+      "kitchen",
+      "appliance",
+      "nevera"
+    ],
+    "animation": "pop"
+  },
+  "registered": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "registered",
+      "trademark",
+      "brand",
+      "legal"
+    ],
+    "animation": "pop"
+  },
   "repeat": {
     "category": "Media",
     "tags": [
@@ -14271,6 +14590,112 @@
     ],
     "animation": "nudge-left"
   },
+  "reply-all": {
+    "category": "Communication",
+    "tags": [
+      "reply",
+      "all",
+      "respond",
+      "email",
+      "message"
+    ],
+    "animation": "nudge-left"
+  },
+  "restroom": {
+    "category": "Places",
+    "tags": [
+      "restroom",
+      "bathroom",
+      "toilet",
+      "wc",
+      "men",
+      "women"
+    ],
+    "animation": "pop"
+  },
+  "rhombus": {
+    "category": "Interface",
+    "tags": [
+      "rhombus",
+      "diamond",
+      "shape",
+      "polygon",
+      "rombo"
+    ],
+    "animation": "pop"
+  },
+  "ribbon": {
+    "category": "Health",
+    "tags": [
+      "ribbon",
+      "awareness",
+      "cause",
+      "support",
+      "lazo"
+    ],
+    "animation": "swing"
+  },
+  "ring": {
+    "category": "Objects",
+    "tags": [
+      "ring",
+      "jewelry",
+      "wedding",
+      "engagement",
+      "diamond",
+      "anillo"
+    ],
+    "animation": "spin-slow"
+  },
+  "road": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "street",
+      "highway",
+      "route",
+      "carretera"
+    ],
+    "animation": "drive"
+  },
+  "road-barrier": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "barrier",
+      "block",
+      "construction",
+      "closed"
+    ],
+    "animation": "shake"
+  },
+  "robot": {
+    "category": "Technology",
+    "tags": [
+      "robot",
+      "bot",
+      "ai",
+      "android",
+      "machine"
+    ],
+    "animation": "wiggle"
+  },
+  "robot-slash": {
+    "category": "Technology",
+    "tags": [
+      "robot",
+      "slash",
+      "no",
+      "bots",
+      "disabled",
+      "ai",
+      "off",
+      "bot",
+      "android",
+      "machine"
+    ],
+    "animation": "shake"
+  },
   "rock": {
     "category": "Nature",
     "tags": [
@@ -14282,6 +14707,119 @@
       "montaña"
     ],
     "animation": "wobble"
+  },
+  "rocket": {
+    "category": "Objects",
+    "tags": [
+      "rocket",
+      "launch",
+      "space",
+      "startup",
+      "cohete"
+    ],
+    "animation": "float"
+  },
+  "rotate-left": {
+    "category": "Actions",
+    "tags": [
+      "rotate",
+      "left",
+      "counterclockwise",
+      "undo",
+      "turn"
+    ],
+    "animation": "spin"
+  },
+  "rotate-right": {
+    "category": "Actions",
+    "tags": [
+      "rotate",
+      "right",
+      "clockwise",
+      "redo",
+      "turn"
+    ],
+    "animation": "spin"
+  },
+  "route": {
+    "category": "Places",
+    "tags": [
+      "route",
+      "path",
+      "directions",
+      "journey",
+      "ruta"
+    ],
+    "animation": "pop"
+  },
+  "router": {
+    "category": "Technology",
+    "tags": [
+      "router",
+      "wifi",
+      "modem",
+      "internet",
+      "network"
+    ],
+    "animation": "signal"
+  },
+  "rss": {
+    "category": "Communication",
+    "tags": [
+      "rss",
+      "feed",
+      "subscribe",
+      "news",
+      "blog"
+    ],
+    "animation": "signal"
+  },
+  "rss-slash": {
+    "category": "Communication",
+    "tags": [
+      "rss",
+      "slash",
+      "unsubscribe",
+      "feed",
+      "off",
+      "subscribe",
+      "news",
+      "blog"
+    ],
+    "animation": "shake"
+  },
+  "rug": {
+    "category": "Objects",
+    "tags": [
+      "rug",
+      "carpet",
+      "floor",
+      "home",
+      "alfombra"
+    ],
+    "animation": "pop"
+  },
+  "rugby-ball": {
+    "category": "Objects",
+    "tags": [
+      "rugby",
+      "ball",
+      "american",
+      "football",
+      "sport"
+    ],
+    "animation": "spin"
+  },
+  "ruler": {
+    "category": "Objects",
+    "tags": [
+      "ruler",
+      "measure",
+      "length",
+      "tool",
+      "regla"
+    ],
+    "animation": "rock"
   },
   "save": {
     "category": "Files",
