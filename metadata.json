@@ -20092,6 +20092,28 @@
     ],
     "animation": "wiggle"
   },
+  "scooter": {
+    "category": "Places",
+    "tags": [
+      "scooter",
+      "kick",
+      "ride",
+      "transport",
+      "patineta"
+    ],
+    "animation": "drive"
+  },
+  "screencast": {
+    "category": "Technology",
+    "tags": [
+      "screencast",
+      "cast",
+      "stream",
+      "display",
+      "wireless"
+    ],
+    "animation": "signal"
+  },
   "screwdriver": {
     "category": "Objects",
     "tags": [
@@ -20113,6 +20135,16 @@
       "repair"
     ],
     "animation": "rock"
+  },
+  "scribble": {
+    "category": "Actions",
+    "tags": [
+      "scribble",
+      "draw",
+      "doodle",
+      "sketch"
+    ],
+    "animation": "write"
   },
   "scroll": {
     "category": "Objects",
@@ -20194,6 +20226,26 @@
     ],
     "animation": "search"
   },
+  "seedling": {
+    "category": "Nature",
+    "tags": [
+      "seedling",
+      "sprout",
+      "plant",
+      "grow",
+      "eco"
+    ],
+    "animation": "float"
+  },
+  "semicolon": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "semicolon",
+      "punctuation",
+      "code"
+    ],
+    "animation": "pop"
+  },
   "send": {
     "category": "Communication",
     "tags": [
@@ -20205,6 +20257,16 @@
       "enviar"
     ],
     "animation": "nudge-diag"
+  },
+  "septagon": {
+    "category": "Interface",
+    "tags": [
+      "septagon",
+      "heptagon",
+      "shape",
+      "polygon"
+    ],
+    "animation": "pop"
   },
   "server": {
     "category": "Technology",
@@ -20239,6 +20301,17 @@
     ],
     "animation": "pop"
   },
+  "share-from-square": {
+    "category": "Arrows",
+    "tags": [
+      "share",
+      "from",
+      "square",
+      "export",
+      "send"
+    ],
+    "animation": "nudge-diag"
+  },
   "share-nodes": {
     "category": "Communication",
     "tags": [
@@ -20247,6 +20320,17 @@
       "network",
       "social",
       "connect"
+    ],
+    "animation": "pop"
+  },
+  "shelves": {
+    "category": "Objects",
+    "tags": [
+      "shelves",
+      "storage",
+      "rack",
+      "warehouse",
+      "estante"
     ],
     "animation": "pop"
   },
@@ -20358,6 +20442,16 @@
     ],
     "animation": "pulse"
   },
+  "shield-quartered": {
+    "category": "Security",
+    "tags": [
+      "shield",
+      "quartered",
+      "heraldry",
+      "crest"
+    ],
+    "animation": "pop"
+  },
   "shield-slash": {
     "category": "Security",
     "tags": [
@@ -20447,6 +20541,49 @@
     "animation": "swing",
     "origin": "50% 10%"
   },
+  "shirt-jersey": {
+    "category": "Objects",
+    "tags": [
+      "shirt",
+      "jersey",
+      "sport",
+      "team",
+      "number"
+    ],
+    "animation": "swing"
+  },
+  "shirt-long-sleeve": {
+    "category": "Objects",
+    "tags": [
+      "shirt",
+      "long",
+      "sleeve",
+      "clothing",
+      "camisa"
+    ],
+    "animation": "swing"
+  },
+  "shirt-running": {
+    "category": "Objects",
+    "tags": [
+      "shirt",
+      "running",
+      "sport",
+      "jersey"
+    ],
+    "animation": "swing"
+  },
+  "shirt-tank-top": {
+    "category": "Objects",
+    "tags": [
+      "shirt",
+      "tank",
+      "top",
+      "sleeveless",
+      "clothing"
+    ],
+    "animation": "swing"
+  },
   "shoe-prints": {
     "category": "People",
     "tags": [
@@ -20458,6 +20595,27 @@
       "huellas"
     ],
     "animation": "pop"
+  },
+  "shop": {
+    "category": "Places",
+    "tags": [
+      "shop",
+      "store",
+      "market",
+      "business",
+      "tienda"
+    ],
+    "animation": "pop"
+  },
+  "shorts": {
+    "category": "Objects",
+    "tags": [
+      "shorts",
+      "pants",
+      "clothing",
+      "summer"
+    ],
+    "animation": "swing"
   },
   "shovel": {
     "category": "Objects",
@@ -20481,6 +20639,16 @@
     ],
     "animation": "drip"
   },
+  "shredder": {
+    "category": "Objects",
+    "tags": [
+      "shredder",
+      "paper",
+      "destroy",
+      "office"
+    ],
+    "animation": "pop"
+  },
   "shuffle": {
     "category": "Media",
     "tags": [
@@ -20491,6 +20659,17 @@
       "aleatorio"
     ],
     "animation": "slide"
+  },
+  "shuttle-space": {
+    "category": "Technology",
+    "tags": [
+      "shuttle",
+      "space",
+      "rocket",
+      "nasa",
+      "orbit"
+    ],
+    "animation": "nudge-right"
   },
   "sigma": {
     "category": "Letters & Numbers",
@@ -20721,6 +20900,16 @@
       "sirena"
     ],
     "animation": "flash"
+  },
+  "sitemap": {
+    "category": "Interface",
+    "tags": [
+      "sitemap",
+      "hierarchy",
+      "structure",
+      "organization"
+    ],
+    "animation": "pop"
   },
   "skip-back": {
     "category": "Media",
@@ -21236,6 +21425,16 @@
     ],
     "animation": "pop"
   },
+  "square-ampersand": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "ampersand",
+      "and",
+      "symbol"
+    ],
+    "animation": "pop"
+  },
   "square-arrow-down": {
     "category": "Arrows",
     "tags": [
@@ -21529,6 +21728,28 @@
       "button"
     ],
     "animation": "nudge-down"
+  },
+  "square-down-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "down",
+      "left",
+      "arrow",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
+  },
+  "square-down-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "down",
+      "right",
+      "arrow",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
   },
   "square-e": {
     "category": "Letters & Numbers",
@@ -21861,6 +22082,17 @@
     ],
     "animation": "ring"
   },
+  "square-phone-flip": {
+    "category": "Communication",
+    "tags": [
+      "square",
+      "phone",
+      "flip",
+      "call",
+      "contact"
+    ],
+    "animation": "ring"
+  },
   "square-plus": {
     "category": "Interface",
     "tags": [
@@ -22033,6 +22265,17 @@
     ],
     "animation": "slide"
   },
+  "square-sliders-vertical": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "sliders",
+      "vertical",
+      "settings",
+      "adjust"
+    ],
+    "animation": "pop"
+  },
   "square-small": {
     "category": "Interface",
     "tags": [
@@ -22087,6 +22330,19 @@
     ],
     "animation": "blink"
   },
+  "square-this-way-up": {
+    "category": "Objects",
+    "tags": [
+      "square",
+      "this",
+      "way",
+      "up",
+      "box",
+      "package",
+      "shipping"
+    ],
+    "animation": "nudge-up"
+  },
   "square-triangle": {
     "category": "Interface",
     "tags": [
@@ -22119,6 +22375,29 @@
       "button"
     ],
     "animation": "nudge-up"
+  },
+  "square-up-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "up",
+      "left",
+      "arrow",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
+  },
+  "square-up-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "up",
+      "right",
+      "external",
+      "link",
+      "open"
+    ],
+    "animation": "nudge-diag"
   },
   "square-user": {
     "category": "Interface",
