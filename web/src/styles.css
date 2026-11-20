@@ -2,16 +2,24 @@
   --fondo: #fafafa; --tarjeta: #ffffff; --texto: #171717; --texto-2: #6b6b6b;
   --borde: #ececec; --borde-fuerte: #d4d4d4; --suave-fondo: #f2f2f2;
   --icono: #262626; --sombra: 0 1px 2.5px rgb(0 0 0 / 0.06), 0 1px 1px rgb(0 0 0 / 0.03);
+  /* Paleta Neón: c1 principal, c2 combina con c1, c3 el picante. */
+  --c1: #171717; --c2: #404040; --c3: #d9f99d; --sobre-c3: #1a2e05;
+  --acento: var(--c1); --acento-2: var(--c2); --picante: var(--c3); --sobre-acento: #ffffff;
+  --acento-suave: color-mix(in srgb, var(--acento) 10%, transparent);
   color-scheme: light;
 }
 :root[data-tema="oscuro"] {
   --fondo: #111111; --tarjeta: #1a1a1a; --texto: #ededed; --texto-2: #9a9a9a;
   --borde: #262626; --borde-fuerte: #3a3a3a; --suave-fondo: #222222;
   --icono: #e5e5e5; --sombra: 0 1px 2.5px rgb(0 0 0 / 0.4);
+  --acento: #fafafa; --acento-2: #a3a3a3; --c3: #bef264;
+  --sobre-acento: #111111;
+  --acento-suave: color-mix(in srgb, var(--acento) 16%, transparent);
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; }
+html { overflow-x: clip; }
 body {
   background: var(--fondo); color: var(--texto);
   font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-size: 18.75px; line-height: 1.45;
@@ -23,10 +31,11 @@ button:focus-visible, input:focus-visible { outline: 2.5px solid var(--texto); o
   font: inherit; font-size: 17.5px; padding: 10px 17.5px; border-radius: 12.5px; cursor: pointer;
 }
 .boton:hover { background: var(--suave-fondo); }
-.boton.principal { background: var(--texto); color: var(--fondo); border-color: var(--texto); }
+.boton.principal { background: var(--acento); color: var(--sobre-acento); border-color: var(--acento); }
 .boton.principal:hover { opacity: 0.9; }
 .boton-icono {
   display: inline-flex; border: 1px solid var(--borde); background: var(--tarjeta); color: var(--texto);
   padding: 8.75px; border-radius: 12.5px; cursor: pointer;
 }
 .boton-icono:hover { background: var(--suave-fondo); }
+

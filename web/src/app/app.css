@@ -7,7 +7,7 @@
   backdrop-filter: blur(10px);
 }
 .marca { display: flex; align-items: center; gap: 12.5px; font-size: 21.25px; }
-.logo { display: inline-flex; color: var(--icono); }
+.logo { display: inline-flex; color: var(--picante); }
 .etiqueta-beta {
   font-size: 13.75px; padding: 2.5px 10px; border-radius: 1248.75px;
   background: var(--suave-fondo); color: var(--texto-2);
@@ -24,7 +24,7 @@
   border: 1px solid var(--borde-fuerte); border-radius: 17.5px; background: var(--tarjeta);
   color: var(--texto-2); box-shadow: var(--sombra);
 }
-.buscador:focus-within { border-color: var(--texto); }
+.buscador:focus-within { border-color: var(--acento); box-shadow: 0 0 0 4px var(--acento-suave); }
 .buscador input {
   flex: 1; min-width: 0; border: 0; outline: 0; background: transparent;
   font: inherit; font-size: 20px; color: var(--texto);
@@ -53,7 +53,7 @@ kbd {
   font: inherit; font-size: 17.5px; color: var(--texto); cursor: pointer; text-align: left;
 }
 .categorias button:hover { background: var(--suave-fondo); }
-.categorias button.activa { background: var(--texto); color: var(--fondo); }
+.categorias button.activa { background: var(--acento); color: var(--sobre-acento); }
 .categorias .cantidad { font-size: 15px; opacity: 0.6; }
 
 .cuerpo > * { min-width: 0; }
@@ -68,7 +68,7 @@ kbd {
 .segmentos button:hover { color: var(--texto); }
 .segmentos button.activa { background: var(--tarjeta); color: var(--texto); box-shadow: var(--sombra); font-weight: 600; }
 .tamano { display: flex; align-items: center; gap: 12.5px; font-size: 16.25px; color: var(--texto-2); }
-.tamano input { accent-color: var(--texto); width: 137.5px; }
+.tamano input { accent-color: var(--acento); width: 137.5px; }
 .ajustes-rango { display: flex; flex-wrap: wrap; gap: 15px 30px; }
 .tamano .valor { width: 55px; font-variant-numeric: tabular-nums; }
 
@@ -85,11 +85,11 @@ kbd {
   color: var(--icono); cursor: pointer; font: inherit; transition: border-color .12s, transform .12s;
 }
 .tarjeta:hover { border-color: var(--borde-fuerte); transform: translateY(-1px); }
-.tarjeta.elegida { border-color: var(--texto); box-shadow: 0 0 0 1px var(--texto); }
+.tarjeta.elegida { border-color: var(--acento); box-shadow: 0 0 0 1px var(--acento); color: var(--acento); background: var(--acento-suave); }
 .tarjeta.sin-relleno .dibujo { opacity: 0.3; }
 .dibujo { display: flex; align-items: center; justify-content: center; height: 60px; }
 .nombre { font-size: 15px; color: var(--texto-2); max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.nuevo { position: absolute; top: 7.5px; right: 7.5px; padding: 1px 7.5px; border-radius: 1248.75px; font-size: 12.5px; font-weight: 600; letter-spacing: .02em; background: var(--texto); color: var(--fondo); }
+.nuevo { position: absolute; top: 7.5px; right: 7.5px; padding: 1px 7.5px; border-radius: 1248.75px; font-size: 12.5px; font-weight: 600; letter-spacing: .02em; background: var(--picante); color: var(--sobre-c3); }
 .pronto { position: absolute; top: 7.5px; right: 7.5px; font-size: 12.5px; color: var(--texto-2); }
 
 .vacio { text-align: center; padding: 80px 20px; color: var(--texto-2); }
@@ -134,7 +134,17 @@ kbd {
   background: var(--tarjeta); color: var(--texto); font: inherit; font-size: 16px; cursor: pointer; font-variant-numeric: tabular-nums;
 }
 .paginador button:hover:not(:disabled) { border-color: var(--borde-fuerte); background: var(--suave-fondo); }
-.paginador button.activa { background: var(--texto); color: var(--fondo); border-color: var(--texto); font-weight: 600; }
+.paginador button.activa { background: var(--acento); color: var(--sobre-acento); border-color: var(--acento); font-weight: 600; }
 .paginador button:disabled { opacity: 0.4; cursor: default; }
 .paginador .puntos { color: var(--texto-2); padding: 0 5px; }
 .info-resultados { scroll-margin-top: 90px; }
+
+/* Color */
+.degradado { color: var(--acento); }
+.marca strong { color: var(--texto); }
+.tarjeta:hover { border-color: color-mix(in srgb, var(--acento) 45%, var(--borde)); color: var(--acento); }
+.segmentos button.activa { color: var(--acento); }
+.categorias button:hover:not(.activa) { background: var(--acento-suave); color: var(--acento); }
+.menu .activa { color: var(--acento); }
+.paginador button:hover:not(:disabled):not(.activa) { border-color: var(--acento); color: var(--acento); background: var(--acento-suave); }
+.tamano .valor { color: var(--acento); font-weight: 600; }
