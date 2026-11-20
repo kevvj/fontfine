@@ -15691,6 +15691,28 @@
     ],
     "animation": "pop"
   },
+  "mars-and-venus": {
+    "category": "People",
+    "tags": [
+      "mars",
+      "and",
+      "venus",
+      "intersex",
+      "gender"
+    ],
+    "animation": "pop"
+  },
+  "mars-double": {
+    "category": "People",
+    "tags": [
+      "mars",
+      "double",
+      "male",
+      "gay",
+      "gender"
+    ],
+    "animation": "pop"
+  },
   "martini-glass": {
     "category": "Objects",
     "tags": [
@@ -16281,6 +16303,17 @@
     ],
     "animation": "wiggle"
   },
+  "mobile": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "phone",
+      "smartphone",
+      "cell",
+      "device"
+    ],
+    "animation": "shake"
+  },
   "mobile-arrow-down": {
     "category": "Technology",
     "tags": [
@@ -16292,6 +16325,16 @@
       "phone"
     ],
     "animation": "nudge-down"
+  },
+  "mobile-button": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "button",
+      "phone",
+      "home"
+    ],
+    "animation": "shake"
   },
   "mobile-notch": {
     "category": "Technology",
@@ -16315,6 +16358,48 @@
       "cell"
     ],
     "animation": "pop"
+  },
+  "mobile-rotate": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "rotate",
+      "orientation",
+      "landscape"
+    ],
+    "animation": "spin"
+  },
+  "mobile-screen": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "screen",
+      "phone",
+      "display"
+    ],
+    "animation": "shake"
+  },
+  "mobile-screen-button": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "screen",
+      "button",
+      "phone",
+      "display"
+    ],
+    "animation": "shake"
+  },
+  "mobile-signal": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "signal",
+      "phone",
+      "network",
+      "coverage"
+    ],
+    "animation": "signal"
   },
   "mobile-slash": {
     "category": "Technology",
@@ -16355,6 +16440,63 @@
     ],
     "animation": "flip"
   },
+  "money-bill": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bill",
+      "cash",
+      "dollar",
+      "payment",
+      "billete"
+    ],
+    "animation": "pop"
+  },
+  "money-bill-1": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bill",
+      "one",
+      "cash",
+      "payment"
+    ],
+    "animation": "pop"
+  },
+  "money-bill-simple": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bill",
+      "simple",
+      "cash",
+      "payment"
+    ],
+    "animation": "pop"
+  },
+  "money-bill-transfer": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bill",
+      "transfer",
+      "send",
+      "exchange"
+    ],
+    "animation": "nudge-right"
+  },
+  "money-bill-trend-up": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bill",
+      "trend",
+      "up",
+      "profit",
+      "growth"
+    ],
+    "animation": "nudge-up"
+  },
   "money-bill-wave": {
     "category": "Objects",
     "tags": [
@@ -16378,6 +16520,17 @@
     ],
     "animation": "pop"
   },
+  "money-bills-simple": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bills",
+      "simple",
+      "cash",
+      "stack"
+    ],
+    "animation": "pop"
+  },
   "money-check": {
     "category": "Objects",
     "tags": [
@@ -16386,6 +16539,17 @@
       "cheque",
       "payment",
       "bank"
+    ],
+    "animation": "pop"
+  },
+  "money-check-dollar": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "check",
+      "dollar",
+      "cheque",
+      "payment"
     ],
     "animation": "pop"
   },
@@ -16400,6 +16564,16 @@
       "pc"
     ],
     "animation": "bounce"
+  },
+  "monument": {
+    "category": "Places",
+    "tags": [
+      "monument",
+      "obelisk",
+      "landmark",
+      "memorial"
+    ],
+    "animation": "pop"
   },
   "moon": {
     "category": "Weather",
@@ -16537,6 +16711,17 @@
     ],
     "animation": "spin-slow"
   },
+  "mortar-pestle": {
+    "category": "Health",
+    "tags": [
+      "mortar",
+      "pestle",
+      "pharmacy",
+      "medicine",
+      "grind"
+    ],
+    "animation": "rock"
+  },
   "mosque": {
     "category": "Religion",
     "tags": [
@@ -16548,6 +16733,16 @@
     ],
     "animation": "bounce"
   },
+  "motorcycle": {
+    "category": "Places",
+    "tags": [
+      "motorcycle",
+      "bike",
+      "moto",
+      "vehicle"
+    ],
+    "animation": "drive"
+  },
   "mountain": {
     "category": "Nature",
     "tags": [
@@ -16556,6 +16751,17 @@
       "nature",
       "hiking",
       "montaña"
+    ],
+    "animation": "pop"
+  },
+  "mountain-city": {
+    "category": "Places",
+    "tags": [
+      "mountain",
+      "city",
+      "skyline",
+      "urban",
+      "landscape"
     ],
     "animation": "pop"
   },
@@ -16589,6 +16795,17 @@
       "raton"
     ],
     "animation": "bounce"
+  },
+  "mouth": {
+    "category": "People",
+    "tags": [
+      "mouth",
+      "lips",
+      "speak",
+      "talk",
+      "boca"
+    ],
+    "animation": "pop"
   },
   "move": {
     "category": "Arrows",
@@ -16625,6 +16842,17 @@
     ],
     "animation": "rock"
   },
+  "mug-marshmallows": {
+    "category": "Objects",
+    "tags": [
+      "mug",
+      "marshmallows",
+      "hot",
+      "chocolate",
+      "cocoa"
+    ],
+    "animation": "float"
+  },
   "mug-saucer": {
     "category": "Objects",
     "tags": [
@@ -16647,6 +16875,18 @@
       "te"
     ],
     "animation": "rock"
+  },
+  "mug-tea-saucer": {
+    "category": "Objects",
+    "tags": [
+      "mug",
+      "tea",
+      "saucer",
+      "cup",
+      "drink",
+      "hot"
+    ],
+    "animation": "float"
   },
   "mushroom": {
     "category": "Nature",
@@ -16688,6 +16928,17 @@
       "nota"
     ],
     "animation": "dance"
+  },
+  "music-note-slash": {
+    "category": "Music & Audio",
+    "tags": [
+      "music",
+      "note",
+      "slash",
+      "mute",
+      "no"
+    ],
+    "animation": "shake"
   },
   "music-slash": {
     "category": "Music & Audio",
@@ -16739,6 +16990,16 @@
     ],
     "animation": "pulse"
   },
+  "neuter": {
+    "category": "People",
+    "tags": [
+      "neuter",
+      "gender",
+      "symbol",
+      "neutral"
+    ],
+    "animation": "pop"
+  },
   "newspaper": {
     "category": "Objects",
     "tags": [
@@ -16773,6 +17034,17 @@
     ],
     "animation": "signal"
   },
+  "non-binary": {
+    "category": "People",
+    "tags": [
+      "non",
+      "binary",
+      "gender",
+      "symbol",
+      "nonbinary"
+    ],
+    "animation": "pop"
+  },
   "noodles": {
     "category": "Objects",
     "tags": [
@@ -16793,6 +17065,17 @@
       "math",
       "different",
       "unequal"
+    ],
+    "animation": "pop"
+  },
+  "note-medical": {
+    "category": "Health",
+    "tags": [
+      "note",
+      "medical",
+      "record",
+      "health",
+      "prescription"
     ],
     "animation": "pop"
   },
@@ -16834,6 +17117,16 @@
       "cuaderno"
     ],
     "animation": "flip"
+  },
+  "notes": {
+    "category": "Files",
+    "tags": [
+      "notes",
+      "sticky",
+      "multiple",
+      "memo"
+    ],
+    "animation": "pop"
   },
   "notes-medical": {
     "category": "Health",
@@ -17245,6 +17538,16 @@
     ],
     "animation": "rock"
   },
+  "omega": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "omega",
+      "greek",
+      "letter",
+      "ohm"
+    ],
+    "animation": "pop"
+  },
   "onion": {
     "category": "Nature",
     "tags": [
@@ -17315,6 +17618,17 @@
     ],
     "animation": "rock"
   },
+  "paintbrush-fine": {
+    "category": "Objects",
+    "tags": [
+      "paintbrush",
+      "fine",
+      "art",
+      "detail",
+      "pincel"
+    ],
+    "animation": "rock"
+  },
   "palette": {
     "category": "Objects",
     "tags": [
@@ -17326,6 +17640,38 @@
       "paleta"
     ],
     "animation": "rock"
+  },
+  "pallet-boxes": {
+    "category": "Objects",
+    "tags": [
+      "pallet",
+      "boxes",
+      "shipping",
+      "warehouse",
+      "inventory"
+    ],
+    "animation": "pop"
+  },
+  "pan-frying": {
+    "category": "Objects",
+    "tags": [
+      "pan",
+      "frying",
+      "cooking",
+      "kitchen",
+      "sarten"
+    ],
+    "animation": "rock"
+  },
+  "pancakes": {
+    "category": "Objects",
+    "tags": [
+      "pancakes",
+      "breakfast",
+      "food",
+      "syrup"
+    ],
+    "animation": "pop"
   },
   "paper-plane": {
     "category": "Communication",
