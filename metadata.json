@@ -4700,6 +4700,27 @@
     ],
     "animation": "pop"
   },
+  "check-double": {
+    "category": "Interface",
+    "tags": [
+      "check",
+      "double",
+      "read",
+      "done",
+      "verified"
+    ],
+    "animation": "pop"
+  },
+  "cheese": {
+    "category": "Objects",
+    "tags": [
+      "cheese",
+      "food",
+      "dairy",
+      "queso"
+    ],
+    "animation": "pop"
+  },
   "cheese-swiss": {
     "category": "Objects",
     "tags": [
@@ -4721,6 +4742,16 @@
     ],
     "animation": "rock",
     "origin": "60% 15%"
+  },
+  "chess-bishop": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "bishop",
+      "game",
+      "alfil"
+    ],
+    "animation": "pop"
   },
   "chess-bishop-piece": {
     "category": "Objects",
@@ -4746,6 +4777,17 @@
     ],
     "animation": "tick"
   },
+  "chess-king": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "king",
+      "game",
+      "crown",
+      "rey"
+    ],
+    "animation": "pop"
+  },
   "chess-king-piece": {
     "category": "Objects",
     "tags": [
@@ -4757,6 +4799,17 @@
       "rey"
     ],
     "animation": "bounce"
+  },
+  "chess-knight": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "knight",
+      "horse",
+      "game",
+      "caballo"
+    ],
+    "animation": "pop"
   },
   "chess-pawn-piece": {
     "category": "Objects",
@@ -4770,6 +4823,16 @@
     ],
     "animation": "bounce"
   },
+  "chess-queen": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "queen",
+      "game",
+      "reina"
+    ],
+    "animation": "pop"
+  },
   "chess-queen-piece": {
     "category": "Objects",
     "tags": [
@@ -4781,6 +4844,18 @@
       "reina"
     ],
     "animation": "bounce"
+  },
+  "chess-rook": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "rook",
+      "castle",
+      "tower",
+      "game",
+      "torre"
+    ],
+    "animation": "pop"
   },
   "chess-rook-piece": {
     "category": "Objects",
@@ -4898,6 +4973,17 @@
       "girl",
       "young",
       "nino"
+    ],
+    "animation": "bounce"
+  },
+  "child-dress": {
+    "category": "People",
+    "tags": [
+      "child",
+      "dress",
+      "girl",
+      "kid",
+      "nina"
     ],
     "animation": "bounce"
   },
@@ -5406,6 +5492,17 @@
     ],
     "animation": "flip"
   },
+  "circle-dot": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "dot",
+      "radio",
+      "selected",
+      "record"
+    ],
+    "animation": "pulse"
+  },
   "circle-down-left": {
     "category": "Arrows",
     "tags": [
@@ -5592,6 +5689,19 @@
       "mitad"
     ],
     "animation": "turn-y"
+  },
+  "circle-half-stroke": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "half",
+      "stroke",
+      "contrast",
+      "theme",
+      "dark",
+      "light"
+    ],
+    "animation": "spin"
   },
   "circle-heart": {
     "category": "Interface",
@@ -5810,6 +5920,17 @@
     ],
     "animation": "pop"
   },
+  "circle-nodes": {
+    "category": "Technology",
+    "tags": [
+      "circle",
+      "nodes",
+      "network",
+      "connections",
+      "graph"
+    ],
+    "animation": "pop"
+  },
   "circle-notch": {
     "category": "Status",
     "tags": [
@@ -5858,6 +5979,16 @@
     ],
     "animation": "pop"
   },
+  "circle-pause": {
+    "category": "Media",
+    "tags": [
+      "circle",
+      "pause",
+      "stop",
+      "media"
+    ],
+    "animation": "pop"
+  },
   "circle-peso": {
     "category": "Objects",
     "tags": [
@@ -5889,6 +6020,17 @@
       "call"
     ],
     "animation": "shake"
+  },
+  "circle-play": {
+    "category": "Media",
+    "tags": [
+      "circle",
+      "play",
+      "start",
+      "video",
+      "media"
+    ],
+    "animation": "pop"
   },
   "circle-plus": {
     "category": "Actions",
@@ -5959,6 +6101,17 @@
       "initial"
     ],
     "animation": "pop"
+  },
+  "circle-radiation": {
+    "category": "Health",
+    "tags": [
+      "circle",
+      "radiation",
+      "nuclear",
+      "hazard",
+      "danger"
+    ],
+    "animation": "spin-slow"
   },
   "circle-ruble": {
     "category": "Objects",
@@ -6096,6 +6249,16 @@
       "libra",
       "currency",
       "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-stop": {
+    "category": "Media",
+    "tags": [
+      "circle",
+      "stop",
+      "end",
+      "media"
     ],
     "animation": "pop"
   },
@@ -6352,6 +6515,28 @@
     ],
     "animation": "rock"
   },
+  "city": {
+    "category": "Places",
+    "tags": [
+      "city",
+      "buildings",
+      "urban",
+      "town",
+      "ciudad"
+    ],
+    "animation": "pop"
+  },
+  "clapperboard": {
+    "category": "Media",
+    "tags": [
+      "clapperboard",
+      "movie",
+      "film",
+      "cinema",
+      "claqueta"
+    ],
+    "animation": "flip"
+  },
   "clapperboard-play": {
     "category": "Media",
     "tags": [
@@ -6427,6 +6612,17 @@
     "animation": "rock",
     "origin": "50% 0%"
   },
+  "clipboard-list": {
+    "category": "Files",
+    "tags": [
+      "clipboard",
+      "list",
+      "tasks",
+      "checklist",
+      "todo"
+    ],
+    "animation": "pop"
+  },
   "clipboard-list-check": {
     "category": "Files",
     "tags": [
@@ -6473,6 +6669,17 @@
     ],
     "animation": "rock",
     "origin": "50% 0%"
+  },
+  "clipboard-user": {
+    "category": "Files",
+    "tags": [
+      "clipboard",
+      "user",
+      "patient",
+      "record",
+      "profile"
+    ],
+    "animation": "pop"
   },
   "clock": {
     "category": "Objects",
@@ -6659,6 +6866,18 @@
     ],
     "animation": "tick"
   },
+  "clock-rotate-left": {
+    "category": "Interface",
+    "tags": [
+      "clock",
+      "rotate",
+      "left",
+      "history",
+      "undo",
+      "time"
+    ],
+    "animation": "spin"
+  },
   "clock-seven": {
     "category": "Objects",
     "tags": [
@@ -6821,6 +7040,51 @@
     ],
     "animation": "tick"
   },
+  "clone": {
+    "category": "Actions",
+    "tags": [
+      "clone",
+      "copy",
+      "duplicate"
+    ],
+    "animation": "pop"
+  },
+  "clone-slash": {
+    "category": "Actions",
+    "tags": [
+      "clone",
+      "slash",
+      "no",
+      "copy",
+      "duplicate"
+    ],
+    "animation": "shake"
+  },
+  "closed-captioning": {
+    "category": "Media",
+    "tags": [
+      "closed",
+      "captioning",
+      "cc",
+      "subtitles",
+      "accessibility"
+    ],
+    "animation": "pop"
+  },
+  "closed-captioning-slash": {
+    "category": "Media",
+    "tags": [
+      "closed",
+      "captioning",
+      "slash",
+      "no",
+      "subtitles",
+      "off",
+      "cc",
+      "accessibility"
+    ],
+    "animation": "shake"
+  },
   "clothes-hanger": {
     "category": "Objects",
     "tags": [
@@ -6842,6 +7106,30 @@
     ],
     "animation": "float"
   },
+  "cloud-arrow-down": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "arrow",
+      "down",
+      "download",
+      "sync",
+      "storage"
+    ],
+    "animation": "nudge-down"
+  },
+  "cloud-arrow-up": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "arrow",
+      "up",
+      "upload",
+      "sync",
+      "storage"
+    ],
+    "animation": "nudge-up"
+  },
   "cloud-binary": {
     "category": "Weather",
     "tags": [
@@ -6852,6 +7140,17 @@
       "storage"
     ],
     "animation": "float"
+  },
+  "cloud-bolt": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "bolt",
+      "storm",
+      "thunder",
+      "lightning"
+    ],
+    "animation": "flash"
   },
   "cloud-check": {
     "category": "Weather",
@@ -6951,6 +7250,17 @@
     ],
     "animation": "float"
   },
+  "cloud-moon": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "moon",
+      "night",
+      "partly",
+      "cloudy"
+    ],
+    "animation": "float"
+  },
   "cloud-music": {
     "category": "Weather",
     "tags": [
@@ -7022,6 +7332,17 @@
       "weather"
     ],
     "animation": "float"
+  },
+  "cloud-showers-heavy": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "showers",
+      "heavy",
+      "rain",
+      "downpour"
+    ],
+    "animation": "drip"
   },
   "cloud-slash": {
     "category": "Weather",
@@ -7120,6 +7441,17 @@
     ],
     "animation": "float"
   },
+  "coaster": {
+    "category": "Objects",
+    "tags": [
+      "coaster",
+      "cup",
+      "drink",
+      "table",
+      "posavasos"
+    ],
+    "animation": "pop"
+  },
   "coconut": {
     "category": "Nature",
     "tags": [
@@ -7141,6 +7473,73 @@
       "programar"
     ],
     "animation": "pulse"
+  },
+  "code-branch": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "branch",
+      "git",
+      "version",
+      "control"
+    ],
+    "animation": "pop"
+  },
+  "code-commit": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "commit",
+      "git",
+      "version",
+      "node"
+    ],
+    "animation": "pop"
+  },
+  "code-compare": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "compare",
+      "diff",
+      "git",
+      "versions"
+    ],
+    "animation": "pop"
+  },
+  "code-fork": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "fork",
+      "git",
+      "copy",
+      "repository"
+    ],
+    "animation": "pop"
+  },
+  "code-merge": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "merge",
+      "git",
+      "branch",
+      "join"
+    ],
+    "animation": "pop"
+  },
+  "code-pull-request": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "pull",
+      "request",
+      "git",
+      "review",
+      "pr"
+    ],
+    "animation": "pop"
   },
   "coffee-bean": {
     "category": "Objects",
