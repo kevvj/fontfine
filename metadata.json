@@ -17137,6 +17137,48 @@
     ],
     "animation": "pulse"
   },
+  "table-cells-large": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "cells",
+      "large",
+      "grid",
+      "spreadsheet"
+    ],
+    "animation": "pop"
+  },
+  "table-columns": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "columns",
+      "layout",
+      "spreadsheet"
+    ],
+    "animation": "pop"
+  },
+  "table-list": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "list",
+      "rows",
+      "data",
+      "spreadsheet"
+    ],
+    "animation": "pop"
+  },
+  "table-rows": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "rows",
+      "layout",
+      "spreadsheet"
+    ],
+    "animation": "pop"
+  },
   "tablet": {
     "category": "Technology",
     "tags": [
@@ -17170,6 +17212,256 @@
     "animation": "swing",
     "origin": "20% 20%"
   },
+  "tally": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tally",
+      "five",
+      "count",
+      "marks",
+      "score"
+    ],
+    "animation": "pop"
+  },
+  "tally-1": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tally",
+      "1",
+      "count",
+      "marks",
+      "score"
+    ],
+    "animation": "pop"
+  },
+  "tally-2": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tally",
+      "2",
+      "count",
+      "marks",
+      "score"
+    ],
+    "animation": "pop"
+  },
+  "tally-3": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tally",
+      "3",
+      "count",
+      "marks",
+      "score"
+    ],
+    "animation": "pop"
+  },
+  "tally-4": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tally",
+      "4",
+      "count",
+      "marks",
+      "score"
+    ],
+    "animation": "pop"
+  },
+  "taxi": {
+    "category": "Places",
+    "tags": [
+      "taxi",
+      "cab",
+      "car",
+      "transport"
+    ],
+    "animation": "drive"
+  },
+  "telescope": {
+    "category": "Objects",
+    "tags": [
+      "telescope",
+      "astronomy",
+      "space",
+      "stars"
+    ],
+    "animation": "rock"
+  },
+  "temperature-arrow-down": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "arrow",
+      "down",
+      "falling",
+      "decrease",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-arrow-up": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "arrow",
+      "up",
+      "rising",
+      "increase",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-empty": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "empty",
+      "cold",
+      "zero",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-full": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "full",
+      "hot",
+      "max",
+      "100",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-half": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "half",
+      "medium",
+      "50",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-high": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "high",
+      "hot",
+      "heat",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-low": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "low",
+      "cold",
+      "freezing",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-quarter": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "quarter",
+      "cool",
+      "low",
+      "25",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-slash": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "slash",
+      "no",
+      "heat",
+      "off",
+      "thermometer",
+      "fever",
+      "termometro"
+    ],
+    "animation": "shake"
+  },
+  "temperature-snow": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "snow",
+      "cold",
+      "winter",
+      "freezing",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-sun": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "sun",
+      "hot",
+      "summer",
+      "heat",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "temperature-three-quarters": {
+    "category": "Weather",
+    "tags": [
+      "temperature",
+      "three",
+      "quarters",
+      "warm",
+      "75",
+      "thermometer"
+    ],
+    "animation": "pulse"
+  },
+  "tennis-ball": {
+    "category": "Objects",
+    "tags": [
+      "tennis",
+      "ball",
+      "sport",
+      "game",
+      "pelota"
+    ],
+    "animation": "bounce"
+  },
+  "tent": {
+    "category": "Places",
+    "tags": [
+      "tent",
+      "camping",
+      "outdoor",
+      "carpa"
+    ],
+    "animation": "pop"
+  },
+  "terminal": {
+    "category": "Technology",
+    "tags": [
+      "terminal",
+      "console",
+      "command",
+      "line",
+      "shell",
+      "cli"
+    ],
+    "animation": "blink"
+  },
   "thermometer": {
     "category": "Weather",
     "tags": [
@@ -17180,6 +17472,17 @@
       "termometro"
     ],
     "animation": "pulse"
+  },
+  "thought-bubble": {
+    "category": "Communication",
+    "tags": [
+      "thought",
+      "bubble",
+      "think",
+      "idea",
+      "dream"
+    ],
+    "animation": "float"
   },
   "thumbs-down": {
     "category": "Interface",
@@ -17209,6 +17512,59 @@
     "animation": "thumb",
     "origin": "30% 80%"
   },
+  "ticket": {
+    "category": "Objects",
+    "tags": [
+      "ticket",
+      "event",
+      "admission",
+      "pass",
+      "boleto"
+    ],
+    "animation": "wiggle"
+  },
+  "tilde": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tilde",
+      "approximately",
+      "wave",
+      "symbol"
+    ],
+    "animation": "wave"
+  },
+  "timeline": {
+    "category": "Interface",
+    "tags": [
+      "timeline",
+      "history",
+      "events",
+      "progress",
+      "steps"
+    ],
+    "animation": "pop"
+  },
+  "timer": {
+    "category": "Interface",
+    "tags": [
+      "timer",
+      "countdown",
+      "time",
+      "clock"
+    ],
+    "animation": "spin-steps"
+  },
+  "tire": {
+    "category": "Objects",
+    "tags": [
+      "tire",
+      "wheel",
+      "car",
+      "rubber",
+      "llanta"
+    ],
+    "animation": "spin"
+  },
   "toggle-off": {
     "category": "Interface",
     "tags": [
@@ -17230,6 +17586,50 @@
       "active"
     ],
     "animation": "pop"
+  },
+  "toilet": {
+    "category": "Objects",
+    "tags": [
+      "toilet",
+      "bathroom",
+      "wc",
+      "restroom",
+      "inodoro"
+    ],
+    "animation": "pop"
+  },
+  "toilet-paper": {
+    "category": "Objects",
+    "tags": [
+      "toilet",
+      "paper",
+      "roll",
+      "bathroom",
+      "papel"
+    ],
+    "animation": "spin"
+  },
+  "tomato": {
+    "category": "Nature",
+    "tags": [
+      "tomato",
+      "vegetable",
+      "food",
+      "tomate"
+    ],
+    "animation": "rock"
+  },
+  "toolbox": {
+    "category": "Objects",
+    "tags": [
+      "toolbox",
+      "tools",
+      "repair",
+      "kit",
+      "caja",
+      "herramientas"
+    ],
+    "animation": "rock"
   },
   "tooth": {
     "category": "Health",
@@ -17265,6 +17665,86 @@
       "shrine"
     ],
     "animation": "bounce"
+  },
+  "tornado": {
+    "category": "Weather",
+    "tags": [
+      "tornado",
+      "storm",
+      "twister",
+      "cyclone"
+    ],
+    "animation": "wobble"
+  },
+  "tractor": {
+    "category": "Places",
+    "tags": [
+      "tractor",
+      "farm",
+      "agriculture",
+      "vehicle"
+    ],
+    "animation": "drive"
+  },
+  "trademark": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "trademark",
+      "tm",
+      "brand",
+      "legal"
+    ],
+    "animation": "pop"
+  },
+  "traffic-cone": {
+    "category": "Places",
+    "tags": [
+      "traffic",
+      "cone",
+      "construction",
+      "road",
+      "caution",
+      "cono"
+    ],
+    "animation": "shake"
+  },
+  "traffic-light": {
+    "category": "Places",
+    "tags": [
+      "traffic",
+      "light",
+      "signal",
+      "stop",
+      "go",
+      "semaforo"
+    ],
+    "animation": "pulse"
+  },
+  "train": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "railway",
+      "transport",
+      "metro",
+      "tren"
+    ],
+    "animation": "drive"
+  },
+  "train-slash": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "slash",
+      "no",
+      "trains",
+      "cancelled",
+      "railway",
+      "transport",
+      "metro",
+      "tren"
+    ],
+    "animation": "shake"
   },
   "trash": {
     "category": "Actions",
@@ -17349,6 +17829,18 @@
     ],
     "animation": "shake"
   },
+  "treasure-chest": {
+    "category": "Objects",
+    "tags": [
+      "treasure",
+      "chest",
+      "pirate",
+      "gold",
+      "loot",
+      "cofre"
+    ],
+    "animation": "bounce"
+  },
   "tree": {
     "category": "Nature",
     "tags": [
@@ -17361,6 +17853,29 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "tree-christmas": {
+    "category": "Religion",
+    "tags": [
+      "tree",
+      "christmas",
+      "holiday",
+      "xmas",
+      "navidad"
+    ],
+    "animation": "swing"
+  },
+  "tree-palm": {
+    "category": "Nature",
+    "tags": [
+      "tree",
+      "palm",
+      "tropical",
+      "beach",
+      "island",
+      "palmera"
+    ],
+    "animation": "swing"
   },
   "trending-down": {
     "category": "Arrows",
@@ -17401,6 +17916,18 @@
       "alerta"
     ],
     "animation": "shake"
+  },
+  "trophy": {
+    "category": "Objects",
+    "tags": [
+      "trophy",
+      "winner",
+      "award",
+      "prize",
+      "champion",
+      "copa"
+    ],
+    "animation": "bounce"
   },
   "trumpet": {
     "category": "Music & Audio",
