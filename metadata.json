@@ -22636,6 +22636,18 @@
     ],
     "animation": "drive"
   },
+  "teddy-bear": {
+    "category": "Objects",
+    "tags": [
+      "teddy",
+      "bear",
+      "toy",
+      "kids",
+      "plush",
+      "oso"
+    ],
+    "animation": "wobble"
+  },
   "telescope": {
     "category": "Objects",
     "tags": [
@@ -22821,6 +22833,39 @@
     ],
     "animation": "blink"
   },
+  "text-height": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "text",
+      "height",
+      "size",
+      "font",
+      "vertical"
+    ],
+    "animation": "pop"
+  },
+  "text-size": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "text",
+      "size",
+      "font",
+      "big",
+      "small"
+    ],
+    "animation": "pop"
+  },
+  "text-width": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "text",
+      "width",
+      "size",
+      "font",
+      "horizontal"
+    ],
+    "animation": "pop"
+  },
   "thermometer": {
     "category": "Weather",
     "tags": [
@@ -22831,6 +22876,17 @@
       "termometro"
     ],
     "animation": "pulse"
+  },
+  "theta": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "theta",
+      "greek",
+      "letter",
+      "math",
+      "angle"
+    ],
+    "animation": "pop"
   },
   "thought-bubble": {
     "category": "Communication",
@@ -22871,6 +22927,17 @@
     "animation": "thumb",
     "origin": "30% 80%"
   },
+  "thumbtack": {
+    "category": "Objects",
+    "tags": [
+      "thumbtack",
+      "pin",
+      "push",
+      "note",
+      "chincheta"
+    ],
+    "animation": "bounce"
+  },
   "ticket": {
     "category": "Objects",
     "tags": [
@@ -22879,6 +22946,26 @@
       "admission",
       "pass",
       "boleto"
+    ],
+    "animation": "wiggle"
+  },
+  "ticket-simple": {
+    "category": "Objects",
+    "tags": [
+      "ticket",
+      "simple",
+      "pass",
+      "admission"
+    ],
+    "animation": "wiggle"
+  },
+  "tickets": {
+    "category": "Objects",
+    "tags": [
+      "tickets",
+      "event",
+      "concert",
+      "admission"
     ],
     "animation": "wiggle"
   },
@@ -22978,6 +23065,17 @@
     ],
     "animation": "rock"
   },
+  "tombstone": {
+    "category": "Religion",
+    "tags": [
+      "tombstone",
+      "grave",
+      "rip",
+      "cemetery",
+      "lapida"
+    ],
+    "animation": "pop"
+  },
   "toolbox": {
     "category": "Objects",
     "tags": [
@@ -23035,6 +23133,38 @@
     ],
     "animation": "wobble"
   },
+  "tower-broadcast": {
+    "category": "Technology",
+    "tags": [
+      "tower",
+      "broadcast",
+      "radio",
+      "antenna",
+      "signal"
+    ],
+    "animation": "signal"
+  },
+  "tower-cell": {
+    "category": "Technology",
+    "tags": [
+      "tower",
+      "cell",
+      "network",
+      "antenna",
+      "mobile"
+    ],
+    "animation": "signal"
+  },
+  "tower-observation": {
+    "category": "Places",
+    "tags": [
+      "tower",
+      "observation",
+      "lookout",
+      "watch"
+    ],
+    "animation": "pop"
+  },
   "tractor": {
     "category": "Places",
     "tags": [
@@ -23079,6 +23209,16 @@
     ],
     "animation": "pulse"
   },
+  "trailer": {
+    "category": "Places",
+    "tags": [
+      "trailer",
+      "tow",
+      "cargo",
+      "hitch"
+    ],
+    "animation": "drive"
+  },
   "train": {
     "category": "Places",
     "tags": [
@@ -23105,6 +23245,38 @@
     ],
     "animation": "shake"
   },
+  "train-subway": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "subway",
+      "metro",
+      "underground",
+      "transit"
+    ],
+    "animation": "drive"
+  },
+  "train-tram": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "tram",
+      "streetcar",
+      "city",
+      "transit"
+    ],
+    "animation": "drive"
+  },
+  "transgender": {
+    "category": "People",
+    "tags": [
+      "transgender",
+      "gender",
+      "symbol",
+      "trans"
+    ],
+    "animation": "pop"
+  },
   "trash": {
     "category": "Actions",
     "tags": [
@@ -23118,6 +23290,110 @@
       "eliminar",
       "basura",
       "quitar"
+    ],
+    "animation": "shake"
+  },
+  "trash-can": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "garbage",
+      "waste",
+      "delete",
+      "bin",
+      "remove"
+    ],
+    "animation": "shake"
+  },
+  "trash-can-arrow-up": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "arrow",
+      "up",
+      "restore",
+      "recover",
+      "undelete",
+      "delete",
+      "bin",
+      "remove"
+    ],
+    "animation": "nudge-up"
+  },
+  "trash-can-check": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "check",
+      "delete",
+      "status"
+    ],
+    "animation": "shake"
+  },
+  "trash-can-clock": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "clock",
+      "delete",
+      "status"
+    ],
+    "animation": "shake"
+  },
+  "trash-can-list": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "list",
+      "items",
+      "deleted",
+      "delete",
+      "bin",
+      "remove"
+    ],
+    "animation": "shake"
+  },
+  "trash-can-plus": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "plus",
+      "add",
+      "new",
+      "delete",
+      "bin",
+      "remove"
+    ],
+    "animation": "shake"
+  },
+  "trash-can-undo": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "undo",
+      "restore",
+      "recover",
+      "delete",
+      "bin",
+      "remove"
+    ],
+    "animation": "shake"
+  },
+  "trash-can-xmark": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "xmark",
+      "delete",
+      "status"
     ],
     "animation": "shake"
   },
@@ -23260,6 +23536,16 @@
     ],
     "animation": "nudge-diag"
   },
+  "triangle": {
+    "category": "Interface",
+    "tags": [
+      "triangle",
+      "shape",
+      "geometry",
+      "polygon"
+    ],
+    "animation": "pop"
+  },
   "triangle-alert": {
     "category": "Status",
     "tags": [
@@ -23288,6 +23574,125 @@
     ],
     "animation": "bounce"
   },
+  "truck-arrow-right": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "arrow",
+      "right",
+      "shipping",
+      "send",
+      "dispatch",
+      "vehicle",
+      "delivery"
+    ],
+    "animation": "nudge-right"
+  },
+  "truck-bolt": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "bolt",
+      "electric",
+      "ev",
+      "vehicle",
+      "delivery"
+    ],
+    "animation": "drive"
+  },
+  "truck-clock": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "clock",
+      "delivery",
+      "time",
+      "schedule",
+      "vehicle"
+    ],
+    "animation": "drive"
+  },
+  "truck-droplet": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "droplet",
+      "water",
+      "tanker",
+      "delivery",
+      "vehicle"
+    ],
+    "animation": "drive"
+  },
+  "truck-fire": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "fire",
+      "firefighter",
+      "emergency",
+      "vehicle",
+      "delivery"
+    ],
+    "animation": "flicker"
+  },
+  "truck-front": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "front",
+      "vehicle",
+      "delivery"
+    ],
+    "animation": "drive"
+  },
+  "truck-medical": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "medical",
+      "ambulance",
+      "emergency",
+      "hospital",
+      "vehicle",
+      "delivery"
+    ],
+    "animation": "drive"
+  },
+  "truck-monster": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "monster",
+      "big",
+      "wheels",
+      "show"
+    ],
+    "animation": "drive"
+  },
+  "truck-pickup": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "pickup",
+      "vehicle",
+      "car"
+    ],
+    "animation": "drive"
+  },
+  "truck-ramp-box": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "ramp",
+      "box",
+      "moving",
+      "loading",
+      "vehicle",
+      "delivery"
+    ],
+    "animation": "drive"
+  },
   "trumpet": {
     "category": "Music & Audio",
     "tags": [
@@ -23298,6 +23703,28 @@
       "trompeta"
     ],
     "animation": "beat"
+  },
+  "tulip": {
+    "category": "Nature",
+    "tags": [
+      "tulip",
+      "flower",
+      "spring",
+      "garden",
+      "tulipan"
+    ],
+    "animation": "swing"
+  },
+  "tv-retro": {
+    "category": "Media",
+    "tags": [
+      "tv",
+      "retro",
+      "television",
+      "vintage",
+      "old"
+    ],
+    "animation": "pop"
   },
   "ufo": {
     "category": "Objects",
