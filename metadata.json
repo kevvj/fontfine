@@ -6638,6 +6638,73 @@
     ],
     "animation": "spin-slow"
   },
+  "diagram-cells": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "cells",
+      "grid",
+      "table",
+      "layout"
+    ],
+    "animation": "pop"
+  },
+  "diagram-lean-canvas": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "lean",
+      "canvas",
+      "business",
+      "model",
+      "plan"
+    ],
+    "animation": "pop"
+  },
+  "diagram-nested": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "nested",
+      "hierarchy",
+      "child",
+      "parent"
+    ],
+    "animation": "pop"
+  },
+  "diagram-previous": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "previous",
+      "back",
+      "step",
+      "flow"
+    ],
+    "animation": "nudge-up"
+  },
+  "diagram-subtask": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "subtask",
+      "tree",
+      "hierarchy",
+      "tasks"
+    ],
+    "animation": "pop"
+  },
+  "diagram-venn": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "venn",
+      "sets",
+      "overlap",
+      "intersection"
+    ],
+    "animation": "pulse"
+  },
   "dial": {
     "category": "Interface",
     "tags": [
@@ -6742,6 +6809,246 @@
     ],
     "animation": "turn-key"
   },
+  "dialpad": {
+    "category": "Communication",
+    "tags": [
+      "dialpad",
+      "keypad",
+      "phone",
+      "numbers",
+      "teclado"
+    ],
+    "animation": "pop"
+  },
+  "diamond-exclamation": {
+    "category": "Status",
+    "tags": [
+      "diamond",
+      "exclamation",
+      "warning",
+      "alert",
+      "caution"
+    ],
+    "animation": "shake"
+  },
+  "diamond-half": {
+    "category": "Interface",
+    "tags": [
+      "diamond",
+      "half",
+      "shape",
+      "contrast",
+      "rombo"
+    ],
+    "animation": "turn-y"
+  },
+  "diamonds-4": {
+    "category": "Interface",
+    "tags": [
+      "diamonds",
+      "four",
+      "shapes",
+      "pattern",
+      "rombos"
+    ],
+    "animation": "pop"
+  },
+  "dice-d10": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "d10",
+      "ten",
+      "sided",
+      "rpg",
+      "game",
+      "dado"
+    ],
+    "animation": "rock"
+  },
+  "dice-d12": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "d12",
+      "twelve",
+      "sided",
+      "rpg",
+      "game",
+      "dado"
+    ],
+    "animation": "rock"
+  },
+  "dice-d4": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "d4",
+      "four",
+      "sided",
+      "rpg",
+      "game",
+      "dado"
+    ],
+    "animation": "rock"
+  },
+  "dice-d8": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "d8",
+      "eight",
+      "sided",
+      "rpg",
+      "game",
+      "dado"
+    ],
+    "animation": "rock"
+  },
+  "diploma": {
+    "category": "Objects",
+    "tags": [
+      "diploma",
+      "certificate",
+      "degree",
+      "graduation",
+      "award"
+    ],
+    "animation": "pop"
+  },
+  "direction-left-right": {
+    "category": "Arrows",
+    "tags": [
+      "direction",
+      "left",
+      "right",
+      "sign",
+      "both",
+      "ways"
+    ],
+    "animation": "slide"
+  },
+  "direction-up-down": {
+    "category": "Arrows",
+    "tags": [
+      "direction",
+      "up",
+      "down",
+      "sign",
+      "both",
+      "ways"
+    ],
+    "animation": "bounce"
+  },
+  "disc-drive": {
+    "category": "Technology",
+    "tags": [
+      "disc",
+      "drive",
+      "cd",
+      "dvd",
+      "optical",
+      "storage"
+    ],
+    "animation": "spin-slow"
+  },
+  "display-arrow-down": {
+    "category": "Technology",
+    "tags": [
+      "arrow",
+      "down",
+      "download",
+      "display",
+      "monitor",
+      "screen"
+    ],
+    "animation": "nudge-down"
+  },
+  "display-chart-up": {
+    "category": "Technology",
+    "tags": [
+      "chart",
+      "up",
+      "growth",
+      "analytics",
+      "display",
+      "monitor",
+      "screen"
+    ],
+    "animation": "pulse"
+  },
+  "display-code": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "developer",
+      "programming",
+      "display",
+      "monitor",
+      "screen"
+    ],
+    "animation": "pop"
+  },
+  "display-medical": {
+    "category": "Health",
+    "tags": [
+      "medical",
+      "health",
+      "telemedicine",
+      "display",
+      "monitor",
+      "screen"
+    ],
+    "animation": "pulse"
+  },
+  "display-slash": {
+    "category": "Technology",
+    "tags": [
+      "display",
+      "slash",
+      "off",
+      "no",
+      "screen",
+      "monitor",
+      "desktop",
+      "computer",
+      "pc"
+    ],
+    "animation": "shake"
+  },
+  "distribute-spacing-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "distribute",
+      "spacing",
+      "horizontal",
+      "align",
+      "layout"
+    ],
+    "animation": "pulse"
+  },
+  "distribute-spacing-vertical": {
+    "category": "Interface",
+    "tags": [
+      "distribute",
+      "spacing",
+      "vertical",
+      "align",
+      "layout"
+    ],
+    "animation": "pulse"
+  },
+  "ditto": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "ditto",
+      "mark",
+      "same",
+      "again",
+      "quote"
+    ],
+    "animation": "pop"
+  },
   "dna": {
     "category": "Health",
     "tags": [
@@ -6754,6 +7061,20 @@
     ],
     "animation": "turn-y"
   },
+  "do-not-enter": {
+    "category": "Status",
+    "tags": [
+      "do",
+      "not",
+      "enter",
+      "forbidden",
+      "stop",
+      "no",
+      "entry",
+      "prohibido"
+    ],
+    "animation": "shake"
+  },
   "dollar": {
     "category": "Objects",
     "tags": [
@@ -6765,6 +7086,18 @@
       "precio"
     ],
     "animation": "flip"
+  },
+  "dolly-empty": {
+    "category": "Objects",
+    "tags": [
+      "dolly",
+      "empty",
+      "hand",
+      "truck",
+      "moving",
+      "carretilla"
+    ],
+    "animation": "drive"
   },
   "donut": {
     "category": "Objects",
@@ -6816,6 +7149,61 @@
     ],
     "animation": "nudge-down"
   },
+  "draw-circle": {
+    "category": "Interface",
+    "tags": [
+      "draw",
+      "circle",
+      "shape",
+      "tool",
+      "vector"
+    ],
+    "animation": "pop"
+  },
+  "draw-square": {
+    "category": "Interface",
+    "tags": [
+      "draw",
+      "square",
+      "shape",
+      "tool",
+      "vector"
+    ],
+    "animation": "pop"
+  },
+  "dreidel": {
+    "category": "Religion",
+    "tags": [
+      "dreidel",
+      "hanukkah",
+      "spinning",
+      "top",
+      "toy"
+    ],
+    "animation": "spin"
+  },
+  "dress": {
+    "category": "Objects",
+    "tags": [
+      "dress",
+      "clothing",
+      "fashion",
+      "woman",
+      "vestido"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
+  "drone": {
+    "category": "Technology",
+    "tags": [
+      "drone",
+      "quadcopter",
+      "aerial",
+      "flying"
+    ],
+    "animation": "float"
+  },
   "droplet": {
     "category": "Weather",
     "tags": [
@@ -6825,6 +7213,36 @@
       "liquid",
       "humidity",
       "gota"
+    ],
+    "animation": "drip"
+  },
+  "droplet-degree": {
+    "category": "Weather",
+    "tags": [
+      "droplet",
+      "degree",
+      "temperature",
+      "water"
+    ],
+    "animation": "drip"
+  },
+  "droplet-percent": {
+    "category": "Weather",
+    "tags": [
+      "droplet",
+      "percent",
+      "humidity",
+      "water"
+    ],
+    "animation": "drip"
+  },
+  "droplet-plus": {
+    "category": "Weather",
+    "tags": [
+      "droplet",
+      "plus",
+      "add",
+      "water"
     ],
     "animation": "drip"
   },
@@ -6843,6 +7261,85 @@
     ],
     "animation": "beat-fast"
   },
+  "drumstick": {
+    "category": "Objects",
+    "tags": [
+      "drumstick",
+      "chicken",
+      "leg",
+      "meat",
+      "food",
+      "pollo"
+    ],
+    "animation": "wiggle"
+  },
+  "dryer": {
+    "category": "Objects",
+    "tags": [
+      "dryer",
+      "laundry",
+      "machine",
+      "clothes",
+      "secadora"
+    ],
+    "animation": "spin"
+  },
+  "dryer-heat": {
+    "category": "Objects",
+    "tags": [
+      "dryer",
+      "heat",
+      "laundry",
+      "hot",
+      "clothes",
+      "secadora"
+    ],
+    "animation": "spin"
+  },
+  "duck": {
+    "category": "Nature",
+    "tags": [
+      "duck",
+      "bird",
+      "animal",
+      "pond",
+      "pato"
+    ],
+    "animation": "rock"
+  },
+  "ear": {
+    "category": "Health",
+    "tags": [
+      "ear",
+      "hearing",
+      "listen",
+      "sound",
+      "oreja"
+    ],
+    "animation": "wiggle"
+  },
+  "egg-fried": {
+    "category": "Objects",
+    "tags": [
+      "egg",
+      "fried",
+      "breakfast",
+      "food",
+      "huevo"
+    ],
+    "animation": "wobble"
+  },
+  "eggplant": {
+    "category": "Nature",
+    "tags": [
+      "eggplant",
+      "aubergine",
+      "vegetable",
+      "food",
+      "berenjena"
+    ],
+    "animation": "rock"
+  },
   "ellipsis": {
     "category": "Interface",
     "tags": [
@@ -6857,6 +7354,18 @@
       "tres"
     ],
     "animation": "dots"
+  },
+  "empty-set": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "empty",
+      "set",
+      "null",
+      "math",
+      "nothing",
+      "vacio"
+    ],
+    "animation": "pop"
   },
   "envelope-open": {
     "category": "Communication",
@@ -6880,6 +7389,17 @@
       "borrador"
     ],
     "animation": "wiggle"
+  },
+  "escalator": {
+    "category": "Places",
+    "tags": [
+      "escalator",
+      "stairs",
+      "moving",
+      "mall",
+      "escalera"
+    ],
+    "animation": "slide"
   },
   "external-link": {
     "category": "Arrows",
@@ -6912,6 +7432,18 @@
     ],
     "animation": "blink"
   },
+  "eye-closed": {
+    "category": "Interface",
+    "tags": [
+      "eye",
+      "closed",
+      "hidden",
+      "sleep",
+      "private",
+      "ojo"
+    ],
+    "animation": "blink"
+  },
   "eye-dropper": {
     "category": "Health",
     "tags": [
@@ -6937,6 +7469,17 @@
       "ocultar",
       "esconder",
       "contraseña"
+    ],
+    "animation": "blink"
+  },
+  "eyes": {
+    "category": "People",
+    "tags": [
+      "eyes",
+      "look",
+      "watch",
+      "see",
+      "ojos"
     ],
     "animation": "blink"
   },
