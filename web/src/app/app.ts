@@ -29,7 +29,7 @@ export class App {
 
   protected readonly busqueda = signal('');
   protected readonly categoria = signal(TODAS);
-  protected readonly version = signal<Version>('regular');
+  protected readonly version = signal<Version>('solid');
   protected readonly tamano = signal(36);
   /** Grosor de línea actual. Las versiones Thin a Bold son atajos a un grosor. */
   protected readonly grosor = signal(1.75);
@@ -136,7 +136,7 @@ export class App {
       if (this.categoria() !== TODAS) q.set('categoria', this.categoria());
       if (this.orden() === 'new') q.set('sort', 'new');
       const va = this.versionActiva();
-      if (va && va !== 'regular') q.set('version', va);
+      if (va && va !== 'solid') q.set('version', va);
       if (!va) q.set('grosor', String(this.grosor()));
       const s = this.seleccionado();
       if (s) q.set('icono', s.nombre);
@@ -165,6 +165,15 @@ export class App {
     this.pagina.set(p);
     this.seleccionado.set(null);
     scrollTo({ top: 0 });
+  }
+
+  /** El logo lleva al inicio: página de íconos, sin búsqueda ni filtros, arriba del todo. */
+  protected irInicio(e: MouseEvent): void {
+    if (e.ctrlKey || e.metaKey || e.shiftKey) return;
+    e.preventDefault();
+    this.busqueda.set('');
+    this.categoria.set(TODAS);
+    this.verPagina('icons');
   }
 
   protected alternarIdioma(): void {

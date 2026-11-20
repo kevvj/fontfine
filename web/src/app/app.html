@@ -1,8 +1,8 @@
 <header class="barra">
-  <div class="marca">
+  <a class="marca" href="/" (click)="irInicio($event)" aria-label="fontfine">
     <span class="logo" [innerHTML]="logo | svg: 'solid' : 28"></span>
     <strong>fontfine</strong>
-  </div>
+  </a>
   <nav class="menu" [attr.aria-label]="t().menu">
     <button type="button" [class.activa]="pagina() === 'icons'" (click)="verPagina('icons')">{{ t().icons }}</button>
     <button type="button" [class.activa]="pagina() === 'docs'" (click)="verPagina('docs')">{{ t().docs }}</button>

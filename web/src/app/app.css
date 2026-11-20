@@ -6,7 +6,7 @@
   position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--fondo) 88%, transparent);
   backdrop-filter: blur(10px);
 }
-.marca { display: flex; align-items: center; gap: 12.5px; font-size: 21.25px; }
+.marca { display: flex; align-items: center; gap: 12.5px; font-size: 21.25px; color: inherit; text-decoration: none; }
 .logo { display: inline-flex; color: var(--picante); }
 .etiqueta-beta {
   font-size: 13.75px; padding: 2.5px 10px; border-radius: 1248.75px;
