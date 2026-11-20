@@ -15741,6 +15741,28 @@
     ],
     "animation": "spin"
   },
+  "spoon": {
+    "category": "Objects",
+    "tags": [
+      "spoon",
+      "cutlery",
+      "kitchen",
+      "eat",
+      "cuchara"
+    ],
+    "animation": "rock"
+  },
+  "spray-can": {
+    "category": "Objects",
+    "tags": [
+      "spray",
+      "can",
+      "paint",
+      "graffiti",
+      "aerosol"
+    ],
+    "animation": "shake"
+  },
   "sprout": {
     "category": "Nature",
     "tags": [
@@ -15765,6 +15787,116 @@
     ],
     "animation": "pulse"
   },
+  "square-0": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "0",
+      "number",
+      "zero",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-1": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "1",
+      "number",
+      "one",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-2": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "2",
+      "number",
+      "two",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-3": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "3",
+      "number",
+      "three",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-4": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "4",
+      "number",
+      "four",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-5": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "5",
+      "number",
+      "five",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-6": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "6",
+      "number",
+      "six",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-7": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "7",
+      "number",
+      "seven",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-8": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "8",
+      "number",
+      "eight",
+      "digit"
+    ],
+    "animation": "pop"
+  },
+  "square-9": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "9",
+      "number",
+      "nine",
+      "digit"
+    ],
+    "animation": "pop"
+  },
   "square-a": {
     "category": "Letters & Numbers",
     "tags": [
@@ -15776,6 +15908,90 @@
     ],
     "animation": "pop"
   },
+  "square-arrow-down": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "down",
+      "direction"
+    ],
+    "animation": "nudge-down"
+  },
+  "square-arrow-down-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "down",
+      "left",
+      "direction"
+    ],
+    "animation": "nudge-diag"
+  },
+  "square-arrow-down-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "down",
+      "right",
+      "direction"
+    ],
+    "animation": "nudge-diag"
+  },
+  "square-arrow-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "left",
+      "direction"
+    ],
+    "animation": "nudge-left"
+  },
+  "square-arrow-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "right",
+      "direction"
+    ],
+    "animation": "nudge-right"
+  },
+  "square-arrow-up": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "up",
+      "direction"
+    ],
+    "animation": "nudge-up"
+  },
+  "square-arrow-up-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "up",
+      "left",
+      "direction"
+    ],
+    "animation": "nudge-diag"
+  },
+  "square-arrow-up-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "arrow",
+      "up",
+      "right",
+      "direction"
+    ],
+    "animation": "nudge-diag"
+  },
   "square-b": {
     "category": "Letters & Numbers",
     "tags": [
@@ -15784,6 +16000,17 @@
       "letter",
       "alphabet",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-bitcoin": {
+    "category": "Objects",
+    "tags": [
+      "square",
+      "bitcoin",
+      "btc",
+      "crypto",
+      "currency"
     ],
     "animation": "pop"
   },
@@ -15808,6 +16035,54 @@
     ],
     "animation": "pop"
   },
+  "square-caret-down": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "caret",
+      "down",
+      "triangle",
+      "direction",
+      "dropdown"
+    ],
+    "animation": "pop"
+  },
+  "square-caret-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "caret",
+      "left",
+      "triangle",
+      "direction",
+      "dropdown"
+    ],
+    "animation": "pop"
+  },
+  "square-caret-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "caret",
+      "right",
+      "triangle",
+      "direction",
+      "dropdown"
+    ],
+    "animation": "pop"
+  },
+  "square-caret-up": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "caret",
+      "up",
+      "triangle",
+      "direction",
+      "dropdown"
+    ],
+    "animation": "pop"
+  },
   "square-check": {
     "category": "Interface",
     "tags": [
@@ -15817,6 +16092,50 @@
       "done",
       "checked",
       "task"
+    ],
+    "animation": "pop"
+  },
+  "square-chevron-down": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "chevron",
+      "down",
+      "direction",
+      "angle"
+    ],
+    "animation": "pop"
+  },
+  "square-chevron-left": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "chevron",
+      "left",
+      "direction",
+      "angle"
+    ],
+    "animation": "pop"
+  },
+  "square-chevron-right": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "chevron",
+      "right",
+      "direction",
+      "angle"
+    ],
+    "animation": "pop"
+  },
+  "square-chevron-up": {
+    "category": "Arrows",
+    "tags": [
+      "square",
+      "chevron",
+      "up",
+      "direction",
+      "angle"
     ],
     "animation": "pop"
   },
@@ -15906,6 +16225,18 @@
     ],
     "animation": "dots"
   },
+  "square-ellipsis-vertical": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "ellipsis",
+      "vertical",
+      "more",
+      "menu",
+      "options"
+    ],
+    "animation": "pop"
+  },
   "square-envelope": {
     "category": "Interface",
     "tags": [
@@ -15923,6 +16254,17 @@
       "equals",
       "box",
       "button"
+    ],
+    "animation": "pop"
+  },
+  "square-euro": {
+    "category": "Objects",
+    "tags": [
+      "square",
+      "euro",
+      "currency",
+      "money",
+      "europe"
     ],
     "animation": "pop"
   },
@@ -16191,6 +16533,30 @@
     ],
     "animation": "pop"
   },
+  "square-poll-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "poll",
+      "horizontal",
+      "survey",
+      "chart",
+      "bars"
+    ],
+    "animation": "pop"
+  },
+  "square-poll-vertical": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "poll",
+      "vertical",
+      "survey",
+      "chart",
+      "bars"
+    ],
+    "animation": "bars"
+  },
   "square-q": {
     "category": "Letters & Numbers",
     "tags": [
@@ -16254,6 +16620,16 @@
     ],
     "animation": "nudge-right"
   },
+  "square-ring": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "ring",
+      "circle",
+      "target"
+    ],
+    "animation": "pop"
+  },
   "square-root": {
     "category": "Interface",
     "tags": [
@@ -16266,6 +16642,27 @@
     ],
     "animation": "pop"
   },
+  "square-root-variable": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "root",
+      "variable",
+      "math"
+    ],
+    "animation": "pop"
+  },
+  "square-rss": {
+    "category": "Communication",
+    "tags": [
+      "square",
+      "rss",
+      "feed",
+      "news",
+      "subscribe"
+    ],
+    "animation": "pop"
+  },
   "square-s": {
     "category": "Letters & Numbers",
     "tags": [
@@ -16274,6 +16671,17 @@
       "letter",
       "alphabet",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-share-nodes": {
+    "category": "Communication",
+    "tags": [
+      "square",
+      "share",
+      "nodes",
+      "social",
+      "network"
     ],
     "animation": "pop"
   },
@@ -16308,6 +16716,18 @@
     ],
     "animation": "star"
   },
+  "square-sterling": {
+    "category": "Objects",
+    "tags": [
+      "square",
+      "sterling",
+      "pound",
+      "currency",
+      "money",
+      "uk"
+    ],
+    "animation": "pop"
+  },
   "square-t": {
     "category": "Letters & Numbers",
     "tags": [
@@ -16328,6 +16748,17 @@
       "button"
     ],
     "animation": "blink"
+  },
+  "square-triangle": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "triangle",
+      "shape",
+      "play",
+      "warning"
+    ],
+    "animation": "pop"
   },
   "square-u": {
     "category": "Letters & Numbers",
@@ -16369,6 +16800,17 @@
       "letter",
       "alphabet",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-virus": {
+    "category": "Health",
+    "tags": [
+      "square",
+      "virus",
+      "germ",
+      "infection",
+      "covid"
     ],
     "animation": "pop"
   },
@@ -16415,6 +16857,17 @@
     ],
     "animation": "pop"
   },
+  "square-yen": {
+    "category": "Objects",
+    "tags": [
+      "square",
+      "yen",
+      "currency",
+      "money",
+      "japan"
+    ],
+    "animation": "pop"
+  },
   "square-z": {
     "category": "Letters & Numbers",
     "tags": [
@@ -16425,6 +16878,37 @@
       "initial"
     ],
     "animation": "pop"
+  },
+  "stairs": {
+    "category": "Places",
+    "tags": [
+      "stairs",
+      "steps",
+      "staircase",
+      "escalera"
+    ],
+    "animation": "pop"
+  },
+  "stamp": {
+    "category": "Objects",
+    "tags": [
+      "stamp",
+      "seal",
+      "approve",
+      "rubber",
+      "sello"
+    ],
+    "animation": "bounce"
+  },
+  "stapler": {
+    "category": "Objects",
+    "tags": [
+      "stapler",
+      "office",
+      "staple",
+      "grapadora"
+    ],
+    "animation": "bounce"
   },
   "star": {
     "category": "Interface",
@@ -16448,6 +16932,17 @@
     ],
     "animation": "spin-slow"
   },
+  "steering-wheel": {
+    "category": "Objects",
+    "tags": [
+      "steering",
+      "wheel",
+      "car",
+      "drive",
+      "timon"
+    ],
+    "animation": "swing"
+  },
   "stethoscope": {
     "category": "Health",
     "tags": [
@@ -16470,6 +16965,31 @@
     ],
     "animation": "pulse"
   },
+  "stopwatch": {
+    "category": "Interface",
+    "tags": [
+      "stopwatch",
+      "timer",
+      "time",
+      "clock",
+      "cronometro"
+    ],
+    "animation": "tick"
+  },
+  "stopwatch-slash": {
+    "category": "Interface",
+    "tags": [
+      "stopwatch",
+      "slash",
+      "timer",
+      "off",
+      "no",
+      "time",
+      "clock",
+      "cronometro"
+    ],
+    "animation": "shake"
+  },
   "store": {
     "category": "Places",
     "tags": [
@@ -16480,6 +17000,17 @@
       "tienda"
     ],
     "animation": "bounce"
+  },
+  "strawberry": {
+    "category": "Nature",
+    "tags": [
+      "strawberry",
+      "fruit",
+      "berry",
+      "food",
+      "fresa"
+    ],
+    "animation": "rock"
   },
   "strikethrough": {
     "category": "Interface",
@@ -16492,6 +17023,17 @@
     ],
     "animation": "slide"
   },
+  "suitcase": {
+    "category": "Objects",
+    "tags": [
+      "suitcase",
+      "luggage",
+      "travel",
+      "briefcase",
+      "maleta"
+    ],
+    "animation": "rock"
+  },
   "sun": {
     "category": "Weather",
     "tags": [
@@ -16503,6 +17045,62 @@
       "claro"
     ],
     "animation": "spin-slow"
+  },
+  "sunglasses": {
+    "category": "People",
+    "tags": [
+      "sunglasses",
+      "summer",
+      "cool",
+      "eyewear",
+      "gafas",
+      "sol"
+    ],
+    "animation": "pop"
+  },
+  "sunrise": {
+    "category": "Weather",
+    "tags": [
+      "sunrise",
+      "morning",
+      "dawn",
+      "sun",
+      "amanecer"
+    ],
+    "animation": "pop"
+  },
+  "sunset": {
+    "category": "Weather",
+    "tags": [
+      "sunset",
+      "evening",
+      "dusk",
+      "sun",
+      "atardecer"
+    ],
+    "animation": "pop"
+  },
+  "sushi": {
+    "category": "Objects",
+    "tags": [
+      "sushi",
+      "japanese",
+      "food",
+      "roll",
+      "fish"
+    ],
+    "animation": "pop"
+  },
+  "sword": {
+    "category": "Objects",
+    "tags": [
+      "sword",
+      "weapon",
+      "blade",
+      "knight",
+      "espada"
+    ],
+    "animation": "swing"
   },
   "synagogue": {
     "category": "Religion",
