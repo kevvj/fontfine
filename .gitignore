@@ -1,6 +1,10 @@
 node_modules/
 dist/
 .angular/
-web/src/app/datos/iconos.generado.ts
-web/src/animaciones.generado.css
+web/src/app/data/icons.generated.ts
+web/src/animations.generated.css
 .env*
+
+# Local (Claude)
+CLAUDE.md
+graphify-out/

@@ -1,8 +1,8 @@
 import { Component, HostListener, computed, effect, signal, viewChild, ElementRef } from '@angular/core';
-import { ICONOS } from './datos/iconos.generado';
-import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, Orden, VERSIONES, Version, esRelleno, normalizar } from './datos/tipos';
+import { ICONOS } from './data/icons.generated';
+import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, Orden, VERSIONES, Version, esRelleno, normalizar } from './data/types';
 import { SvgPipe } from './svg.pipe';
-import { Detalle } from './detalle/detalle';
+import { Detalle } from './detail/detail';
 import { Docs } from './docs/docs';
 
 const TODAS = 'All';

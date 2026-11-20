@@ -2,5 +2,5 @@ node_modules/
 dist/
 svg/
 animations.css
-src/iconos/
-src/react/iconos.ts
+src/icons/
+src/react/icons.ts

@@ -24,7 +24,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kevvj/fontfine.git",
-    "directory": "paquete"
+    "directory": "package"
   },
   "bugs": "https://github.com/kevvj/fontfine/issues",
   "type": "module",
@@ -59,9 +59,9 @@
     "LICENSE"
   ],
   "scripts": {
-    "generar": "node ../scripts/paquete.mjs",
-    "build": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\" && npm run generar && tsc -p tsconfig.json",
-    "test": "npm run build && node --test pruebas/*.test.mjs"
+    "generate": "node ../scripts/package.mjs",
+    "build": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\" && npm run generate && tsc -p tsconfig.json",
+    "test": "npm run build && node --test test/*.test.mjs"
   },
   "peerDependencies": {
     "react": ">=17"

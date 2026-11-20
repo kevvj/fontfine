@@ -1,6 +1,6 @@
 import { Pipe, PipeTransform, inject } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
-import { Icono, Version, svgDe } from './datos/tipos';
+import { Icono, Version, svgDe } from './data/types';
 
 /** Muestra un ícono. Los SVG vienen de nuestros propios archivos (generados en el build), no de usuarios. */
 @Pipe({ name: 'svg' })

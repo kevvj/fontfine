@@ -1,12 +1,12 @@
 import { Component, computed, input, output } from '@angular/core';
-import { Icono, Movimiento, VERSIONES, Version, esRelleno, svgDe } from '../datos/tipos';
+import { Icono, Movimiento, VERSIONES, Version, esRelleno, svgDe } from '../data/types';
 import { SvgPipe } from '../svg.pipe';
 
 @Component({
   selector: 'app-detalle',
   imports: [SvgPipe],
-  templateUrl: './detalle.html',
-  styleUrl: './detalle.css',
+  templateUrl: './detail.html',
+  styleUrl: './detail.css',
 })
 export class Detalle {
   readonly icono = input.required<Icono>();

@@ -97,7 +97,7 @@ fontfine/svg/solid/<name>.svg     solid version (only icons with areas to fill; 
 | `svg/solid/` | Solid icons |
 | `metadata.json` | Category and search tags for each icon |
 | `scripts/build.mjs` | Validates the icons and generates the data for the website |
-| `paquete/` | npm package (core, React, web component) |
+| `package/` | npm package (core, React, web component) |
 | `web/` | Website (Angular) |
 
 ## Run the website locally

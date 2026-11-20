@@ -71,14 +71,14 @@ const iconos = Object.keys(linea).map((nombre) => ({
   nuevo: esNuevo(nombre),
 }));
 
-const destino = join(raiz, "web", "src", "app", "datos");
+const destino = join(raiz, "web", "src", "app", "data");
 mkdirSync(destino, { recursive: true });
-writeFileSync(join(destino, "iconos.generado.ts"),
+writeFileSync(join(destino, "icons.generated.ts"),
 `// Generado por scripts/build.mjs. No editar a mano.
-import type { Icono } from './tipos';
+import type { Icono } from './types';
 
 export const ICONOS: Icono[] = ${JSON.stringify(iconos, null, 2)};
 `);
 // Animaciones: la web usa el mismo CSS que el paquete.
-writeFileSync(join(raiz, "web", "src", "animaciones.generado.css"), readFileSync(join(raiz, "animations.css"), "utf8"));
-console.log(`${iconos.length} íconos (${Object.keys(relleno).length} con relleno) -> web/src/app/datos/`);
+writeFileSync(join(raiz, "web", "src", "animations.generated.css"), readFileSync(join(raiz, "animations.css"), "utf8"));
+console.log(`${iconos.length} íconos (${Object.keys(relleno).length} con relleno) -> web/src/app/data/`);

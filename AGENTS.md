@@ -94,7 +94,7 @@ Add the entry in **alphabetical order**:
 ```bash
 node scripts/check.mjs               # rules above
 node scripts/roadmap.mjs             # marks your icons as done in ROADMAP.md
-cd paquete && npm ci && npm test     # library tests
+cd package && npm ci && npm test     # library tests
 cd web && npm ci && npm start        # see it at http://localhost:4200
 ```
 
@@ -102,4 +102,4 @@ In the website, look at the icon in all 6 variants, at 16 px and 48 px, and with
 
 ## Do not touch
 
-Unless the person explicitly asks, do not edit `scripts/`, `paquete/src/`, `web/`, `.github/` or `animations.css`. Icon PRs should only change `svg/` and `metadata.json`.
+Unless the person explicitly asks, do not edit `scripts/`, `package/src/`, `web/`, `.github/` or `animations.css`. Icon PRs should only change `svg/` and `metadata.json`.

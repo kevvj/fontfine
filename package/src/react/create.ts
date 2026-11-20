@@ -1,5 +1,5 @@
 import { createElement, forwardRef, type SVGProps } from 'react';
-import { partes, type IconData, type Variant } from '../tipos.js';
+import { partes, type IconData, type Variant } from '../types.js';
 
 export interface IconProps extends Omit<SVGProps<SVGSVGElement>, 'children' | 'ref'> {
   /** Width and height. Default: 24. */

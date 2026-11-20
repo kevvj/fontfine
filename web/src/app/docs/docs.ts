@@ -1,7 +1,7 @@
 import { Component, output } from '@angular/core';
 import { NgTemplateOutlet } from '@angular/common';
-import { ICONOS } from '../datos/iconos.generado';
-import { Icono, VERSIONES } from '../datos/tipos';
+import { ICONOS } from '../data/icons.generated';
+import { Icono, VERSIONES } from '../data/types';
 import { SvgPipe } from '../svg.pipe';
 
 interface Seccion { id: string; titulo: string }

@@ -51,7 +51,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "src/animaciones.generado.css"
+              "src/animations.generated.css"
             ]
           },
           "configurations": {

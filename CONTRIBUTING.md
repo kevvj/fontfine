@@ -36,7 +36,7 @@ Always look at the result before opening the PR. AIs often make icons too detail
 ## Other contributions
 
 - **Bug or idea**: open an issue.
-- **Changes to the library or website** (`paquete/`, `web/`, `scripts/`): open an issue first so we can agree on the approach. These PRs need a maintainer review.
+- **Changes to the library or website** (`package/`, `web/`, `scripts/`): open an issue first so we can agree on the approach. These PRs need a maintainer review.
 
 ## Rules that keep the project safe
 

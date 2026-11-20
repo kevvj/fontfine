@@ -1,8 +1,8 @@
 // <fontfine-icon> web component. Works in plain HTML, Angular, Vue, Svelte, etc.
 // <fontfine-icon name="wrench" variant="bold" size="32" stroke-width="1.5"></fontfine-icon>
 // <fontfine-icon name="bell" animate></fontfine-icon>  or  animate="hover" (needs fontfine/animations.css)
-import * as iconos from './iconos/index.js';
-import { toSvg, type IconData, type Variant } from './tipos.js';
+import * as iconos from './icons/index.js';
+import { toSvg, type IconData, type Variant } from './types.js';
 
 const porNombre = new Map<string, IconData>(Object.values(iconos).map((i) => [i.name, i]));
 

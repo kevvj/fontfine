@@ -37,11 +37,11 @@ jobs:
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: paquete/package-lock.json
+          cache-dependency-path: package/package-lock.json
       - run: npm ci --ignore-scripts
-        working-directory: paquete
+        working-directory: package
       - run: npm test
-        working-directory: paquete
+        working-directory: package
 
   website:
     name: Website build
