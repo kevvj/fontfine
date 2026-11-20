@@ -91,7 +91,9 @@ fontfine/svg/solid/<name>.svg     solid version (only icons with areas to fill; 
 
 ## Brand icons
 
-The **Brands** category (`brand-github`, `brand-whatsapp`…) has the official logos of popular companies and technologies. They come from [Simple Icons](https://simpleicons.org) (CC0) and come in every variant: solid is the official logo, line is its outline and duotone puts it on a tile. All brand names and logos are trademarks of their respective owners; use them only to refer to that brand and follow its guidelines.
+The **Brands** category (`brand-github`, `brand-whatsapp`…) has the official logos of popular companies and technologies. They come from [Simple Icons](https://simpleicons.org) (CC0). All brand names and logos are trademarks of their respective owners; use them only to refer to that brand and follow its guidelines.
+
+Brand logos come in two variants only: **thin** is the outline and **solid** is the filled official logo. light, regular and bold show the thin one and duotone shows the solid one. Their thin is a bit thicker by default (1.25) so it reads at small sizes, and `strokeWidth` still works, e.g. `<BrandWhatsapp strokeWidth={1.75} />` to match regular icons.
 
 ## Repository
 
