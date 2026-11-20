@@ -44,7 +44,10 @@ const escapar = (t: string) => t.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<':
 
 /** Attributes and inner content of the SVG, shared by every adapter. */
 export function partes(icon: IconData, opts: SvgOptions = {}) {
-  const variant = opts.variant ?? 'light';
+  // Brand logos only have two variants: thin (line) and solid (filled).
+  const marca = icon.category === 'Brands';
+  const pedida = opts.variant ?? 'light';
+  const variant: Variant = marca ? (pedida === 'solid' || pedida === 'duotone' ? 'solid' : 'thin') : pedida;
   const color = opts.color ?? 'currentColor';
   const size = opts.size ?? 24;
   const relleno = variant === 'duotone' ? icon.duotone : variant === 'solid' ? icon.solid : null;
@@ -59,7 +62,7 @@ export function partes(icon: IconData, opts: SvgOptions = {}) {
     attrs['fill'] = color;
     attrs['fill-rule'] = 'evenodd';
   } else {
-    const ancho = opts.strokeWidth ?? STROKE_WIDTHS[variant === 'solid' ? 'bold' : variant === 'duotone' ? 'light' : variant];
+    const ancho = (marca ? undefined : opts.strokeWidth) ?? STROKE_WIDTHS[variant === 'solid' ? 'bold' : variant === 'duotone' ? 'light' : variant];
     Object.assign(attrs, { fill: 'none', stroke: color, 'stroke-width': String(ancho), 'stroke-linecap': 'round', 'stroke-linejoin': 'round' });
   }
   const clases = [opts.className];

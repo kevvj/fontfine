@@ -1,5 +1,5 @@
 import { Component, computed, input, output } from '@angular/core';
-import { Icono, Movimiento, VERSIONES, Version, esRelleno, svgDe } from '../data/types';
+import { Icono, Movimiento, VERSIONES, Version, esRelleno, soloThinSolid, svgDe, versionDe } from '../data/types';
 import { t } from '../data/i18n';
 import { SvgPipe } from '../svg.pipe';
 
@@ -32,7 +32,9 @@ export class Detalle {
   readonly etiqueta = output<string>();
   readonly avisar = output<string>();
 
-  protected readonly versiones = VERSIONES;
+  /** Las marcas solo muestran Thin y Solid. */
+  protected readonly versiones = computed(() => (soloThinSolid(this.icono()) ? VERSIONES.filter((v) => v.id === 'thin' || v.id === 'solid') : VERSIONES));
+  protected readonly activa = computed(() => { const v = this.versionActiva() ?? this.version(); return soloThinSolid(this.icono()) ? versionDe(this.icono(), v) : this.versionActiva(); });
   protected readonly esRelleno = esRelleno;
   protected readonly tamanos = [16, 20, 24, 32, 48];
   protected readonly t = t;

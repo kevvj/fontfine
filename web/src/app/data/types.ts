@@ -36,11 +36,18 @@ export const VERSIONES: { id: Version; nombre: string; grosor: number | null }[]
   { id: 'duotone', nombre: 'Duotone', grosor: null },
 ];
 
+/** Las marcas solo tienen Thin y Solid: las demás versiones se ven mal en sus formas. */
+export const soloThinSolid = (icono: Icono) => icono.categoria === 'Brands';
+
+/** Versión que se usa de verdad para un ícono (las marcas pasan a Thin o Solid). */
+export const versionDe = (icono: Icono, v: Version): Version => (soloThinSolid(icono) ? (esRelleno(v) ? 'solid' : 'thin') : v);
+
 export const GROSOR_MIN = 0.5;
 export const GROSOR_MAX = 3;
 
 /** Arma el SVG completo de un ícono en una versión. Sin relleno propio (íconos de solo líneas), el relleno es la línea en bold. */
 export function svgDe(icono: Icono, version: Version, tamano = 24, grosor?: number, color = 'currentColor'): string {
+  if (soloThinSolid(icono)) { version = versionDe(icono, version); grosor = undefined; }
   const v = VERSIONES.find((x) => x.id === version)!;
   const relleno = version === 'duotone' ? icono.duotono : version === 'solid' ? icono.relleno : null;
   if (relleno) {

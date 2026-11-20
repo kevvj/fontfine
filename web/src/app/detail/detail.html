@@ -16,9 +16,9 @@
 
   <h3>{{ t().versiones }}</h3>
   <div class="versiones">
-    @for (v of versiones; track v.id) {
-      <button type="button" [class.activa]="versionActiva() === v.id" (click)="cambiarVersion.emit(v.id)"
-        [attr.aria-pressed]="versionActiva() === v.id">
+    @for (v of versiones(); track v.id) {
+      <button type="button" [class.activa]="activa() === v.id" (click)="cambiarVersion.emit(v.id)"
+        [attr.aria-pressed]="activa() === v.id">
         <span [innerHTML]="icono() | svg: v.id : 35"></span>
         <small>{{ v.nombre }}</small>
       </button>
