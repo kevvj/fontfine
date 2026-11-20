@@ -20503,6 +20503,18 @@
     ],
     "animation": "pop"
   },
+  "sign-hanging": {
+    "category": "Places",
+    "tags": [
+      "sign",
+      "hanging",
+      "shop",
+      "store",
+      "board"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
   "signal": {
     "category": "Technology",
     "tags": [
@@ -20584,6 +20596,27 @@
     ],
     "animation": "bars"
   },
+  "signal-fair": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "fair",
+      "bars",
+      "medium",
+      "reception"
+    ],
+    "animation": "signal"
+  },
+  "signal-good": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "good",
+      "bars",
+      "reception"
+    ],
+    "animation": "signal"
+  },
   "signal-slash": {
     "category": "Technology",
     "tags": [
@@ -20598,6 +20631,61 @@
       "senal"
     ],
     "animation": "shake"
+  },
+  "signal-stream": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "stream",
+      "broadcast",
+      "live",
+      "waves"
+    ],
+    "animation": "signal"
+  },
+  "signal-strong": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "strong",
+      "full",
+      "bars",
+      "reception"
+    ],
+    "animation": "signal"
+  },
+  "signal-weak": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "weak",
+      "bars",
+      "poor",
+      "reception"
+    ],
+    "animation": "signal"
+  },
+  "signature": {
+    "category": "Actions",
+    "tags": [
+      "signature",
+      "sign",
+      "autograph",
+      "contract",
+      "firma"
+    ],
+    "animation": "write"
+  },
+  "signs-post": {
+    "category": "Places",
+    "tags": [
+      "signs",
+      "post",
+      "direction",
+      "road",
+      "crossroads"
+    ],
+    "animation": "swing"
   },
   "sim-card": {
     "category": "Technology",
@@ -20667,6 +20755,28 @@
     ],
     "animation": "wobble"
   },
+  "skull-cow": {
+    "category": "Nature",
+    "tags": [
+      "skull",
+      "cow",
+      "desert",
+      "western",
+      "bones"
+    ],
+    "animation": "pop"
+  },
+  "skull-crossbones": {
+    "category": "Security",
+    "tags": [
+      "skull",
+      "crossbones",
+      "danger",
+      "poison",
+      "pirate"
+    ],
+    "animation": "shake"
+  },
   "sliders": {
     "category": "Interface",
     "tags": [
@@ -20678,6 +20788,39 @@
       "ajustes"
     ],
     "animation": "slide"
+  },
+  "sliders-simple": {
+    "category": "Interface",
+    "tags": [
+      "sliders",
+      "simple",
+      "settings",
+      "adjust",
+      "controls"
+    ],
+    "animation": "pop"
+  },
+  "sliders-up": {
+    "category": "Interface",
+    "tags": [
+      "sliders",
+      "up",
+      "equalizer",
+      "settings",
+      "vertical"
+    ],
+    "animation": "pop"
+  },
+  "slot-machine": {
+    "category": "Objects",
+    "tags": [
+      "slot",
+      "machine",
+      "casino",
+      "gambling",
+      "jackpot"
+    ],
+    "animation": "shake"
   },
   "smartphone": {
     "category": "Technology",
@@ -20713,6 +20856,17 @@
       "quality"
     ],
     "animation": "float"
+  },
+  "sneaker": {
+    "category": "Objects",
+    "tags": [
+      "sneaker",
+      "shoe",
+      "running",
+      "sport",
+      "tenis"
+    ],
+    "animation": "bounce"
   },
   "snowflake": {
     "category": "Weather",
@@ -20845,6 +20999,17 @@
       "accesorio"
     ],
     "animation": "beat"
+  },
+  "spider": {
+    "category": "Nature",
+    "tags": [
+      "spider",
+      "insect",
+      "web",
+      "halloween",
+      "arana"
+    ],
+    "animation": "bounce"
   },
   "spider-web": {
     "category": "Nature",
@@ -21494,6 +21659,16 @@
     ],
     "animation": "turn-y"
   },
+  "square-half-stroke": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "half",
+      "stroke",
+      "contrast"
+    ],
+    "animation": "pop"
+  },
   "square-heart": {
     "category": "Interface",
     "tags": [
@@ -22042,6 +22217,17 @@
     ],
     "animation": "pop"
   },
+  "squid": {
+    "category": "Nature",
+    "tags": [
+      "squid",
+      "octopus",
+      "sea",
+      "animal",
+      "calamar"
+    ],
+    "animation": "float"
+  },
   "stairs": {
     "category": "Places",
     "tags": [
@@ -22374,6 +22560,16 @@
     ],
     "animation": "swing",
     "origin": "20% 20%"
+  },
+  "tags": {
+    "category": "Objects",
+    "tags": [
+      "tags",
+      "labels",
+      "prices",
+      "sale"
+    ],
+    "animation": "swing"
   },
   "tally": {
     "category": "Letters & Numbers",
