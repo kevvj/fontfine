@@ -19225,6 +19225,17 @@
     ],
     "animation": "pop"
   },
+  "rabbit": {
+    "category": "Nature",
+    "tags": [
+      "rabbit",
+      "bunny",
+      "animal",
+      "easter",
+      "conejo"
+    ],
+    "animation": "bounce"
+  },
   "radar": {
     "category": "Technology",
     "tags": [
@@ -19344,6 +19355,122 @@
     ],
     "animation": "spin-slow"
   },
+  "rectangle-ad": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "ad",
+      "advertisement",
+      "ads",
+      "banner"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-barcode": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "barcode",
+      "scan",
+      "product",
+      "sku"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-code": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "code",
+      "developer",
+      "terminal"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-list": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "list",
+      "items",
+      "menu",
+      "rows"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-minus": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "minus",
+      "remove",
+      "subtract"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-plus": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "plus",
+      "add",
+      "new",
+      "create"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-terminal": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "terminal",
+      "console",
+      "command",
+      "cli"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-vertical": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "vertical",
+      "shape",
+      "portrait"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-wide": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "wide",
+      "shape",
+      "banner"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-xmark": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "xmark",
+      "close",
+      "cancel",
+      "window"
+    ],
+    "animation": "pop"
+  },
+  "rectangles-mixed": {
+    "category": "Interface",
+    "tags": [
+      "rectangles",
+      "mixed",
+      "shapes",
+      "layout"
+    ],
+    "animation": "pop"
+  },
   "redo": {
     "category": "Arrows",
     "tags": [
@@ -19395,6 +19522,17 @@
       "again",
       "media",
       "repetir"
+    ],
+    "animation": "spin"
+  },
+  "repeat-1": {
+    "category": "Arrows",
+    "tags": [
+      "repeat",
+      "one",
+      "loop",
+      "single",
+      "track"
     ],
     "animation": "spin"
   },
@@ -19466,6 +19604,17 @@
     ],
     "animation": "spin-slow"
   },
+  "ring-diamond": {
+    "category": "Objects",
+    "tags": [
+      "ring",
+      "diamond",
+      "jewelry",
+      "engagement",
+      "propose"
+    ],
+    "animation": "glow"
+  },
   "road": {
     "category": "Places",
     "tags": [
@@ -19485,6 +19634,28 @@
       "block",
       "construction",
       "closed"
+    ],
+    "animation": "shake"
+  },
+  "road-bridge": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "bridge",
+      "highway",
+      "structure",
+      "puente"
+    ],
+    "animation": "drive"
+  },
+  "road-spikes": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "spikes",
+      "police",
+      "barrier",
+      "stop"
     ],
     "animation": "shake"
   },
@@ -19538,6 +19709,17 @@
     ],
     "animation": "float"
   },
+  "rocket-launch": {
+    "category": "Technology",
+    "tags": [
+      "rocket",
+      "launch",
+      "startup",
+      "space",
+      "boost"
+    ],
+    "animation": "nudge-diag"
+  },
   "rotate-left": {
     "category": "Actions",
     "tags": [
@@ -19568,6 +19750,17 @@
       "directions",
       "journey",
       "ruta"
+    ],
+    "animation": "pop"
+  },
+  "route-highway": {
+    "category": "Places",
+    "tags": [
+      "route",
+      "highway",
+      "road",
+      "sign",
+      "shield"
     ],
     "animation": "pop"
   },
@@ -19640,6 +19833,59 @@
     ],
     "animation": "rock"
   },
+  "ruler-combined": {
+    "category": "Objects",
+    "tags": [
+      "ruler",
+      "combined",
+      "measure",
+      "dimensions"
+    ],
+    "animation": "pop"
+  },
+  "ruler-horizontal": {
+    "category": "Objects",
+    "tags": [
+      "ruler",
+      "horizontal",
+      "measure",
+      "length",
+      "regla"
+    ],
+    "animation": "pop"
+  },
+  "ruler-triangle": {
+    "category": "Objects",
+    "tags": [
+      "ruler",
+      "triangle",
+      "set",
+      "square",
+      "geometry"
+    ],
+    "animation": "pop"
+  },
+  "ruler-vertical": {
+    "category": "Objects",
+    "tags": [
+      "ruler",
+      "vertical",
+      "measure",
+      "height"
+    ],
+    "animation": "pop"
+  },
+  "rv": {
+    "category": "Places",
+    "tags": [
+      "rv",
+      "camper",
+      "motorhome",
+      "travel",
+      "caravan"
+    ],
+    "animation": "drive"
+  },
   "sack": {
     "category": "Objects",
     "tags": [
@@ -19672,6 +19918,40 @@
       "velero"
     ],
     "animation": "float"
+  },
+  "salad": {
+    "category": "Objects",
+    "tags": [
+      "salad",
+      "bowl",
+      "healthy",
+      "food",
+      "vegetables",
+      "ensalada"
+    ],
+    "animation": "float"
+  },
+  "salt-shaker": {
+    "category": "Objects",
+    "tags": [
+      "salt",
+      "shaker",
+      "seasoning",
+      "kitchen",
+      "sal"
+    ],
+    "animation": "shake"
+  },
+  "sandwich": {
+    "category": "Objects",
+    "tags": [
+      "sandwich",
+      "food",
+      "lunch",
+      "bread",
+      "sanduche"
+    ],
+    "animation": "pop"
   },
   "satellite-dish": {
     "category": "Technology",
@@ -19707,6 +19987,18 @@
       "balanza"
     ],
     "animation": "swing"
+  },
+  "scale-unbalanced": {
+    "category": "Objects",
+    "tags": [
+      "scale",
+      "unbalanced",
+      "justice",
+      "law",
+      "weight",
+      "unequal"
+    ],
+    "animation": "rock"
   },
   "scalpel": {
     "category": "Health",
@@ -19781,6 +20073,16 @@
     ],
     "animation": "pop"
   },
+  "school-flag": {
+    "category": "Places",
+    "tags": [
+      "school",
+      "flag",
+      "education",
+      "building"
+    ],
+    "animation": "wave"
+  },
   "scissors": {
     "category": "Actions",
     "tags": [
@@ -19798,6 +20100,17 @@
       "fix",
       "repair",
       "destornillador"
+    ],
+    "animation": "rock"
+  },
+  "screwdriver-wrench": {
+    "category": "Objects",
+    "tags": [
+      "screwdriver",
+      "wrench",
+      "tools",
+      "settings",
+      "repair"
     ],
     "animation": "rock"
   },
@@ -19832,6 +20145,37 @@
       "memory",
       "storage",
       "camera"
+    ],
+    "animation": "pop"
+  },
+  "seal": {
+    "category": "Interface",
+    "tags": [
+      "seal",
+      "badge",
+      "certified",
+      "verified"
+    ],
+    "animation": "spin-slow"
+  },
+  "seal-exclamation": {
+    "category": "Interface",
+    "tags": [
+      "seal",
+      "exclamation",
+      "warning",
+      "alert",
+      "badge"
+    ],
+    "animation": "shake"
+  },
+  "seal-question": {
+    "category": "Interface",
+    "tags": [
+      "seal",
+      "question",
+      "help",
+      "badge"
     ],
     "animation": "pop"
   },
