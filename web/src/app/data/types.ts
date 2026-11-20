@@ -42,12 +42,15 @@ export const soloThinSolid = (icono: Icono) => icono.categoria === 'Brands';
 /** Versión que se usa de verdad para un ícono (las marcas pasan a Thin o Solid). */
 export const versionDe = (icono: Icono, v: Version): Version => (soloThinSolid(icono) ? (esRelleno(v) ? 'solid' : 'thin') : v);
 
+/** Grosor del Thin de las marcas: más grueso que el Thin normal para que el contorno se vea de lejos. */
+export const GROSOR_THIN_MARCA = 1.25;
+
 export const GROSOR_MIN = 0.5;
 export const GROSOR_MAX = 3;
 
 /** Arma el SVG completo de un ícono en una versión. Sin relleno propio (íconos de solo líneas), el relleno es la línea en bold. */
 export function svgDe(icono: Icono, version: Version, tamano = 24, grosor?: number, color = 'currentColor'): string {
-  if (soloThinSolid(icono)) { version = versionDe(icono, version); grosor = undefined; }
+  if (soloThinSolid(icono)) { version = versionDe(icono, version); if (grosor == null || grosor === 0.75) grosor = GROSOR_THIN_MARCA; }
   const v = VERSIONES.find((x) => x.id === version)!;
   const relleno = version === 'duotone' ? icono.duotono : version === 'solid' ? icono.relleno : null;
   if (relleno) {

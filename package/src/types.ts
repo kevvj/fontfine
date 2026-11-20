@@ -15,6 +15,9 @@ export interface IconData {
 
 export type Variant = 'thin' | 'light' | 'regular' | 'bold' | 'solid' | 'duotone';
 
+/** Stroke width of the thin variant of brand logos: thicker than a normal thin so the outline reads at small sizes. */
+export const BRAND_THIN_WIDTH = 1.25;
+
 /** Stroke width of each line variant. */
 export const STROKE_WIDTHS: Record<Exclude<Variant, 'solid' | 'duotone'>, number> = {
   thin: 0.75,
@@ -62,7 +65,7 @@ export function partes(icon: IconData, opts: SvgOptions = {}) {
     attrs['fill'] = color;
     attrs['fill-rule'] = 'evenodd';
   } else {
-    const ancho = (marca ? undefined : opts.strokeWidth) ?? STROKE_WIDTHS[variant === 'solid' ? 'bold' : variant === 'duotone' ? 'light' : variant];
+    const ancho = opts.strokeWidth ?? (marca ? BRAND_THIN_WIDTH : undefined) ?? STROKE_WIDTHS[variant === 'solid' ? 'bold' : variant === 'duotone' ? 'light' : variant];
     Object.assign(attrs, { fill: 'none', stroke: color, 'stroke-width': String(ancho), 'stroke-linecap': 'round', 'stroke-linejoin': 'round' });
   }
   const clases = [opts.className];
