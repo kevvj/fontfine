@@ -7797,6 +7797,29 @@
     ],
     "animation": "pop"
   },
+  "faucet": {
+    "category": "Objects",
+    "tags": [
+      "faucet",
+      "tap",
+      "water",
+      "sink",
+      "grifo"
+    ],
+    "animation": "pop"
+  },
+  "faucet-drip": {
+    "category": "Objects",
+    "tags": [
+      "faucet",
+      "drip",
+      "leak",
+      "water",
+      "tap",
+      "grifo"
+    ],
+    "animation": "drip"
+  },
   "fax": {
     "category": "Communication",
     "tags": [
@@ -7807,6 +7830,17 @@
       "send"
     ],
     "animation": "pulse"
+  },
+  "feather": {
+    "category": "Nature",
+    "tags": [
+      "feather",
+      "bird",
+      "quill",
+      "light",
+      "pluma"
+    ],
+    "animation": "float"
   },
   "fence": {
     "category": "Places",
@@ -7830,6 +7864,17 @@
       "rueda"
     ],
     "animation": "spin-slow"
+  },
+  "ferry": {
+    "category": "Places",
+    "tags": [
+      "ferry",
+      "boat",
+      "ship",
+      "transport",
+      "water"
+    ],
+    "animation": "float"
   },
   "file": {
     "category": "Files",
@@ -8201,6 +8246,17 @@
     ],
     "animation": "pulse"
   },
+  "film-canister": {
+    "category": "Media",
+    "tags": [
+      "film",
+      "canister",
+      "roll",
+      "camera",
+      "analog"
+    ],
+    "animation": "pop"
+  },
   "film-slash": {
     "category": "Media",
     "tags": [
@@ -8216,6 +8272,51 @@
     ],
     "animation": "shake"
   },
+  "films": {
+    "category": "Media",
+    "tags": [
+      "films",
+      "movies",
+      "multiple",
+      "video"
+    ],
+    "animation": "pop"
+  },
+  "filter": {
+    "category": "Interface",
+    "tags": [
+      "filter",
+      "funnel",
+      "sort",
+      "refine"
+    ],
+    "animation": "pop"
+  },
+  "filter-list": {
+    "category": "Interface",
+    "tags": [
+      "filter",
+      "list",
+      "lines",
+      "sort",
+      "refine"
+    ],
+    "animation": "pop"
+  },
+  "filter-slash": {
+    "category": "Interface",
+    "tags": [
+      "filter",
+      "slash",
+      "off",
+      "clear",
+      "remove",
+      "funnel",
+      "sort",
+      "refine"
+    ],
+    "animation": "shake"
+  },
   "fingerprint": {
     "category": "Security",
     "tags": [
@@ -8226,6 +8327,17 @@
       "huella"
     ],
     "animation": "pulse"
+  },
+  "fire-extinguisher": {
+    "category": "Objects",
+    "tags": [
+      "fire",
+      "extinguisher",
+      "safety",
+      "emergency",
+      "extintor"
+    ],
+    "animation": "shake"
   },
   "fire-hydrant": {
     "category": "Places",
@@ -8249,6 +8361,28 @@
     ],
     "animation": "flicker"
   },
+  "fish": {
+    "category": "Nature",
+    "tags": [
+      "fish",
+      "animal",
+      "sea",
+      "seafood",
+      "pez"
+    ],
+    "animation": "wiggle"
+  },
+  "fish-bones": {
+    "category": "Nature",
+    "tags": [
+      "fish",
+      "bones",
+      "skeleton",
+      "leftovers",
+      "espinas"
+    ],
+    "animation": "wiggle"
+  },
   "fishing-rod": {
     "category": "Objects",
     "tags": [
@@ -8271,6 +8405,18 @@
     ],
     "animation": "wave",
     "origin": "20% 50%"
+  },
+  "flag-checkered": {
+    "category": "Objects",
+    "tags": [
+      "flag",
+      "checkered",
+      "race",
+      "finish",
+      "goal",
+      "meta"
+    ],
+    "animation": "wave"
   },
   "flag-pennant": {
     "category": "Objects",
@@ -8297,6 +8443,16 @@
     ],
     "animation": "shake"
   },
+  "flag-swallowtail": {
+    "category": "Objects",
+    "tags": [
+      "flag",
+      "swallowtail",
+      "banner",
+      "pennant"
+    ],
+    "animation": "wave"
+  },
   "flame": {
     "category": "Nature",
     "tags": [
@@ -8320,6 +8476,18 @@
     ],
     "animation": "flicker"
   },
+  "flask": {
+    "category": "Health",
+    "tags": [
+      "flask",
+      "lab",
+      "chemistry",
+      "science",
+      "erlenmeyer",
+      "matraz"
+    ],
+    "animation": "float"
+  },
   "flask-round": {
     "category": "Health",
     "tags": [
@@ -8330,6 +8498,30 @@
       "potion",
       "lab",
       "matraz"
+    ],
+    "animation": "float"
+  },
+  "flask-round-potion": {
+    "category": "Health",
+    "tags": [
+      "flask",
+      "round",
+      "potion",
+      "magic",
+      "elixir",
+      "game"
+    ],
+    "animation": "float"
+  },
+  "flask-vial": {
+    "category": "Health",
+    "tags": [
+      "flask",
+      "vial",
+      "test",
+      "tube",
+      "lab",
+      "chemistry"
     ],
     "animation": "float"
   },
@@ -8350,6 +8542,51 @@
     ],
     "animation": "pulse"
   },
+  "flower": {
+    "category": "Nature",
+    "tags": [
+      "flower",
+      "bloom",
+      "plant",
+      "garden",
+      "flor"
+    ],
+    "animation": "spin-slow"
+  },
+  "flower-tulip": {
+    "category": "Nature",
+    "tags": [
+      "flower",
+      "tulip",
+      "spring",
+      "plant",
+      "tulipan"
+    ],
+    "animation": "swing",
+    "origin": "50% 100%"
+  },
+  "flying-disc": {
+    "category": "Objects",
+    "tags": [
+      "flying",
+      "disc",
+      "frisbee",
+      "toy",
+      "sport"
+    ],
+    "animation": "spin"
+  },
+  "fog": {
+    "category": "Weather",
+    "tags": [
+      "fog",
+      "mist",
+      "haze",
+      "cloud",
+      "niebla"
+    ],
+    "animation": "float"
+  },
   "folder": {
     "category": "Files",
     "tags": [
@@ -8358,6 +8595,65 @@
       "carpeta"
     ],
     "animation": "bounce"
+  },
+  "folder-arrow-down": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "arrow",
+      "down",
+      "download",
+      "save",
+      "directory"
+    ],
+    "animation": "nudge-down"
+  },
+  "folder-arrow-left": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "arrow",
+      "left",
+      "move",
+      "import",
+      "directory"
+    ],
+    "animation": "nudge-left"
+  },
+  "folder-arrow-right": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "arrow",
+      "right",
+      "move",
+      "export",
+      "directory"
+    ],
+    "animation": "nudge-right"
+  },
+  "folder-arrow-up": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "arrow",
+      "up",
+      "upload",
+      "send",
+      "directory"
+    ],
+    "animation": "nudge-up"
+  },
+  "folder-bookmark": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "bookmark",
+      "saved",
+      "favorite",
+      "directory"
+    ],
+    "animation": "pop"
   },
   "folder-check": {
     "category": "Files",
@@ -8369,6 +8665,39 @@
     ],
     "animation": "bounce"
   },
+  "folder-closed": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "closed",
+      "shut",
+      "archive",
+      "directory"
+    ],
+    "animation": "pop"
+  },
+  "folder-gear": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "gear",
+      "settings",
+      "configuration",
+      "directory"
+    ],
+    "animation": "spin"
+  },
+  "folder-grid": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "grid",
+      "apps",
+      "layout",
+      "directory"
+    ],
+    "animation": "pop"
+  },
   "folder-heart": {
     "category": "Files",
     "tags": [
@@ -8379,6 +8708,41 @@
     ],
     "animation": "bounce"
   },
+  "folder-image": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "image",
+      "photos",
+      "pictures",
+      "gallery",
+      "directory"
+    ],
+    "animation": "pop"
+  },
+  "folder-magnifying-glass": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "magnifying",
+      "glass",
+      "search",
+      "find",
+      "directory"
+    ],
+    "animation": "search"
+  },
+  "folder-medical": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "medical",
+      "health",
+      "records",
+      "directory"
+    ],
+    "animation": "pulse"
+  },
   "folder-minus": {
     "category": "Files",
     "tags": [
@@ -8388,6 +8752,17 @@
       "carpeta"
     ],
     "animation": "bounce"
+  },
+  "folder-music": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "music",
+      "audio",
+      "songs",
+      "directory"
+    ],
+    "animation": "pop"
   },
   "folder-open": {
     "category": "Files",
@@ -8410,6 +8785,43 @@
     ],
     "animation": "bounce"
   },
+  "folder-slash": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "slash",
+      "off",
+      "hidden",
+      "no",
+      "access",
+      "directory",
+      "carpeta"
+    ],
+    "animation": "shake"
+  },
+  "folder-tree": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "tree",
+      "hierarchy",
+      "structure",
+      "directories"
+    ],
+    "animation": "pop"
+  },
+  "folder-user": {
+    "category": "Files",
+    "tags": [
+      "folder",
+      "user",
+      "person",
+      "profile",
+      "account",
+      "directory"
+    ],
+    "animation": "pop"
+  },
   "folder-xmark": {
     "category": "Files",
     "tags": [
@@ -8420,6 +8832,50 @@
     ],
     "animation": "bounce"
   },
+  "folders": {
+    "category": "Files",
+    "tags": [
+      "folders",
+      "directories",
+      "multiple",
+      "stack"
+    ],
+    "animation": "pop"
+  },
+  "fondue-pot": {
+    "category": "Objects",
+    "tags": [
+      "fondue",
+      "pot",
+      "cheese",
+      "chocolate",
+      "cooking"
+    ],
+    "animation": "float"
+  },
+  "fork-knife": {
+    "category": "Objects",
+    "tags": [
+      "fork",
+      "knife",
+      "food",
+      "restaurant",
+      "dining",
+      "cubiertos"
+    ],
+    "animation": "rock"
+  },
+  "forklift": {
+    "category": "Objects",
+    "tags": [
+      "forklift",
+      "warehouse",
+      "lift",
+      "logistics",
+      "montacargas"
+    ],
+    "animation": "drive"
+  },
   "forward": {
     "category": "Media",
     "tags": [
@@ -8429,6 +8885,40 @@
       "next"
     ],
     "animation": "nudge-right"
+  },
+  "frame": {
+    "category": "Interface",
+    "tags": [
+      "frame",
+      "crop",
+      "artboard",
+      "layout",
+      "design"
+    ],
+    "animation": "pop"
+  },
+  "french-fries": {
+    "category": "Objects",
+    "tags": [
+      "french",
+      "fries",
+      "potato",
+      "fast",
+      "food",
+      "papas"
+    ],
+    "animation": "pop"
+  },
+  "frog": {
+    "category": "Nature",
+    "tags": [
+      "frog",
+      "toad",
+      "animal",
+      "amphibian",
+      "rana"
+    ],
+    "animation": "bounce"
   },
   "frown": {
     "category": "People",
@@ -8442,6 +8932,16 @@
     ],
     "animation": "wobble"
   },
+  "function": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "function",
+      "math",
+      "fx",
+      "formula"
+    ],
+    "animation": "pop"
+  },
   "funnel": {
     "category": "Interface",
     "tags": [
@@ -8454,6 +8954,40 @@
       "ventas"
     ],
     "animation": "drip"
+  },
+  "game-board": {
+    "category": "Objects",
+    "tags": [
+      "game",
+      "board",
+      "chess",
+      "checkers",
+      "tabletop",
+      "tablero"
+    ],
+    "animation": "pop"
+  },
+  "game-console-handheld": {
+    "category": "Technology",
+    "tags": [
+      "game",
+      "console",
+      "handheld",
+      "portable",
+      "gaming"
+    ],
+    "animation": "wiggle"
+  },
+  "gamepad": {
+    "category": "Technology",
+    "tags": [
+      "gamepad",
+      "controller",
+      "gaming",
+      "console",
+      "mando"
+    ],
+    "animation": "wiggle"
   },
   "gear": {
     "category": "Interface",
