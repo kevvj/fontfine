@@ -9465,6 +9465,67 @@
     ],
     "animation": "shake"
   },
+  "face-astonished": {
+    "category": "People",
+    "tags": [
+      "face",
+      "astonished",
+      "shocked",
+      "amazed",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "shake"
+  },
+  "face-confused": {
+    "category": "People",
+    "tags": [
+      "face",
+      "confused",
+      "puzzled",
+      "unsure",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-cowboy-hat": {
+    "category": "People",
+    "tags": [
+      "face",
+      "cowboy",
+      "hat",
+      "western",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-diagonal-mouth": {
+    "category": "People",
+    "tags": [
+      "face",
+      "diagonal",
+      "mouth",
+      "skeptical",
+      "meh",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-disappointed": {
+    "category": "People",
+    "tags": [
+      "face",
+      "disappointed",
+      "sad",
+      "down",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
   "face-dizzy": {
     "category": "People",
     "tags": [
@@ -9476,6 +9537,56 @@
     ],
     "animation": "wobble"
   },
+  "face-exhaling": {
+    "category": "People",
+    "tags": [
+      "face",
+      "exhaling",
+      "sigh",
+      "relief",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-expressionless": {
+    "category": "People",
+    "tags": [
+      "face",
+      "expressionless",
+      "blank",
+      "neutral",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-eyes-xmarks": {
+    "category": "People",
+    "tags": [
+      "face",
+      "eyes",
+      "xmarks",
+      "dead",
+      "knocked",
+      "out",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-fearful": {
+    "category": "People",
+    "tags": [
+      "face",
+      "fearful",
+      "scared",
+      "afraid",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "shake"
+  },
   "face-frown": {
     "category": "People",
     "tags": [
@@ -9486,6 +9597,45 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-frown-open": {
+    "category": "People",
+    "tags": [
+      "face",
+      "frown",
+      "open",
+      "shocked",
+      "upset",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-frown-slight": {
+    "category": "People",
+    "tags": [
+      "face",
+      "frown",
+      "slight",
+      "sad",
+      "unhappy",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-glasses": {
+    "category": "People",
+    "tags": [
+      "face",
+      "glasses",
+      "nerd",
+      "smart",
+      "geek",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
   },
   "face-grimace": {
     "category": "People",
@@ -9508,6 +9658,95 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-grin-beam": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "beam",
+      "big",
+      "smile",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-grin-hearts": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "hearts",
+      "love",
+      "adore",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "beat"
+  },
+  "face-grin-squint": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "squint",
+      "laugh",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-grin-stars": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "stars",
+      "excited",
+      "amazed",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "star"
+  },
+  "face-grin-tears": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "tears",
+      "laugh",
+      "joy",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "shake"
+  },
+  "face-grin-tongue": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "tongue",
+      "silly",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-grin-tongue-wink": {
+    "category": "People",
+    "tags": [
+      "face",
+      "grin",
+      "tongue",
+      "wink",
+      "silly",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
   },
   "face-grin-wide": {
     "category": "People",
@@ -9544,6 +9783,31 @@
     ],
     "animation": "wobble"
   },
+  "face-kiss-beam": {
+    "category": "People",
+    "tags": [
+      "face",
+      "kiss",
+      "beam",
+      "love",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-kiss-closed-eyes": {
+    "category": "People",
+    "tags": [
+      "face",
+      "kiss",
+      "closed",
+      "eyes",
+      "love",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
   "face-laugh": {
     "category": "People",
     "tags": [
@@ -9555,6 +9819,30 @@
       "risa"
     ],
     "animation": "wobble"
+  },
+  "face-laugh-beam": {
+    "category": "People",
+    "tags": [
+      "face",
+      "laugh",
+      "beam",
+      "happy",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-lying": {
+    "category": "People",
+    "tags": [
+      "face",
+      "lying",
+      "liar",
+      "pinocchio",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
   },
   "face-meh": {
     "category": "People",
@@ -9580,6 +9868,42 @@
     ],
     "animation": "wobble"
   },
+  "face-party": {
+    "category": "People",
+    "tags": [
+      "face",
+      "party",
+      "celebrate",
+      "birthday",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "bounce"
+  },
+  "face-pensive": {
+    "category": "People",
+    "tags": [
+      "face",
+      "pensive",
+      "thoughtful",
+      "sad",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-pouting": {
+    "category": "People",
+    "tags": [
+      "face",
+      "pouting",
+      "angry",
+      "mad",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
   "face-rolling-eyes": {
     "category": "People",
     "tags": [
@@ -9604,6 +9928,18 @@
     ],
     "animation": "wobble"
   },
+  "face-scream": {
+    "category": "People",
+    "tags": [
+      "face",
+      "scream",
+      "fear",
+      "horror",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "shake"
+  },
   "face-sleeping": {
     "category": "People",
     "tags": [
@@ -9615,6 +9951,30 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-sleepy": {
+    "category": "People",
+    "tags": [
+      "face",
+      "sleepy",
+      "tired",
+      "drowsy",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "float"
+  },
+  "face-smile": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "happy",
+      "glad",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
   },
   "face-smile-beam": {
     "category": "People",
@@ -9629,6 +9989,97 @@
     ],
     "animation": "wobble"
   },
+  "face-smile-halo": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "halo",
+      "angel",
+      "innocent",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "float"
+  },
+  "face-smile-relaxed": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "relaxed",
+      "calm",
+      "content",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-smile-tear": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "tear",
+      "touched",
+      "grateful",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-smile-tongue": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "tongue",
+      "silly",
+      "playful",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-smile-upside-down": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "upside",
+      "down",
+      "sarcasm",
+      "silly",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-smile-wink": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "wink",
+      "flirt",
+      "playful",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-sunglasses": {
+    "category": "People",
+    "tags": [
+      "face",
+      "sunglasses",
+      "cool",
+      "chill",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
   "face-surprise": {
     "category": "People",
     "tags": [
@@ -9639,6 +10090,18 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-swear": {
+    "category": "People",
+    "tags": [
+      "face",
+      "swear",
+      "angry",
+      "cursing",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "shake"
   },
   "face-tired": {
     "category": "People",
@@ -9651,6 +10114,30 @@
     ],
     "animation": "wobble"
   },
+  "face-unamused": {
+    "category": "People",
+    "tags": [
+      "face",
+      "unamused",
+      "bored",
+      "annoyed",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-weary": {
+    "category": "People",
+    "tags": [
+      "face",
+      "weary",
+      "tired",
+      "exhausted",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
   "face-wink": {
     "category": "People",
     "tags": [
@@ -9661,6 +10148,31 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-worried": {
+    "category": "People",
+    "tags": [
+      "face",
+      "worried",
+      "anxious",
+      "concerned",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-zipper": {
+    "category": "People",
+    "tags": [
+      "face",
+      "zipper",
+      "sealed",
+      "secret",
+      "quiet",
+      "emoji",
+      "emotion"
+    ],
+    "animation": "pop"
   },
   "fan-table": {
     "category": "Objects",
