@@ -11351,6 +11351,17 @@
     ],
     "animation": "float"
   },
+  "flask-round-poison": {
+    "category": "Health",
+    "tags": [
+      "flask",
+      "round",
+      "poison",
+      "toxic",
+      "chemistry"
+    ],
+    "animation": "wobble"
+  },
   "flask-round-potion": {
     "category": "Health",
     "tags": [
@@ -11391,6 +11402,39 @@
       "piso"
     ],
     "animation": "pulse"
+  },
+  "floppy-disk": {
+    "category": "Technology",
+    "tags": [
+      "floppy",
+      "disk",
+      "save",
+      "storage",
+      "diskette"
+    ],
+    "animation": "pop"
+  },
+  "floppy-disk-pen": {
+    "category": "Technology",
+    "tags": [
+      "floppy",
+      "disk",
+      "pen",
+      "save",
+      "edit"
+    ],
+    "animation": "pop"
+  },
+  "floppy-disks": {
+    "category": "Technology",
+    "tags": [
+      "floppy",
+      "disks",
+      "save",
+      "all",
+      "storage"
+    ],
+    "animation": "pop"
   },
   "flower": {
     "category": "Nature",
@@ -11703,6 +11747,51 @@
     ],
     "animation": "float"
   },
+  "font": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "font",
+      "typography",
+      "text",
+      "letter",
+      "a"
+    ],
+    "animation": "pop"
+  },
+  "font-case": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "font",
+      "case",
+      "uppercase",
+      "lowercase",
+      "aa"
+    ],
+    "animation": "pop"
+  },
+  "football": {
+    "category": "Objects",
+    "tags": [
+      "football",
+      "american",
+      "rugby",
+      "ball",
+      "sport"
+    ],
+    "animation": "spin"
+  },
+  "fork": {
+    "category": "Objects",
+    "tags": [
+      "fork",
+      "cutlery",
+      "eat",
+      "food",
+      "utensil",
+      "tenedor"
+    ],
+    "animation": "pop"
+  },
   "fork-knife": {
     "category": "Objects",
     "tags": [
@@ -11795,6 +11884,17 @@
     ],
     "animation": "drip"
   },
+  "futbol": {
+    "category": "Objects",
+    "tags": [
+      "futbol",
+      "soccer",
+      "football",
+      "ball",
+      "sport"
+    ],
+    "animation": "bounce"
+  },
   "game-board": {
     "category": "Objects",
     "tags": [
@@ -11829,6 +11929,17 @@
     ],
     "animation": "wiggle"
   },
+  "gamepad-modern": {
+    "category": "Technology",
+    "tags": [
+      "gamepad",
+      "modern",
+      "controller",
+      "video",
+      "game"
+    ],
+    "animation": "wiggle"
+  },
   "garage": {
     "category": "Places",
     "tags": [
@@ -11837,6 +11948,16 @@
       "house",
       "car",
       "door"
+    ],
+    "animation": "pop"
+  },
+  "garage-car": {
+    "category": "Places",
+    "tags": [
+      "garage",
+      "car",
+      "parking",
+      "vehicle"
     ],
     "animation": "pop"
   },
@@ -11954,6 +12075,70 @@
     ],
     "animation": "swing"
   },
+  "gauge-simple": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "simple",
+      "medium",
+      "dashboard",
+      "speedometer",
+      "meter"
+    ],
+    "animation": "tick"
+  },
+  "gauge-simple-high": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "simple",
+      "high",
+      "fast",
+      "performance",
+      "speedometer",
+      "meter"
+    ],
+    "animation": "tick"
+  },
+  "gauge-simple-low": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "simple",
+      "low",
+      "slow",
+      "performance",
+      "speedometer",
+      "meter"
+    ],
+    "animation": "tick"
+  },
+  "gauge-simple-max": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "simple",
+      "max",
+      "full",
+      "maximum",
+      "speedometer",
+      "meter"
+    ],
+    "animation": "tick"
+  },
+  "gauge-simple-min": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "simple",
+      "min",
+      "empty",
+      "minimum",
+      "speedometer",
+      "meter"
+    ],
+    "animation": "tick"
+  },
   "gavel": {
     "category": "Objects",
     "tags": [
@@ -11993,6 +12178,16 @@
     ],
     "animation": "pop"
   },
+  "genderless": {
+    "category": "People",
+    "tags": [
+      "genderless",
+      "neutral",
+      "gender",
+      "symbol"
+    ],
+    "animation": "pop"
+  },
   "ghost": {
     "category": "People",
     "tags": [
@@ -12024,6 +12219,17 @@
       "coupon"
     ],
     "animation": "pop"
+  },
+  "gifts": {
+    "category": "Objects",
+    "tags": [
+      "gifts",
+      "presents",
+      "christmas",
+      "birthday",
+      "regalos"
+    ],
+    "animation": "bounce"
   },
   "glass": {
     "category": "Objects",
@@ -12135,6 +12341,28 @@
     ],
     "animation": "turn-y"
   },
+  "globe-pointer": {
+    "category": "Places",
+    "tags": [
+      "globe",
+      "pointer",
+      "web",
+      "click",
+      "internet"
+    ],
+    "animation": "pop"
+  },
+  "globe-snow": {
+    "category": "Objects",
+    "tags": [
+      "globe",
+      "snow",
+      "christmas",
+      "souvenir",
+      "winter"
+    ],
+    "animation": "shake"
+  },
   "globe-stand": {
     "category": "Objects",
     "tags": [
@@ -12157,6 +12385,27 @@
       "game"
     ],
     "animation": "bounce"
+  },
+  "golf-club": {
+    "category": "Objects",
+    "tags": [
+      "golf",
+      "club",
+      "sport",
+      "stick"
+    ],
+    "animation": "swing"
+  },
+  "golf-flag-hole": {
+    "category": "Objects",
+    "tags": [
+      "golf",
+      "flag",
+      "hole",
+      "sport",
+      "course"
+    ],
+    "animation": "wave"
   },
   "graduation-cap": {
     "category": "Objects",
@@ -12226,6 +12475,17 @@
     ],
     "animation": "pulse"
   },
+  "grid-2": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "2",
+      "layout",
+      "tiles",
+      "apps"
+    ],
+    "animation": "pop"
+  },
   "grill": {
     "category": "Objects",
     "tags": [
@@ -12264,6 +12524,17 @@
     ],
     "animation": "pop"
   },
+  "grip-dots-vertical": {
+    "category": "Interface",
+    "tags": [
+      "grip",
+      "dots",
+      "vertical",
+      "drag",
+      "reorder"
+    ],
+    "animation": "pop"
+  },
   "grip-lines": {
     "category": "Interface",
     "tags": [
@@ -12286,6 +12557,17 @@
     ],
     "animation": "pop"
   },
+  "grip-vertical": {
+    "category": "Interface",
+    "tags": [
+      "grip",
+      "vertical",
+      "drag",
+      "handle",
+      "move"
+    ],
+    "animation": "pop"
+  },
   "guitar": {
     "category": "Music & Audio",
     "tags": [
@@ -12294,6 +12576,17 @@
       "music",
       "instrument",
       "guitarra"
+    ],
+    "animation": "rock"
+  },
+  "guitar-electric": {
+    "category": "Music & Audio",
+    "tags": [
+      "guitar",
+      "electric",
+      "rock",
+      "music",
+      "instrument"
     ],
     "animation": "rock"
   },
@@ -12365,6 +12658,18 @@
     "animation": "wave",
     "origin": "50% 100%"
   },
+  "hand-fist": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "fist",
+      "power",
+      "strength",
+      "punch",
+      "puño"
+    ],
+    "animation": "shake"
+  },
   "hand-heart": {
     "category": "Interface",
     "tags": [
@@ -12378,6 +12683,64 @@
     ],
     "animation": "wave",
     "origin": "50% 100%"
+  },
+  "hand-holding-dollar": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "holding",
+      "dollar",
+      "payment",
+      "money",
+      "donation"
+    ],
+    "animation": "pop"
+  },
+  "hand-holding-droplet": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "holding",
+      "droplet",
+      "water",
+      "charity"
+    ],
+    "animation": "drip"
+  },
+  "hand-holding-heart": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "holding",
+      "heart",
+      "charity",
+      "care",
+      "love"
+    ],
+    "animation": "beat"
+  },
+  "hand-holding-medical": {
+    "category": "Health",
+    "tags": [
+      "hand",
+      "holding",
+      "medical",
+      "care",
+      "health"
+    ],
+    "animation": "pulse"
+  },
+  "hand-holding-seedling": {
+    "category": "Nature",
+    "tags": [
+      "hand",
+      "holding",
+      "seedling",
+      "growth",
+      "plant",
+      "eco"
+    ],
+    "animation": "float"
   },
   "handcuffs": {
     "category": "Security",
