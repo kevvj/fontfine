@@ -1779,6 +1779,18 @@
     ],
     "animation": "slide"
   },
+  "austral-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "austral",
+      "sign",
+      "ara",
+      "argentina",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "avocado": {
     "category": "Nature",
     "tags": [
@@ -1966,6 +1978,18 @@
       "pan"
     ],
     "animation": "rock"
+  },
+  "baht-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "baht",
+      "sign",
+      "thb",
+      "thailand",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "ball-pile": {
     "category": "Objects",
@@ -2595,6 +2619,19 @@
       "pajaro"
     ],
     "animation": "float"
+  },
+  "bitcoin-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "bitcoin",
+      "sign",
+      "btc",
+      "crypto",
+      "cryptocurrency",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "blender": {
     "category": "Objects",
@@ -3355,6 +3392,19 @@
       "cerebro"
     ],
     "animation": "pulse"
+  },
+  "brazilian-real-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "brazilian",
+      "real",
+      "sign",
+      "brl",
+      "brazil",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "bread-loaf": {
     "category": "Objects",
@@ -4792,6 +4842,31 @@
       "caldero"
     ],
     "animation": "wiggle"
+  },
+  "cedi-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "cedi",
+      "sign",
+      "ghs",
+      "ghana",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
+  "cent-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "cent",
+      "sign",
+      "cents",
+      "usd",
+      "coin",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "certificate": {
     "category": "Objects",
@@ -8271,6 +8346,21 @@
     ],
     "animation": "pop"
   },
+  "colon-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "colon",
+      "sign",
+      "crc",
+      "costa",
+      "rica",
+      "el",
+      "salvador",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "columns-3": {
     "category": "Interface",
     "tags": [
@@ -8904,6 +8994,17 @@
       "muffin",
       "dessert",
       "sweet"
+    ],
+    "animation": "pop"
+  },
+  "currency-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "currency",
+      "sign",
+      "generic",
+      "money",
+      "symbol"
     ],
     "animation": "pop"
   },
@@ -9593,6 +9694,18 @@
       "delfin"
     ],
     "animation": "float"
+  },
+  "dong-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "dong",
+      "sign",
+      "vnd",
+      "vietnam",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "donut": {
     "category": "Objects",
@@ -12066,6 +12179,19 @@
     ],
     "animation": "pop"
   },
+  "florin-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "florin",
+      "sign",
+      "awg",
+      "aruba",
+      "guilder",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "flower": {
     "category": "Nature",
     "tags": [
@@ -12463,6 +12589,19 @@
       "artboard",
       "layout",
       "design"
+    ],
+    "animation": "pop"
+  },
+  "franc-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "franc",
+      "sign",
+      "chf",
+      "switzerland",
+      "france",
+      "money",
+      "currency"
     ],
     "animation": "pop"
   },
@@ -13195,6 +13334,18 @@
       "drag",
       "handle",
       "move"
+    ],
+    "animation": "pop"
+  },
+  "guarani-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "guarani",
+      "sign",
+      "pyg",
+      "paraguay",
+      "money",
+      "currency"
     ],
     "animation": "pop"
   },
@@ -14332,6 +14483,18 @@
     ],
     "animation": "pop"
   },
+  "hryvnia-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "hryvnia",
+      "sign",
+      "uah",
+      "ukraine",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "i-cursor": {
     "category": "Interface",
     "tags": [
@@ -14589,6 +14752,19 @@
     ],
     "animation": "nudge-right"
   },
+  "indian-rupee-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "indian",
+      "rupee",
+      "sign",
+      "inr",
+      "india",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "infinity": {
     "category": "Letters & Numbers",
     "tags": [
@@ -14786,6 +14962,18 @@
       "riñones"
     ],
     "animation": "pulse"
+  },
+  "kip-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "kip",
+      "sign",
+      "lak",
+      "laos",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "kit-medical": {
     "category": "Health",
@@ -15036,6 +15224,18 @@
       "portatil"
     ],
     "animation": "shake"
+  },
+  "lari-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "lari",
+      "sign",
+      "gel",
+      "georgia",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "lasso": {
     "category": "Objects",
@@ -15765,6 +15965,19 @@
     ],
     "animation": "pop"
   },
+  "litecoin-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "litecoin",
+      "sign",
+      "ltc",
+      "crypto",
+      "cryptocurrency",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "loader-bar": {
     "category": "Status",
     "tags": [
@@ -16270,6 +16483,19 @@
       "letter"
     ],
     "animation": "wave"
+  },
+  "manat-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "manat",
+      "sign",
+      "azn",
+      "azerbaijan",
+      "turkmenistan",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "map": {
     "category": "Places",
@@ -17597,6 +17823,18 @@
     ],
     "animation": "wiggle"
   },
+  "naira-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "naira",
+      "sign",
+      "ngn",
+      "nigeria",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "navigation": {
     "category": "Places",
     "tags": [
@@ -18866,6 +19104,19 @@
     ],
     "animation": "nudge-right"
   },
+  "peso-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "peso",
+      "sign",
+      "mxn",
+      "mexico",
+      "latin",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "phone": {
     "category": "Communication",
     "tags": [
@@ -19517,6 +19768,19 @@
       "ficha"
     ],
     "animation": "spin"
+  },
+  "polish-zloty-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "polish",
+      "zloty",
+      "sign",
+      "pln",
+      "poland",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "poll-horizontal": {
     "category": "Interface",
@@ -20430,6 +20694,18 @@
     ],
     "animation": "shake"
   },
+  "ruble-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "ruble",
+      "sign",
+      "rub",
+      "russia",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "rug": {
     "category": "Objects",
     "tags": [
@@ -20502,6 +20778,20 @@
       "vertical",
       "measure",
       "height"
+    ],
+    "animation": "pop"
+  },
+  "rupee-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "rupee",
+      "sign",
+      "pkr",
+      "nepal",
+      "sri",
+      "lanka",
+      "money",
+      "currency"
     ],
     "animation": "pop"
   },
@@ -20950,6 +21240,18 @@
       "network",
       "social",
       "connect"
+    ],
+    "animation": "pop"
+  },
+  "shekel-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "shekel",
+      "sign",
+      "ils",
+      "israel",
+      "money",
+      "currency"
     ],
     "animation": "pop"
   },
@@ -23299,6 +23601,20 @@
     ],
     "animation": "swing"
   },
+  "sterling-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "sterling",
+      "sign",
+      "pound",
+      "gbp",
+      "uk",
+      "british",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "stethoscope": {
     "category": "Health",
     "tags": [
@@ -23904,6 +24220,18 @@
       "thermometer"
     ],
     "animation": "pulse"
+  },
+  "tenge-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tenge",
+      "sign",
+      "kzt",
+      "kazakhstan",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "tennis-ball": {
     "category": "Objects",
@@ -24809,6 +25137,18 @@
     ],
     "animation": "beat"
   },
+  "tugrik-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "tugrik",
+      "sign",
+      "mnt",
+      "mongolia",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "tulip": {
     "category": "Nature",
     "tags": [
@@ -24819,6 +25159,19 @@
       "tulipan"
     ],
     "animation": "swing"
+  },
+  "turkish-lira-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "turkish",
+      "lira",
+      "sign",
+      "try",
+      "turkey",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
   },
   "tv-retro": {
     "category": "Media",
@@ -26197,6 +26550,18 @@
     ],
     "animation": "rock"
   },
+  "won-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "won",
+      "sign",
+      "krw",
+      "korea",
+      "money",
+      "currency"
+    ],
+    "animation": "pop"
+  },
   "worm": {
     "category": "Nature",
     "tags": [
@@ -26296,6 +26661,19 @@
       "cross",
       "out",
       "errors"
+    ],
+    "animation": "pop"
+  },
+  "yen-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "yen",
+      "sign",
+      "jpy",
+      "japan",
+      "cny",
+      "money",
+      "currency"
     ],
     "animation": "pop"
   },
