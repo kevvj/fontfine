@@ -9819,6 +9819,40 @@
     ],
     "animation": "spin-slow"
   },
+  "highlighter": {
+    "category": "Interface",
+    "tags": [
+      "highlighter",
+      "marker",
+      "pen",
+      "text",
+      "highlight",
+      "resaltador"
+    ],
+    "animation": "write"
+  },
+  "highway": {
+    "category": "Places",
+    "tags": [
+      "highway",
+      "road",
+      "freeway",
+      "route",
+      "autopista"
+    ],
+    "animation": "drive"
+  },
+  "hockey-puck": {
+    "category": "Objects",
+    "tags": [
+      "hockey",
+      "puck",
+      "ice",
+      "sport",
+      "disco"
+    ],
+    "animation": "slide"
+  },
   "home": {
     "category": "Places",
     "tags": [
@@ -9833,6 +9867,29 @@
     ],
     "animation": "bounce"
   },
+  "hoodie": {
+    "category": "Objects",
+    "tags": [
+      "hoodie",
+      "sweater",
+      "sweatshirt",
+      "clothing",
+      "sudadera"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
+  "horseshoe": {
+    "category": "Objects",
+    "tags": [
+      "horseshoe",
+      "luck",
+      "horse",
+      "lucky",
+      "herradura"
+    ],
+    "animation": "swing"
+  },
   "hospital": {
     "category": "Places",
     "tags": [
@@ -9843,6 +9900,252 @@
       "emergency"
     ],
     "animation": "pulse"
+  },
+  "hourglass": {
+    "category": "Interface",
+    "tags": [
+      "hourglass",
+      "sand",
+      "time",
+      "wait",
+      "timer",
+      "reloj",
+      "arena"
+    ],
+    "animation": "spin-steps"
+  },
+  "hourglass-end": {
+    "category": "Interface",
+    "tags": [
+      "hourglass",
+      "end",
+      "done",
+      "finished",
+      "empty",
+      "time",
+      "wait",
+      "timer",
+      "reloj",
+      "arena"
+    ],
+    "animation": "spin-steps"
+  },
+  "hourglass-half": {
+    "category": "Interface",
+    "tags": [
+      "hourglass",
+      "half",
+      "middle",
+      "progress",
+      "time",
+      "wait",
+      "timer",
+      "reloj",
+      "arena"
+    ],
+    "animation": "spin-steps"
+  },
+  "hourglass-start": {
+    "category": "Interface",
+    "tags": [
+      "hourglass",
+      "start",
+      "begin",
+      "full",
+      "time",
+      "wait",
+      "timer",
+      "reloj",
+      "arena"
+    ],
+    "animation": "spin-steps"
+  },
+  "house-blank": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "blank",
+      "empty",
+      "home",
+      "building"
+    ],
+    "animation": "pop"
+  },
+  "house-chimney": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "chimney",
+      "roof",
+      "building",
+      "home"
+    ],
+    "animation": "pop"
+  },
+  "house-circle-check": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "circle",
+      "check",
+      "home",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "house-circle-exclamation": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "circle",
+      "exclamation",
+      "home",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "house-circle-xmark": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "circle",
+      "xmark",
+      "home",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "house-crack": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "crack",
+      "damage",
+      "earthquake",
+      "broken",
+      "home"
+    ],
+    "animation": "shake"
+  },
+  "house-flag": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "flag",
+      "claimed",
+      "territory",
+      "home"
+    ],
+    "animation": "wave"
+  },
+  "house-heart": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "heart",
+      "love",
+      "family",
+      "care",
+      "home"
+    ],
+    "animation": "beat"
+  },
+  "house-lock": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "lock",
+      "secure",
+      "safe",
+      "protected",
+      "home"
+    ],
+    "animation": "shake"
+  },
+  "house-medical": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "medical",
+      "clinic",
+      "health",
+      "care",
+      "home"
+    ],
+    "animation": "pulse"
+  },
+  "house-signal": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "signal",
+      "smart",
+      "wifi",
+      "connected",
+      "home"
+    ],
+    "animation": "signal"
+  },
+  "house-slash": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "slash",
+      "homeless",
+      "no",
+      "home",
+      "main",
+      "start",
+      "casa",
+      "inicio"
+    ],
+    "animation": "shake"
+  },
+  "house-user": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "user",
+      "person",
+      "resident",
+      "owner",
+      "home"
+    ],
+    "animation": "pop"
+  },
+  "house-window": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "window",
+      "building",
+      "home"
+    ],
+    "animation": "pop"
+  },
+  "i-cursor": {
+    "category": "Interface",
+    "tags": [
+      "i",
+      "cursor",
+      "text",
+      "caret",
+      "edit",
+      "beam"
+    ],
+    "animation": "blink"
+  },
+  "ice-cream": {
+    "category": "Objects",
+    "tags": [
+      "ice",
+      "cream",
+      "cone",
+      "dessert",
+      "sweet",
+      "helado"
+    ],
+    "animation": "wobble"
   },
   "id-card": {
     "category": "People",
@@ -9856,6 +10159,18 @@
     ],
     "animation": "flip"
   },
+  "igloo": {
+    "category": "Places",
+    "tags": [
+      "igloo",
+      "ice",
+      "house",
+      "snow",
+      "arctic",
+      "iglu"
+    ],
+    "animation": "pop"
+  },
   "image": {
     "category": "Media",
     "tags": [
@@ -9866,6 +10181,72 @@
       "foto"
     ],
     "animation": "float"
+  },
+  "image-circle-check": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "circle",
+      "check",
+      "photo",
+      "picture"
+    ],
+    "animation": "pop"
+  },
+  "image-circle-plus": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "circle",
+      "plus",
+      "photo",
+      "picture"
+    ],
+    "animation": "pop"
+  },
+  "image-circle-xmark": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "circle",
+      "xmark",
+      "photo",
+      "picture"
+    ],
+    "animation": "pop"
+  },
+  "image-landscape": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "landscape",
+      "mountains",
+      "photo",
+      "scenery"
+    ],
+    "animation": "pop"
+  },
+  "image-polaroid": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "polaroid",
+      "instant",
+      "photo",
+      "picture"
+    ],
+    "animation": "pop"
+  },
+  "image-portrait": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "portrait",
+      "photo",
+      "picture",
+      "vertical"
+    ],
+    "animation": "pop"
   },
   "image-slash": {
     "category": "Media",
@@ -9881,6 +10262,29 @@
     ],
     "animation": "shake"
   },
+  "image-user": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "user",
+      "profile",
+      "photo",
+      "avatar",
+      "picture"
+    ],
+    "animation": "pop"
+  },
+  "images": {
+    "category": "Media",
+    "tags": [
+      "images",
+      "photos",
+      "gallery",
+      "pictures",
+      "multiple"
+    ],
+    "animation": "pop"
+  },
   "inbox": {
     "category": "Communication",
     "tags": [
@@ -9892,6 +10296,108 @@
     ],
     "animation": "bounce"
   },
+  "inbox-full": {
+    "category": "Communication",
+    "tags": [
+      "inbox",
+      "full",
+      "messages",
+      "mail",
+      "tray"
+    ],
+    "animation": "pop"
+  },
+  "inbox-in": {
+    "category": "Communication",
+    "tags": [
+      "inbox",
+      "in",
+      "receive",
+      "download",
+      "incoming",
+      "mail"
+    ],
+    "animation": "nudge-down"
+  },
+  "inbox-out": {
+    "category": "Communication",
+    "tags": [
+      "inbox",
+      "out",
+      "send",
+      "upload",
+      "outgoing",
+      "mail"
+    ],
+    "animation": "nudge-up"
+  },
+  "inbox-slash": {
+    "category": "Communication",
+    "tags": [
+      "inbox",
+      "slash",
+      "no",
+      "mail",
+      "empty",
+      "off",
+      "tray",
+      "messages",
+      "received"
+    ],
+    "animation": "shake"
+  },
+  "inboxes": {
+    "category": "Communication",
+    "tags": [
+      "inboxes",
+      "trays",
+      "mail",
+      "multiple",
+      "stack"
+    ],
+    "animation": "pop"
+  },
+  "indent": {
+    "category": "Interface",
+    "tags": [
+      "indent",
+      "text",
+      "tab",
+      "paragraph",
+      "format"
+    ],
+    "animation": "nudge-right"
+  },
+  "infinity": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "infinity",
+      "forever",
+      "endless",
+      "loop",
+      "math"
+    ],
+    "animation": "pulse"
+  },
+  "integral": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "integral",
+      "math",
+      "calculus"
+    ],
+    "animation": "pop"
+  },
+  "intersection": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "intersection",
+      "set",
+      "math",
+      "cap"
+    ],
+    "animation": "pop"
+  },
   "italic": {
     "category": "Interface",
     "tags": [
@@ -9901,6 +10407,51 @@
       "cursiva"
     ],
     "animation": "wobble"
+  },
+  "jar": {
+    "category": "Objects",
+    "tags": [
+      "jar",
+      "container",
+      "jam",
+      "glass",
+      "pot",
+      "frasco"
+    ],
+    "animation": "rock"
+  },
+  "jeans": {
+    "category": "Objects",
+    "tags": [
+      "jeans",
+      "pants",
+      "trousers",
+      "clothing",
+      "denim"
+    ],
+    "animation": "pop"
+  },
+  "joystick": {
+    "category": "Technology",
+    "tags": [
+      "joystick",
+      "game",
+      "controller",
+      "arcade",
+      "gaming"
+    ],
+    "animation": "wiggle"
+  },
+  "jug": {
+    "category": "Objects",
+    "tags": [
+      "jug",
+      "pitcher",
+      "water",
+      "milk",
+      "jarra"
+    ],
+    "animation": "rock"
   },
   "kaaba": {
     "category": "Religion",
@@ -9912,6 +10463,17 @@
       "pilgrimage"
     ],
     "animation": "bounce"
+  },
+  "kanban": {
+    "category": "Interface",
+    "tags": [
+      "kanban",
+      "board",
+      "tasks",
+      "columns",
+      "agile"
+    ],
+    "animation": "pop"
   },
   "key": {
     "category": "Security",
