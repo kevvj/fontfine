@@ -362,6 +362,19 @@
     ],
     "animation": "rock"
   },
+  "aquarius": {
+    "category": "Religion",
+    "tags": [
+      "aquarius",
+      "zodiac",
+      "astrology",
+      "horoscope",
+      "water",
+      "sign",
+      "acuario"
+    ],
+    "animation": "float"
+  },
   "archive": {
     "category": "Files",
     "tags": [
@@ -383,6 +396,18 @@
       "monument"
     ],
     "animation": "pop"
+  },
+  "aries": {
+    "category": "Religion",
+    "tags": [
+      "aries",
+      "zodiac",
+      "astrology",
+      "horoscope",
+      "ram",
+      "sign"
+    ],
+    "animation": "float"
   },
   "arrow-archery": {
     "category": "Objects",
@@ -2202,6 +2227,18 @@
     ],
     "animation": "slide"
   },
+  "bars-progress": {
+    "category": "Interface",
+    "tags": [
+      "bars",
+      "progress",
+      "loading",
+      "status",
+      "tasks",
+      "gantt"
+    ],
+    "animation": "progress"
+  },
   "bars-sort": {
     "category": "Interface",
     "tags": [
@@ -2210,6 +2247,18 @@
       "order",
       "list",
       "descending"
+    ],
+    "animation": "slide"
+  },
+  "bars-staggered": {
+    "category": "Interface",
+    "tags": [
+      "bars",
+      "staggered",
+      "menu",
+      "list",
+      "align",
+      "text"
     ],
     "animation": "slide"
   },
@@ -3962,6 +4011,116 @@
     ],
     "animation": "bounce"
   },
+  "building-circle-arrow-right": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "circle",
+      "arrow",
+      "right",
+      "exit",
+      "leave",
+      "move"
+    ],
+    "animation": "nudge-right"
+  },
+  "building-circle-check": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "circle",
+      "check",
+      "verified",
+      "approved",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "building-circle-exclamation": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "circle",
+      "exclamation",
+      "warning",
+      "alert",
+      "status"
+    ],
+    "animation": "shake"
+  },
+  "building-circle-xmark": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "circle",
+      "xmark",
+      "closed",
+      "rejected",
+      "status"
+    ],
+    "animation": "shake"
+  },
+  "building-columns": {
+    "category": "Places",
+    "tags": [
+      "bank",
+      "museum",
+      "government",
+      "institution",
+      "columns",
+      "classical",
+      "banco"
+    ],
+    "animation": "bounce"
+  },
+  "building-flag": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "flag",
+      "embassy",
+      "headquarters",
+      "government",
+      "country"
+    ],
+    "animation": "bounce"
+  },
+  "building-lock": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "lock",
+      "secure",
+      "private",
+      "office",
+      "locked"
+    ],
+    "animation": "shake"
+  },
+  "building-shield": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "shield",
+      "security",
+      "protected",
+      "insurance",
+      "safe"
+    ],
+    "animation": "pop"
+  },
+  "building-user": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "user",
+      "office",
+      "employee",
+      "resident",
+      "company"
+    ],
+    "animation": "bounce"
+  },
   "buildings": {
     "category": "Places",
     "tags": [
@@ -4874,6 +5033,17 @@
     ],
     "animation": "flip"
   },
+  "caret-down": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "down",
+      "triangle",
+      "dropdown",
+      "arrow"
+    ],
+    "animation": "nudge-down"
+  },
   "caret-large-down": {
     "category": "Arrows",
     "tags": [
@@ -4919,6 +5089,40 @@
       "triangle",
       "arrow",
       "dropdown"
+    ],
+    "animation": "nudge-up"
+  },
+  "caret-left": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "left",
+      "triangle",
+      "arrow",
+      "previous"
+    ],
+    "animation": "nudge-left"
+  },
+  "caret-right": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "right",
+      "triangle",
+      "arrow",
+      "next",
+      "play"
+    ],
+    "animation": "nudge-right"
+  },
+  "caret-up": {
+    "category": "Arrows",
+    "tags": [
+      "caret",
+      "up",
+      "triangle",
+      "arrow",
+      "collapse"
     ],
     "animation": "nudge-up"
   },
@@ -5305,6 +5509,20 @@
       "copa"
     ],
     "animation": "wiggle"
+  },
+  "charging-station": {
+    "category": "Places",
+    "tags": [
+      "charging",
+      "station",
+      "electric",
+      "car",
+      "ev",
+      "power",
+      "plug",
+      "carga"
+    ],
+    "animation": "flash"
   },
   "chart-area": {
     "category": "Interface",
@@ -6246,6 +6464,17 @@
     ],
     "animation": "pop"
   },
+  "circle-arrow-down": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "down",
+      "download",
+      "direction"
+    ],
+    "animation": "nudge-down"
+  },
   "circle-arrow-down-left": {
     "category": "Interface",
     "tags": [
@@ -6269,6 +6498,41 @@
       "direction"
     ],
     "animation": "nudge-down"
+  },
+  "circle-arrow-left": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "left",
+      "back",
+      "previous",
+      "direction"
+    ],
+    "animation": "nudge-left"
+  },
+  "circle-arrow-right": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "right",
+      "next",
+      "forward",
+      "direction"
+    ],
+    "animation": "nudge-right"
+  },
+  "circle-arrow-up": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "arrow",
+      "up",
+      "upload",
+      "direction"
+    ],
+    "animation": "nudge-up"
   },
   "circle-arrow-up-left": {
     "category": "Interface",
@@ -6486,6 +6750,50 @@
       "completado"
     ],
     "animation": "pop"
+  },
+  "circle-chevron-down": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "chevron",
+      "down",
+      "expand",
+      "direction"
+    ],
+    "animation": "nudge-down"
+  },
+  "circle-chevron-left": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "chevron",
+      "left",
+      "back",
+      "previous"
+    ],
+    "animation": "nudge-left"
+  },
+  "circle-chevron-right": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "chevron",
+      "right",
+      "next",
+      "forward"
+    ],
+    "animation": "nudge-right"
+  },
+  "circle-chevron-up": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "chevron",
+      "up",
+      "collapse",
+      "direction"
+    ],
+    "animation": "nudge-up"
   },
   "circle-colon": {
     "category": "Objects",
@@ -10320,6 +10628,19 @@
     ],
     "animation": "pop"
   },
+  "dungeon": {
+    "category": "Places",
+    "tags": [
+      "dungeon",
+      "gate",
+      "prison",
+      "jail",
+      "castle",
+      "game",
+      "mazmorra"
+    ],
+    "animation": "bounce"
+  },
   "ear": {
     "category": "Health",
     "tags": [
@@ -10328,6 +10649,18 @@
       "listen",
       "sound",
       "oreja"
+    ],
+    "animation": "wiggle"
+  },
+  "ear-deaf": {
+    "category": "Health",
+    "tags": [
+      "ear",
+      "deaf",
+      "hearing",
+      "impaired",
+      "accessibility",
+      "sordo"
     ],
     "animation": "wiggle"
   },
@@ -10651,6 +10984,18 @@
       "machine"
     ],
     "animation": "rock"
+  },
+  "exclamation": {
+    "category": "Status",
+    "tags": [
+      "exclamation",
+      "warning",
+      "alert",
+      "important",
+      "attention",
+      "error"
+    ],
+    "animation": "shake"
   },
   "external-link": {
     "category": "Arrows",
@@ -13306,6 +13651,19 @@
     ],
     "animation": "pop"
   },
+  "gemini": {
+    "category": "Religion",
+    "tags": [
+      "gemini",
+      "zodiac",
+      "astrology",
+      "horoscope",
+      "twins",
+      "sign",
+      "geminis"
+    ],
+    "animation": "float"
+  },
   "genderless": {
     "category": "People",
     "tags": [
@@ -14611,6 +14969,19 @@
     ],
     "animation": "pop"
   },
+  "house-chimney-crack": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "chimney",
+      "crack",
+      "damage",
+      "earthquake",
+      "broken",
+      "home"
+    ],
+    "animation": "shake"
+  },
   "house-chimney-medical": {
     "category": "Places",
     "tags": [
@@ -14770,6 +15141,45 @@
       "home"
     ],
     "animation": "pulse"
+  },
+  "house-medical-circle-check": {
+    "category": "Health",
+    "tags": [
+      "house",
+      "medical",
+      "circle",
+      "check",
+      "clinic",
+      "health",
+      "approved"
+    ],
+    "animation": "pop"
+  },
+  "house-medical-circle-exclamation": {
+    "category": "Health",
+    "tags": [
+      "house",
+      "medical",
+      "circle",
+      "exclamation",
+      "clinic",
+      "warning",
+      "health"
+    ],
+    "animation": "shake"
+  },
+  "house-medical-circle-xmark": {
+    "category": "Health",
+    "tags": [
+      "house",
+      "medical",
+      "circle",
+      "xmark",
+      "clinic",
+      "closed",
+      "health"
+    ],
+    "animation": "shake"
   },
   "house-medical-flag": {
     "category": "Health",
@@ -15123,6 +15533,18 @@
       "currency"
     ],
     "animation": "pop"
+  },
+  "industry": {
+    "category": "Places",
+    "tags": [
+      "industry",
+      "factory",
+      "plant",
+      "manufacturing",
+      "production",
+      "fabrica"
+    ],
+    "animation": "bounce"
   },
   "infinity": {
     "category": "Letters & Numbers",
@@ -16047,6 +16469,18 @@
       "letra"
     ],
     "animation": "pop"
+  },
+  "libra": {
+    "category": "Religion",
+    "tags": [
+      "libra",
+      "zodiac",
+      "astrology",
+      "horoscope",
+      "scales",
+      "sign"
+    ],
+    "animation": "float"
   },
   "life-ring": {
     "category": "Objects",
@@ -18980,6 +19414,18 @@
     ],
     "animation": "flip"
   },
+  "paste": {
+    "category": "Files",
+    "tags": [
+      "paste",
+      "clipboard",
+      "copy",
+      "document",
+      "edit",
+      "pegar"
+    ],
+    "animation": "pop"
+  },
   "pause": {
     "category": "Media",
     "tags": [
@@ -19792,6 +20238,19 @@
       "piña"
     ],
     "animation": "rock"
+  },
+  "pisces": {
+    "category": "Religion",
+    "tags": [
+      "pisces",
+      "zodiac",
+      "astrology",
+      "horoscope",
+      "fish",
+      "sign",
+      "piscis"
+    ],
+    "animation": "float"
   },
   "pizza-slice": {
     "category": "Objects",
@@ -20724,6 +21183,19 @@
     ],
     "animation": "pop"
   },
+  "recycle": {
+    "category": "Nature",
+    "tags": [
+      "recycle",
+      "reuse",
+      "environment",
+      "eco",
+      "green",
+      "waste",
+      "reciclar"
+    ],
+    "animation": "spin-slow"
+  },
   "redo": {
     "category": "Arrows",
     "tags": [
@@ -20822,6 +21294,18 @@
       "women"
     ],
     "animation": "pop"
+  },
+  "retweet": {
+    "category": "Communication",
+    "tags": [
+      "retweet",
+      "repost",
+      "share",
+      "repeat",
+      "loop",
+      "social"
+    ],
+    "animation": "spin"
   },
   "rhombus": {
     "category": "Interface",
@@ -21187,6 +21671,19 @@
     ],
     "animation": "rock"
   },
+  "sagittarius": {
+    "category": "Religion",
+    "tags": [
+      "sagittarius",
+      "zodiac",
+      "astrology",
+      "horoscope",
+      "archer",
+      "sign",
+      "sagitario"
+    ],
+    "animation": "float"
+  },
   "sailboat": {
     "category": "Places",
     "tags": [
@@ -21361,6 +21858,18 @@
       "building"
     ],
     "animation": "wave"
+  },
+  "school-lock": {
+    "category": "Places",
+    "tags": [
+      "school",
+      "lock",
+      "closed",
+      "lockdown",
+      "education",
+      "secure"
+    ],
+    "animation": "shake"
   },
   "scissors": {
     "category": "Actions",
@@ -21898,6 +22407,18 @@
     ],
     "animation": "pop"
   },
+  "shop-lock": {
+    "category": "Places",
+    "tags": [
+      "shop",
+      "lock",
+      "store",
+      "closed",
+      "secure",
+      "tienda"
+    ],
+    "animation": "shake"
+  },
   "shorts": {
     "category": "Objects",
     "tags": [
@@ -22412,6 +22933,19 @@
     "animation": "rock",
     "origin": "50% 100%"
   },
+  "sort": {
+    "category": "Arrows",
+    "tags": [
+      "sort",
+      "order",
+      "up",
+      "down",
+      "arrows",
+      "table",
+      "ordenar"
+    ],
+    "animation": "bounce"
+  },
   "sort-alphabetical": {
     "category": "Interface",
     "tags": [
@@ -22427,6 +22961,30 @@
       "abc"
     ],
     "animation": "nudge-down"
+  },
+  "sort-down": {
+    "category": "Arrows",
+    "tags": [
+      "sort",
+      "down",
+      "descending",
+      "order",
+      "table",
+      "desc"
+    ],
+    "animation": "nudge-down"
+  },
+  "sort-up": {
+    "category": "Arrows",
+    "tags": [
+      "sort",
+      "up",
+      "ascending",
+      "order",
+      "table",
+      "asc"
+    ],
+    "animation": "nudge-up"
   },
   "spade": {
     "category": "Objects",
@@ -24406,6 +24964,19 @@
     ],
     "animation": "pop"
   },
+  "taurus": {
+    "category": "Religion",
+    "tags": [
+      "taurus",
+      "zodiac",
+      "astrology",
+      "horoscope",
+      "bull",
+      "sign",
+      "tauro"
+    ],
+    "animation": "float"
+  },
   "taxi": {
     "category": "Places",
     "tags": [
@@ -24730,6 +25301,18 @@
     ],
     "animation": "bounce"
   },
+  "thumbtack-slash": {
+    "category": "Objects",
+    "tags": [
+      "thumbtack",
+      "slash",
+      "unpin",
+      "remove",
+      "pin",
+      "off"
+    ],
+    "animation": "shake"
+  },
   "ticket": {
     "category": "Objects",
     "tags": [
@@ -24846,6 +25429,19 @@
       "papel"
     ],
     "animation": "spin"
+  },
+  "toilet-portable": {
+    "category": "Places",
+    "tags": [
+      "toilet",
+      "portable",
+      "restroom",
+      "bathroom",
+      "wc",
+      "festival",
+      "baño"
+    ],
+    "animation": "bounce"
   },
   "tomato": {
     "category": "Nature",
@@ -25365,6 +25961,19 @@
       "copa"
     ],
     "animation": "bounce"
+  },
+  "truck": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "delivery",
+      "shipping",
+      "vehicle",
+      "cargo",
+      "lorry",
+      "camion"
+    ],
+    "animation": "drive"
   },
   "truck-arrow-right": {
     "category": "Places",

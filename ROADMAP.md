@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 2150 / 3779**
+**Progress: 2200 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -49,7 +49,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] 8 (as `number-8`)
 - [x] 9 (as `number-9`)
 
-## Accessibility (15/23)
+## Accessibility (16/23)
 
 - [x] address-card
 - [ ] audio-description
@@ -58,7 +58,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-question
 - [x] closed-captioning
 - [x] closed-captioning-slash
-- [ ] ear-deaf
+- [x] ear-deaf
 - [x] ear-listen
 - [x] eye
 - [x] eye-low-vision
@@ -75,14 +75,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] wheelchair
 - [ ] wheelchair-move
 
-## Alert (8/9)
+## Alert (9/9)
 
 - [x] alarm-clock
 - [x] bell
 - [x] bell-slash
 - [x] circle-exclamation (as `circle-alert`)
 - [x] circle-radiation
-- [ ] exclamation
+- [x] exclamation
 - [x] radiation
 - [x] skull-crossbones
 - [x] triangle-exclamation (as `triangle-alert`)
@@ -120,7 +120,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] spider
 - [x] worm
 
-## Arrows (67/119)
+## Arrows (84/119)
 
 - [ ] angle-down
 - [ ] angle-left
@@ -179,22 +179,22 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] arrows-up-down
 - [x] arrows-up-down-left-right
 - [ ] arrows-up-to-line
-- [ ] caret-down
-- [ ] caret-left
-- [ ] caret-right
-- [ ] caret-up
+- [x] caret-down
+- [x] caret-left
+- [x] caret-right
+- [x] caret-up
 - [x] chevron-down
 - [x] chevron-left
 - [x] chevron-right
 - [x] chevron-up
-- [ ] circle-arrow-down
-- [ ] circle-arrow-left
-- [ ] circle-arrow-right
-- [ ] circle-arrow-up
-- [ ] circle-chevron-down
-- [ ] circle-chevron-left
-- [ ] circle-chevron-right
-- [ ] circle-chevron-up
+- [x] circle-arrow-down
+- [x] circle-arrow-left
+- [x] circle-arrow-right
+- [x] circle-arrow-up
+- [x] circle-chevron-down
+- [x] circle-chevron-left
+- [x] circle-chevron-right
+- [x] circle-chevron-up
 - [ ] circle-down
 - [ ] circle-left
 - [ ] circle-right
@@ -209,11 +209,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] left-right
 - [x] location-arrow
 - [x] maximize
-- [ ] recycle
+- [x] recycle
 - [x] repeat
 - [x] reply
 - [x] reply-all
-- [ ] retweet
+- [x] retweet
 - [x] right-from-bracket (as `log-out`)
 - [ ] right-left
 - [ ] right-long
@@ -224,9 +224,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] share
 - [x] share-from-square
 - [x] shuffle
-- [ ] sort
-- [ ] sort-down
-- [ ] sort-up
+- [x] sort
+- [x] sort-down
+- [x] sort-up
 - [x] square-arrow-up-right
 - [x] square-caret-down
 - [x] square-caret-left
@@ -242,30 +242,30 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] up-right-from-square (as `external-link`)
 - [x] upload
 
-## Astronomy (7/20)
+## Astronomy (14/20)
 
-- [ ] aquarius
-- [ ] aries
+- [x] aquarius
+- [x] aries
 - [x] binoculars
 - [ ] cancer
 - [ ] capricorn
-- [ ] gemini
+- [x] gemini
 - [x] globe
 - [ ] leo
-- [ ] libra
+- [x] libra
 - [x] meteor
 - [x] moon
-- [ ] pisces
-- [ ] sagittarius
+- [x] pisces
+- [x] sagittarius
 - [ ] satellite
 - [x] satellite-dish
 - [ ] scorpio
 - [x] shuttle-space
-- [ ] taurus
+- [x] taurus
 - [x] user-astronaut
 - [ ] virgo
 
-## Automotive (21/29)
+## Automotive (23/29)
 
 - [x] bus
 - [ ] bus-side
@@ -278,7 +278,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] car-side (as `car`)
 - [x] car-tunnel
 - [x] caravan
-- [ ] charging-station
+- [x] charging-station
 - [x] gas-pump
 - [x] gauge (as `dashboard`)
 - [x] gauge-high
@@ -289,7 +289,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] spray-can-sparkles
 - [x] taxi
 - [x] trailer
-- [ ] truck
+- [x] truck
 - [ ] truck-field
 - [ ] truck-field-un
 - [x] truck-medical
@@ -297,34 +297,34 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] truck-pickup
 - [x] van-shuttle
 
-## Buildings (43/74)
+## Buildings (61/74)
 
 - [x] archway
 - [ ] arrow-right-to-city
 - [x] building
-- [ ] building-circle-arrow-right
-- [ ] building-circle-check
-- [ ] building-circle-exclamation
-- [ ] building-circle-xmark
-- [ ] building-columns
-- [ ] building-flag
-- [ ] building-lock
+- [x] building-circle-arrow-right
+- [x] building-circle-check
+- [x] building-circle-exclamation
+- [x] building-circle-xmark
+- [x] building-columns
+- [x] building-flag
+- [x] building-lock
 - [ ] building-ngo
-- [ ] building-shield
+- [x] building-shield
 - [ ] building-un
-- [ ] building-user
+- [x] building-user
 - [ ] building-wheat
 - [x] campground
 - [x] church
 - [x] city
-- [ ] dungeon
+- [x] dungeon
 - [ ] gopuram
 - [x] hospital
 - [x] hospital-user
 - [x] hotel
 - [x] house (as `home`)
 - [x] house-chimney
-- [ ] house-chimney-crack
+- [x] house-chimney-crack
 - [x] house-chimney-medical
 - [x] house-chimney-window
 - [x] house-circle-check
@@ -335,12 +335,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] house-flag
 - [x] house-lock
 - [x] house-medical
-- [ ] house-medical-circle-check
-- [ ] house-medical-circle-exclamation
-- [ ] house-medical-circle-xmark
+- [x] house-medical-circle-check
+- [x] house-medical-circle-exclamation
+- [x] house-medical-circle-xmark
 - [x] house-medical-flag
 - [x] igloo
-- [ ] industry
+- [x] industry
 - [x] kaaba
 - [x] landmark
 - [x] landmark-dome
@@ -355,9 +355,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] school-circle-exclamation
 - [x] school-circle-xmark
 - [x] school-flag
-- [ ] school-lock
+- [x] school-lock
 - [x] shop
-- [ ] shop-lock
+- [x] shop-lock
 - [x] store
 - [x] synagogue
 - [x] tent
@@ -366,7 +366,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] tent-arrow-turn-left
 - [ ] tent-arrows-down
 - [ ] tents
-- [ ] toilet-portable
+- [x] toilet-portable
 - [ ] toilets-portable
 - [x] torii-gate
 - [x] tower-observation
@@ -374,11 +374,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vihara
 - [x] warehouse
 
-## Business (79/88)
+## Business (83/88)
 
 - [x] address-book
-- [ ] bars-progress
-- [ ] bars-staggered
+- [x] bars-progress
+- [x] bars-staggered
 - [x] book
 - [x] box-archive
 - [ ] boxes-packing
@@ -426,7 +426,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] network-wired
 - [x] note-sticky
 - [x] paperclip
-- [ ] paste
+- [x] paste
 - [x] pen (as `pencil`)
 - [x] pen-clip
 - [x] pen-fancy
@@ -459,7 +459,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tag
 - [x] tags
 - [x] thumbtack
-- [ ] thumbtack-slash
+- [x] thumbtack-slash
 - [x] timeline
 - [x] trademark
 - [x] vault
