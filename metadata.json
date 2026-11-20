@@ -384,6 +384,18 @@
     ],
     "animation": "pop"
   },
+  "arrow-archery": {
+    "category": "Objects",
+    "tags": [
+      "arrow",
+      "archery",
+      "bow",
+      "target",
+      "sport",
+      "flecha"
+    ],
+    "animation": "nudge-diag"
+  },
   "arrow-down": {
     "category": "Arrows",
     "tags": [
@@ -4290,6 +4302,18 @@
     ],
     "animation": "pulse"
   },
+  "car-bolt": {
+    "category": "Places",
+    "tags": [
+      "car",
+      "bolt",
+      "electric",
+      "vehicle",
+      "ev",
+      "charge"
+    ],
+    "animation": "flash"
+  },
   "car-garage": {
     "category": "Places",
     "tags": [
@@ -4301,6 +4325,28 @@
     ],
     "animation": "drive"
   },
+  "car-key": {
+    "category": "Places",
+    "tags": [
+      "car",
+      "key",
+      "remote",
+      "unlock",
+      "vehicle"
+    ],
+    "animation": "turn-key"
+  },
+  "car-rear": {
+    "category": "Places",
+    "tags": [
+      "car",
+      "rear",
+      "back",
+      "vehicle",
+      "auto"
+    ],
+    "animation": "drive"
+  },
   "car-side": {
     "category": "Places",
     "tags": [
@@ -4309,6 +4355,16 @@
       "vehicle",
       "auto",
       "automobile"
+    ],
+    "animation": "drive"
+  },
+  "car-tunnel": {
+    "category": "Places",
+    "tags": [
+      "car",
+      "tunnel",
+      "road",
+      "underground"
     ],
     "animation": "drive"
   },
@@ -25361,6 +25417,30 @@
     ],
     "animation": "pulse"
   },
+  "video-arrow-down-left": {
+    "category": "Media",
+    "tags": [
+      "video",
+      "arrow",
+      "down",
+      "left",
+      "receive",
+      "incoming"
+    ],
+    "animation": "nudge-diag"
+  },
+  "video-arrow-up-right": {
+    "category": "Media",
+    "tags": [
+      "video",
+      "arrow",
+      "up",
+      "right",
+      "share",
+      "send"
+    ],
+    "animation": "nudge-diag"
+  },
   "video-off": {
     "category": "Media",
     "tags": [
@@ -25383,6 +25463,16 @@
       "record"
     ],
     "animation": "pulse"
+  },
+  "video-question": {
+    "category": "Media",
+    "tags": [
+      "video",
+      "question",
+      "help",
+      "unknown"
+    ],
+    "animation": "pop"
   },
   "vihara": {
     "category": "Religion",
@@ -25581,6 +25671,17 @@
     ],
     "animation": "glow"
   },
+  "wardrobe": {
+    "category": "Objects",
+    "tags": [
+      "wardrobe",
+      "closet",
+      "clothes",
+      "furniture",
+      "armario"
+    ],
+    "animation": "pop"
+  },
   "warehouse": {
     "category": "Places",
     "tags": [
@@ -25589,6 +25690,17 @@
       "depot",
       "inventory",
       "almacen"
+    ],
+    "animation": "pop"
+  },
+  "warehouse-full": {
+    "category": "Places",
+    "tags": [
+      "warehouse",
+      "full",
+      "storage",
+      "inventory",
+      "stocked"
     ],
     "animation": "pop"
   },
@@ -25634,6 +25746,41 @@
       "wearable"
     ],
     "animation": "tick"
+  },
+  "water": {
+    "category": "Nature",
+    "tags": [
+      "water",
+      "waves",
+      "sea",
+      "ocean",
+      "agua"
+    ],
+    "animation": "wave"
+  },
+  "water-arrow-down": {
+    "category": "Nature",
+    "tags": [
+      "water",
+      "arrow",
+      "down",
+      "level",
+      "decrease",
+      "drop"
+    ],
+    "animation": "nudge-down"
+  },
+  "water-arrow-up": {
+    "category": "Nature",
+    "tags": [
+      "water",
+      "arrow",
+      "up",
+      "level",
+      "rise",
+      "flood"
+    ],
+    "animation": "nudge-up"
   },
   "water-ladder": {
     "category": "Places",
@@ -25699,6 +25846,17 @@
     ],
     "animation": "wave"
   },
+  "waveform": {
+    "category": "Music & Audio",
+    "tags": [
+      "waveform",
+      "audio",
+      "sound",
+      "voice",
+      "wave"
+    ],
+    "animation": "beat"
+  },
   "waveform-lines": {
     "category": "Music & Audio",
     "tags": [
@@ -25710,6 +25868,17 @@
     ],
     "animation": "beat"
   },
+  "waves-sine": {
+    "category": "Music & Audio",
+    "tags": [
+      "waves",
+      "sine",
+      "sound",
+      "audio",
+      "frequency"
+    ],
+    "animation": "wave"
+  },
   "webhook": {
     "category": "Technology",
     "tags": [
@@ -25719,6 +25888,28 @@
       "callback"
     ],
     "animation": "pop"
+  },
+  "websites": {
+    "category": "Technology",
+    "tags": [
+      "websites",
+      "browser",
+      "windows",
+      "internet"
+    ],
+    "animation": "pop"
+  },
+  "weight-hanging": {
+    "category": "Objects",
+    "tags": [
+      "weight",
+      "hanging",
+      "scale",
+      "heavy",
+      "pesa"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
   },
   "weight-scale": {
     "category": "Health",
@@ -25789,6 +25980,17 @@
       "glass",
       "drink",
       "alcohol",
+      "bar"
+    ],
+    "animation": "rock"
+  },
+  "whiskey-glass-ice": {
+    "category": "Objects",
+    "tags": [
+      "whiskey",
+      "glass",
+      "ice",
+      "drink",
       "bar"
     ],
     "animation": "rock"
@@ -25897,6 +26099,17 @@
     ],
     "animation": "pop"
   },
+  "window-frame": {
+    "category": "Places",
+    "tags": [
+      "window",
+      "frame",
+      "house",
+      "glass",
+      "ventana"
+    ],
+    "animation": "pop"
+  },
   "window-maximize": {
     "category": "Interface",
     "tags": [
@@ -25972,6 +26185,17 @@
       "fragile"
     ],
     "animation": "shake"
+  },
+  "wine-glass-empty": {
+    "category": "Objects",
+    "tags": [
+      "wine",
+      "glass",
+      "empty",
+      "drink",
+      "copa"
+    ],
+    "animation": "rock"
   },
   "worm": {
     "category": "Nature",
