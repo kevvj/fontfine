@@ -12629,6 +12629,113 @@
     ],
     "animation": "nudge-diag"
   },
+  "network-wired": {
+    "category": "Technology",
+    "tags": [
+      "network",
+      "wired",
+      "lan",
+      "ethernet",
+      "servers"
+    ],
+    "animation": "pulse"
+  },
+  "newspaper": {
+    "category": "Objects",
+    "tags": [
+      "newspaper",
+      "news",
+      "press",
+      "article",
+      "periodico"
+    ],
+    "animation": "pop"
+  },
+  "nfc": {
+    "category": "Technology",
+    "tags": [
+      "nfc",
+      "near",
+      "field",
+      "contactless",
+      "tap"
+    ],
+    "animation": "pop"
+  },
+  "nfc-signal": {
+    "category": "Technology",
+    "tags": [
+      "nfc",
+      "signal",
+      "contactless",
+      "tap",
+      "pay",
+      "wireless"
+    ],
+    "animation": "signal"
+  },
+  "noodles": {
+    "category": "Objects",
+    "tags": [
+      "noodles",
+      "ramen",
+      "bowl",
+      "soup",
+      "asian",
+      "food"
+    ],
+    "animation": "float"
+  },
+  "not-equal": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "not",
+      "equal",
+      "math",
+      "different",
+      "unequal"
+    ],
+    "animation": "pop"
+  },
+  "note-slash": {
+    "category": "Objects",
+    "tags": [
+      "note",
+      "slash",
+      "no",
+      "notes",
+      "hidden",
+      "sticky",
+      "post",
+      "it",
+      "reminder",
+      "memo"
+    ],
+    "animation": "shake"
+  },
+  "note-sticky": {
+    "category": "Objects",
+    "tags": [
+      "note",
+      "sticky",
+      "post",
+      "it",
+      "reminder",
+      "memo"
+    ],
+    "animation": "pop"
+  },
+  "notebook": {
+    "category": "Objects",
+    "tags": [
+      "notebook",
+      "journal",
+      "diary",
+      "notes",
+      "cuaderno"
+    ],
+    "animation": "flip"
+  },
   "notes-medical": {
     "category": "Health",
     "tags": [
@@ -12640,6 +12747,18 @@
       "history"
     ],
     "animation": "pulse"
+  },
+  "notes-sticky": {
+    "category": "Objects",
+    "tags": [
+      "notes",
+      "sticky",
+      "post",
+      "it",
+      "multiple",
+      "memo"
+    ],
+    "animation": "pop"
   },
   "number-0": {
     "category": "Letters & Numbers",
@@ -12761,6 +12880,366 @@
     ],
     "animation": "pop"
   },
+  "object-exclude": {
+    "category": "Interface",
+    "tags": [
+      "object",
+      "exclude",
+      "xor",
+      "boolean",
+      "shapes"
+    ],
+    "animation": "pop"
+  },
+  "object-group": {
+    "category": "Interface",
+    "tags": [
+      "object",
+      "group",
+      "select",
+      "combine",
+      "design"
+    ],
+    "animation": "pop"
+  },
+  "object-intersect": {
+    "category": "Interface",
+    "tags": [
+      "object",
+      "intersect",
+      "overlap",
+      "boolean",
+      "shapes"
+    ],
+    "animation": "pop"
+  },
+  "object-subtract": {
+    "category": "Interface",
+    "tags": [
+      "object",
+      "subtract",
+      "minus",
+      "boolean",
+      "shapes"
+    ],
+    "animation": "pop"
+  },
+  "object-ungroup": {
+    "category": "Interface",
+    "tags": [
+      "object",
+      "ungroup",
+      "separate",
+      "split",
+      "design"
+    ],
+    "animation": "pop"
+  },
+  "object-union": {
+    "category": "Interface",
+    "tags": [
+      "object",
+      "union",
+      "merge",
+      "combine",
+      "boolean",
+      "shapes"
+    ],
+    "animation": "pop"
+  },
+  "objects-align-bottom": {
+    "category": "Interface",
+    "tags": [
+      "objects",
+      "align",
+      "bottom",
+      "layout",
+      "arrange"
+    ],
+    "animation": "pop"
+  },
+  "objects-align-center-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "objects",
+      "align",
+      "center",
+      "horizontal",
+      "middle",
+      "layout",
+      "arrange"
+    ],
+    "animation": "pop"
+  },
+  "objects-align-center-vertical": {
+    "category": "Interface",
+    "tags": [
+      "objects",
+      "align",
+      "center",
+      "vertical",
+      "middle",
+      "layout",
+      "arrange"
+    ],
+    "animation": "pop"
+  },
+  "objects-align-left": {
+    "category": "Interface",
+    "tags": [
+      "objects",
+      "align",
+      "left",
+      "layout",
+      "arrange"
+    ],
+    "animation": "pop"
+  },
+  "objects-align-right": {
+    "category": "Interface",
+    "tags": [
+      "objects",
+      "align",
+      "right",
+      "layout",
+      "arrange"
+    ],
+    "animation": "pop"
+  },
+  "objects-align-top": {
+    "category": "Interface",
+    "tags": [
+      "objects",
+      "align",
+      "top",
+      "layout",
+      "arrange"
+    ],
+    "animation": "pop"
+  },
+  "octagon": {
+    "category": "Interface",
+    "tags": [
+      "octagon",
+      "shape",
+      "stop",
+      "polygon",
+      "eight"
+    ],
+    "animation": "spin-slow"
+  },
+  "octagon-check": {
+    "category": "Status",
+    "tags": [
+      "octagon",
+      "check",
+      "done",
+      "approved",
+      "ok",
+      "stop",
+      "sign"
+    ],
+    "animation": "pop"
+  },
+  "octagon-divide": {
+    "category": "Status",
+    "tags": [
+      "octagon",
+      "divide",
+      "math",
+      "stop",
+      "sign"
+    ],
+    "animation": "pop"
+  },
+  "octagon-equals": {
+    "category": "Status",
+    "tags": [
+      "octagon",
+      "equals",
+      "math",
+      "stop",
+      "sign"
+    ],
+    "animation": "pop"
+  },
+  "octagon-exclamation": {
+    "category": "Status",
+    "tags": [
+      "octagon",
+      "exclamation",
+      "warning",
+      "alert",
+      "danger",
+      "stop",
+      "sign"
+    ],
+    "animation": "shake"
+  },
+  "octagon-minus": {
+    "category": "Status",
+    "tags": [
+      "octagon",
+      "minus",
+      "remove",
+      "block",
+      "stop",
+      "sign"
+    ],
+    "animation": "pop"
+  },
+  "octagon-plus": {
+    "category": "Status",
+    "tags": [
+      "octagon",
+      "plus",
+      "add",
+      "new",
+      "stop",
+      "sign"
+    ],
+    "animation": "pop"
+  },
+  "octagon-xmark": {
+    "category": "Status",
+    "tags": [
+      "octagon",
+      "xmark",
+      "error",
+      "close",
+      "stop",
+      "sign"
+    ],
+    "animation": "shake"
+  },
+  "octopus": {
+    "category": "Nature",
+    "tags": [
+      "octopus",
+      "sea",
+      "animal",
+      "ocean",
+      "pulpo"
+    ],
+    "animation": "wiggle"
+  },
+  "oil-can": {
+    "category": "Objects",
+    "tags": [
+      "oil",
+      "can",
+      "lubricant",
+      "car",
+      "maintenance",
+      "aceite"
+    ],
+    "animation": "rock"
+  },
+  "olive": {
+    "category": "Nature",
+    "tags": [
+      "olive",
+      "fruit",
+      "food",
+      "mediterranean",
+      "aceituna"
+    ],
+    "animation": "rock"
+  },
+  "onion": {
+    "category": "Nature",
+    "tags": [
+      "onion",
+      "vegetable",
+      "food",
+      "cooking",
+      "cebolla"
+    ],
+    "animation": "rock"
+  },
+  "outdent": {
+    "category": "Interface",
+    "tags": [
+      "outdent",
+      "text",
+      "unindent",
+      "paragraph",
+      "format"
+    ],
+    "animation": "nudge-left"
+  },
+  "outlet": {
+    "category": "Objects",
+    "tags": [
+      "outlet",
+      "socket",
+      "plug",
+      "power",
+      "electricity",
+      "enchufe"
+    ],
+    "animation": "pop"
+  },
+  "oven": {
+    "category": "Objects",
+    "tags": [
+      "oven",
+      "kitchen",
+      "bake",
+      "cooking",
+      "appliance",
+      "horno"
+    ],
+    "animation": "pop"
+  },
+  "owl": {
+    "category": "Nature",
+    "tags": [
+      "owl",
+      "bird",
+      "night",
+      "wise",
+      "animal",
+      "buho"
+    ],
+    "animation": "blink"
+  },
+  "paint-roller": {
+    "category": "Objects",
+    "tags": [
+      "paint",
+      "roller",
+      "wall",
+      "painting",
+      "decorate",
+      "rodillo"
+    ],
+    "animation": "rock"
+  },
+  "palette": {
+    "category": "Objects",
+    "tags": [
+      "palette",
+      "paint",
+      "colors",
+      "art",
+      "design",
+      "paleta"
+    ],
+    "animation": "rock"
+  },
+  "paper-plane": {
+    "category": "Communication",
+    "tags": [
+      "paper",
+      "plane",
+      "send",
+      "message",
+      "submit",
+      "avion"
+    ],
+    "animation": "nudge-diag"
+  },
   "paperclip": {
     "category": "Objects",
     "tags": [
@@ -12772,6 +13251,63 @@
     ],
     "animation": "wiggle"
   },
+  "paragraph": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "paragraph",
+      "pilcrow",
+      "text",
+      "section"
+    ],
+    "animation": "pop"
+  },
+  "parentheses": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "parentheses",
+      "brackets",
+      "round",
+      "math",
+      "code"
+    ],
+    "animation": "pop"
+  },
+  "parking": {
+    "category": "Places",
+    "tags": [
+      "parking",
+      "park",
+      "car",
+      "lot",
+      "estacionamiento"
+    ],
+    "animation": "pop"
+  },
+  "parking-slash": {
+    "category": "Places",
+    "tags": [
+      "parking",
+      "slash",
+      "no",
+      "prohibited",
+      "park",
+      "car",
+      "lot",
+      "estacionamiento"
+    ],
+    "animation": "shake"
+  },
+  "passport": {
+    "category": "Objects",
+    "tags": [
+      "passport",
+      "travel",
+      "id",
+      "document",
+      "pasaporte"
+    ],
+    "animation": "flip"
+  },
   "pause": {
     "category": "Media",
     "tags": [
@@ -12780,6 +13316,19 @@
       "pausa"
     ],
     "animation": "pulse"
+  },
+  "paw": {
+    "category": "Nature",
+    "tags": [
+      "paw",
+      "pet",
+      "animal",
+      "dog",
+      "cat",
+      "footprint",
+      "pata"
+    ],
+    "animation": "bounce"
   },
   "peace": {
     "category": "Religion",
@@ -12791,6 +13340,40 @@
       "paz"
     ],
     "animation": "spin-slow"
+  },
+  "pear": {
+    "category": "Nature",
+    "tags": [
+      "pear",
+      "fruit",
+      "food",
+      "pera"
+    ],
+    "animation": "rock"
+  },
+  "pen-nib": {
+    "category": "Interface",
+    "tags": [
+      "pen",
+      "nib",
+      "fountain",
+      "write",
+      "vector",
+      "design"
+    ],
+    "animation": "write"
+  },
+  "pen-to-square": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "to",
+      "square",
+      "edit",
+      "write",
+      "compose"
+    ],
+    "animation": "write"
   },
   "pencil": {
     "category": "Actions",
@@ -12805,6 +13388,28 @@
       "modificar"
     ],
     "animation": "write"
+  },
+  "pentagon": {
+    "category": "Interface",
+    "tags": [
+      "pentagon",
+      "shape",
+      "polygon",
+      "five"
+    ],
+    "animation": "spin-slow"
+  },
+  "pepper-hot": {
+    "category": "Nature",
+    "tags": [
+      "pepper",
+      "hot",
+      "chili",
+      "spicy",
+      "food",
+      "aji"
+    ],
+    "animation": "wiggle"
   },
   "percent": {
     "category": "Objects",
