@@ -1,4 +1,15 @@
 {
+  "abacus": {
+    "category": "Objects",
+    "tags": [
+      "abacus",
+      "counting",
+      "math",
+      "school",
+      "ábaco"
+    ],
+    "animation": "slide"
+  },
   "acorn": {
     "category": "Nature",
     "tags": [
@@ -11,6 +22,41 @@
     ],
     "animation": "rock",
     "origin": "50% 10%"
+  },
+  "air-conditioner": {
+    "category": "Technology",
+    "tags": [
+      "air",
+      "conditioner",
+      "cooling",
+      "ac",
+      "climate",
+      "aire"
+    ],
+    "animation": "wave"
+  },
+  "airplay": {
+    "category": "Technology",
+    "tags": [
+      "airplay",
+      "cast",
+      "screen",
+      "stream",
+      "share"
+    ],
+    "animation": "pulse"
+  },
+  "album": {
+    "category": "Music & Audio",
+    "tags": [
+      "album",
+      "music",
+      "record",
+      "vinyl",
+      "cover",
+      "disco"
+    ],
+    "animation": "spin-slow"
   },
   "alien": {
     "category": "People",
@@ -62,6 +108,48 @@
     ],
     "animation": "slide"
   },
+  "almost-equal-to": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "almost",
+      "equal",
+      "to",
+      "approximately",
+      "math"
+    ],
+    "animation": "wave"
+  },
+  "ampersand": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "ampersand",
+      "and",
+      "symbol",
+      "text"
+    ],
+    "animation": "pop"
+  },
+  "angle": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "angle",
+      "geometry",
+      "degrees",
+      "math"
+    ],
+    "animation": "pop"
+  },
+  "angle-90": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "angle",
+      "90",
+      "right",
+      "geometry",
+      "math"
+    ],
+    "animation": "pop"
+  },
   "angles-up-down": {
     "category": "Arrows",
     "tags": [
@@ -73,6 +161,50 @@
       "sort"
     ],
     "animation": "pulse"
+  },
+  "ant": {
+    "category": "Nature",
+    "tags": [
+      "ant",
+      "insect",
+      "bug",
+      "colony",
+      "hormiga"
+    ],
+    "animation": "wiggle"
+  },
+  "aperture": {
+    "category": "Media",
+    "tags": [
+      "aperture",
+      "camera",
+      "lens",
+      "photo",
+      "shutter"
+    ],
+    "animation": "spin-slow"
+  },
+  "apostrophe": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "apostrophe",
+      "quote",
+      "punctuation",
+      "text"
+    ],
+    "animation": "pop"
+  },
+  "apple-core": {
+    "category": "Nature",
+    "tags": [
+      "apple",
+      "core",
+      "fruit",
+      "eaten",
+      "food",
+      "manzana"
+    ],
+    "animation": "rock"
   },
   "archive": {
     "category": "Files",
@@ -171,6 +303,19 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-long-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "long",
+      "to",
+      "line",
+      "bottom",
+      "end"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-down-right": {
     "category": "Arrows",
     "tags": [
@@ -232,6 +377,19 @@
       "upload",
       "export",
       "import"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-to-square": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "to",
+      "square",
+      "download",
+      "save",
+      "inbox"
     ],
     "animation": "nudge-down"
   },
@@ -315,6 +473,19 @@
     ],
     "animation": "nudge-left"
   },
+  "arrow-left-long-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "left",
+      "long",
+      "to",
+      "line",
+      "start",
+      "begin"
+    ],
+    "animation": "nudge-left"
+  },
   "arrow-left-to-arc": {
     "category": "Arrows",
     "tags": [
@@ -368,6 +539,17 @@
       "import"
     ],
     "animation": "nudge-left"
+  },
+  "arrow-progress": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "progress",
+      "steps",
+      "flow",
+      "next"
+    ],
+    "animation": "nudge-right"
   },
   "arrow-right": {
     "category": "Arrows",
@@ -430,6 +612,19 @@
       "upload",
       "export",
       "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-long-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "right",
+      "long",
+      "to",
+      "line",
+      "end",
+      "finish"
     ],
     "animation": "nudge-right"
   },
@@ -730,6 +925,19 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-from-square": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "from",
+      "square",
+      "upload",
+      "share",
+      "export"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-up-left": {
     "category": "Arrows",
     "tags": [
@@ -737,6 +945,19 @@
       "up",
       "left",
       "diagonal"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-long-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "long",
+      "to",
+      "line",
+      "top",
+      "start"
     ],
     "animation": "nudge-up"
   },
@@ -873,6 +1094,29 @@
     ],
     "animation": "squash"
   },
+  "arrows-repeat": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "repeat",
+      "loop",
+      "again",
+      "cycle"
+    ],
+    "animation": "spin"
+  },
+  "arrows-repeat-1": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "repeat",
+      "one",
+      "loop",
+      "once",
+      "song"
+    ],
+    "animation": "spin"
+  },
   "arrows-retweet": {
     "category": "Arrows",
     "tags": [
@@ -920,6 +1164,18 @@
     ],
     "animation": "nudge-up"
   },
+  "atom-simple": {
+    "category": "Technology",
+    "tags": [
+      "atom",
+      "simple",
+      "science",
+      "physics",
+      "nucleus",
+      "atomo"
+    ],
+    "animation": "spin-slow"
+  },
   "audio-mixer": {
     "category": "Music & Audio",
     "tags": [
@@ -945,6 +1201,33 @@
       "aguacate"
     ],
     "animation": "rock"
+  },
+  "award-simple": {
+    "category": "Status",
+    "tags": [
+      "award",
+      "simple",
+      "medal",
+      "prize",
+      "winner",
+      "badge",
+      "premio"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
+  "axe": {
+    "category": "Objects",
+    "tags": [
+      "axe",
+      "wood",
+      "tool",
+      "chop",
+      "camping",
+      "hacha"
+    ],
+    "animation": "swing",
+    "origin": "20% 80%"
   },
   "backpack": {
     "category": "Objects",
@@ -1013,6 +1296,53 @@
       "percent"
     ],
     "animation": "spin-slow"
+  },
+  "bagel": {
+    "category": "Objects",
+    "tags": [
+      "bagel",
+      "bread",
+      "breakfast",
+      "food",
+      "rosca"
+    ],
+    "animation": "spin-slow"
+  },
+  "baguette": {
+    "category": "Objects",
+    "tags": [
+      "baguette",
+      "bread",
+      "bakery",
+      "french",
+      "food",
+      "pan"
+    ],
+    "animation": "rock"
+  },
+  "ball-pile": {
+    "category": "Objects",
+    "tags": [
+      "ball",
+      "pile",
+      "balls",
+      "stack",
+      "sports",
+      "bolas"
+    ],
+    "animation": "bounce"
+  },
+  "ball-yarn": {
+    "category": "Objects",
+    "tags": [
+      "ball",
+      "yarn",
+      "wool",
+      "knitting",
+      "craft",
+      "ovillo"
+    ],
+    "animation": "rock"
   },
   "balloon": {
     "category": "Objects",
@@ -1167,6 +1497,17 @@
     ],
     "animation": "pulse"
   },
+  "barn": {
+    "category": "Places",
+    "tags": [
+      "barn",
+      "farm",
+      "countryside",
+      "building",
+      "granero"
+    ],
+    "animation": "bounce"
+  },
   "bars-filter": {
     "category": "Interface",
     "tags": [
@@ -1188,6 +1529,42 @@
       "descending"
     ],
     "animation": "slide"
+  },
+  "baseball-bat": {
+    "category": "Objects",
+    "tags": [
+      "baseball",
+      "bat",
+      "ball",
+      "sports",
+      "game",
+      "beisbol"
+    ],
+    "animation": "swing",
+    "origin": "20% 80%"
+  },
+  "basketball-hoop": {
+    "category": "Objects",
+    "tags": [
+      "basketball",
+      "hoop",
+      "net",
+      "sports",
+      "game",
+      "canasta"
+    ],
+    "animation": "bounce"
+  },
+  "bat": {
+    "category": "Nature",
+    "tags": [
+      "bat",
+      "halloween",
+      "night",
+      "animal",
+      "murcielago"
+    ],
+    "animation": "float"
   },
   "battery-bolt": {
     "category": "Technology",
@@ -1285,6 +1662,17 @@
       "cama"
     ],
     "animation": "bounce"
+  },
+  "bee": {
+    "category": "Nature",
+    "tags": [
+      "bee",
+      "insect",
+      "honey",
+      "nature",
+      "abeja"
+    ],
+    "animation": "float"
   },
   "beer-mug": {
     "category": "Objects",
@@ -1400,6 +1788,18 @@
     ],
     "animation": "bounce"
   },
+  "bin": {
+    "category": "Objects",
+    "tags": [
+      "bin",
+      "trash",
+      "can",
+      "garbage",
+      "waste",
+      "basura"
+    ],
+    "animation": "shake"
+  },
   "binary": {
     "category": "Technology",
     "tags": [
@@ -1413,6 +1813,39 @@
     ],
     "animation": "flash"
   },
+  "bird": {
+    "category": "Nature",
+    "tags": [
+      "bird",
+      "animal",
+      "fly",
+      "tweet",
+      "pajaro"
+    ],
+    "animation": "float"
+  },
+  "blinds": {
+    "category": "Objects",
+    "tags": [
+      "blinds",
+      "window",
+      "shade",
+      "curtain",
+      "persiana"
+    ],
+    "animation": "slide"
+  },
+  "block-brick": {
+    "category": "Objects",
+    "tags": [
+      "block",
+      "brick",
+      "wall",
+      "construction",
+      "ladrillo"
+    ],
+    "animation": "pulse"
+  },
   "block-quote": {
     "category": "Interface",
     "tags": [
@@ -1423,6 +1856,17 @@
       "format"
     ],
     "animation": "slide"
+  },
+  "blueberries": {
+    "category": "Nature",
+    "tags": [
+      "blueberries",
+      "berries",
+      "fruit",
+      "food",
+      "arandanos"
+    ],
+    "animation": "bounce"
   },
   "bold": {
     "category": "Interface",
@@ -1470,6 +1914,31 @@
       "closed",
       "read",
       "cuaderno",
+      "libro"
+    ],
+    "animation": "flip"
+  },
+  "book-heart": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "heart",
+      "favorite",
+      "love",
+      "reading",
+      "libro"
+    ],
+    "animation": "beat"
+  },
+  "book-open-lines": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "open",
+      "lines",
+      "reading",
+      "text",
+      "pages",
       "libro"
     ],
     "animation": "flip"
@@ -1522,6 +1991,17 @@
       "libros"
     ],
     "animation": "bounce"
+  },
+  "boombox": {
+    "category": "Music & Audio",
+    "tags": [
+      "boombox",
+      "radio",
+      "stereo",
+      "music",
+      "speakers"
+    ],
+    "animation": "beat"
   },
   "boot": {
     "category": "Objects",
@@ -1646,6 +2126,18 @@
     ],
     "animation": "wiggle"
   },
+  "bowl-chopsticks": {
+    "category": "Objects",
+    "tags": [
+      "bowl",
+      "chopsticks",
+      "rice",
+      "asian",
+      "food",
+      "palillos"
+    ],
+    "animation": "wiggle"
+  },
   "bowl-hot": {
     "category": "Objects",
     "tags": [
@@ -1657,6 +2149,30 @@
       "sopa"
     ],
     "animation": "float"
+  },
+  "bowl-spoon": {
+    "category": "Objects",
+    "tags": [
+      "bowl",
+      "spoon",
+      "soup",
+      "cereal",
+      "food",
+      "tazon"
+    ],
+    "animation": "wiggle"
+  },
+  "bowling-pins": {
+    "category": "Objects",
+    "tags": [
+      "bowling",
+      "pins",
+      "game",
+      "sports",
+      "strike",
+      "bolos"
+    ],
+    "animation": "wiggle"
   },
   "box": {
     "category": "Objects",
@@ -1701,6 +2217,18 @@
       "inventory",
       "storage",
       "shipping",
+      "caja"
+    ],
+    "animation": "bounce"
+  },
+  "box-taped": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "taped",
+      "package",
+      "shipping",
+      "delivery",
       "caja"
     ],
     "animation": "bounce"
@@ -1817,6 +2345,18 @@
       "pan"
     ],
     "animation": "bounce"
+  },
+  "bridge-suspension": {
+    "category": "Places",
+    "tags": [
+      "bridge",
+      "suspension",
+      "golden",
+      "gate",
+      "river",
+      "puente"
+    ],
+    "animation": "wave"
   },
   "briefcase-blank": {
     "category": "Objects",
@@ -1935,6 +2475,32 @@
       "edificios"
     ],
     "animation": "bounce"
+  },
+  "bullseye-arrow": {
+    "category": "Interface",
+    "tags": [
+      "bullseye",
+      "arrow",
+      "target",
+      "goal",
+      "aim",
+      "objective",
+      "diana"
+    ],
+    "animation": "pulse"
+  },
+  "buoy": {
+    "category": "Objects",
+    "tags": [
+      "buoy",
+      "life",
+      "ring",
+      "lifebuoy",
+      "rescue",
+      "help",
+      "salvavidas"
+    ],
+    "animation": "rock"
   },
   "butterfly": {
     "category": "Nature",
