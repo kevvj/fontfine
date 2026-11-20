@@ -23,6 +23,29 @@
     "animation": "rock",
     "origin": "50% 10%"
   },
+  "address-book": {
+    "category": "Communication",
+    "tags": [
+      "address",
+      "book",
+      "contacts",
+      "phonebook",
+      "agenda"
+    ],
+    "animation": "flip"
+  },
+  "address-card": {
+    "category": "Communication",
+    "tags": [
+      "address",
+      "card",
+      "contact",
+      "id",
+      "vcard",
+      "business"
+    ],
+    "animation": "pop"
+  },
   "air-conditioner": {
     "category": "Technology",
     "tags": [
@@ -45,6 +68,66 @@
       "share"
     ],
     "animation": "pulse"
+  },
+  "alarm-clock": {
+    "category": "Interface",
+    "tags": [
+      "alarm",
+      "clock",
+      "wake",
+      "up",
+      "time",
+      "morning",
+      "despertador"
+    ],
+    "animation": "ring"
+  },
+  "alarm-clock-slash": {
+    "category": "Interface",
+    "tags": [
+      "alarm",
+      "clock",
+      "slash",
+      "off",
+      "disabled",
+      "no",
+      "wake",
+      "up",
+      "time",
+      "morning"
+    ],
+    "animation": "shake"
+  },
+  "alarm-exclamation": {
+    "category": "Interface",
+    "tags": [
+      "alarm",
+      "exclamation",
+      "warning",
+      "urgent"
+    ],
+    "animation": "ring"
+  },
+  "alarm-plus": {
+    "category": "Interface",
+    "tags": [
+      "alarm",
+      "plus",
+      "add",
+      "new"
+    ],
+    "animation": "ring"
+  },
+  "alarm-snooze": {
+    "category": "Interface",
+    "tags": [
+      "alarm",
+      "snooze",
+      "sleep",
+      "later",
+      "zzz"
+    ],
+    "animation": "ring"
   },
   "album": {
     "category": "Music & Audio",
@@ -126,6 +209,55 @@
       "and",
       "symbol",
       "text"
+    ],
+    "animation": "pop"
+  },
+  "anchor": {
+    "category": "Places",
+    "tags": [
+      "anchor",
+      "ship",
+      "port",
+      "marine",
+      "navy",
+      "ancla"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
+  "anchor-circle-check": {
+    "category": "Places",
+    "tags": [
+      "anchor",
+      "circle",
+      "check",
+      "port",
+      "marine",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "anchor-circle-exclamation": {
+    "category": "Places",
+    "tags": [
+      "anchor",
+      "circle",
+      "exclamation",
+      "port",
+      "marine",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "anchor-circle-xmark": {
+    "category": "Places",
+    "tags": [
+      "anchor",
+      "circle",
+      "xmark",
+      "port",
+      "marine",
+      "status"
     ],
     "animation": "pop"
   },
@@ -218,6 +350,18 @@
     ],
     "animation": "rock"
   },
+  "apple-whole": {
+    "category": "Nature",
+    "tags": [
+      "apple",
+      "whole",
+      "fruit",
+      "food",
+      "healthy",
+      "manzana"
+    ],
+    "animation": "rock"
+  },
   "archive": {
     "category": "Files",
     "tags": [
@@ -228,6 +372,17 @@
       "save"
     ],
     "animation": "bounce"
+  },
+  "archway": {
+    "category": "Places",
+    "tags": [
+      "archway",
+      "arch",
+      "gate",
+      "entrance",
+      "monument"
+    ],
+    "animation": "pop"
   },
   "arrow-down": {
     "category": "Arrows",
@@ -551,6 +706,18 @@
       "import"
     ],
     "animation": "nudge-left"
+  },
+  "arrow-pointer": {
+    "category": "Interface",
+    "tags": [
+      "arrow",
+      "pointer",
+      "cursor",
+      "mouse",
+      "click",
+      "select"
+    ],
+    "animation": "nudge-diag"
   },
   "arrow-progress": {
     "category": "Arrows",
@@ -1140,6 +1307,17 @@
     ],
     "animation": "spin"
   },
+  "arrows-rotate": {
+    "category": "Actions",
+    "tags": [
+      "arrows",
+      "rotate",
+      "refresh",
+      "sync",
+      "reload"
+    ],
+    "animation": "spin"
+  },
   "arrows-to-dotted-line": {
     "category": "Arrows",
     "tags": [
@@ -1176,6 +1354,16 @@
     ],
     "animation": "nudge-up"
   },
+  "asterisk": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "asterisk",
+      "star",
+      "required",
+      "footnote"
+    ],
+    "animation": "spin"
+  },
   "at": {
     "category": "Communication",
     "tags": [
@@ -1186,6 +1374,17 @@
       "symbol"
     ],
     "animation": "spin"
+  },
+  "atom": {
+    "category": "Health",
+    "tags": [
+      "atom",
+      "science",
+      "physics",
+      "nuclear",
+      "chemistry"
+    ],
+    "animation": "spin-slow"
   },
   "atom-simple": {
     "category": "Technology",
@@ -1225,6 +1424,19 @@
     ],
     "animation": "rock"
   },
+  "award": {
+    "category": "Objects",
+    "tags": [
+      "award",
+      "prize",
+      "achievement",
+      "ribbon",
+      "badge",
+      "premio"
+    ],
+    "animation": "swing",
+    "origin": "50% 0%"
+  },
   "award-simple": {
     "category": "Status",
     "tags": [
@@ -1252,6 +1464,29 @@
     "animation": "swing",
     "origin": "20% 80%"
   },
+  "baby": {
+    "category": "People",
+    "tags": [
+      "baby",
+      "infant",
+      "child",
+      "newborn",
+      "bebe"
+    ],
+    "animation": "wobble"
+  },
+  "baby-carriage": {
+    "category": "People",
+    "tags": [
+      "baby",
+      "carriage",
+      "stroller",
+      "pram",
+      "coche",
+      "bebe"
+    ],
+    "animation": "drive"
+  },
   "backpack": {
     "category": "Objects",
     "tags": [
@@ -1272,6 +1507,17 @@
       "previous"
     ],
     "animation": "nudge-left"
+  },
+  "bacon": {
+    "category": "Objects",
+    "tags": [
+      "bacon",
+      "breakfast",
+      "food",
+      "meat",
+      "tocino"
+    ],
+    "animation": "wiggle"
   },
   "badge": {
     "category": "Status",
@@ -1319,6 +1565,18 @@
       "percent"
     ],
     "animation": "spin-slow"
+  },
+  "bag-shopping": {
+    "category": "Objects",
+    "tags": [
+      "bag",
+      "shopping",
+      "store",
+      "buy",
+      "purchase",
+      "bolsa"
+    ],
+    "animation": "rock"
   },
   "bagel": {
     "category": "Objects",
@@ -1565,6 +1823,17 @@
     ],
     "animation": "slide"
   },
+  "baseball": {
+    "category": "Objects",
+    "tags": [
+      "baseball",
+      "ball",
+      "sport",
+      "game",
+      "beisbol"
+    ],
+    "animation": "spin"
+  },
   "baseball-bat": {
     "category": "Objects",
     "tags": [
@@ -1577,6 +1846,29 @@
     ],
     "animation": "swing",
     "origin": "20% 80%"
+  },
+  "basket-shopping": {
+    "category": "Objects",
+    "tags": [
+      "basket",
+      "shopping",
+      "cart",
+      "store",
+      "buy",
+      "canasta"
+    ],
+    "animation": "rock"
+  },
+  "basketball": {
+    "category": "Objects",
+    "tags": [
+      "basketball",
+      "ball",
+      "sport",
+      "game",
+      "baloncesto"
+    ],
+    "animation": "bounce"
   },
   "basketball-hoop": {
     "category": "Objects",
@@ -1598,6 +1890,17 @@
       "night",
       "animal",
       "murcielago"
+    ],
+    "animation": "float"
+  },
+  "bath": {
+    "category": "Objects",
+    "tags": [
+      "bath",
+      "bathtub",
+      "bathroom",
+      "relax",
+      "tina"
     ],
     "animation": "float"
   },
@@ -1686,6 +1989,17 @@
     ],
     "animation": "shake"
   },
+  "bed": {
+    "category": "Objects",
+    "tags": [
+      "bed",
+      "sleep",
+      "hotel",
+      "bedroom",
+      "cama"
+    ],
+    "animation": "pop"
+  },
   "bed-empty": {
     "category": "Objects",
     "tags": [
@@ -1720,6 +2034,18 @@
     ],
     "animation": "wiggle"
   },
+  "beer-mug-empty": {
+    "category": "Objects",
+    "tags": [
+      "beer",
+      "mug",
+      "empty",
+      "drink",
+      "bar",
+      "cerveza"
+    ],
+    "animation": "rock"
+  },
   "bell": {
     "category": "Interface",
     "tags": [
@@ -1734,6 +2060,17 @@
     ],
     "animation": "swing",
     "origin": "50% 12%"
+  },
+  "bell-concierge": {
+    "category": "Objects",
+    "tags": [
+      "bell",
+      "concierge",
+      "hotel",
+      "service",
+      "reception"
+    ],
+    "animation": "ring"
   },
   "bell-exclamation": {
     "category": "Interface",
@@ -1796,6 +2133,18 @@
     ],
     "animation": "shake"
   },
+  "bezier-curve": {
+    "category": "Interface",
+    "tags": [
+      "bezier",
+      "curve",
+      "vector",
+      "pen",
+      "design",
+      "path"
+    ],
+    "animation": "pop"
+  },
   "bible": {
     "category": "Religion",
     "tags": [
@@ -1812,6 +2161,17 @@
       "lectura"
     ],
     "animation": "flip"
+  },
+  "bicycle": {
+    "category": "Places",
+    "tags": [
+      "bicycle",
+      "bike",
+      "cycling",
+      "ride",
+      "bicicleta"
+    ],
+    "animation": "drive"
   },
   "billboard": {
     "category": "Places",
@@ -1848,6 +2208,17 @@
     ],
     "animation": "flash"
   },
+  "binoculars": {
+    "category": "Objects",
+    "tags": [
+      "binoculars",
+      "search",
+      "explore",
+      "look",
+      "prismaticos"
+    ],
+    "animation": "pop"
+  },
   "bird": {
     "category": "Nature",
     "tags": [
@@ -1858,6 +2229,17 @@
       "pajaro"
     ],
     "animation": "float"
+  },
+  "blender": {
+    "category": "Objects",
+    "tags": [
+      "blender",
+      "kitchen",
+      "smoothie",
+      "appliance",
+      "licuadora"
+    ],
+    "animation": "shake"
   },
   "blinds": {
     "category": "Objects",
@@ -1941,6 +2323,17 @@
     ],
     "animation": "shake"
   },
+  "bomb": {
+    "category": "Objects",
+    "tags": [
+      "bomb",
+      "explosive",
+      "danger",
+      "boom",
+      "bomba"
+    ],
+    "animation": "shake"
+  },
   "bone": {
     "category": "Health",
     "tags": [
@@ -1951,6 +2344,17 @@
       "hueso"
     ],
     "animation": "wiggle"
+  },
+  "book": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "read",
+      "library",
+      "study",
+      "libro"
+    ],
+    "animation": "flip"
   },
   "book-blank": {
     "category": "Objects",
@@ -1988,6 +2392,21 @@
       "libro"
     ],
     "animation": "flip"
+  },
+  "book-slash": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "slash",
+      "no",
+      "reading",
+      "closed",
+      "read",
+      "library",
+      "study",
+      "libro"
+    ],
+    "animation": "shake"
   },
   "bookmark": {
     "category": "Interface",
