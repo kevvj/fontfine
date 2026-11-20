@@ -162,6 +162,18 @@
     ],
     "animation": "pulse"
   },
+  "ankh": {
+    "category": "Religion",
+    "tags": [
+      "ankh",
+      "egypt",
+      "symbol",
+      "life",
+      "cross"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
   "ant": {
     "category": "Nature",
     "tags": [
@@ -1164,6 +1176,17 @@
     ],
     "animation": "nudge-up"
   },
+  "at": {
+    "category": "Communication",
+    "tags": [
+      "at",
+      "email",
+      "address",
+      "arroba",
+      "symbol"
+    ],
+    "animation": "spin"
+  },
   "atom-simple": {
     "category": "Technology",
     "tags": [
@@ -1412,6 +1435,18 @@
       "platano"
     ],
     "animation": "rock"
+  },
+  "bandage": {
+    "category": "Health",
+    "tags": [
+      "bandage",
+      "band",
+      "aid",
+      "wound",
+      "first",
+      "curita"
+    ],
+    "animation": "wiggle"
   },
   "bank": {
     "category": "Places",
@@ -1905,6 +1940,17 @@
       "rayo"
     ],
     "animation": "shake"
+  },
+  "bone": {
+    "category": "Health",
+    "tags": [
+      "bone",
+      "skeleton",
+      "anatomy",
+      "dog",
+      "hueso"
+    ],
+    "animation": "wiggle"
   },
   "book-blank": {
     "category": "Objects",
@@ -3849,6 +3895,18 @@
     ],
     "animation": "nudge-up"
   },
+  "child": {
+    "category": "People",
+    "tags": [
+      "child",
+      "kid",
+      "boy",
+      "girl",
+      "young",
+      "nino"
+    ],
+    "animation": "bounce"
+  },
   "chopsticks": {
     "category": "Objects",
     "tags": [
@@ -5539,6 +5597,17 @@
     ],
     "animation": "pulse"
   },
+  "crutch": {
+    "category": "Health",
+    "tags": [
+      "crutch",
+      "injury",
+      "support",
+      "walking",
+      "muleta"
+    ],
+    "animation": "rock"
+  },
   "dashboard": {
     "category": "Interface",
     "tags": [
@@ -5571,6 +5640,29 @@
     ],
     "animation": "pulse"
   },
+  "dharmachakra": {
+    "category": "Religion",
+    "tags": [
+      "dharmachakra",
+      "wheel",
+      "buddhism",
+      "dharma",
+      "rueda"
+    ],
+    "animation": "spin-slow"
+  },
+  "dna": {
+    "category": "Health",
+    "tags": [
+      "dna",
+      "genetics",
+      "helix",
+      "biology",
+      "science",
+      "adn"
+    ],
+    "animation": "turn-y"
+  },
   "dollar": {
     "category": "Objects",
     "tags": [
@@ -5596,6 +5688,18 @@
       "separador"
     ],
     "animation": "pulse"
+  },
+  "dove": {
+    "category": "Religion",
+    "tags": [
+      "dove",
+      "peace",
+      "bird",
+      "holy",
+      "spirit",
+      "paloma"
+    ],
+    "animation": "float"
   },
   "download": {
     "category": "Actions",
@@ -5652,6 +5756,29 @@
     ],
     "animation": "dots"
   },
+  "envelope-open": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "open",
+      "mail",
+      "read",
+      "letter",
+      "sobre"
+    ],
+    "animation": "flip"
+  },
+  "eraser": {
+    "category": "Actions",
+    "tags": [
+      "eraser",
+      "delete",
+      "clear",
+      "rubber",
+      "borrador"
+    ],
+    "animation": "wiggle"
+  },
   "external-link": {
     "category": "Arrows",
     "tags": [
@@ -5683,6 +5810,18 @@
     ],
     "animation": "blink"
   },
+  "eye-dropper": {
+    "category": "Health",
+    "tags": [
+      "eye",
+      "dropper",
+      "pipette",
+      "drops",
+      "liquid",
+      "gotero"
+    ],
+    "animation": "drip"
+  },
   "eye-off": {
     "category": "Interface",
     "tags": [
@@ -5698,6 +5837,74 @@
       "contraseña"
     ],
     "animation": "blink"
+  },
+  "face-angry": {
+    "category": "People",
+    "tags": [
+      "face",
+      "angry",
+      "mad",
+      "emoji",
+      "enojado"
+    ],
+    "animation": "shake"
+  },
+  "face-laugh": {
+    "category": "People",
+    "tags": [
+      "face",
+      "laugh",
+      "happy",
+      "lol",
+      "emoji",
+      "risa"
+    ],
+    "animation": "wobble"
+  },
+  "face-meh": {
+    "category": "People",
+    "tags": [
+      "face",
+      "meh",
+      "neutral",
+      "emoji",
+      "indifferent"
+    ],
+    "animation": "wobble"
+  },
+  "face-sad-tear": {
+    "category": "People",
+    "tags": [
+      "face",
+      "sad",
+      "tear",
+      "cry",
+      "emoji",
+      "triste"
+    ],
+    "animation": "wobble"
+  },
+  "face-surprise": {
+    "category": "People",
+    "tags": [
+      "face",
+      "surprise",
+      "shocked",
+      "wow",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "fax": {
+    "category": "Communication",
+    "tags": [
+      "fax",
+      "machine",
+      "office",
+      "print",
+      "send"
+    ],
+    "animation": "pulse"
   },
   "file": {
     "category": "Files",
@@ -5873,6 +6080,17 @@
       "video",
       "reel",
       "pelicula"
+    ],
+    "animation": "pulse"
+  },
+  "fingerprint": {
+    "category": "Security",
+    "tags": [
+      "fingerprint",
+      "biometric",
+      "identity",
+      "touch",
+      "huella"
     ],
     "animation": "pulse"
   },
@@ -6088,6 +6306,28 @@
     ],
     "animation": "slide"
   },
+  "guitar": {
+    "category": "Music & Audio",
+    "tags": [
+      "guitar",
+      "acoustic",
+      "music",
+      "instrument",
+      "guitarra"
+    ],
+    "animation": "rock"
+  },
+  "hamsa": {
+    "category": "Religion",
+    "tags": [
+      "hamsa",
+      "hand",
+      "protection",
+      "amulet",
+      "mano"
+    ],
+    "animation": "pulse"
+  },
   "hand": {
     "category": "Interface",
     "tags": [
@@ -6115,6 +6355,17 @@
     "animation": "wave",
     "origin": "50% 100%"
   },
+  "handcuffs": {
+    "category": "Security",
+    "tags": [
+      "handcuffs",
+      "police",
+      "arrest",
+      "crime",
+      "esposas"
+    ],
+    "animation": "swing"
+  },
   "headphones": {
     "category": "Music & Audio",
     "tags": [
@@ -6131,6 +6382,21 @@
     ],
     "animation": "beat"
   },
+  "headphones-slash": {
+    "category": "Music & Audio",
+    "tags": [
+      "headphones",
+      "slash",
+      "off",
+      "mute",
+      "audio",
+      "listen",
+      "music",
+      "headset",
+      "audifonos"
+    ],
+    "animation": "shake"
+  },
   "heart": {
     "category": "Interface",
     "tags": [
@@ -6139,6 +6405,18 @@
       "love",
       "favorite",
       "corazon"
+    ],
+    "animation": "beat"
+  },
+  "heart-pulse": {
+    "category": "Health",
+    "tags": [
+      "heart",
+      "pulse",
+      "heartbeat",
+      "health",
+      "cardio",
+      "pulso"
     ],
     "animation": "beat"
   },
@@ -6239,6 +6517,17 @@
     ],
     "animation": "wobble"
   },
+  "kaaba": {
+    "category": "Religion",
+    "tags": [
+      "kaaba",
+      "mecca",
+      "islam",
+      "cube",
+      "pilgrimage"
+    ],
+    "animation": "bounce"
+  },
   "key": {
     "category": "Security",
     "tags": [
@@ -6251,6 +6540,18 @@
     "animation": "turn-key",
     "origin": "30% 70%"
   },
+  "key-skeleton": {
+    "category": "Security",
+    "tags": [
+      "key",
+      "skeleton",
+      "old",
+      "vintage",
+      "door",
+      "llave"
+    ],
+    "animation": "turn-key"
+  },
   "keyboard": {
     "category": "Technology",
     "tags": [
@@ -6261,6 +6562,18 @@
       "teclado"
     ],
     "animation": "pulse"
+  },
+  "kit-medical": {
+    "category": "Health",
+    "tags": [
+      "kit",
+      "medical",
+      "first",
+      "aid",
+      "emergency",
+      "botiquin"
+    ],
+    "animation": "bounce"
   },
   "laptop": {
     "category": "Technology",
@@ -6790,6 +7103,18 @@
     ],
     "animation": "shake"
   },
+  "lock-keyhole": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "keyhole",
+      "security",
+      "closed",
+      "private",
+      "candado"
+    ],
+    "animation": "shake"
+  },
   "lock-open": {
     "category": "Security",
     "tags": [
@@ -6832,6 +7157,17 @@
       "sesion"
     ],
     "animation": "nudge-right"
+  },
+  "lungs": {
+    "category": "Health",
+    "tags": [
+      "lungs",
+      "breathing",
+      "respiratory",
+      "organ",
+      "pulmones"
+    ],
+    "animation": "pulse"
   },
   "mail": {
     "category": "Communication",
@@ -6882,6 +7218,17 @@
     ],
     "animation": "pop"
   },
+  "menorah": {
+    "category": "Religion",
+    "tags": [
+      "menorah",
+      "hanukkah",
+      "candles",
+      "judaism",
+      "candelabro"
+    ],
+    "animation": "flicker"
+  },
   "menu": {
     "category": "Interface",
     "tags": [
@@ -6922,6 +7269,17 @@
     ],
     "animation": "wiggle",
     "origin": "50% 90%"
+  },
+  "microphone-lines": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "lines",
+      "record",
+      "voice",
+      "podcast"
+    ],
+    "animation": "pulse"
   },
   "microphone-off": {
     "category": "Media",
@@ -6993,6 +7351,17 @@
     ],
     "animation": "rock"
   },
+  "mosque": {
+    "category": "Religion",
+    "tags": [
+      "mosque",
+      "islam",
+      "religion",
+      "building",
+      "mezquita"
+    ],
+    "animation": "bounce"
+  },
   "mouse": {
     "category": "Technology",
     "tags": [
@@ -7046,6 +7415,17 @@
     ],
     "animation": "dance"
   },
+  "music-note": {
+    "category": "Music & Audio",
+    "tags": [
+      "music",
+      "note",
+      "song",
+      "melody",
+      "nota"
+    ],
+    "animation": "dance"
+  },
   "music-slash": {
     "category": "Music & Audio",
     "tags": [
@@ -7073,6 +7453,18 @@
       "navegacion"
     ],
     "animation": "nudge-diag"
+  },
+  "notes-medical": {
+    "category": "Health",
+    "tags": [
+      "notes",
+      "medical",
+      "clipboard",
+      "record",
+      "health",
+      "history"
+    ],
+    "animation": "pulse"
   },
   "number-0": {
     "category": "Letters & Numbers",
@@ -7214,6 +7606,17 @@
     ],
     "animation": "pulse"
   },
+  "peace": {
+    "category": "Religion",
+    "tags": [
+      "peace",
+      "symbol",
+      "hippie",
+      "love",
+      "paz"
+    ],
+    "animation": "spin-slow"
+  },
   "pencil": {
     "category": "Actions",
     "tags": [
@@ -7238,6 +7641,30 @@
       "porcentaje"
     ],
     "animation": "spin-slow"
+  },
+  "person": {
+    "category": "People",
+    "tags": [
+      "person",
+      "human",
+      "man",
+      "figure",
+      "body",
+      "persona"
+    ],
+    "animation": "bounce"
+  },
+  "person-walking": {
+    "category": "People",
+    "tags": [
+      "person",
+      "walking",
+      "walk",
+      "pedestrian",
+      "exercise",
+      "caminar"
+    ],
+    "animation": "bounce"
   },
   "phone": {
     "category": "Communication",
@@ -7302,6 +7729,43 @@
       "instrumento"
     ],
     "animation": "beat"
+  },
+  "piano-keyboard": {
+    "category": "Music & Audio",
+    "tags": [
+      "piano",
+      "keyboard",
+      "keys",
+      "music",
+      "instrument",
+      "teclado"
+    ],
+    "animation": "pulse"
+  },
+  "pills": {
+    "category": "Health",
+    "tags": [
+      "pills",
+      "capsule",
+      "tablet",
+      "medicine",
+      "pharmacy",
+      "pastillas"
+    ],
+    "animation": "rock"
+  },
+  "place-of-worship": {
+    "category": "Religion",
+    "tags": [
+      "place",
+      "of",
+      "worship",
+      "temple",
+      "religion",
+      "building",
+      "templo"
+    ],
+    "animation": "bounce"
   },
   "play": {
     "category": "Media",
@@ -7371,6 +7835,18 @@
     ],
     "animation": "pulse"
   },
+  "prescription-bottle": {
+    "category": "Health",
+    "tags": [
+      "prescription",
+      "bottle",
+      "medicine",
+      "pills",
+      "pharmacy",
+      "frasco"
+    ],
+    "animation": "wiggle"
+  },
   "print": {
     "category": "Objects",
     "tags": [
@@ -7419,6 +7895,17 @@
     ],
     "animation": "pop"
   },
+  "radio": {
+    "category": "Music & Audio",
+    "tags": [
+      "radio",
+      "fm",
+      "am",
+      "music",
+      "broadcast"
+    ],
+    "animation": "beat"
+  },
   "radio-button": {
     "category": "Interface",
     "tags": [
@@ -7460,6 +7947,18 @@
       "factura"
     ],
     "animation": "float"
+  },
+  "record-vinyl": {
+    "category": "Music & Audio",
+    "tags": [
+      "record",
+      "vinyl",
+      "disc",
+      "music",
+      "album",
+      "disco"
+    ],
+    "animation": "spin-slow"
   },
   "redo": {
     "category": "Arrows",
@@ -7556,6 +8055,27 @@
       "clases"
     ],
     "animation": "bounce"
+  },
+  "scissors": {
+    "category": "Actions",
+    "tags": [
+      "scissors",
+      "cut",
+      "tijeras"
+    ],
+    "animation": "wiggle"
+  },
+  "scroll-torah": {
+    "category": "Religion",
+    "tags": [
+      "scroll",
+      "torah",
+      "judaism",
+      "book",
+      "scripture",
+      "rollo"
+    ],
+    "animation": "flip"
   },
   "search": {
     "category": "Actions",
@@ -7739,6 +8259,18 @@
       "senal"
     ],
     "animation": "shake"
+  },
+  "siren": {
+    "category": "Security",
+    "tags": [
+      "siren",
+      "alarm",
+      "emergency",
+      "police",
+      "alert",
+      "sirena"
+    ],
+    "animation": "flash"
   },
   "skip-back": {
     "category": "Media",
@@ -8591,6 +9123,30 @@
     ],
     "animation": "star"
   },
+  "star-of-david": {
+    "category": "Religion",
+    "tags": [
+      "star",
+      "of",
+      "david",
+      "judaism",
+      "hexagram",
+      "estrella"
+    ],
+    "animation": "spin-slow"
+  },
+  "stethoscope": {
+    "category": "Health",
+    "tags": [
+      "stethoscope",
+      "doctor",
+      "medical",
+      "health",
+      "checkup",
+      "estetoscopio"
+    ],
+    "animation": "swing"
+  },
   "stop": {
     "category": "Media",
     "tags": [
@@ -8635,6 +9191,29 @@
     ],
     "animation": "spin-slow"
   },
+  "synagogue": {
+    "category": "Religion",
+    "tags": [
+      "synagogue",
+      "judaism",
+      "religion",
+      "building",
+      "sinagoga"
+    ],
+    "animation": "bounce"
+  },
+  "syringe": {
+    "category": "Health",
+    "tags": [
+      "syringe",
+      "injection",
+      "vaccine",
+      "needle",
+      "medicine",
+      "jeringa"
+    ],
+    "animation": "wiggle"
+  },
   "table": {
     "category": "Interface",
     "tags": [
@@ -8656,6 +9235,17 @@
       "screen"
     ],
     "animation": "bounce"
+  },
+  "tablets": {
+    "category": "Health",
+    "tags": [
+      "tablets",
+      "pills",
+      "medicine",
+      "pharmacy",
+      "pastillas"
+    ],
+    "animation": "rock"
   },
   "tag": {
     "category": "Objects",
@@ -8742,6 +9332,28 @@
       "odontologia"
     ],
     "animation": "wiggle"
+  },
+  "toothbrush": {
+    "category": "Health",
+    "tags": [
+      "toothbrush",
+      "teeth",
+      "dental",
+      "hygiene",
+      "cepillo"
+    ],
+    "animation": "wiggle"
+  },
+  "torii-gate": {
+    "category": "Religion",
+    "tags": [
+      "torii",
+      "gate",
+      "shinto",
+      "japan",
+      "shrine"
+    ],
+    "animation": "bounce"
   },
   "trash": {
     "category": "Actions",
@@ -8879,6 +9491,17 @@
     ],
     "animation": "shake"
   },
+  "trumpet": {
+    "category": "Music & Audio",
+    "tags": [
+      "trumpet",
+      "brass",
+      "music",
+      "instrument",
+      "trompeta"
+    ],
+    "animation": "beat"
+  },
   "umbrella": {
     "category": "Weather",
     "tags": [
@@ -8959,6 +9582,18 @@
     ],
     "animation": "bounce"
   },
+  "user-lock": {
+    "category": "Security",
+    "tags": [
+      "user",
+      "lock",
+      "private",
+      "account",
+      "secure",
+      "locked"
+    ],
+    "animation": "shake"
+  },
   "user-minus": {
     "category": "People",
     "tags": [
@@ -8981,6 +9616,30 @@
       "invite",
       "agregar",
       "usuario"
+    ],
+    "animation": "bounce"
+  },
+  "user-shield": {
+    "category": "Security",
+    "tags": [
+      "user",
+      "shield",
+      "protected",
+      "account",
+      "security",
+      "admin"
+    ],
+    "animation": "pulse"
+  },
+  "user-tie": {
+    "category": "People",
+    "tags": [
+      "user",
+      "tie",
+      "business",
+      "office",
+      "employee",
+      "formal"
     ],
     "animation": "bounce"
   },
@@ -9010,6 +9669,32 @@
       "gente"
     ],
     "animation": "bounce"
+  },
+  "vault": {
+    "category": "Security",
+    "tags": [
+      "vault",
+      "safe",
+      "bank",
+      "money",
+      "secure",
+      "caja",
+      "fuerte"
+    ],
+    "animation": "turn-key"
+  },
+  "vial": {
+    "category": "Health",
+    "tags": [
+      "vial",
+      "test",
+      "tube",
+      "lab",
+      "sample",
+      "medicine",
+      "tubo"
+    ],
+    "animation": "wiggle"
   },
   "video": {
     "category": "Media",
@@ -9045,6 +9730,28 @@
     ],
     "animation": "pulse"
   },
+  "vihara": {
+    "category": "Religion",
+    "tags": [
+      "vihara",
+      "pagoda",
+      "temple",
+      "buddhism",
+      "templo"
+    ],
+    "animation": "bounce"
+  },
+  "virus": {
+    "category": "Health",
+    "tags": [
+      "virus",
+      "germ",
+      "infection",
+      "disease",
+      "bacteria"
+    ],
+    "animation": "spin-slow"
+  },
   "volume": {
     "category": "Media",
     "tags": [
@@ -9054,6 +9761,18 @@
       "speaker",
       "volumen",
       "sonido"
+    ],
+    "animation": "beat"
+  },
+  "volume-low": {
+    "category": "Music & Audio",
+    "tags": [
+      "volume",
+      "low",
+      "sound",
+      "quiet",
+      "speaker",
+      "audio"
     ],
     "animation": "beat"
   },
@@ -9091,6 +9810,18 @@
       "payment",
       "purse",
       "billetera"
+    ],
+    "animation": "bounce"
+  },
+  "weight-scale": {
+    "category": "Health",
+    "tags": [
+      "weight",
+      "scale",
+      "bathroom",
+      "body",
+      "mass",
+      "bascula"
     ],
     "animation": "bounce"
   },
@@ -9165,6 +9896,18 @@
       "equis"
     ],
     "animation": "quarter"
+  },
+  "yin-yang": {
+    "category": "Religion",
+    "tags": [
+      "yin",
+      "yang",
+      "balance",
+      "taoism",
+      "harmony",
+      "equilibrio"
+    ],
+    "animation": "spin-slow"
   },
   "zoom-in": {
     "category": "Interface",
