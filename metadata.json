@@ -12684,6 +12684,28 @@
     "animation": "wave",
     "origin": "50% 100%"
   },
+  "hand-holding": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "holding",
+      "support",
+      "give",
+      "receive"
+    ],
+    "animation": "float"
+  },
+  "hand-holding-box": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "holding",
+      "box",
+      "delivery",
+      "package"
+    ],
+    "animation": "float"
+  },
   "hand-holding-dollar": {
     "category": "People",
     "tags": [
@@ -12742,6 +12764,51 @@
     ],
     "animation": "float"
   },
+  "hand-holding-star": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "holding",
+      "star",
+      "favorite",
+      "reward"
+    ],
+    "animation": "star"
+  },
+  "hand-peace": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "peace",
+      "victory",
+      "two",
+      "fingers"
+    ],
+    "animation": "wiggle"
+  },
+  "hand-pointer": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-up"
+  },
+  "hand-wave": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "wave",
+      "hello",
+      "hi",
+      "goodbye"
+    ],
+    "animation": "wave"
+  },
   "handcuffs": {
     "category": "Security",
     "tags": [
@@ -12752,6 +12819,39 @@
       "esposas"
     ],
     "animation": "swing"
+  },
+  "hands-clapping": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "clapping",
+      "applause",
+      "bravo"
+    ],
+    "animation": "shake"
+  },
+  "handshake": {
+    "category": "People",
+    "tags": [
+      "handshake",
+      "agreement",
+      "deal",
+      "partnership"
+    ],
+    "animation": "shake"
+  },
+  "handshake-slash": {
+    "category": "People",
+    "tags": [
+      "handshake",
+      "slash",
+      "no",
+      "deal",
+      "broken",
+      "agreement",
+      "partnership"
+    ],
+    "animation": "shake"
   },
   "hard-drive": {
     "category": "Technology",
@@ -12798,6 +12898,18 @@
     ],
     "animation": "rock"
   },
+  "hat-santa": {
+    "category": "Religion",
+    "tags": [
+      "hat",
+      "santa",
+      "christmas",
+      "holiday",
+      "navidad"
+    ],
+    "animation": "swing",
+    "origin": "50% 90%"
+  },
   "hat-winter": {
     "category": "Objects",
     "tags": [
@@ -12808,6 +12920,17 @@
       "gorro"
     ],
     "animation": "rock"
+  },
+  "hat-witch": {
+    "category": "Objects",
+    "tags": [
+      "hat",
+      "witch",
+      "halloween",
+      "magic",
+      "bruja"
+    ],
+    "animation": "swing"
   },
   "hat-wizard": {
     "category": "Objects",
@@ -13021,6 +13144,18 @@
     ],
     "animation": "float"
   },
+  "helmet-safety": {
+    "category": "Objects",
+    "tags": [
+      "helmet",
+      "safety",
+      "construction",
+      "hard",
+      "hat",
+      "casco"
+    ],
+    "animation": "pop"
+  },
   "hexagon": {
     "category": "Interface",
     "tags": [
@@ -13031,6 +13166,95 @@
       "hexagono"
     ],
     "animation": "spin-slow"
+  },
+  "hexagon-check": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "check",
+      "done",
+      "verified",
+      "ok",
+      "shape",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "hexagon-divide": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "divide",
+      "division",
+      "math",
+      "shape",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "hexagon-equals": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "equals",
+      "equal",
+      "same",
+      "math",
+      "shape",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "hexagon-exclamation": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "exclamation",
+      "warning",
+      "alert",
+      "error",
+      "shape",
+      "badge"
+    ],
+    "animation": "shake"
+  },
+  "hexagon-minus": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "minus",
+      "remove",
+      "subtract",
+      "shape",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "hexagon-plus": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "plus",
+      "add",
+      "new",
+      "create",
+      "shape",
+      "badge"
+    ],
+    "animation": "pop"
+  },
+  "hexagon-xmark": {
+    "category": "Interface",
+    "tags": [
+      "hexagon",
+      "xmark",
+      "close",
+      "error",
+      "cancel",
+      "shape",
+      "badge"
+    ],
+    "animation": "pop"
   },
   "highlighter": {
     "category": "Interface",
@@ -13054,6 +13278,16 @@
       "autopista"
     ],
     "animation": "drive"
+  },
+  "hippo": {
+    "category": "Nature",
+    "tags": [
+      "hippo",
+      "hippopotamus",
+      "animal",
+      "zoo"
+    ],
+    "animation": "wobble"
   },
   "hockey-puck": {
     "category": "Objects",
@@ -13092,6 +13326,27 @@
     "animation": "swing",
     "origin": "50% 10%"
   },
+  "horizontal-rule": {
+    "category": "Interface",
+    "tags": [
+      "horizontal",
+      "rule",
+      "line",
+      "divider",
+      "separator"
+    ],
+    "animation": "pop"
+  },
+  "horse-head": {
+    "category": "Nature",
+    "tags": [
+      "horse",
+      "head",
+      "animal",
+      "caballo"
+    ],
+    "animation": "rock"
+  },
   "horseshoe": {
     "category": "Objects",
     "tags": [
@@ -13113,6 +13368,27 @@
       "emergency"
     ],
     "animation": "pulse"
+  },
+  "hospital-user": {
+    "category": "Health",
+    "tags": [
+      "hospital",
+      "user",
+      "patient",
+      "doctor"
+    ],
+    "animation": "pop"
+  },
+  "hotel": {
+    "category": "Places",
+    "tags": [
+      "hotel",
+      "building",
+      "travel",
+      "lodging",
+      "stay"
+    ],
+    "animation": "pop"
   },
   "hourglass": {
     "category": "Interface",
@@ -13195,6 +13471,40 @@
     ],
     "animation": "pop"
   },
+  "house-chimney-medical": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "chimney",
+      "medical",
+      "clinic",
+      "health",
+      "home"
+    ],
+    "animation": "pop"
+  },
+  "house-chimney-user": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "chimney",
+      "user",
+      "resident",
+      "home"
+    ],
+    "animation": "pop"
+  },
+  "house-chimney-window": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "chimney",
+      "window",
+      "building",
+      "home"
+    ],
+    "animation": "pop"
+  },
   "house-circle-check": {
     "category": "Places",
     "tags": [
@@ -13240,6 +13550,17 @@
     ],
     "animation": "shake"
   },
+  "house-fire": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "fire",
+      "emergency",
+      "burning",
+      "home"
+    ],
+    "animation": "flicker"
+  },
   "house-flag": {
     "category": "Places",
     "tags": [
@@ -13248,6 +13569,17 @@
       "claimed",
       "territory",
       "home"
+    ],
+    "animation": "wave"
+  },
+  "house-flood-water": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "flood",
+      "water",
+      "disaster",
+      "inundacion"
     ],
     "animation": "wave"
   },
@@ -13262,6 +13594,18 @@
       "home"
     ],
     "animation": "beat"
+  },
+  "house-laptop": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "laptop",
+      "remote",
+      "work",
+      "home",
+      "office"
+    ],
+    "animation": "pop"
   },
   "house-lock": {
     "category": "Places",
@@ -13286,6 +13630,17 @@
       "home"
     ],
     "animation": "pulse"
+  },
+  "house-medical-flag": {
+    "category": "Health",
+    "tags": [
+      "house",
+      "medical",
+      "flag",
+      "hospital",
+      "clinic"
+    ],
+    "animation": "wave"
   },
   "house-signal": {
     "category": "Places",
@@ -13313,6 +13668,17 @@
       "inicio"
     ],
     "animation": "shake"
+  },
+  "house-unlock": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "unlock",
+      "open",
+      "access",
+      "home"
+    ],
+    "animation": "pop"
   },
   "house-user": {
     "category": "Places",
@@ -13359,6 +13725,18 @@
       "helado"
     ],
     "animation": "wobble"
+  },
+  "id-badge": {
+    "category": "Security",
+    "tags": [
+      "id",
+      "badge",
+      "identification",
+      "employee",
+      "pass"
+    ],
+    "animation": "swing",
+    "origin": "50% 0%"
   },
   "id-card": {
     "category": "People",
@@ -13644,6 +14022,17 @@
     ],
     "animation": "pop"
   },
+  "jet-fighter": {
+    "category": "Places",
+    "tags": [
+      "jet",
+      "fighter",
+      "plane",
+      "military",
+      "aircraft"
+    ],
+    "animation": "nudge-right"
+  },
   "joystick": {
     "category": "Technology",
     "tags": [
@@ -13663,6 +14052,17 @@
       "water",
       "milk",
       "jarra"
+    ],
+    "animation": "rock"
+  },
+  "jug-detergent": {
+    "category": "Objects",
+    "tags": [
+      "jug",
+      "detergent",
+      "bottle",
+      "laundry",
+      "soap"
     ],
     "animation": "rock"
   },
@@ -13779,6 +14179,17 @@
       "cometa"
     ],
     "animation": "float"
+  },
+  "kiwi-bird": {
+    "category": "Nature",
+    "tags": [
+      "kiwi",
+      "bird",
+      "new",
+      "zealand",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "kiwi-fruit": {
     "category": "Nature",
