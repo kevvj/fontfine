@@ -13434,6 +13434,95 @@
     ],
     "animation": "bounce"
   },
+  "person-arms-raised": {
+    "category": "People",
+    "tags": [
+      "person",
+      "arms",
+      "raised",
+      "celebrate",
+      "happy",
+      "victory"
+    ],
+    "animation": "bounce"
+  },
+  "person-circle-check": {
+    "category": "People",
+    "tags": [
+      "person",
+      "circle",
+      "check",
+      "user",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "person-circle-exclamation": {
+    "category": "People",
+    "tags": [
+      "person",
+      "circle",
+      "exclamation",
+      "user",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "person-circle-minus": {
+    "category": "People",
+    "tags": [
+      "person",
+      "circle",
+      "minus",
+      "user",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "person-circle-plus": {
+    "category": "People",
+    "tags": [
+      "person",
+      "circle",
+      "plus",
+      "user",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "person-circle-question": {
+    "category": "People",
+    "tags": [
+      "person",
+      "circle",
+      "question",
+      "user",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "person-circle-xmark": {
+    "category": "People",
+    "tags": [
+      "person",
+      "circle",
+      "xmark",
+      "user",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "person-dress": {
+    "category": "People",
+    "tags": [
+      "person",
+      "dress",
+      "woman",
+      "female",
+      "user"
+    ],
+    "animation": "pop"
+  },
   "person-walking": {
     "category": "People",
     "tags": [
@@ -13454,6 +13543,54 @@
       "telephone",
       "telefono",
       "llamar"
+    ],
+    "animation": "ring"
+  },
+  "phone-arrow-down-left": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "arrow",
+      "down",
+      "left",
+      "incoming",
+      "received",
+      "call"
+    ],
+    "animation": "ring"
+  },
+  "phone-arrow-right": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "arrow",
+      "right",
+      "forward",
+      "transfer",
+      "call"
+    ],
+    "animation": "ring"
+  },
+  "phone-arrow-up-right": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "arrow",
+      "up",
+      "right",
+      "outgoing",
+      "dialed",
+      "call"
+    ],
+    "animation": "ring"
+  },
+  "phone-missed": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "missed",
+      "call",
+      "lost"
     ],
     "animation": "ring"
   },
@@ -13482,6 +13619,18 @@
       "llamar"
     ],
     "animation": "shake"
+  },
+  "phone-volume": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "volume",
+      "loud",
+      "speaker",
+      "sound",
+      "call"
+    ],
+    "animation": "ring"
   },
   "phone-xmark": {
     "category": "Communication",
@@ -13522,6 +13671,62 @@
     ],
     "animation": "pulse"
   },
+  "pickaxe": {
+    "category": "Objects",
+    "tags": [
+      "pickaxe",
+      "mining",
+      "tool",
+      "dig",
+      "pico"
+    ],
+    "animation": "swing"
+  },
+  "picture-in-picture": {
+    "category": "Media",
+    "tags": [
+      "picture",
+      "in",
+      "pip",
+      "video",
+      "overlay"
+    ],
+    "animation": "pop"
+  },
+  "piggy-bank": {
+    "category": "Objects",
+    "tags": [
+      "piggy",
+      "bank",
+      "savings",
+      "money",
+      "save",
+      "alcancia"
+    ],
+    "animation": "rock"
+  },
+  "pill": {
+    "category": "Health",
+    "tags": [
+      "pill",
+      "capsule",
+      "medicine",
+      "drug",
+      "pastilla"
+    ],
+    "animation": "rock"
+  },
+  "pillow": {
+    "category": "Objects",
+    "tags": [
+      "pillow",
+      "cushion",
+      "sleep",
+      "bed",
+      "almohada"
+    ],
+    "animation": "wobble"
+  },
   "pills": {
     "category": "Health",
     "tags": [
@@ -13533,6 +13738,56 @@
       "pastillas"
     ],
     "animation": "rock"
+  },
+  "pin": {
+    "category": "Objects",
+    "tags": [
+      "pin",
+      "pushpin",
+      "thumbtack",
+      "attach",
+      "board",
+      "chincheta"
+    ],
+    "animation": "bounce"
+  },
+  "pin-slash": {
+    "category": "Objects",
+    "tags": [
+      "pin",
+      "slash",
+      "unpin",
+      "remove",
+      "detach",
+      "pushpin",
+      "thumbtack",
+      "attach",
+      "board",
+      "chincheta"
+    ],
+    "animation": "shake"
+  },
+  "pineapple": {
+    "category": "Nature",
+    "tags": [
+      "pineapple",
+      "fruit",
+      "tropical",
+      "food",
+      "piña"
+    ],
+    "animation": "rock"
+  },
+  "pizza-slice": {
+    "category": "Objects",
+    "tags": [
+      "pizza",
+      "slice",
+      "food",
+      "fast",
+      "italian"
+    ],
+    "animation": "pop"
   },
   "place-of-worship": {
     "category": "Religion",
@@ -13547,6 +13802,144 @@
     ],
     "animation": "bounce"
   },
+  "plane": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "trip",
+      "airport",
+      "airplane",
+      "flight",
+      "travel",
+      "avion"
+    ],
+    "animation": "float"
+  },
+  "plane-arrival": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "arrival",
+      "landing",
+      "airport",
+      "flight",
+      "airplane"
+    ],
+    "animation": "nudge-down"
+  },
+  "plane-circle-check": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "circle",
+      "check",
+      "flight",
+      "status",
+      "airplane"
+    ],
+    "animation": "pop"
+  },
+  "plane-circle-exclamation": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "circle",
+      "exclamation",
+      "flight",
+      "status",
+      "airplane"
+    ],
+    "animation": "pop"
+  },
+  "plane-circle-xmark": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "circle",
+      "xmark",
+      "flight",
+      "status",
+      "airplane"
+    ],
+    "animation": "pop"
+  },
+  "plane-departure": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "departure",
+      "takeoff",
+      "airport",
+      "flight",
+      "airplane"
+    ],
+    "animation": "nudge-up"
+  },
+  "plane-slash": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "slash",
+      "no",
+      "flights",
+      "cancelled",
+      "airplane",
+      "trip",
+      "airport",
+      "flight",
+      "travel"
+    ],
+    "animation": "shake"
+  },
+  "plane-up": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "up",
+      "takeoff",
+      "north",
+      "airplane",
+      "flight",
+      "travel",
+      "avion"
+    ],
+    "animation": "float"
+  },
+  "planet-moon": {
+    "category": "Nature",
+    "tags": [
+      "planet",
+      "moon",
+      "space",
+      "astronomy",
+      "orbit"
+    ],
+    "animation": "spin-slow"
+  },
+  "planet-ringed": {
+    "category": "Nature",
+    "tags": [
+      "planet",
+      "ringed",
+      "saturn",
+      "space",
+      "astronomy"
+    ],
+    "animation": "spin-slow"
+  },
+  "plate-utensils": {
+    "category": "Objects",
+    "tags": [
+      "plate",
+      "utensils",
+      "dinner",
+      "food",
+      "restaurant",
+      "fork",
+      "knife"
+    ],
+    "animation": "pop"
+  },
   "play": {
     "category": "Media",
     "tags": [
@@ -13558,6 +13951,17 @@
     ],
     "animation": "nudge-right"
   },
+  "play-pause": {
+    "category": "Media",
+    "tags": [
+      "play",
+      "pause",
+      "toggle",
+      "media",
+      "control"
+    ],
+    "animation": "pop"
+  },
   "plug": {
     "category": "Technology",
     "tags": [
@@ -13568,6 +13972,78 @@
       "enchufe"
     ],
     "animation": "wiggle"
+  },
+  "plug-circle-bolt": {
+    "category": "Technology",
+    "tags": [
+      "plug",
+      "circle",
+      "bolt",
+      "power",
+      "electricity",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "plug-circle-check": {
+    "category": "Technology",
+    "tags": [
+      "plug",
+      "circle",
+      "check",
+      "power",
+      "electricity",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "plug-circle-exclamation": {
+    "category": "Technology",
+    "tags": [
+      "plug",
+      "circle",
+      "exclamation",
+      "power",
+      "electricity",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "plug-circle-minus": {
+    "category": "Technology",
+    "tags": [
+      "plug",
+      "circle",
+      "minus",
+      "power",
+      "electricity",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "plug-circle-plus": {
+    "category": "Technology",
+    "tags": [
+      "plug",
+      "circle",
+      "plus",
+      "power",
+      "electricity",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "plug-circle-xmark": {
+    "category": "Technology",
+    "tags": [
+      "plug",
+      "circle",
+      "xmark",
+      "power",
+      "electricity",
+      "status"
+    ],
+    "animation": "pop"
   },
   "plus": {
     "category": "Actions",
@@ -13584,6 +14060,17 @@
       "añadir"
     ],
     "animation": "quarter"
+  },
+  "plus-minus": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "plus",
+      "minus",
+      "math",
+      "tolerance",
+      "approximately"
+    ],
+    "animation": "pop"
   },
   "podium": {
     "category": "Objects",
