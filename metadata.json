@@ -8932,16 +8932,6 @@
     ],
     "animation": "wobble"
   },
-  "function": {
-    "category": "Letters & Numbers",
-    "tags": [
-      "function",
-      "math",
-      "fx",
-      "formula"
-    ],
-    "animation": "pop"
-  },
   "funnel": {
     "category": "Interface",
     "tags": [
@@ -9956,6 +9946,16 @@
       "marcador"
     ],
     "animation": "bounce"
+  },
+  "math-function": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "function",
+      "math",
+      "fx",
+      "formula"
+    ],
+    "animation": "pop"
   },
   "maximize": {
     "category": "Arrows",
