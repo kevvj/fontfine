@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 2120 / 3779**
+**Progress: 2150 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1328,51 +1328,51 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] weight-scale
 - [x] x-ray
 
-## Money (9/43)
+## Money (36/43)
 
-- [ ] austral-sign
-- [ ] baht-sign
+- [x] austral-sign
+- [x] baht-sign
 - [ ] bangladeshi-taka-sign
-- [ ] bitcoin-sign
-- [ ] brazilian-real-sign
+- [x] bitcoin-sign
+- [x] brazilian-real-sign
 - [x] cash-register
-- [ ] cedi-sign
-- [ ] cent-sign
+- [x] cedi-sign
+- [x] cent-sign
 - [x] coins
-- [ ] colon-sign
+- [x] colon-sign
 - [x] credit-card
 - [ ] cruzeiro-sign
-- [ ] dong-sign
+- [x] dong-sign
 - [x] euro-sign
 - [x] file-invoice
 - [x] file-invoice-dollar
-- [ ] florin-sign
-- [ ] franc-sign
-- [ ] guarani-sign
-- [ ] hryvnia-sign
-- [ ] indian-rupee-sign
-- [ ] kip-sign
-- [ ] lari-sign
+- [x] florin-sign
+- [x] franc-sign
+- [x] guarani-sign
+- [x] hryvnia-sign
+- [x] indian-rupee-sign
+- [x] kip-sign
+- [x] lari-sign
 - [ ] lira-sign
-- [ ] litecoin-sign
-- [ ] manat-sign
+- [x] litecoin-sign
+- [x] manat-sign
 - [ ] mill-sign
 - [ ] money-bill-1-wave
 - [x] money-bill-wave
 - [x] money-check
 - [x] money-check-dollar
-- [ ] naira-sign
+- [x] naira-sign
 - [ ] peseta-sign
-- [ ] peso-sign
-- [ ] ruble-sign
-- [ ] rupee-sign
+- [x] peso-sign
+- [x] ruble-sign
+- [x] rupee-sign
 - [ ] rupiah-sign
-- [ ] shekel-sign
-- [ ] sterling-sign
-- [ ] tenge-sign
-- [ ] turkish-lira-sign
-- [ ] won-sign
-- [ ] yen-sign
+- [x] shekel-sign
+- [x] sterling-sign
+- [x] tenge-sign
+- [x] turkish-lira-sign
+- [x] won-sign
+- [x] yen-sign
 
 ## Moving (3/6)
 
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] butter
 - [x] butterfly
 
-## Extended: C (300/423)
+## Extended: C (301/423)
 
 - [x] cabin
 - [x] cabinet-filing
@@ -2378,7 +2378,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] cup-togo
 - [x] cupcake
 - [ ] curling-stone
-- [ ] currency-sign
+- [x] currency-sign
 - [ ] custard
 
 ## Extended: D (55/78)
@@ -3183,7 +3183,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] overline
 - [x] owl
 
-## Extended: P (44/152)
+## Extended: P (45/152)
 
 - [ ] padel
 - [ ] padel-ball
@@ -3317,7 +3317,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] podium-star
 - [x] poker-chip
 - [ ] police-box
-- [ ] polish-zloty-sign
+- [x] polish-zloty-sign
 - [ ] poll-people
 - [ ] pompebled
 - [ ] pool-8-ball
@@ -3733,7 +3733,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] swords-laser
 - [ ] symbols
 
-## Extended: T (43/166)
+## Extended: T (44/166)
 
 - [ ] t-rex
 - [ ] table-bar
@@ -3888,7 +3888,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] truck-utensils
 - [x] trumpet
 - [ ] tty-answer
-- [ ] tugrik-sign
+- [x] tugrik-sign
 - [ ] turkey
 - [ ] turn-down-left
 - [ ] turn-down-right
