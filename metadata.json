@@ -14821,6 +14821,51 @@
     ],
     "animation": "rock"
   },
+  "sack": {
+    "category": "Objects",
+    "tags": [
+      "sack",
+      "bag",
+      "money",
+      "loot",
+      "saco"
+    ],
+    "animation": "rock"
+  },
+  "sack-dollar": {
+    "category": "Objects",
+    "tags": [
+      "sack",
+      "dollar",
+      "money",
+      "bag",
+      "wealth"
+    ],
+    "animation": "rock"
+  },
+  "sailboat": {
+    "category": "Places",
+    "tags": [
+      "sailboat",
+      "boat",
+      "sail",
+      "sea",
+      "velero"
+    ],
+    "animation": "float"
+  },
+  "satellite-dish": {
+    "category": "Technology",
+    "tags": [
+      "satellite",
+      "dish",
+      "antenna",
+      "signal",
+      "tv",
+      "broadcast"
+    ],
+    "animation": "signal"
+  },
   "save": {
     "category": "Files",
     "tags": [
@@ -14831,6 +14876,29 @@
       "disquete"
     ],
     "animation": "bounce"
+  },
+  "scale-balanced": {
+    "category": "Objects",
+    "tags": [
+      "scale",
+      "balanced",
+      "justice",
+      "law",
+      "legal",
+      "balanza"
+    ],
+    "animation": "swing"
+  },
+  "scalpel": {
+    "category": "Health",
+    "tags": [
+      "scalpel",
+      "surgery",
+      "medical",
+      "cut",
+      "bisturi"
+    ],
+    "animation": "rock"
   },
   "scan": {
     "category": "Actions",
@@ -14861,6 +14929,39 @@
     ],
     "animation": "bounce"
   },
+  "school-circle-check": {
+    "category": "Places",
+    "tags": [
+      "school",
+      "circle",
+      "check",
+      "education",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "school-circle-exclamation": {
+    "category": "Places",
+    "tags": [
+      "school",
+      "circle",
+      "exclamation",
+      "education",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "school-circle-xmark": {
+    "category": "Places",
+    "tags": [
+      "school",
+      "circle",
+      "xmark",
+      "education",
+      "status"
+    ],
+    "animation": "pop"
+  },
   "scissors": {
     "category": "Actions",
     "tags": [
@@ -14869,6 +14970,28 @@
       "tijeras"
     ],
     "animation": "wiggle"
+  },
+  "screwdriver": {
+    "category": "Objects",
+    "tags": [
+      "screwdriver",
+      "tool",
+      "fix",
+      "repair",
+      "destornillador"
+    ],
+    "animation": "rock"
+  },
+  "scroll": {
+    "category": "Objects",
+    "tags": [
+      "scroll",
+      "paper",
+      "document",
+      "parchment",
+      "old"
+    ],
+    "animation": "flip"
   },
   "scroll-torah": {
     "category": "Religion",
@@ -14881,6 +15004,17 @@
       "rollo"
     ],
     "animation": "flip"
+  },
+  "sd-card": {
+    "category": "Technology",
+    "tags": [
+      "sd",
+      "card",
+      "memory",
+      "storage",
+      "camera"
+    ],
+    "animation": "pop"
   },
   "search": {
     "category": "Actions",
@@ -14920,6 +15054,18 @@
     ],
     "animation": "pulse"
   },
+  "shapes": {
+    "category": "Interface",
+    "tags": [
+      "shapes",
+      "geometry",
+      "circle",
+      "triangle",
+      "square",
+      "design"
+    ],
+    "animation": "pop"
+  },
   "share": {
     "category": "Communication",
     "tags": [
@@ -14927,6 +15073,17 @@
       "network",
       "send",
       "compartir"
+    ],
+    "animation": "pop"
+  },
+  "share-nodes": {
+    "category": "Communication",
+    "tags": [
+      "share",
+      "nodes",
+      "network",
+      "social",
+      "connect"
     ],
     "animation": "pop"
   },
@@ -14953,6 +15110,19 @@
     ],
     "animation": "pulse"
   },
+  "shield-cross": {
+    "category": "Security",
+    "tags": [
+      "shield",
+      "cross",
+      "church",
+      "medical",
+      "faith",
+      "security",
+      "protection"
+    ],
+    "animation": "pop"
+  },
   "shield-exclamation": {
     "category": "Security",
     "tags": [
@@ -14965,6 +15135,17 @@
     ],
     "animation": "pulse"
   },
+  "shield-halved": {
+    "category": "Security",
+    "tags": [
+      "shield",
+      "halved",
+      "half",
+      "security",
+      "protection"
+    ],
+    "animation": "pop"
+  },
   "shield-heart": {
     "category": "Security",
     "tags": [
@@ -14976,6 +15157,19 @@
       "seguridad"
     ],
     "animation": "pulse"
+  },
+  "shield-keyhole": {
+    "category": "Security",
+    "tags": [
+      "shield",
+      "keyhole",
+      "lock",
+      "access",
+      "secure",
+      "security",
+      "protection"
+    ],
+    "animation": "pop"
   },
   "shield-minus": {
     "category": "Security",
@@ -15015,6 +15209,31 @@
     ],
     "animation": "shake"
   },
+  "shield-user": {
+    "category": "Security",
+    "tags": [
+      "shield",
+      "user",
+      "account",
+      "person",
+      "protected",
+      "security",
+      "protection"
+    ],
+    "animation": "pop"
+  },
+  "shield-virus": {
+    "category": "Security",
+    "tags": [
+      "shield",
+      "virus",
+      "antivirus",
+      "malware",
+      "protection",
+      "security"
+    ],
+    "animation": "pop"
+  },
   "shield-xmark": {
     "category": "Security",
     "tags": [
@@ -15027,6 +15246,78 @@
     ],
     "animation": "pulse"
   },
+  "ship": {
+    "category": "Places",
+    "tags": [
+      "ship",
+      "boat",
+      "cruise",
+      "vessel",
+      "barco"
+    ],
+    "animation": "float"
+  },
+  "ship-slash": {
+    "category": "Places",
+    "tags": [
+      "ship",
+      "slash",
+      "no",
+      "boats",
+      "cancelled",
+      "boat",
+      "cruise",
+      "vessel",
+      "barco"
+    ],
+    "animation": "shake"
+  },
+  "shirt": {
+    "category": "Objects",
+    "tags": [
+      "shirt",
+      "t-shirt",
+      "clothing",
+      "tee",
+      "camiseta"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
+  "shoe-prints": {
+    "category": "People",
+    "tags": [
+      "shoe",
+      "prints",
+      "footprints",
+      "steps",
+      "walk",
+      "huellas"
+    ],
+    "animation": "pop"
+  },
+  "shovel": {
+    "category": "Objects",
+    "tags": [
+      "shovel",
+      "dig",
+      "garden",
+      "tool",
+      "pala"
+    ],
+    "animation": "rock"
+  },
+  "shower": {
+    "category": "Objects",
+    "tags": [
+      "shower",
+      "bathroom",
+      "water",
+      "wash",
+      "ducha"
+    ],
+    "animation": "drip"
+  },
   "shuffle": {
     "category": "Media",
     "tags": [
@@ -15037,6 +15328,17 @@
       "aleatorio"
     ],
     "animation": "slide"
+  },
+  "sigma": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "sigma",
+      "sum",
+      "summation",
+      "math",
+      "greek"
+    ],
+    "animation": "pop"
   },
   "signal": {
     "category": "Technology",
@@ -15049,6 +15351,75 @@
       "senal"
     ],
     "animation": "signal"
+  },
+  "signal-bars": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "bars",
+      "full",
+      "strong",
+      "excellent",
+      "strength",
+      "reception",
+      "network"
+    ],
+    "animation": "bars"
+  },
+  "signal-bars-fair": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "bars",
+      "fair",
+      "medium",
+      "strength",
+      "reception",
+      "network"
+    ],
+    "animation": "bars"
+  },
+  "signal-bars-good": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "bars",
+      "good",
+      "strength",
+      "reception",
+      "network"
+    ],
+    "animation": "bars"
+  },
+  "signal-bars-slash": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "bars",
+      "slash",
+      "no",
+      "service",
+      "offline",
+      "full",
+      "strong",
+      "excellent",
+      "strength"
+    ],
+    "animation": "shake"
+  },
+  "signal-bars-weak": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "bars",
+      "weak",
+      "poor",
+      "low",
+      "strength",
+      "reception",
+      "network"
+    ],
+    "animation": "bars"
   },
   "signal-slash": {
     "category": "Technology",
@@ -15064,6 +15435,29 @@
       "senal"
     ],
     "animation": "shake"
+  },
+  "sim-card": {
+    "category": "Technology",
+    "tags": [
+      "sim",
+      "card",
+      "mobile",
+      "phone",
+      "carrier",
+      "chip"
+    ],
+    "animation": "pop"
+  },
+  "sink": {
+    "category": "Objects",
+    "tags": [
+      "sink",
+      "kitchen",
+      "bathroom",
+      "faucet",
+      "lavabo"
+    ],
+    "animation": "pop"
   },
   "siren": {
     "category": "Security",
@@ -15098,6 +15492,17 @@
       "media"
     ],
     "animation": "nudge-right"
+  },
+  "skull": {
+    "category": "People",
+    "tags": [
+      "skull",
+      "death",
+      "danger",
+      "halloween",
+      "calavera"
+    ],
+    "animation": "wobble"
   },
   "sliders": {
     "category": "Interface",
@@ -15135,6 +15540,17 @@
     ],
     "animation": "wobble"
   },
+  "smog": {
+    "category": "Weather",
+    "tags": [
+      "smog",
+      "pollution",
+      "haze",
+      "air",
+      "quality"
+    ],
+    "animation": "float"
+  },
   "snowflake": {
     "category": "Weather",
     "tags": [
@@ -15146,6 +15562,41 @@
       "nieve"
     ],
     "animation": "spin-slow"
+  },
+  "snowman": {
+    "category": "Weather",
+    "tags": [
+      "snowman",
+      "winter",
+      "snow",
+      "christmas",
+      "muñeco",
+      "nieve"
+    ],
+    "animation": "wobble"
+  },
+  "soap": {
+    "category": "Objects",
+    "tags": [
+      "soap",
+      "clean",
+      "wash",
+      "hygiene",
+      "bubbles",
+      "jabon"
+    ],
+    "animation": "float"
+  },
+  "socks": {
+    "category": "Objects",
+    "tags": [
+      "socks",
+      "clothing",
+      "feet",
+      "winter",
+      "medias"
+    ],
+    "animation": "swing"
   },
   "solar-panel": {
     "category": "Nature",
@@ -15180,6 +15631,41 @@
     ],
     "animation": "nudge-down"
   },
+  "spade": {
+    "category": "Objects",
+    "tags": [
+      "spade",
+      "card",
+      "suit",
+      "poker",
+      "game",
+      "pica"
+    ],
+    "animation": "pop"
+  },
+  "sparkle": {
+    "category": "Interface",
+    "tags": [
+      "sparkle",
+      "shine",
+      "star",
+      "magic",
+      "glint"
+    ],
+    "animation": "glow"
+  },
+  "sparkles": {
+    "category": "Interface",
+    "tags": [
+      "sparkles",
+      "magic",
+      "ai",
+      "new",
+      "shine",
+      "stars"
+    ],
+    "animation": "glow"
+  },
   "speaker": {
     "category": "Objects",
     "tags": [
@@ -15196,6 +15682,17 @@
       "accesorio"
     ],
     "animation": "beat"
+  },
+  "spider-web": {
+    "category": "Nature",
+    "tags": [
+      "spider",
+      "web",
+      "cobweb",
+      "halloween",
+      "telaraña"
+    ],
+    "animation": "pop"
   },
   "spinner": {
     "category": "Status",
@@ -15230,6 +15727,17 @@
       "wait",
       "busy",
       "cargando"
+    ],
+    "animation": "spin"
+  },
+  "spiral": {
+    "category": "Interface",
+    "tags": [
+      "spiral",
+      "swirl",
+      "hypnosis",
+      "vortex",
+      "espiral"
     ],
     "animation": "spin"
   },
