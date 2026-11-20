@@ -22548,6 +22548,59 @@
     ],
     "animation": "star"
   },
+  "star-and-crescent": {
+    "category": "Religion",
+    "tags": [
+      "star",
+      "and",
+      "crescent",
+      "islam",
+      "muslim",
+      "moon"
+    ],
+    "animation": "glow"
+  },
+  "star-christmas": {
+    "category": "Religion",
+    "tags": [
+      "star",
+      "christmas",
+      "holiday",
+      "navidad"
+    ],
+    "animation": "glow"
+  },
+  "star-exclamation": {
+    "category": "Interface",
+    "tags": [
+      "star",
+      "exclamation",
+      "warning",
+      "important"
+    ],
+    "animation": "star"
+  },
+  "star-half": {
+    "category": "Interface",
+    "tags": [
+      "star",
+      "half",
+      "rating",
+      "review"
+    ],
+    "animation": "star"
+  },
+  "star-half-stroke": {
+    "category": "Interface",
+    "tags": [
+      "star",
+      "half",
+      "stroke",
+      "rating",
+      "partial"
+    ],
+    "animation": "star"
+  },
   "star-of-david": {
     "category": "Religion",
     "tags": [
@@ -22559,6 +22612,51 @@
       "estrella"
     ],
     "animation": "spin-slow"
+  },
+  "star-of-life": {
+    "category": "Health",
+    "tags": [
+      "star",
+      "of",
+      "life",
+      "ambulance",
+      "medical",
+      "emergency"
+    ],
+    "animation": "pulse"
+  },
+  "star-shooting": {
+    "category": "Weather",
+    "tags": [
+      "star",
+      "shooting",
+      "meteor",
+      "wish",
+      "night"
+    ],
+    "animation": "nudge-diag"
+  },
+  "stars": {
+    "category": "Weather",
+    "tags": [
+      "stars",
+      "sparkle",
+      "night",
+      "magic",
+      "shine"
+    ],
+    "animation": "glow"
+  },
+  "steak": {
+    "category": "Objects",
+    "tags": [
+      "steak",
+      "meat",
+      "beef",
+      "food",
+      "bistec"
+    ],
+    "animation": "pop"
   },
   "steering-wheel": {
     "category": "Objects",
@@ -22582,6 +22680,18 @@
       "estetoscopio"
     ],
     "animation": "swing"
+  },
+  "stocking": {
+    "category": "Religion",
+    "tags": [
+      "stocking",
+      "christmas",
+      "sock",
+      "gifts",
+      "navidad"
+    ],
+    "animation": "swing",
+    "origin": "50% 0%"
   },
   "stop": {
     "category": "Media",
@@ -22640,6 +22750,17 @@
     ],
     "animation": "rock"
   },
+  "street-view": {
+    "category": "Places",
+    "tags": [
+      "street",
+      "view",
+      "person",
+      "map",
+      "location"
+    ],
+    "animation": "bounce"
+  },
   "strikethrough": {
     "category": "Interface",
     "tags": [
@@ -22650,6 +22771,16 @@
       "tachado"
     ],
     "animation": "slide"
+  },
+  "subscript": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "subscript",
+      "text",
+      "format",
+      "math"
+    ],
+    "animation": "pop"
   },
   "suitcase": {
     "category": "Objects",
@@ -22662,6 +22793,29 @@
     ],
     "animation": "rock"
   },
+  "suitcase-medical": {
+    "category": "Health",
+    "tags": [
+      "suitcase",
+      "medical",
+      "first",
+      "aid",
+      "kit",
+      "doctor"
+    ],
+    "animation": "rock"
+  },
+  "suitcase-rolling": {
+    "category": "Objects",
+    "tags": [
+      "suitcase",
+      "rolling",
+      "luggage",
+      "travel",
+      "trolley"
+    ],
+    "animation": "drive"
+  },
   "sun": {
     "category": "Weather",
     "tags": [
@@ -22673,6 +22827,28 @@
       "claro"
     ],
     "animation": "spin-slow"
+  },
+  "sun-bright": {
+    "category": "Weather",
+    "tags": [
+      "sun",
+      "bright",
+      "sunny",
+      "day",
+      "light"
+    ],
+    "animation": "spin-slow"
+  },
+  "sun-haze": {
+    "category": "Weather",
+    "tags": [
+      "sun",
+      "haze",
+      "fog",
+      "mist",
+      "hazy"
+    ],
+    "animation": "float"
   },
   "sunglasses": {
     "category": "People",
@@ -22708,6 +22884,16 @@
     ],
     "animation": "pop"
   },
+  "superscript": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "superscript",
+      "text",
+      "format",
+      "exponent"
+    ],
+    "animation": "pop"
+  },
   "sushi": {
     "category": "Objects",
     "tags": [
@@ -22718,6 +22904,16 @@
       "fish"
     ],
     "animation": "pop"
+  },
+  "swap": {
+    "category": "Arrows",
+    "tags": [
+      "swap",
+      "exchange",
+      "switch",
+      "trade"
+    ],
+    "animation": "spin"
   },
   "sword": {
     "category": "Objects",
@@ -24421,6 +24617,16 @@
     ],
     "animation": "shake"
   },
+  "value-absolute": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "value",
+      "absolute",
+      "math",
+      "modulus"
+    ],
+    "animation": "pop"
+  },
   "van": {
     "category": "Places",
     "tags": [
@@ -24429,6 +24635,17 @@
       "transport",
       "delivery",
       "furgoneta"
+    ],
+    "animation": "drive"
+  },
+  "van-shuttle": {
+    "category": "Places",
+    "tags": [
+      "van",
+      "shuttle",
+      "bus",
+      "transport",
+      "minibus"
     ],
     "animation": "drive"
   },
@@ -24456,6 +24673,17 @@
     ],
     "animation": "pop"
   },
+  "venus-double": {
+    "category": "People",
+    "tags": [
+      "venus",
+      "double",
+      "lesbian",
+      "female",
+      "gender"
+    ],
+    "animation": "pop"
+  },
   "venus-mars": {
     "category": "People",
     "tags": [
@@ -24477,6 +24705,16 @@
     ],
     "animation": "swing",
     "origin": "50% 10%"
+  },
+  "vest-patches": {
+    "category": "Objects",
+    "tags": [
+      "vest",
+      "patches",
+      "clothing",
+      "badges"
+    ],
+    "animation": "swing"
   },
   "vhs": {
     "category": "Media",
@@ -24512,6 +24750,31 @@
       "samples"
     ],
     "animation": "float"
+  },
+  "vibrate": {
+    "category": "Technology",
+    "tags": [
+      "vibrate",
+      "phone",
+      "silent",
+      "buzz",
+      "mobile"
+    ],
+    "animation": "shake"
+  },
+  "vibrate-slash": {
+    "category": "Technology",
+    "tags": [
+      "vibrate",
+      "slash",
+      "silent",
+      "off",
+      "no",
+      "buzz",
+      "phone",
+      "mobile"
+    ],
+    "animation": "shake"
   },
   "video": {
     "category": "Media",
