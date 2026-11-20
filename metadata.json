@@ -14287,6 +14287,38 @@
     ],
     "animation": "pop"
   },
+  "landmark-dome": {
+    "category": "Places",
+    "tags": [
+      "landmark",
+      "dome",
+      "capitol",
+      "government",
+      "building"
+    ],
+    "animation": "pop"
+  },
+  "landmark-flag": {
+    "category": "Places",
+    "tags": [
+      "landmark",
+      "flag",
+      "government",
+      "building"
+    ],
+    "animation": "wave"
+  },
+  "language": {
+    "category": "Communication",
+    "tags": [
+      "language",
+      "translate",
+      "words",
+      "international",
+      "idioma"
+    ],
+    "animation": "pop"
+  },
   "lantern": {
     "category": "Objects",
     "tags": [
@@ -14352,6 +14384,16 @@
     ],
     "animation": "pulse"
   },
+  "laptop-mobile": {
+    "category": "Technology",
+    "tags": [
+      "laptop",
+      "mobile",
+      "devices",
+      "responsive"
+    ],
+    "animation": "pop"
+  },
   "laptop-slash": {
     "category": "Technology",
     "tags": [
@@ -14364,6 +14406,16 @@
       "portatil"
     ],
     "animation": "shake"
+  },
+  "lasso": {
+    "category": "Objects",
+    "tags": [
+      "lasso",
+      "rope",
+      "cowboy",
+      "select"
+    ],
+    "animation": "swing"
   },
   "layer-group": {
     "category": "Interface",
@@ -14408,6 +14460,18 @@
     ],
     "animation": "rock",
     "origin": "20% 80%"
+  },
+  "leaf-maple": {
+    "category": "Nature",
+    "tags": [
+      "leaf",
+      "maple",
+      "autumn",
+      "fall",
+      "canada",
+      "arce"
+    ],
+    "animation": "swing"
   },
   "lectern": {
     "category": "Religion",
@@ -14830,6 +14894,17 @@
     ],
     "animation": "glow"
   },
+  "lightbulb-dollar": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "dollar",
+      "idea",
+      "money",
+      "business"
+    ],
+    "animation": "glow"
+  },
   "lightbulb-exclamation": {
     "category": "Objects",
     "tags": [
@@ -14839,6 +14914,17 @@
       "light",
       "bulb",
       "bombillo"
+    ],
+    "animation": "glow"
+  },
+  "lightbulb-gear": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "gear",
+      "idea",
+      "settings",
+      "innovation"
     ],
     "animation": "glow"
   },
@@ -14899,6 +14985,17 @@
       "enlace"
     ],
     "animation": "wiggle"
+  },
+  "link-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "link",
+      "horizontal",
+      "chain",
+      "url",
+      "connect"
+    ],
+    "animation": "pop"
   },
   "link-simple": {
     "category": "Interface",
@@ -15005,6 +15102,17 @@
     ],
     "animation": "pop"
   },
+  "list-timeline": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "timeline",
+      "steps",
+      "history",
+      "events"
+    ],
+    "animation": "pop"
+  },
   "list-tree": {
     "category": "Interface",
     "tags": [
@@ -15013,6 +15121,17 @@
       "hierarchy",
       "nested",
       "outline"
+    ],
+    "animation": "pop"
+  },
+  "list-ul": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "ul",
+      "unordered",
+      "bullets",
+      "items"
     ],
     "animation": "pop"
   },
@@ -15140,6 +15259,17 @@
     ],
     "animation": "bounce"
   },
+  "location-pin": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "pin",
+      "map",
+      "place",
+      "marker"
+    ],
+    "animation": "bounce"
+  },
   "location-pin-lock": {
     "category": "Places",
     "tags": [
@@ -15251,6 +15381,17 @@
     ],
     "animation": "shake"
   },
+  "lock-keyhole-open": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "keyhole",
+      "open",
+      "unlocked",
+      "access"
+    ],
+    "animation": "turn-key"
+  },
   "lock-open": {
     "category": "Security",
     "tags": [
@@ -15305,6 +15446,16 @@
     ],
     "animation": "spin"
   },
+  "loveseat": {
+    "category": "Objects",
+    "tags": [
+      "loveseat",
+      "sofa",
+      "couch",
+      "furniture"
+    ],
+    "animation": "pop"
+  },
   "luggage": {
     "category": "Objects",
     "tags": [
@@ -15336,6 +15487,18 @@
       "iman"
     ],
     "animation": "shake"
+  },
+  "magnifying-glass": {
+    "category": "Interface",
+    "tags": [
+      "magnifying",
+      "glass",
+      "zoom",
+      "lookup",
+      "search",
+      "find"
+    ],
+    "animation": "search"
   },
   "magnifying-glass-arrow-right": {
     "category": "Actions",
@@ -15405,6 +15568,19 @@
     ],
     "animation": "search"
   },
+  "magnifying-glass-play": {
+    "category": "Interface",
+    "tags": [
+      "magnifying",
+      "glass",
+      "play",
+      "video",
+      "media",
+      "search",
+      "find"
+    ],
+    "animation": "search"
+  },
   "magnifying-glass-plus": {
     "category": "Actions",
     "tags": [
@@ -15414,6 +15590,19 @@
       "plus",
       "zoom",
       "in",
+      "find"
+    ],
+    "animation": "search"
+  },
+  "magnifying-glass-waveform": {
+    "category": "Interface",
+    "tags": [
+      "magnifying",
+      "glass",
+      "waveform",
+      "audio",
+      "voice",
+      "search",
       "find"
     ],
     "animation": "search"
@@ -15440,6 +15629,18 @@
     ],
     "animation": "pop"
   },
+  "mailbox-flag-up": {
+    "category": "Communication",
+    "tags": [
+      "mailbox",
+      "flag",
+      "up",
+      "mail",
+      "new",
+      "letter"
+    ],
+    "animation": "wave"
+  },
   "map": {
     "category": "Places",
     "tags": [
@@ -15450,6 +15651,17 @@
       "mapa"
     ],
     "animation": "flip"
+  },
+  "map-location-dot": {
+    "category": "Places",
+    "tags": [
+      "map",
+      "location",
+      "dot",
+      "place",
+      "destination"
+    ],
+    "animation": "bounce"
   },
   "map-pin": {
     "category": "Places",
@@ -15534,6 +15746,48 @@
     ],
     "animation": "shake"
   },
+  "memo": {
+    "category": "Files",
+    "tags": [
+      "memo",
+      "note",
+      "document",
+      "text",
+      "page"
+    ],
+    "animation": "pop"
+  },
+  "memo-circle-check": {
+    "category": "Files",
+    "tags": [
+      "memo",
+      "circle",
+      "check",
+      "approved",
+      "done"
+    ],
+    "animation": "pop"
+  },
+  "memo-circle-info": {
+    "category": "Files",
+    "tags": [
+      "memo",
+      "circle",
+      "info",
+      "details"
+    ],
+    "animation": "pop"
+  },
+  "memo-pad": {
+    "category": "Files",
+    "tags": [
+      "memo",
+      "pad",
+      "notepad",
+      "notes"
+    ],
+    "animation": "pop"
+  },
   "menorah": {
     "category": "Religion",
     "tags": [
@@ -15597,6 +15851,32 @@
     ],
     "animation": "nudge-up"
   },
+  "message-arrow-up-right": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "arrow",
+      "up",
+      "right",
+      "share",
+      "forward",
+      "send",
+      "chat"
+    ],
+    "animation": "nudge-diag"
+  },
+  "message-bot": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "bot",
+      "ai",
+      "assistant",
+      "chatbot",
+      "chat"
+    ],
+    "animation": "pop"
+  },
   "message-check": {
     "category": "Communication",
     "tags": [
@@ -15635,6 +15915,18 @@
       "chat",
       "comment",
       "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-dot": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "dot",
+      "unread",
+      "notification",
+      "new",
+      "chat"
     ],
     "animation": "pop"
   },
@@ -15679,6 +15971,18 @@
     ],
     "animation": "beat"
   },
+  "message-image": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "image",
+      "photo",
+      "picture",
+      "media",
+      "chat"
+    ],
+    "animation": "pop"
+  },
   "message-lines": {
     "category": "Communication",
     "tags": [
@@ -15692,6 +15996,18 @@
     ],
     "animation": "pop"
   },
+  "message-medical": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "medical",
+      "health",
+      "doctor",
+      "consult",
+      "chat"
+    ],
+    "animation": "pop"
+  },
   "message-minus": {
     "category": "Communication",
     "tags": [
@@ -15701,6 +16017,18 @@
       "chat",
       "comment",
       "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-music": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "music",
+      "song",
+      "audio",
+      "share",
+      "chat"
     ],
     "animation": "pop"
   },
@@ -15784,6 +16112,40 @@
       "chat",
       "comment",
       "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-sms": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "sms",
+      "text",
+      "mobile",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "message-text": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "text",
+      "lines",
+      "conversation",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "message-waveform": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "waveform",
+      "voice",
+      "audio",
+      "note",
+      "chat"
     ],
     "animation": "pop"
   },
