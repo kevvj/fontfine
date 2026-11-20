@@ -8,7 +8,7 @@
 @keyframes ff-nudge-diag{0%,100%{transform:none}50%{transform:translate(2px,-2px)}}
 @keyframes ff-spin{to{transform:rotate(360deg)}}
 @keyframes ff-spin-slow{to{transform:rotate(360deg)}}
-@keyframes ff-turn-y{0%{transform:perspective(60px) rotateY(0)}100%{transform:perspective(60px) rotateY(360deg)}}
+@keyframes ff-turn-y{0%{transform:rotateY(0)}100%{transform:rotateY(360deg)}}
 @keyframes ff-quarter{0%,60%{transform:none}100%{transform:rotate(90deg)}}
 @keyframes ff-swing{0%,100%{transform:rotate(0)}15%{transform:rotate(16deg)}30%{transform:rotate(-12deg)}45%{transform:rotate(8deg)}60%{transform:rotate(-4deg)}75%{transform:rotate(0)}}
 @keyframes ff-wave{0%,100%{transform:skewY(0)}25%{transform:skewY(-6deg)}75%{transform:skewY(6deg)}}
@@ -32,7 +32,7 @@
 @keyframes ff-drive{0%,100%{transform:translate(0,0)}25%{transform:translate(1.5px,-.8px)}50%{transform:translate(3px,0)}75%{transform:translate(1.5px,-.8px)}}
 @keyframes ff-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
 @keyframes ff-rock{0%,100%{transform:rotate(0)}25%{transform:rotate(-8deg)}75%{transform:rotate(8deg)}}
-@keyframes ff-flip{0%,30%{transform:perspective(60px) rotateY(0)}70%,100%{transform:perspective(60px) rotateY(180deg)}}
+@keyframes ff-flip{0%,30%{transform:rotateY(0)}70%,100%{transform:rotateY(180deg)}}
 @keyframes ff-thumb{0%,100%{transform:rotate(0)}30%{transform:rotate(-18deg)}50%{transform:rotate(-14deg)}70%{transform:rotate(0)}}
 @keyframes ff-turn-key{0%,100%{transform:rotate(0)}40%,60%{transform:rotate(-40deg)}}
 @keyframes ff-search{0%,100%{transform:translate(0,0)}25%{transform:translate(2px,-2px)}50%{transform:translate(0,-3px)}75%{transform:translate(-2px,-2px)}}
