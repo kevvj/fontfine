@@ -4081,6 +4081,16 @@
     ],
     "animation": "shake"
   },
+  "circle-ampersand": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "circle",
+      "ampersand",
+      "and",
+      "symbol"
+    ],
+    "animation": "pop"
+  },
   "circle-arrow-down-left": {
     "category": "Interface",
     "tags": [
@@ -4129,6 +4139,17 @@
     ],
     "animation": "nudge-diag"
   },
+  "circle-austral": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "austral",
+      "argentina",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-b": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4141,6 +4162,29 @@
     ],
     "animation": "pop"
   },
+  "circle-baht": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "baht",
+      "thailand",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-bitcoin": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "bitcoin",
+      "btc",
+      "crypto",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-bolt": {
     "category": "Interface",
     "tags": [
@@ -4150,6 +4194,17 @@
       "button"
     ],
     "animation": "flash"
+  },
+  "circle-book-open": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "book",
+      "open",
+      "read",
+      "library"
+    ],
+    "animation": "flip"
   },
   "circle-bookmark": {
     "category": "Interface",
@@ -4171,6 +4226,27 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-calendar": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "calendar",
+      "date",
+      "schedule",
+      "event"
+    ],
+    "animation": "pop"
+  },
+  "circle-camera": {
+    "category": "Media",
+    "tags": [
+      "circle",
+      "camera",
+      "photo",
+      "picture"
     ],
     "animation": "pop"
   },
@@ -4218,6 +4294,17 @@
     ],
     "animation": "nudge-up"
   },
+  "circle-cedi": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "cedi",
+      "ghana",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-cent": {
     "category": "Interface",
     "tags": [
@@ -4242,6 +4329,29 @@
       "listo",
       "correcto",
       "completado"
+    ],
+    "animation": "pop"
+  },
+  "circle-colon": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "colon",
+      "costa",
+      "rica",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-currency": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "currency",
+      "money",
+      "generic",
+      "exchange"
     ],
     "animation": "pop"
   },
@@ -4394,6 +4504,31 @@
     ],
     "animation": "pop"
   },
+  "circle-florin": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "florin",
+      "aruba",
+      "guilder",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-franc": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "franc",
+      "france",
+      "swiss",
+      "franco",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-g": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4403,6 +4538,17 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-guarani": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "guarani",
+      "paraguay",
+      "currency",
+      "money"
     ],
     "animation": "pop"
   },
@@ -4463,6 +4609,17 @@
     ],
     "animation": "bounce"
   },
+  "circle-hryvnia": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "hryvnia",
+      "ukraine",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-i": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4513,6 +4670,17 @@
     ],
     "animation": "pop"
   },
+  "circle-kip": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "kip",
+      "laos",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-l": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4522,6 +4690,17 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-lira": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "lira",
+      "turkey",
+      "currency",
+      "money"
     ],
     "animation": "pop"
   },
@@ -4549,6 +4728,17 @@
     ],
     "animation": "pop"
   },
+  "circle-manat": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "manat",
+      "azerbaijan",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-microphone": {
     "category": "Interface",
     "tags": [
@@ -4556,6 +4746,17 @@
       "microphone",
       "round",
       "button"
+    ],
+    "animation": "pulse"
+  },
+  "circle-microphone-lines": {
+    "category": "Music & Audio",
+    "tags": [
+      "circle",
+      "microphone",
+      "record",
+      "voice",
+      "podcast"
     ],
     "animation": "pulse"
   },
@@ -4590,6 +4791,17 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-naira": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "naira",
+      "nigeria",
+      "currency",
+      "money"
     ],
     "animation": "pop"
   },
@@ -4641,6 +4853,17 @@
     ],
     "animation": "pop"
   },
+  "circle-peso": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "peso",
+      "philippines",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-phone": {
     "category": "Interface",
     "tags": [
@@ -4650,6 +4873,17 @@
       "button"
     ],
     "animation": "ring"
+  },
+  "circle-phone-hangup": {
+    "category": "Communication",
+    "tags": [
+      "circle",
+      "phone",
+      "hangup",
+      "end",
+      "call"
+    ],
+    "animation": "shake"
   },
   "circle-plus": {
     "category": "Actions",
@@ -4721,6 +4955,41 @@
     ],
     "animation": "pop"
   },
+  "circle-ruble": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "ruble",
+      "russia",
+      "rublo",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-rupee": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "rupee",
+      "india",
+      "rupia",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-rupiah": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "rupiah",
+      "indonesia",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-s": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4730,6 +4999,28 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-share-nodes": {
+    "category": "Communication",
+    "tags": [
+      "circle",
+      "share",
+      "nodes",
+      "network",
+      "social"
+    ],
+    "animation": "pop"
+  },
+  "circle-shekel": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "shekel",
+      "israel",
+      "currency",
+      "money"
     ],
     "animation": "pop"
   },
@@ -4744,6 +5035,40 @@
     ],
     "animation": "pulse"
   },
+  "circle-sort": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "sort",
+      "order",
+      "arrange",
+      "up",
+      "down"
+    ],
+    "animation": "pop"
+  },
+  "circle-sort-down": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "sort",
+      "down",
+      "descending",
+      "order"
+    ],
+    "animation": "pop"
+  },
+  "circle-sort-up": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "sort",
+      "up",
+      "ascending",
+      "order"
+    ],
+    "animation": "pop"
+  },
   "circle-star": {
     "category": "Interface",
     "tags": [
@@ -4755,6 +5080,20 @@
     ],
     "animation": "star"
   },
+  "circle-sterling": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "sterling",
+      "pound",
+      "uk",
+      "britain",
+      "libra",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-t": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4764,6 +5103,17 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-tenge": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "tenge",
+      "kazakhstan",
+      "currency",
+      "money"
     ],
     "animation": "pop"
   },
@@ -4780,6 +5130,28 @@
     ],
     "animation": "spin-slow"
   },
+  "circle-trash": {
+    "category": "Actions",
+    "tags": [
+      "circle",
+      "trash",
+      "delete",
+      "remove",
+      "bin"
+    ],
+    "animation": "shake"
+  },
+  "circle-tugrik": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "tugrik",
+      "mongolia",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-u": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4791,6 +5163,28 @@
       "initial"
     ],
     "animation": "pop"
+  },
+  "circle-up-left": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "up",
+      "left",
+      "arrow",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
+  },
+  "circle-up-right": {
+    "category": "Arrows",
+    "tags": [
+      "circle",
+      "up",
+      "right",
+      "arrow",
+      "diagonal"
+    ],
+    "animation": "nudge-diag"
   },
   "circle-v": {
     "category": "Letters & Numbers",
@@ -4827,6 +5221,39 @@
     ],
     "animation": "pop"
   },
+  "circle-waveform-lines": {
+    "category": "Music & Audio",
+    "tags": [
+      "circle",
+      "waveform",
+      "audio",
+      "sound",
+      "voice"
+    ],
+    "animation": "beat"
+  },
+  "circle-wifi": {
+    "category": "Technology",
+    "tags": [
+      "circle",
+      "wifi",
+      "wireless",
+      "internet",
+      "signal"
+    ],
+    "animation": "signal"
+  },
+  "circle-won": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "won",
+      "korea",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-x": {
     "category": "Status",
     "tags": [
@@ -4851,6 +5278,18 @@
     ],
     "animation": "pop"
   },
+  "circle-yen": {
+    "category": "Objects",
+    "tags": [
+      "circle",
+      "yen",
+      "japan",
+      "yuan",
+      "currency",
+      "money"
+    ],
+    "animation": "pop"
+  },
   "circle-z": {
     "category": "Letters & Numbers",
     "tags": [
@@ -4871,6 +5310,17 @@
       "intersection",
       "venn",
       "union"
+    ],
+    "animation": "pulse"
+  },
+  "circles-overlap-3": {
+    "category": "Interface",
+    "tags": [
+      "circles",
+      "overlap",
+      "three",
+      "venn",
+      "diagram"
     ],
     "animation": "pulse"
   },
@@ -5528,6 +5978,29 @@
     ],
     "animation": "flip"
   },
+  "coin-front": {
+    "category": "Objects",
+    "tags": [
+      "coin",
+      "front",
+      "money",
+      "cash",
+      "moneda"
+    ],
+    "animation": "turn-y"
+  },
+  "coin-vertical": {
+    "category": "Objects",
+    "tags": [
+      "coin",
+      "vertical",
+      "edge",
+      "money",
+      "spin",
+      "moneda"
+    ],
+    "animation": "turn-y"
+  },
   "coins": {
     "category": "Objects",
     "tags": [
@@ -5539,6 +6012,16 @@
     ],
     "animation": "flip"
   },
+  "colon": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "colon",
+      "punctuation",
+      "dos",
+      "puntos"
+    ],
+    "animation": "pop"
+  },
   "columns-3": {
     "category": "Interface",
     "tags": [
@@ -5547,6 +6030,26 @@
       "layout",
       "grid",
       "table"
+    ],
+    "animation": "pop"
+  },
+  "comma": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "comma",
+      "punctuation",
+      "coma"
+    ],
+    "animation": "pop"
+  },
+  "command": {
+    "category": "Technology",
+    "tags": [
+      "command",
+      "key",
+      "mac",
+      "keyboard",
+      "shortcut"
     ],
     "animation": "pop"
   },
@@ -5570,6 +6073,17 @@
       "copiar"
     ],
     "animation": "nudge-diag"
+  },
+  "corner": {
+    "category": "Interface",
+    "tags": [
+      "corner",
+      "edge",
+      "border",
+      "radius",
+      "esquina"
+    ],
+    "animation": "pop"
   },
   "credit-card": {
     "category": "Objects",
@@ -5608,6 +6122,17 @@
     ],
     "animation": "rock"
   },
+  "dash": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "dash",
+      "hyphen",
+      "minus",
+      "line",
+      "guion"
+    ],
+    "animation": "pop"
+  },
   "dashboard": {
     "category": "Interface",
     "tags": [
@@ -5639,6 +6164,18 @@
       "datos"
     ],
     "animation": "pulse"
+  },
+  "delete-right": {
+    "category": "Technology",
+    "tags": [
+      "delete",
+      "right",
+      "key",
+      "keyboard",
+      "backspace",
+      "forward"
+    ],
+    "animation": "nudge-right"
   },
   "dharmachakra": {
     "category": "Religion",
