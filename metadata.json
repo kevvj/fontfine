@@ -3393,6 +3393,365 @@
     ],
     "animation": "pulse"
   },
+  "brand-android": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "android",
+      "mobile",
+      "robot",
+      "google"
+    ],
+    "animation": "pop"
+  },
+  "brand-angular": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "angular",
+      "javascript",
+      "framework",
+      "google"
+    ],
+    "animation": "pop"
+  },
+  "brand-apple": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "apple",
+      "mac",
+      "ios",
+      "iphone"
+    ],
+    "animation": "pop"
+  },
+  "brand-chrome": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "chrome",
+      "google chrome",
+      "browser",
+      "google",
+      "web"
+    ],
+    "animation": "pop"
+  },
+  "brand-discord": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "discord",
+      "chat",
+      "gaming",
+      "voice"
+    ],
+    "animation": "pop"
+  },
+  "brand-docker": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "docker",
+      "container",
+      "whale",
+      "devops"
+    ],
+    "animation": "pop"
+  },
+  "brand-facebook": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "facebook",
+      "social",
+      "meta"
+    ],
+    "animation": "pop"
+  },
+  "brand-figma": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "figma",
+      "design",
+      "ui",
+      "prototype"
+    ],
+    "animation": "pop"
+  },
+  "brand-firefox": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "firefox",
+      "browser",
+      "mozilla",
+      "web"
+    ],
+    "animation": "pop"
+  },
+  "brand-github": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "github",
+      "git",
+      "code",
+      "repository"
+    ],
+    "animation": "pop"
+  },
+  "brand-gmail": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "gmail",
+      "email",
+      "mail",
+      "google"
+    ],
+    "animation": "pop"
+  },
+  "brand-google": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "google",
+      "search",
+      "g"
+    ],
+    "animation": "pop"
+  },
+  "brand-instagram": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "instagram",
+      "social",
+      "photo",
+      "meta"
+    ],
+    "animation": "pop"
+  },
+  "brand-javascript": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "javascript",
+      "js",
+      "code",
+      "language"
+    ],
+    "animation": "pop"
+  },
+  "brand-netflix": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "netflix",
+      "movies",
+      "series",
+      "streaming"
+    ],
+    "animation": "pop"
+  },
+  "brand-nodejs": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "nodejs",
+      "node",
+      "javascript",
+      "server"
+    ],
+    "animation": "pop"
+  },
+  "brand-npm": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "npm",
+      "package",
+      "node",
+      "javascript"
+    ],
+    "animation": "pop"
+  },
+  "brand-paypal": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "paypal",
+      "payment",
+      "money",
+      "pay"
+    ],
+    "animation": "pop"
+  },
+  "brand-python": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "python",
+      "code",
+      "language",
+      "snake"
+    ],
+    "animation": "pop"
+  },
+  "brand-react": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "react",
+      "javascript",
+      "framework",
+      "ui"
+    ],
+    "animation": "pop"
+  },
+  "brand-reddit": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "reddit",
+      "social",
+      "forum",
+      "community"
+    ],
+    "animation": "pop"
+  },
+  "brand-spotify": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "spotify",
+      "music",
+      "streaming",
+      "audio"
+    ],
+    "animation": "pop"
+  },
+  "brand-telegram": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "telegram",
+      "chat",
+      "message",
+      "send"
+    ],
+    "animation": "pop"
+  },
+  "brand-tiktok": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "tiktok",
+      "video",
+      "social",
+      "music"
+    ],
+    "animation": "pop"
+  },
+  "brand-twitch": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "twitch",
+      "stream",
+      "gaming",
+      "live"
+    ],
+    "animation": "pop"
+  },
+  "brand-typescript": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "typescript",
+      "ts",
+      "code",
+      "language"
+    ],
+    "animation": "pop"
+  },
+  "brand-vue": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "vue",
+      "vuejs",
+      "javascript",
+      "framework"
+    ],
+    "animation": "pop"
+  },
+  "brand-whatsapp": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "whatsapp",
+      "chat",
+      "message",
+      "meta"
+    ],
+    "animation": "pop"
+  },
+  "brand-x": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "x",
+      "twitter",
+      "social",
+      "tweet"
+    ],
+    "animation": "pop"
+  },
+  "brand-youtube": {
+    "category": "Brands",
+    "tags": [
+      "brand",
+      "logo",
+      "youtube",
+      "video",
+      "play",
+      "stream"
+    ],
+    "animation": "pop"
+  },
   "brazilian-real-sign": {
     "category": "Letters & Numbers",
     "tags": [

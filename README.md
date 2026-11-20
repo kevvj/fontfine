@@ -89,6 +89,10 @@ fontfine/svg/solid/<name>.svg     solid version (only icons with areas to fill; 
 | `title` / `label` | accessible name; without it the icon is decorative | – |
 | `animate` | `true` or `'hover'` (needs `fontfine/animations.css`) | – |
 
+## Brand icons
+
+The **Brands** category (`brand-github`, `brand-whatsapp`…) has the official logos of popular companies and technologies. They come from [Simple Icons](https://simpleicons.org) (CC0) and come in every variant: solid is the official logo, line is its outline and duotone puts it on a tile. All brand names and logos are trademarks of their respective owners; use them only to refer to that brand and follow its guidelines.
+
 ## Repository
 
 | Folder | Contents |

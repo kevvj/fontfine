@@ -2,6 +2,7 @@ import { Component, output } from '@angular/core';
 import { NgTemplateOutlet } from '@angular/common';
 import { ICONOS } from '../data/icons.generated';
 import { Icono, VERSIONES } from '../data/types';
+import { t } from '../data/i18n';
 import { SvgPipe } from '../svg.pipe';
 
 interface Seccion { id: string; titulo: string }
@@ -15,6 +16,7 @@ interface Seccion { id: string; titulo: string }
 })
 export class Docs {
   readonly avisar = output<string>();
+  protected readonly t = t;
 
   protected readonly versiones = VERSIONES;
   protected readonly icono = (n: string): Icono => ICONOS.find((i) => i.nombre === n) ?? ICONOS[0];
@@ -103,9 +105,9 @@ node_modules/fontfine/svg/duotone/<name>.svg`,
   protected async copiar(texto: string): Promise<void> {
     try {
       await navigator.clipboard.writeText(texto);
-      this.avisar.emit('Code copied');
+      this.avisar.emit(t().codigoCopiado);
     } catch {
-      this.avisar.emit('Could not copy. Select the code and copy it manually.');
+      this.avisar.emit(t().noCopiado);
     }
   }
 }

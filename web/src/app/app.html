@@ -3,16 +3,17 @@
     <span class="logo" [innerHTML]="logo | svg: 'solid' : 28"></span>
     <strong>fontfine</strong>
   </div>
-  <nav class="menu" aria-label="Main">
-    <button type="button" [class.activa]="pagina() === 'icons'" (click)="verPagina('icons')">Icons</button>
-    <button type="button" [class.activa]="pagina() === 'docs'" (click)="verPagina('docs')">Docs</button>
+  <nav class="menu" [attr.aria-label]="t().menu">
+    <button type="button" [class.activa]="pagina() === 'icons'" (click)="verPagina('icons')">{{ t().icons }}</button>
+    <button type="button" [class.activa]="pagina() === 'docs'" (click)="verPagina('docs')">{{ t().docs }}</button>
     <a href="https://github.com/kevvj/fontfine" target="_blank" rel="noopener">GitHub</a>
   </nav>
   <div class="barra-derecha">
-    <span class="contador">{{ iconos.length }} icons · 6 variants</span>
+    <span class="contador">{{ t().contador(iconos.length) }}</span>
+    <button class="boton-icono idioma" type="button" (click)="alternarIdioma()" [attr.aria-label]="t().cambiarIdioma" [title]="t().cambiarIdioma">{{ idioma() === 'es' ? 'EN' : 'ES' }}</button>
     <button class="boton-icono" type="button" (click)="alternarTema()"
-      [attr.aria-label]="tema() === 'claro' ? 'Switch to dark mode' : 'Switch to light mode'"
-      [title]="tema() === 'claro' ? 'Dark mode' : 'Light mode'">
+      [attr.aria-label]="tema() === 'claro' ? t().aOscuro : t().aClaro"
+      [title]="tema() === 'claro' ? t().oscuro : t().claro">
       @if (tema() === 'claro') {
         <svg viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
       } @else {
@@ -26,31 +27,31 @@
   <app-docs (avisar)="mostrarAviso($event)" />
 } @else {
 <section class="portada">
-  <h1>Clean, <span class="degradado">thin line</span> icons</h1>
-  <p>Search, preview every variant and copy the SVG. Free and open source.</p>
+  <h1>{{ t().tituloA }}<span class="degradado">{{ t().tituloB }}</span>{{ t().tituloC }}</h1>
+  <p>{{ t().subtitulo }}</p>
   <label class="buscador">
     <svg viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
-    <input #campoBusqueda type="search" placeholder="Search icons: wrench, delete, user…"
-      aria-label="Search icons" [value]="busqueda()" (input)="busqueda.set(campoBusqueda.value)" />
+    <input #campoBusqueda type="search" [placeholder]="t().buscar"
+      [attr.aria-label]="t().aBuscar" [value]="busqueda()" (input)="busqueda.set(campoBusqueda.value)" />
     @if (busqueda()) {
-      <button type="button" class="limpiar" aria-label="Clear search" (click)="busqueda.set(''); campoBusqueda.focus()">
+      <button type="button" class="limpiar" [attr.aria-label]="t().limpiar" (click)="busqueda.set(''); campoBusqueda.focus()">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
       </button>
     } @else {
-      <kbd title="Press / to search">/</kbd>
+      <kbd [title]="t().atajo">/</kbd>
     }
   </label>
 </section>
 
 <div class="cuerpo" [attr.data-anim]="movimiento()">
-  <nav class="categorias" aria-label="Categories">
-    <h2>Categories</h2>
+  <nav class="categorias" [attr.aria-label]="t().categorias">
+    <h2>{{ t().categorias }}</h2>
     <ul>
       @for (c of categorias(); track c.nombre) {
         <li>
           <button type="button" [class.activa]="categoria() === c.nombre" (click)="categoria.set(c.nombre)"
             [attr.aria-current]="categoria() === c.nombre ? 'true' : null">
-            <span>{{ c.nombre }}</span><span class="cantidad">{{ c.cantidad }}</span>
+            <span>{{ t().categoria(c.nombre) }}</span><span class="cantidad">{{ c.cantidad }}</span>
           </button>
         </li>
       }
@@ -59,43 +60,43 @@
 
   <main>
     <div class="controles">
-      <div class="segmentos" role="radiogroup" aria-label="Variant">
+      <div class="segmentos" role="radiogroup" [attr.aria-label]="t().version">
         @for (v of versiones; track v.id) {
           <button type="button" role="radio" [attr.aria-checked]="versionActiva() === v.id"
             [class.activa]="versionActiva() === v.id" (click)="elegirVersion(v.id)">{{ v.nombre }}</button>
         }
       </div>
-      <div class="segmentos" role="radiogroup" aria-label="Animation" title="Animation">
+      <div class="segmentos" role="radiogroup" [attr.aria-label]="t().animacion" [title]="t().animacion">
         @for (m of movimientos; track m.id) {
           <button type="button" role="radio" [attr.aria-checked]="movimiento() === m.id"
-            [class.activa]="movimiento() === m.id" (click)="movimiento.set(m.id)">{{ m.nombre }}</button>
+            [class.activa]="movimiento() === m.id" (click)="movimiento.set(m.id)">{{ t().movimientos[m.id] }}</button>
         }
       </div>
-      <div class="segmentos" role="radiogroup" aria-label="Sort" title="Sort">
+      <div class="segmentos" role="radiogroup" [attr.aria-label]="t().orden" [title]="t().orden">
         @for (o of ordenes; track o.id) {
           <button type="button" role="radio" [attr.aria-checked]="orden() === o.id"
-            [class.activa]="orden() === o.id" (click)="orden.set(o.id)">{{ o.nombre }}</button>
+            [class.activa]="orden() === o.id" (click)="orden.set(o.id)">{{ t().ordenes[o.id] }}</button>
         }
       </div>
       <label class="tamano">
-        <span>Stroke</span>
+        <span>{{ t().grosor }}</span>
         <input type="range" [min]="grosorMin" [max]="grosorMax" step="0.25" [value]="grosor()" #rangoGrosor
-          (input)="cambiarGrosor(+rangoGrosor.value)" aria-label="Stroke width" />
+          (input)="cambiarGrosor(+rangoGrosor.value)" [attr.aria-label]="t().aGrosor" />
         <span class="valor">{{ esRelleno(version()) ? '—' : grosor() }}</span>
       </label>
       <label class="tamano">
-        <span>Size</span>
+        <span>{{ t().tamano }}</span>
         <input type="range" min="20" max="60" step="4" [value]="tamano()" #rango
-          (input)="tamano.set(+rango.value)" aria-label="Icon size" />
+          (input)="tamano.set(+rango.value)" [attr.aria-label]="t().aTamano" />
         <span class="valor">{{ tamano() }} px</span>
       </label>
     </div>
 
     <p class="info-resultados" aria-live="polite">
-      @if (resultados().length === 1) { 1 icon } @else { {{ resultados().length }} icons }
-      @if (busqueda()) { for “{{ busqueda() }}” }
-      @if (categoria() !== todas) { in {{ categoria() }} }
-      @if (totalPaginas() > 1) { · page {{ paginaActual() }} of {{ totalPaginas() }} }
+      {{ t().resultados(resultados().length) }}
+      @if (busqueda()) { {{ t().para(busqueda()) }} }
+      @if (categoria() !== todas) { {{ t().en(categoria()) }} }
+      @if (totalPaginas() > 1) { {{ t().pagina(paginaActual(), totalPaginas()) }} }
       
     </p>
 
@@ -107,29 +108,29 @@
               [attr.aria-label]="i.nombre" (click)="seleccionado.set(i)">
               <span class="dibujo"><span class="ff-anim ff-{{ i.animacion }}" [style.--ff-origin]="i.origen" [innerHTML]="i | svg: version() : tamano() : grosor()"></span></span>
               <span class="nombre">{{ i.nombre }}</span>
-              @if (i.nuevo) { <span class="nuevo">New</span> }
+              @if (i.nuevo) { <span class="nuevo">{{ t().nuevo }}</span> }
             </button>
           </li>
         }
       </ul>
       @if (totalPaginas() > 1) {
-        <nav class="paginador" aria-label="Pages">
-          <button type="button" [disabled]="paginaActual() === 1" (click)="irAPagina(paginaActual() - 1)" aria-label="Previous page">‹</button>
+        <nav class="paginador" [attr.aria-label]="t().paginas">
+          <button type="button" [disabled]="paginaActual() === 1" (click)="irAPagina(paginaActual() - 1)" [attr.aria-label]="t().anterior">‹</button>
           @for (n of numerosPagina(); track $index) {
             @if (n === null) { <span class="puntos">…</span> }
             @else {
               <button type="button" [class.activa]="n === paginaActual()" [attr.aria-current]="n === paginaActual() ? 'page' : null" (click)="irAPagina(n)">{{ n }}</button>
             }
           }
-          <button type="button" [disabled]="paginaActual() === totalPaginas()" (click)="irAPagina(paginaActual() + 1)" aria-label="Next page">›</button>
+          <button type="button" [disabled]="paginaActual() === totalPaginas()" (click)="irAPagina(paginaActual() + 1)" [attr.aria-label]="t().siguiente">›</button>
         </nav>
       }
     } @else {
       <div class="vacio">
         <svg viewBox="0 0 24 24" width="50" height="50" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
-        <p><strong>No icons for “{{ busqueda() }}”.</strong></p>
-        <p>Try another word, or request the icon on GitHub.</p>
-        <button type="button" class="boton" (click)="limpiar()">Show all</button>
+        <p><strong>{{ t().sinResultados(busqueda()) }}</strong></p>
+        <p>{{ t().otraPalabra }}</p>
+        <button type="button" class="boton" (click)="limpiar()">{{ t().verTodos }}</button>
       </div>
     }
   </main>

@@ -67,6 +67,10 @@ Example (`svg/line/bell.svg` style):
 
 `<script>`, `<style>`, `<text>`, `<image>`, `<use>`, `<foreignObject>`, links, gradients, filters, `style=""`, event attributes (`onload`…), comments, colors other than `currentColor`, files over 2 KB. Do not copy paths from other icon sets (Font Awesome, Material, Lucide…): draw them yourself. The license is MIT and copied icons cannot be accepted.
 
+## Brand logos
+
+Brands are the only exception to "draw from scratch": `brand-<name>` icons, category `Brands`, come from [Simple Icons](https://simpleicons.org) (CC0). solid = the official logo in 2–22; line = the outline of that same path (so the stroke width works); duotone = the logo (primary) on a 40 % square tile (secondary). Never take a logo from Font Awesome or other non-CC0 sets. Max 4 KB per file.
+
 ## metadata.json
 
 Add the entry in **alphabetical order**:

@@ -18,7 +18,7 @@ const ELEMENTS = new Set(["svg", "g", "path", "circle", "rect", "ellipse", "line
 const ATTRS = new Set(["xmlns", "viewBox", "d", "cx", "cy", "r", "rx", "ry", "x", "y", "width", "height", "x1", "y1", "x2", "y2", "points",
   "fill", "fill-rule", "stroke", "stroke-width", "stroke-linecap", "stroke-linejoin", "opacity", "transform", "class", "id", "mask", "data-ajuste"]);
 const CATEGORIES = new Set(["Actions", "Arrows", "Communication", "Files", "Health", "Interface", "Letters & Numbers", "Media", "Music & Audio", "Nature",
-  "Objects", "People", "Places", "Religion", "Security", "Status", "Technology", "Weather"]);
+  "Objects", "People", "Places", "Religion", "Security", "Status", "Technology", "Weather", "Brands"]);
 const ANIMATIONS = new Set([...readFileSync(join(root, "animations.css"), "utf8").matchAll(/^\.ff-([a-z-]+)\{animation:/gm)].map((m) => m[1]));
 const NAME = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const NUMBER = /^-?\d*\.?\d+$/;
@@ -33,13 +33,16 @@ for (const v of VARIANTS) for (const f of readdirSync(join(root, "svg", v))) if 
 for (const name of all) {
   if (!NAME.test(name)) fail(name, "name must be lowercase English words separated by '-' (e.g. arrow-left)");
   if (!metadata[name]) fail(name, "missing entry in metadata.json");
+  else if (name.startsWith("brand-") !== (metadata[name].category === "Brands")) fail(name, 'brand logos are named brand-<name> and use category "Brands"');
 
   for (const v of VARIANTS) {
     const rel = `svg/${v}/${name}.svg`;
     const file = join(root, rel);
     let src;
     try { src = readFileSync(file, "utf8"); } catch { if (v !== "solid") fail(rel, `missing (every icon needs line and duotone; solid is optional)`); continue; }
-    if (statSync(file).size > MAX_BYTES) fail(rel, `too big (${statSync(file).size} bytes, max ${MAX_BYTES}). Simplify the paths.`);
+    // Brand logos (brand-*, from Simple Icons) keep the official shape, so they may be up to 4 KB.
+    const max = name.startsWith("brand-") ? 4096 : MAX_BYTES;
+    if (statSync(file).size > max) fail(rel, `too big (${statSync(file).size} bytes, max ${max}). Simplify the paths.`);
     if (!src.startsWith(HEADERS[v])) fail(rel, `must start exactly with:\n  ${HEADERS[v]}`);
     if (!src.trimEnd().endsWith("</svg>")) fail(rel, "must end with </svg>");
     if (/<!--|<!\[CDATA|<\?|&/.test(src)) fail(rel, "comments, CDATA, processing instructions and entities are not allowed");

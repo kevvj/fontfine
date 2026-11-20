@@ -1,11 +1,11 @@
 <div class="fondo" (click)="cerrar.emit()" aria-hidden="true"></div>
-<aside class="panel" role="dialog" aria-modal="false" [attr.aria-label]="'Icon ' + icono().nombre">
+<aside class="panel" role="dialog" aria-modal="false" [attr.aria-label]="t().icono + ' ' + icono().nombre">
   <header>
     <div>
       <h2>{{ icono().nombre }}</h2>
-      <span class="categoria">{{ icono().categoria }}</span>
+      <span class="categoria">{{ t().categoria(icono().categoria) }}</span>
     </div>
-    <button type="button" class="cerrar" aria-label="Close" title="Close (Esc)" (click)="cerrar.emit()">
+    <button type="button" class="cerrar" [attr.aria-label]="t().cerrar" [title]="t().cerrarEsc" (click)="cerrar.emit()">
       <svg viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
     </button>
   </header>
@@ -14,7 +14,7 @@
     <span class="ff-anim ff-{{ icono().animacion }}" [class.quieto]="movimiento() === 'off'" [style.--ff-origin]="icono().origen" [innerHTML]="icono() | svg: version() : 150 : grosor()"></span>
   </div>
 
-  <h3>Variants</h3>
+  <h3>{{ t().versiones }}</h3>
   <div class="versiones">
     @for (v of versiones; track v.id) {
       <button type="button" [class.activa]="versionActiva() === v.id" (click)="cambiarVersion.emit(v.id)"
@@ -25,33 +25,33 @@
     }
   </div>
 
-  <h3>Sizes</h3>
+  <h3>{{ t().tamanos }}</h3>
   <div class="tamanos">
     @for (t of tamanos; track t) {
       <div><span [innerHTML]="icono() | svg: version() : t : grosor()"></span><small>{{ t }}</small></div>
     }
   </div>
 
-  <h3>Animation <span class="grosor">· {{ icono().animacion }}</span></h3>
+  <h3>{{ t().animacion }} <span class="grosor">· {{ icono().animacion }}</span></h3>
   <pre class="codigo"><code>{{ codigoAnimacion() }}</code></pre>
   <div class="acciones">
-    <button type="button" class="boton" (click)="copiar(codigoAnimacion(), 'Animation code copied')">Copy animation code</button>
+    <button type="button" class="boton" (click)="copiar(codigoAnimacion(), t().animacionCopiada)">{{ t().copiarAnimacion }}</button>
   </div>
-  <p class="nota">Use <code>animate</code> to always play it, or <code>animate="hover"</code>. Turns off for users who prefer reduced motion.</p>
+  <p class="nota" [innerHTML]="t().notaAnimacion"></p>
 
-  <h3>Tags</h3>
+  <h3>{{ t().etiquetas }}</h3>
   <div class="etiquetas">
     @for (e of icono().etiquetas; track e) {
-      <button type="button" (click)="etiqueta.emit(e)" [title]="'Search “' + e + '”'">{{ e }}</button>
+      <button type="button" (click)="etiqueta.emit(e)" [title]="t().buscarEtiqueta(e)">{{ e }}</button>
     }
   </div>
 
-  <h3>SVG @if (!esRelleno(version())) { <span class="grosor">· stroke {{ grosor() }}</span> }</h3>
+  <h3>SVG @if (!esRelleno(version())) { <span class="grosor">· {{ t().trazo }} {{ grosor() }}</span> }</h3>
   <pre class="codigo"><code>{{ codigo() }}</code></pre>
   <div class="acciones">
-    <button type="button" class="boton principal" (click)="copiar(codigo(), 'SVG copied')">Copy SVG</button>
-    <button type="button" class="boton" (click)="descargar()">Download</button>
-    <button type="button" class="boton" (click)="copiar(icono().nombre, 'Name copied')">Copy name</button>
+    <button type="button" class="boton principal" (click)="copiar(codigo(), t().svgCopiado)">{{ t().copiarSvg }}</button>
+    <button type="button" class="boton" (click)="descargar()">{{ t().descargar }}</button>
+    <button type="button" class="boton" (click)="copiar(icono().nombre, t().nombreCopiado)">{{ t().copiarNombre }}</button>
   </div>
-  <p class="nota">The SVG uses <code>currentColor</code>, so it takes the color of the surrounding text.</p>
+  <p class="nota" [innerHTML]="t().notaColor"></p>
 </aside>

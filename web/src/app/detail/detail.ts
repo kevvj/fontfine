@@ -1,5 +1,6 @@
 import { Component, computed, input, output } from '@angular/core';
 import { Icono, Movimiento, VERSIONES, Version, esRelleno, svgDe } from '../data/types';
+import { t } from '../data/i18n';
 import { SvgPipe } from '../svg.pipe';
 
 @Component({
@@ -34,6 +35,7 @@ export class Detalle {
   protected readonly versiones = VERSIONES;
   protected readonly esRelleno = esRelleno;
   protected readonly tamanos = [16, 20, 24, 32, 48];
+  protected readonly t = t;
 
   /** Si piden Solid y este ícono no lo tiene, se muestra la línea y se avisa. */
   protected readonly faltaRelleno = computed(() => this.version() === 'solid' && !this.icono().relleno);
@@ -44,7 +46,7 @@ export class Detalle {
       await navigator.clipboard.writeText(texto);
       this.avisar.emit(mensaje);
     } catch {
-      this.avisar.emit('Could not copy. Select the code and copy it manually.');
+      this.avisar.emit(t().noCopiado);
     }
   }
 
@@ -56,6 +58,6 @@ export class Detalle {
     a.download = `${this.icono().nombre}${this.version() === 'light' ? '' : '-' + this.version()}.svg`;
     a.click();
     URL.revokeObjectURL(url);
-    this.avisar.emit('SVG downloaded');
+    this.avisar.emit(t().svgDescargado);
   }
 }

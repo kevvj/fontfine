@@ -2,6 +2,7 @@ import { Component, HostListener, computed, effect, linkedSignal, signal, viewCh
 import { ICONOS } from './data/icons.generated';
 import { GROSOR_MAX, GROSOR_MIN, Icono, Movimiento, Orden, VERSIONES, Version, esRelleno, normalizar } from './data/types';
 import { SvgPipe } from './svg.pipe';
+import { cambiarIdioma, idioma, t } from './data/i18n';
 import { Detalle } from './detail/detail';
 import { Docs } from './docs/docs';
 
@@ -17,6 +18,8 @@ const POR_PAGINA = 100;
 })
 export class App {
   protected readonly iconos = ICONOS;
+  protected readonly t = t;
+  protected readonly idioma = idioma;
   protected readonly versiones = VERSIONES;
   protected readonly todas = TODAS;
   protected readonly esRelleno = esRelleno;
@@ -162,6 +165,10 @@ export class App {
     this.pagina.set(p);
     this.seleccionado.set(null);
     scrollTo({ top: 0 });
+  }
+
+  protected alternarIdioma(): void {
+    cambiarIdioma(idioma() === 'es' ? 'en' : 'es');
   }
 
   protected alternarTema(): void {

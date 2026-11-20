@@ -148,3 +148,5 @@ kbd {
 .menu .activa { color: var(--acento); }
 .paginador button:hover:not(:disabled):not(.activa) { border-color: var(--acento); color: var(--acento); background: var(--acento-suave); }
 .tamano .valor { color: var(--acento); font-weight: 600; }
+
+.boton-icono.idioma { min-width: 42px; justify-content: center; font: 600 14px/1 inherit; font-family: inherit; letter-spacing: .04em; }
