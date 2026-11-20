@@ -10475,6 +10475,18 @@
     ],
     "animation": "pop"
   },
+  "kettlebell": {
+    "category": "Health",
+    "tags": [
+      "kettlebell",
+      "weight",
+      "gym",
+      "fitness",
+      "workout",
+      "pesa"
+    ],
+    "animation": "bounce"
+  },
   "key": {
     "category": "Security",
     "tags": [
@@ -10510,6 +10522,28 @@
     ],
     "animation": "pulse"
   },
+  "keyhole": {
+    "category": "Security",
+    "tags": [
+      "keyhole",
+      "lock",
+      "security",
+      "access",
+      "cerradura"
+    ],
+    "animation": "pop"
+  },
+  "kidneys": {
+    "category": "Health",
+    "tags": [
+      "kidneys",
+      "organ",
+      "medical",
+      "urology",
+      "riñones"
+    ],
+    "animation": "pulse"
+  },
   "kit-medical": {
     "category": "Health",
     "tags": [
@@ -10522,6 +10556,124 @@
     ],
     "animation": "bounce"
   },
+  "kite": {
+    "category": "Objects",
+    "tags": [
+      "kite",
+      "wind",
+      "fly",
+      "toy",
+      "cometa"
+    ],
+    "animation": "float"
+  },
+  "kiwi-fruit": {
+    "category": "Nature",
+    "tags": [
+      "kiwi",
+      "fruit",
+      "food",
+      "tropical"
+    ],
+    "animation": "spin-slow"
+  },
+  "knife": {
+    "category": "Objects",
+    "tags": [
+      "knife",
+      "cut",
+      "kitchen",
+      "blade",
+      "cuchillo"
+    ],
+    "animation": "rock"
+  },
+  "ladder": {
+    "category": "Objects",
+    "tags": [
+      "ladder",
+      "climb",
+      "steps",
+      "escalera"
+    ],
+    "animation": "bounce"
+  },
+  "lambda": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "lambda",
+      "greek",
+      "function",
+      "math"
+    ],
+    "animation": "pop"
+  },
+  "lamp": {
+    "category": "Objects",
+    "tags": [
+      "lamp",
+      "table",
+      "light",
+      "shade",
+      "lampara"
+    ],
+    "animation": "glow"
+  },
+  "lamp-desk": {
+    "category": "Objects",
+    "tags": [
+      "lamp",
+      "desk",
+      "study",
+      "light",
+      "work"
+    ],
+    "animation": "glow"
+  },
+  "lamp-floor": {
+    "category": "Objects",
+    "tags": [
+      "lamp",
+      "floor",
+      "standing",
+      "light"
+    ],
+    "animation": "glow"
+  },
+  "lamp-street": {
+    "category": "Places",
+    "tags": [
+      "lamp",
+      "street",
+      "light",
+      "post",
+      "city",
+      "farola"
+    ],
+    "animation": "glow"
+  },
+  "landmark": {
+    "category": "Places",
+    "tags": [
+      "landmark",
+      "building",
+      "museum",
+      "bank",
+      "government"
+    ],
+    "animation": "pop"
+  },
+  "lantern": {
+    "category": "Objects",
+    "tags": [
+      "lantern",
+      "lamp",
+      "camping",
+      "light",
+      "farol"
+    ],
+    "animation": "flicker"
+  },
   "laptop": {
     "category": "Technology",
     "tags": [
@@ -10531,6 +10683,50 @@
       "portatil"
     ],
     "animation": "bounce"
+  },
+  "laptop-arrow-down": {
+    "category": "Technology",
+    "tags": [
+      "laptop",
+      "arrow",
+      "down",
+      "download",
+      "computer"
+    ],
+    "animation": "nudge-down"
+  },
+  "laptop-code": {
+    "category": "Technology",
+    "tags": [
+      "laptop",
+      "code",
+      "developer",
+      "programming",
+      "computer"
+    ],
+    "animation": "pop"
+  },
+  "laptop-file": {
+    "category": "Technology",
+    "tags": [
+      "laptop",
+      "file",
+      "document",
+      "computer"
+    ],
+    "animation": "pop"
+  },
+  "laptop-medical": {
+    "category": "Health",
+    "tags": [
+      "laptop",
+      "medical",
+      "telehealth",
+      "doctor",
+      "online",
+      "computer"
+    ],
+    "animation": "pulse"
   },
   "laptop-slash": {
     "category": "Technology",
@@ -10544,6 +10740,37 @@
       "portatil"
     ],
     "animation": "shake"
+  },
+  "layer-group": {
+    "category": "Interface",
+    "tags": [
+      "layer",
+      "group",
+      "layers",
+      "stack",
+      "design"
+    ],
+    "animation": "pop"
+  },
+  "layer-minus": {
+    "category": "Interface",
+    "tags": [
+      "layer",
+      "minus",
+      "remove",
+      "delete"
+    ],
+    "animation": "pop"
+  },
+  "layer-plus": {
+    "category": "Interface",
+    "tags": [
+      "layer",
+      "plus",
+      "add",
+      "new"
+    ],
+    "animation": "pop"
   },
   "leaf": {
     "category": "Nature",
@@ -10572,6 +10799,39 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "lemon": {
+    "category": "Nature",
+    "tags": [
+      "lemon",
+      "fruit",
+      "citrus",
+      "sour",
+      "limon"
+    ],
+    "animation": "rock"
+  },
+  "less-than": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "less",
+      "than",
+      "math",
+      "compare",
+      "menor"
+    ],
+    "animation": "pop"
+  },
+  "less-than-equal": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "less",
+      "than",
+      "equal",
+      "math",
+      "compare"
+    ],
+    "animation": "pop"
   },
   "letter-a": {
     "category": "Letters & Numbers",
@@ -10911,6 +11171,30 @@
     ],
     "animation": "pop"
   },
+  "life-ring": {
+    "category": "Objects",
+    "tags": [
+      "life",
+      "ring",
+      "buoy",
+      "rescue",
+      "help",
+      "support",
+      "salvavidas"
+    ],
+    "animation": "spin-slow"
+  },
+  "light-switch": {
+    "category": "Objects",
+    "tags": [
+      "light",
+      "switch",
+      "toggle",
+      "power",
+      "interruptor"
+    ],
+    "animation": "pop"
+  },
   "lightbulb": {
     "category": "Objects",
     "tags": [
@@ -10934,6 +11218,17 @@
     ],
     "animation": "glow"
   },
+  "lightbulb-on": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "on",
+      "idea",
+      "light",
+      "bright"
+    ],
+    "animation": "glow"
+  },
   "lightbulb-slash": {
     "category": "Objects",
     "tags": [
@@ -10948,6 +11243,28 @@
     ],
     "animation": "shake"
   },
+  "lighthouse": {
+    "category": "Places",
+    "tags": [
+      "lighthouse",
+      "beacon",
+      "sea",
+      "coast",
+      "faro"
+    ],
+    "animation": "glow"
+  },
+  "line-height": {
+    "category": "Interface",
+    "tags": [
+      "line",
+      "height",
+      "text",
+      "spacing",
+      "typography"
+    ],
+    "animation": "pop"
+  },
   "link": {
     "category": "Interface",
     "tags": [
@@ -10958,6 +11275,32 @@
       "enlace"
     ],
     "animation": "wiggle"
+  },
+  "link-simple": {
+    "category": "Interface",
+    "tags": [
+      "link",
+      "simple",
+      "chain",
+      "url",
+      "connect"
+    ],
+    "animation": "pop"
+  },
+  "link-simple-slash": {
+    "category": "Interface",
+    "tags": [
+      "link",
+      "simple",
+      "slash",
+      "unlink",
+      "broken",
+      "remove",
+      "chain",
+      "url",
+      "connect"
+    ],
+    "animation": "shake"
   },
   "link-slash": {
     "category": "Interface",
@@ -10993,6 +11336,61 @@
       "checklist"
     ],
     "animation": "nudge-right"
+  },
+  "list-dropdown": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "dropdown",
+      "select",
+      "menu",
+      "options"
+    ],
+    "animation": "pop"
+  },
+  "list-music": {
+    "category": "Music & Audio",
+    "tags": [
+      "list",
+      "music",
+      "playlist",
+      "songs",
+      "queue"
+    ],
+    "animation": "beat"
+  },
+  "list-ol": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "ordered",
+      "numbers",
+      "numbered",
+      "ol"
+    ],
+    "animation": "pop"
+  },
+  "list-radio": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "radio",
+      "options",
+      "choice",
+      "select"
+    ],
+    "animation": "pop"
+  },
+  "list-tree": {
+    "category": "Interface",
+    "tags": [
+      "list",
+      "tree",
+      "hierarchy",
+      "nested",
+      "outline"
+    ],
+    "animation": "pop"
   },
   "loader-bar": {
     "category": "Status",
@@ -11032,6 +11430,173 @@
       "cargando"
     ],
     "animation": "wave-dots"
+  },
+  "location-arrow": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "arrow",
+      "navigation",
+      "gps",
+      "direction"
+    ],
+    "animation": "nudge-diag"
+  },
+  "location-check": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "check",
+      "visited",
+      "confirmed",
+      "pin",
+      "map",
+      "place"
+    ],
+    "animation": "bounce"
+  },
+  "location-crosshairs": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "crosshairs",
+      "gps",
+      "target",
+      "current",
+      "position"
+    ],
+    "animation": "pulse"
+  },
+  "location-dot": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "dot",
+      "pin",
+      "map",
+      "place",
+      "marker"
+    ],
+    "animation": "bounce"
+  },
+  "location-exclamation": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "exclamation",
+      "alert",
+      "warning",
+      "place",
+      "pin",
+      "map"
+    ],
+    "animation": "shake"
+  },
+  "location-minus": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "minus",
+      "remove",
+      "place",
+      "pin",
+      "map"
+    ],
+    "animation": "bounce"
+  },
+  "location-pen": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "pen",
+      "edit",
+      "place",
+      "pin",
+      "map"
+    ],
+    "animation": "bounce"
+  },
+  "location-pin-lock": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "pin",
+      "lock",
+      "private",
+      "secure",
+      "place",
+      "map"
+    ],
+    "animation": "bounce"
+  },
+  "location-pin-slash": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "pin",
+      "slash",
+      "off",
+      "no",
+      "gps",
+      "hidden",
+      "map",
+      "place",
+      "address",
+      "marker"
+    ],
+    "animation": "shake"
+  },
+  "location-plus": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "plus",
+      "add",
+      "new",
+      "place",
+      "pin",
+      "map"
+    ],
+    "animation": "bounce"
+  },
+  "location-question": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "question",
+      "unknown",
+      "help",
+      "place",
+      "pin",
+      "map"
+    ],
+    "animation": "bounce"
+  },
+  "location-smile": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "smile",
+      "happy",
+      "favorite",
+      "place",
+      "pin",
+      "map"
+    ],
+    "animation": "bounce"
+  },
+  "location-xmark": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "xmark",
+      "remove",
+      "delete",
+      "place",
+      "pin",
+      "map"
+    ],
+    "animation": "bounce"
   },
   "lock": {
     "category": "Security",
@@ -11104,6 +11669,28 @@
       "sesion"
     ],
     "animation": "nudge-right"
+  },
+  "lollipop": {
+    "category": "Objects",
+    "tags": [
+      "lollipop",
+      "candy",
+      "sweet",
+      "dessert",
+      "chupeta"
+    ],
+    "animation": "spin"
+  },
+  "luggage": {
+    "category": "Objects",
+    "tags": [
+      "luggage",
+      "suitcase",
+      "travel",
+      "baggage",
+      "maleta"
+    ],
+    "animation": "rock"
   },
   "lungs": {
     "category": "Health",
