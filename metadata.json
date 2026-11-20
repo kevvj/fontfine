@@ -11703,6 +11703,97 @@
     ],
     "animation": "pulse"
   },
+  "magnet": {
+    "category": "Objects",
+    "tags": [
+      "magnet",
+      "attract",
+      "magnetic",
+      "iman"
+    ],
+    "animation": "shake"
+  },
+  "magnifying-glass-arrow-right": {
+    "category": "Actions",
+    "tags": [
+      "magnifying",
+      "glass",
+      "search",
+      "arrow",
+      "right",
+      "go",
+      "next",
+      "find"
+    ],
+    "animation": "search"
+  },
+  "magnifying-glass-chart": {
+    "category": "Actions",
+    "tags": [
+      "magnifying",
+      "glass",
+      "search",
+      "chart",
+      "analytics",
+      "insights",
+      "data",
+      "find"
+    ],
+    "animation": "search"
+  },
+  "magnifying-glass-dollar": {
+    "category": "Actions",
+    "tags": [
+      "magnifying",
+      "glass",
+      "search",
+      "dollar",
+      "price",
+      "money",
+      "cost",
+      "find"
+    ],
+    "animation": "search"
+  },
+  "magnifying-glass-location": {
+    "category": "Actions",
+    "tags": [
+      "magnifying",
+      "glass",
+      "search",
+      "location",
+      "place",
+      "map",
+      "find"
+    ],
+    "animation": "search"
+  },
+  "magnifying-glass-minus": {
+    "category": "Actions",
+    "tags": [
+      "magnifying",
+      "glass",
+      "search",
+      "minus",
+      "zoom",
+      "out",
+      "find"
+    ],
+    "animation": "search"
+  },
+  "magnifying-glass-plus": {
+    "category": "Actions",
+    "tags": [
+      "magnifying",
+      "glass",
+      "search",
+      "plus",
+      "zoom",
+      "in",
+      "find"
+    ],
+    "animation": "search"
+  },
   "mail": {
     "category": "Communication",
     "tags": [
@@ -11713,6 +11804,17 @@
       "correo"
     ],
     "animation": "float"
+  },
+  "mailbox": {
+    "category": "Communication",
+    "tags": [
+      "mailbox",
+      "post",
+      "letter",
+      "box",
+      "buzon"
+    ],
+    "animation": "pop"
   },
   "map": {
     "category": "Places",
@@ -11742,6 +11844,17 @@
     ],
     "animation": "bounce"
   },
+  "martini-glass": {
+    "category": "Objects",
+    "tags": [
+      "martini",
+      "glass",
+      "cocktail",
+      "drink",
+      "bar"
+    ],
+    "animation": "rock"
+  },
   "math-function": {
     "category": "Letters & Numbers",
     "tags": [
@@ -11761,6 +11874,30 @@
       "enlarge"
     ],
     "animation": "pop"
+  },
+  "medal": {
+    "category": "Objects",
+    "tags": [
+      "medal",
+      "award",
+      "winner",
+      "prize",
+      "achievement",
+      "medalla"
+    ],
+    "animation": "swing",
+    "origin": "50% 0%"
+  },
+  "megaphone": {
+    "category": "Communication",
+    "tags": [
+      "megaphone",
+      "announce",
+      "marketing",
+      "loud",
+      "speaker"
+    ],
+    "animation": "shake"
   },
   "menorah": {
     "category": "Religion",
@@ -11782,6 +11919,273 @@
       "navigation"
     ],
     "animation": "squash"
+  },
+  "message": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "conversation",
+      "talk",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-arrow-down": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "arrow",
+      "down",
+      "receive",
+      "download",
+      "incoming",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "nudge-down"
+  },
+  "message-arrow-up": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "arrow",
+      "up",
+      "send",
+      "upload",
+      "reply",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "nudge-up"
+  },
+  "message-check": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "check",
+      "read",
+      "seen",
+      "done",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-code": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "code",
+      "developer",
+      "snippet",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-dollar": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "dollar",
+      "money",
+      "payment",
+      "price",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-dots": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "dots",
+      "typing",
+      "more",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "dots"
+  },
+  "message-exclamation": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "exclamation",
+      "alert",
+      "warning",
+      "important",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "shake"
+  },
+  "message-heart": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "heart",
+      "love",
+      "like",
+      "reaction",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "beat"
+  },
+  "message-lines": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "lines",
+      "text",
+      "content",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-minus": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "minus",
+      "remove",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-pen": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "pen",
+      "edit",
+      "write",
+      "compose",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "write"
+  },
+  "message-plus": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "plus",
+      "new",
+      "add",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-question": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "question",
+      "help",
+      "faq",
+      "ask",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-quote": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "quote",
+      "citation",
+      "testimonial",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-slash": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "slash",
+      "mute",
+      "no",
+      "chat",
+      "off",
+      "conversation",
+      "talk",
+      "comment",
+      "bubble"
+    ],
+    "animation": "shake"
+  },
+  "message-smile": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "smile",
+      "happy",
+      "emoji",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "message-xmark": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "xmark",
+      "delete",
+      "remove",
+      "chat",
+      "comment",
+      "bubble"
+    ],
+    "animation": "pop"
+  },
+  "messages": {
+    "category": "Communication",
+    "tags": [
+      "messages",
+      "chat",
+      "conversation",
+      "multiple",
+      "bubbles"
+    ],
+    "animation": "pop"
+  },
+  "meteor": {
+    "category": "Nature",
+    "tags": [
+      "meteor",
+      "asteroid",
+      "space",
+      "comet",
+      "impact"
+    ],
+    "animation": "nudge-diag"
   },
   "microchip": {
     "category": "Objects",
@@ -11837,6 +12241,16 @@
     ],
     "animation": "shake"
   },
+  "microwave": {
+    "category": "Objects",
+    "tags": [
+      "microwave",
+      "oven",
+      "kitchen",
+      "appliance"
+    ],
+    "animation": "pop"
+  },
   "minimize": {
     "category": "Arrows",
     "tags": [
@@ -11859,6 +12273,79 @@
     ],
     "animation": "pulse"
   },
+  "mitten": {
+    "category": "Objects",
+    "tags": [
+      "mitten",
+      "glove",
+      "winter",
+      "cold",
+      "guante"
+    ],
+    "animation": "wiggle"
+  },
+  "mobile-arrow-down": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "arrow",
+      "down",
+      "download",
+      "app",
+      "phone"
+    ],
+    "animation": "nudge-down"
+  },
+  "mobile-notch": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "notch",
+      "phone",
+      "smartphone",
+      "screen"
+    ],
+    "animation": "pop"
+  },
+  "mobile-retro": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "retro",
+      "old",
+      "phone",
+      "keypad",
+      "cell"
+    ],
+    "animation": "pop"
+  },
+  "mobile-slash": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "slash",
+      "phone",
+      "off",
+      "no",
+      "signal",
+      "smartphone",
+      "cell",
+      "device",
+      "celular"
+    ],
+    "animation": "shake"
+  },
+  "mobile-vibrate": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "vibrate",
+      "phone",
+      "silent",
+      "buzz"
+    ],
+    "animation": "shake"
+  },
   "money": {
     "category": "Objects",
     "tags": [
@@ -11870,6 +12357,40 @@
       "efectivo"
     ],
     "animation": "flip"
+  },
+  "money-bill-wave": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bill",
+      "wave",
+      "cash",
+      "banknote",
+      "dinero"
+    ],
+    "animation": "wave"
+  },
+  "money-bills": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bills",
+      "cash",
+      "stack",
+      "banknotes"
+    ],
+    "animation": "pop"
+  },
+  "money-check": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "check",
+      "cheque",
+      "payment",
+      "bank"
+    ],
+    "animation": "pop"
   },
   "monitor": {
     "category": "Technology",
@@ -11895,6 +12416,28 @@
     ],
     "animation": "rock"
   },
+  "moon-star": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "star",
+      "night",
+      "sleep",
+      "sky"
+    ],
+    "animation": "float"
+  },
+  "moon-stars": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "stars",
+      "night",
+      "sky",
+      "sleep"
+    ],
+    "animation": "float"
+  },
   "mosque": {
     "category": "Religion",
     "tags": [
@@ -11905,6 +12448,37 @@
       "mezquita"
     ],
     "animation": "bounce"
+  },
+  "mountain": {
+    "category": "Nature",
+    "tags": [
+      "mountain",
+      "peak",
+      "nature",
+      "hiking",
+      "montaña"
+    ],
+    "animation": "pop"
+  },
+  "mountain-sun": {
+    "category": "Nature",
+    "tags": [
+      "mountain",
+      "sun",
+      "landscape",
+      "sunrise"
+    ],
+    "animation": "pop"
+  },
+  "mountains": {
+    "category": "Nature",
+    "tags": [
+      "mountains",
+      "range",
+      "peaks",
+      "landscape"
+    ],
+    "animation": "pop"
   },
   "mouse": {
     "category": "Technology",
@@ -11928,6 +12502,52 @@
       "pan"
     ],
     "animation": "pop"
+  },
+  "mug": {
+    "category": "Objects",
+    "tags": [
+      "mug",
+      "cup",
+      "coffee",
+      "drink",
+      "taza"
+    ],
+    "animation": "rock"
+  },
+  "mug-hot": {
+    "category": "Objects",
+    "tags": [
+      "mug",
+      "hot",
+      "coffee",
+      "tea",
+      "warm",
+      "drink"
+    ],
+    "animation": "rock"
+  },
+  "mug-saucer": {
+    "category": "Objects",
+    "tags": [
+      "mug",
+      "saucer",
+      "coffee",
+      "cup",
+      "plate"
+    ],
+    "animation": "rock"
+  },
+  "mug-tea": {
+    "category": "Objects",
+    "tags": [
+      "mug",
+      "tea",
+      "bag",
+      "cup",
+      "drink",
+      "te"
+    ],
+    "animation": "rock"
   },
   "mushroom": {
     "category": "Nature",
@@ -11985,6 +12605,17 @@
       "musica"
     ],
     "animation": "shake"
+  },
+  "mustache": {
+    "category": "People",
+    "tags": [
+      "mustache",
+      "moustache",
+      "face",
+      "hair",
+      "bigote"
+    ],
+    "animation": "wiggle"
   },
   "navigation": {
     "category": "Places",
