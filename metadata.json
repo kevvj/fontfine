@@ -17796,6 +17796,61 @@
     ],
     "animation": "rock"
   },
+  "pen": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "write",
+      "edit",
+      "sign",
+      "pluma"
+    ],
+    "animation": "write"
+  },
+  "pen-circle": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "circle",
+      "edit",
+      "write",
+      "sign"
+    ],
+    "animation": "write"
+  },
+  "pen-clip": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "clip",
+      "write",
+      "edit",
+      "office"
+    ],
+    "animation": "write"
+  },
+  "pen-fancy": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "fancy",
+      "fountain",
+      "calligraphy",
+      "write"
+    ],
+    "animation": "write"
+  },
+  "pen-line": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "line",
+      "write",
+      "edit",
+      "signature"
+    ],
+    "animation": "write"
+  },
   "pen-nib": {
     "category": "Interface",
     "tags": [
@@ -17805,6 +17860,17 @@
       "write",
       "vector",
       "design"
+    ],
+    "animation": "write"
+  },
+  "pen-ruler": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "ruler",
+      "design",
+      "draw",
+      "measure"
     ],
     "animation": "write"
   },
@@ -17834,6 +17900,27 @@
     ],
     "animation": "write"
   },
+  "pencil-line": {
+    "category": "Actions",
+    "tags": [
+      "pencil",
+      "line",
+      "write",
+      "edit",
+      "draw"
+    ],
+    "animation": "write"
+  },
+  "pencil-mechanical": {
+    "category": "Actions",
+    "tags": [
+      "pencil",
+      "mechanical",
+      "draft",
+      "write"
+    ],
+    "animation": "write"
+  },
   "pentagon": {
     "category": "Interface",
     "tags": [
@@ -17843,6 +17930,50 @@
       "five"
     ],
     "animation": "spin-slow"
+  },
+  "people-dress-simple": {
+    "category": "People",
+    "tags": [
+      "people",
+      "dress",
+      "simple",
+      "couple",
+      "women"
+    ],
+    "animation": "pop"
+  },
+  "people-group": {
+    "category": "People",
+    "tags": [
+      "people",
+      "group",
+      "team",
+      "community",
+      "members"
+    ],
+    "animation": "pop"
+  },
+  "people-roof": {
+    "category": "People",
+    "tags": [
+      "people",
+      "roof",
+      "shelter",
+      "home",
+      "family"
+    ],
+    "animation": "pop"
+  },
+  "people-simple": {
+    "category": "People",
+    "tags": [
+      "people",
+      "simple",
+      "group",
+      "couple",
+      "pair"
+    ],
+    "animation": "pop"
   },
   "pepper-hot": {
     "category": "Nature",
@@ -17890,6 +18021,39 @@
       "victory"
     ],
     "animation": "bounce"
+  },
+  "person-biking": {
+    "category": "People",
+    "tags": [
+      "person",
+      "biking",
+      "cycling",
+      "bike",
+      "ride"
+    ],
+    "animation": "drive"
+  },
+  "person-booth": {
+    "category": "People",
+    "tags": [
+      "person",
+      "booth",
+      "vote",
+      "voting",
+      "election"
+    ],
+    "animation": "pop"
+  },
+  "person-cane": {
+    "category": "People",
+    "tags": [
+      "person",
+      "cane",
+      "elderly",
+      "senior",
+      "old"
+    ],
+    "animation": "pop"
   },
   "person-circle-check": {
     "category": "People",
@@ -17968,6 +18132,75 @@
     ],
     "animation": "pop"
   },
+  "person-dress-simple": {
+    "category": "People",
+    "tags": [
+      "person",
+      "dress",
+      "simple",
+      "woman",
+      "female"
+    ],
+    "animation": "pop"
+  },
+  "person-hiking": {
+    "category": "People",
+    "tags": [
+      "person",
+      "hiking",
+      "trekking",
+      "outdoor",
+      "walk"
+    ],
+    "animation": "nudge-right"
+  },
+  "person-running": {
+    "category": "People",
+    "tags": [
+      "person",
+      "running",
+      "run",
+      "sport",
+      "jog",
+      "correr"
+    ],
+    "animation": "nudge-right"
+  },
+  "person-simple": {
+    "category": "People",
+    "tags": [
+      "person",
+      "simple",
+      "human",
+      "user",
+      "figure"
+    ],
+    "animation": "pop"
+  },
+  "person-skiing": {
+    "category": "People",
+    "tags": [
+      "person",
+      "skiing",
+      "ski",
+      "snow",
+      "winter",
+      "sport"
+    ],
+    "animation": "nudge-diag"
+  },
+  "person-swimming": {
+    "category": "People",
+    "tags": [
+      "person",
+      "swimming",
+      "swim",
+      "pool",
+      "sport",
+      "nadar"
+    ],
+    "animation": "wave"
+  },
   "person-walking": {
     "category": "People",
     "tags": [
@@ -17979,6 +18212,29 @@
       "caminar"
     ],
     "animation": "bounce"
+  },
+  "person-walking-luggage": {
+    "category": "People",
+    "tags": [
+      "person",
+      "walking",
+      "luggage",
+      "travel",
+      "suitcase"
+    ],
+    "animation": "nudge-right"
+  },
+  "person-walking-with-cane": {
+    "category": "People",
+    "tags": [
+      "person",
+      "walking",
+      "with",
+      "cane",
+      "elderly",
+      "blind"
+    ],
+    "animation": "nudge-right"
   },
   "phone": {
     "category": "Communication",
@@ -18029,6 +18285,27 @@
     ],
     "animation": "ring"
   },
+  "phone-flip": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "flip",
+      "call",
+      "telephone"
+    ],
+    "animation": "ring"
+  },
+  "phone-hangup": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "hangup",
+      "end",
+      "call",
+      "disconnect"
+    ],
+    "animation": "shake"
+  },
   "phone-missed": {
     "category": "Communication",
     "tags": [
@@ -18036,6 +18313,16 @@
       "missed",
       "call",
       "lost"
+    ],
+    "animation": "ring"
+  },
+  "phone-office": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "office",
+      "desk",
+      "telephone"
     ],
     "animation": "ring"
   },
@@ -18048,6 +18335,17 @@
       "telephone",
       "telefono",
       "llamar"
+    ],
+    "animation": "ring"
+  },
+  "phone-rotary": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "rotary",
+      "vintage",
+      "retro",
+      "old"
     ],
     "animation": "ring"
   },
@@ -18077,6 +18375,17 @@
     ],
     "animation": "ring"
   },
+  "phone-waveform": {
+    "category": "Communication",
+    "tags": [
+      "phone",
+      "waveform",
+      "call",
+      "voice",
+      "audio"
+    ],
+    "animation": "ring"
+  },
   "phone-xmark": {
     "category": "Communication",
     "tags": [
@@ -18088,6 +18397,27 @@
       "llamar"
     ],
     "animation": "ring"
+  },
+  "photo-film": {
+    "category": "Media",
+    "tags": [
+      "photo",
+      "film",
+      "gallery",
+      "images",
+      "media"
+    ],
+    "animation": "pop"
+  },
+  "pi": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "pi",
+      "math",
+      "constant",
+      "greek"
+    ],
+    "animation": "pop"
   },
   "piano": {
     "category": "Music & Audio",
@@ -18582,6 +18912,17 @@
     ],
     "animation": "bars"
   },
+  "poo": {
+    "category": "Objects",
+    "tags": [
+      "poo",
+      "poop",
+      "toilet",
+      "funny",
+      "emoji"
+    ],
+    "animation": "bounce"
+  },
   "popcorn": {
     "category": "Objects",
     "tags": [
@@ -18651,6 +18992,17 @@
     ],
     "animation": "pulse"
   },
+  "power-off": {
+    "category": "Interface",
+    "tags": [
+      "power",
+      "off",
+      "on",
+      "shutdown",
+      "button"
+    ],
+    "animation": "pulse"
+  },
   "prescription-bottle": {
     "category": "Health",
     "tags": [
@@ -18662,6 +19014,17 @@
       "frasco"
     ],
     "animation": "wiggle"
+  },
+  "prescription-bottle-medical": {
+    "category": "Health",
+    "tags": [
+      "prescription",
+      "bottle",
+      "medical",
+      "medicine",
+      "pharmacy"
+    ],
+    "animation": "rock"
   },
   "presentation-screen": {
     "category": "Objects",
@@ -18802,6 +19165,17 @@
       "plugin",
       "addon",
       "game"
+    ],
+    "animation": "wiggle"
+  },
+  "puzzle-piece-simple": {
+    "category": "Objects",
+    "tags": [
+      "puzzle",
+      "piece",
+      "simple",
+      "game",
+      "jigsaw"
     ],
     "animation": "wiggle"
   },
