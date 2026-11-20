@@ -11844,6 +11844,17 @@
     ],
     "animation": "bounce"
   },
+  "mars": {
+    "category": "People",
+    "tags": [
+      "mars",
+      "male",
+      "man",
+      "gender",
+      "symbol"
+    ],
+    "animation": "pop"
+  },
   "martini-glass": {
     "category": "Objects",
     "tags": [
@@ -17940,6 +17951,18 @@
     ],
     "animation": "beat"
   },
+  "ufo": {
+    "category": "Objects",
+    "tags": [
+      "ufo",
+      "alien",
+      "spaceship",
+      "flying",
+      "saucer",
+      "ovni"
+    ],
+    "animation": "float"
+  },
   "umbrella": {
     "category": "Weather",
     "tags": [
@@ -17951,6 +17974,17 @@
     ],
     "animation": "rock",
     "origin": "50% 90%"
+  },
+  "umbrella-beach": {
+    "category": "Places",
+    "tags": [
+      "umbrella",
+      "beach",
+      "summer",
+      "vacation",
+      "sombrilla"
+    ],
+    "animation": "swing"
   },
   "underline": {
     "category": "Interface",
@@ -17973,6 +18007,17 @@
     ],
     "animation": "nudge-left"
   },
+  "universal-access": {
+    "category": "People",
+    "tags": [
+      "universal",
+      "access",
+      "accessibility",
+      "disability",
+      "a11y"
+    ],
+    "animation": "pop"
+  },
   "upload": {
     "category": "Arrows",
     "tags": [
@@ -17982,6 +18027,18 @@
       "subir"
     ],
     "animation": "nudge-up"
+  },
+  "usb-drive": {
+    "category": "Technology",
+    "tags": [
+      "usb",
+      "drive",
+      "flash",
+      "memory",
+      "stick",
+      "pendrive"
+    ],
+    "animation": "pop"
   },
   "user": {
     "category": "People",
@@ -17997,6 +18054,16 @@
     ],
     "animation": "bounce"
   },
+  "user-astronaut": {
+    "category": "People",
+    "tags": [
+      "user",
+      "astronaut",
+      "space",
+      "helmet"
+    ],
+    "animation": "float"
+  },
   "user-check": {
     "category": "People",
     "tags": [
@@ -18005,6 +18072,17 @@
       "verified",
       "approved",
       "member"
+    ],
+    "animation": "pop"
+  },
+  "user-chef": {
+    "category": "People",
+    "tags": [
+      "user",
+      "chef",
+      "cook",
+      "kitchen",
+      "restaurant"
     ],
     "animation": "pop"
   },
@@ -18019,6 +18097,134 @@
       "perfil"
     ],
     "animation": "bounce"
+  },
+  "user-circle-check": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "check",
+      "account",
+      "profile",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "user-circle-exclamation": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "exclamation",
+      "account",
+      "profile",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "user-circle-minus": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "minus",
+      "account",
+      "profile",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "user-circle-plus": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "plus",
+      "account",
+      "profile",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "user-circle-question": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "question",
+      "account",
+      "profile",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "user-circle-xmark": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "xmark",
+      "account",
+      "profile",
+      "status"
+    ],
+    "animation": "pop"
+  },
+  "user-clock": {
+    "category": "People",
+    "tags": [
+      "user",
+      "clock",
+      "time",
+      "schedule",
+      "shift"
+    ],
+    "animation": "pop"
+  },
+  "user-cowboy": {
+    "category": "People",
+    "tags": [
+      "user",
+      "cowboy",
+      "western",
+      "hat"
+    ],
+    "animation": "pop"
+  },
+  "user-crown": {
+    "category": "People",
+    "tags": [
+      "user",
+      "crown",
+      "king",
+      "queen",
+      "admin",
+      "vip"
+    ],
+    "animation": "pop"
+  },
+  "user-graduate": {
+    "category": "People",
+    "tags": [
+      "user",
+      "graduate",
+      "student",
+      "school",
+      "education"
+    ],
+    "animation": "pop"
+  },
+  "user-headset": {
+    "category": "People",
+    "tags": [
+      "user",
+      "headset",
+      "support",
+      "agent",
+      "call",
+      "center"
+    ],
+    "animation": "pop"
   },
   "user-lock": {
     "category": "Security",
@@ -18042,6 +18248,28 @@
       "member"
     ],
     "animation": "shake"
+  },
+  "user-ninja": {
+    "category": "People",
+    "tags": [
+      "user",
+      "ninja",
+      "secret",
+      "stealth",
+      "incognito"
+    ],
+    "animation": "pop"
+  },
+  "user-pen": {
+    "category": "People",
+    "tags": [
+      "user",
+      "pen",
+      "edit",
+      "profile",
+      "account"
+    ],
+    "animation": "pop"
   },
   "user-plus": {
     "category": "People",
@@ -18068,6 +18296,22 @@
       "admin"
     ],
     "animation": "pulse"
+  },
+  "user-slash": {
+    "category": "People",
+    "tags": [
+      "user",
+      "slash",
+      "blocked",
+      "banned",
+      "remove",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario"
+    ],
+    "animation": "shake"
   },
   "user-tie": {
     "category": "People",
@@ -18108,6 +18352,32 @@
     ],
     "animation": "bounce"
   },
+  "users-slash": {
+    "category": "People",
+    "tags": [
+      "users",
+      "slash",
+      "group",
+      "blocked",
+      "no",
+      "people",
+      "team",
+      "personas",
+      "usuarios"
+    ],
+    "animation": "shake"
+  },
+  "van": {
+    "category": "Places",
+    "tags": [
+      "van",
+      "vehicle",
+      "transport",
+      "delivery",
+      "furgoneta"
+    ],
+    "animation": "drive"
+  },
   "vault": {
     "category": "Security",
     "tags": [
@@ -18121,6 +18391,50 @@
     ],
     "animation": "turn-key"
   },
+  "venus": {
+    "category": "People",
+    "tags": [
+      "venus",
+      "female",
+      "woman",
+      "gender",
+      "symbol"
+    ],
+    "animation": "pop"
+  },
+  "venus-mars": {
+    "category": "People",
+    "tags": [
+      "venus",
+      "mars",
+      "gender",
+      "symbols",
+      "couple"
+    ],
+    "animation": "pop"
+  },
+  "vest": {
+    "category": "Objects",
+    "tags": [
+      "vest",
+      "clothing",
+      "waistcoat",
+      "chaleco"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
+  "vhs": {
+    "category": "Media",
+    "tags": [
+      "vhs",
+      "tape",
+      "cassette",
+      "video",
+      "retro"
+    ],
+    "animation": "pop"
+  },
   "vial": {
     "category": "Health",
     "tags": [
@@ -18133,6 +18447,17 @@
       "tubo"
     ],
     "animation": "wiggle"
+  },
+  "vials": {
+    "category": "Health",
+    "tags": [
+      "vials",
+      "test",
+      "tubes",
+      "lab",
+      "samples"
+    ],
+    "animation": "float"
   },
   "video": {
     "category": "Media",
@@ -18190,6 +18515,38 @@
     ],
     "animation": "spin-slow"
   },
+  "voicemail": {
+    "category": "Communication",
+    "tags": [
+      "voicemail",
+      "message",
+      "phone",
+      "recording"
+    ],
+    "animation": "pop"
+  },
+  "volcano": {
+    "category": "Nature",
+    "tags": [
+      "volcano",
+      "eruption",
+      "lava",
+      "mountain",
+      "volcan"
+    ],
+    "animation": "shake"
+  },
+  "volleyball": {
+    "category": "Objects",
+    "tags": [
+      "volleyball",
+      "ball",
+      "sport",
+      "beach",
+      "voleibol"
+    ],
+    "animation": "bounce"
+  },
   "volume": {
     "category": "Media",
     "tags": [
@@ -18201,6 +18558,18 @@
       "sonido"
     ],
     "animation": "beat"
+  },
+  "volume-high": {
+    "category": "Media",
+    "tags": [
+      "volume",
+      "high",
+      "loud",
+      "sound",
+      "speaker",
+      "audio"
+    ],
+    "animation": "pulse"
   },
   "volume-low": {
     "category": "Music & Audio",
@@ -18240,6 +18609,42 @@
     ],
     "animation": "shake"
   },
+  "volume-xmark": {
+    "category": "Media",
+    "tags": [
+      "volume",
+      "xmark",
+      "mute",
+      "silent",
+      "sound",
+      "off"
+    ],
+    "animation": "shake"
+  },
+  "vr-cardboard": {
+    "category": "Technology",
+    "tags": [
+      "vr",
+      "cardboard",
+      "virtual",
+      "reality",
+      "headset",
+      "goggles"
+    ],
+    "animation": "pop"
+  },
+  "walkie-talkie": {
+    "category": "Communication",
+    "tags": [
+      "walkie",
+      "talkie",
+      "radio",
+      "two",
+      "way",
+      "communication"
+    ],
+    "animation": "shake"
+  },
   "wallet": {
     "category": "Objects",
     "tags": [
@@ -18250,6 +18655,105 @@
       "billetera"
     ],
     "animation": "bounce"
+  },
+  "wand": {
+    "category": "Objects",
+    "tags": [
+      "wand",
+      "magic",
+      "spell",
+      "wizard",
+      "varita"
+    ],
+    "animation": "swing"
+  },
+  "wand-magic-sparkles": {
+    "category": "Objects",
+    "tags": [
+      "wand",
+      "magic",
+      "sparkles",
+      "ai",
+      "spell",
+      "auto"
+    ],
+    "animation": "glow"
+  },
+  "warehouse": {
+    "category": "Places",
+    "tags": [
+      "warehouse",
+      "storage",
+      "depot",
+      "inventory",
+      "almacen"
+    ],
+    "animation": "pop"
+  },
+  "washing-machine": {
+    "category": "Objects",
+    "tags": [
+      "washing",
+      "machine",
+      "laundry",
+      "clothes",
+      "lavadora"
+    ],
+    "animation": "spin"
+  },
+  "watch": {
+    "category": "Objects",
+    "tags": [
+      "watch",
+      "wristwatch",
+      "time",
+      "clock",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
+  "watermelon-slice": {
+    "category": "Nature",
+    "tags": [
+      "watermelon",
+      "slice",
+      "fruit",
+      "summer",
+      "sandia"
+    ],
+    "animation": "rock"
+  },
+  "wave-sine": {
+    "category": "Music & Audio",
+    "tags": [
+      "wave",
+      "sine",
+      "signal",
+      "analog",
+      "audio"
+    ],
+    "animation": "wave"
+  },
+  "wave-square": {
+    "category": "Music & Audio",
+    "tags": [
+      "wave",
+      "square",
+      "signal",
+      "digital",
+      "audio"
+    ],
+    "animation": "wave"
+  },
+  "wave-triangle": {
+    "category": "Music & Audio",
+    "tags": [
+      "wave",
+      "triangle",
+      "signal",
+      "audio"
+    ],
+    "animation": "wave"
   },
   "weight-scale": {
     "category": "Health",
