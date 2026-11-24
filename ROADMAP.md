@@ -1206,7 +1206,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] plane
 - [x] restroom
 - [x] rocket
-- [ ] snowplow
+- [ ] snowplow (as `truck-plow`)
 - [x] square-parking
 - [x] square-plus
 - [x] street-view
@@ -1454,8 +1454,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] lock
 - [x] lock-open
 - [x] passport
-- [ ] unlock
-- [ ] unlock-keyhole
+- [ ] unlock (as `lock-open`)
+- [ ] unlock-keyhole (as `lock-keyhole-open`)
 - [x] user-lock
 - [x] user-shield
 
@@ -1480,11 +1480,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 
 ## Social (5/7)
 
-- [ ] circle-user
+- [ ] circle-user (as `user-circle`)
 - [x] share-nodes (as `share`)
 - [x] square-share-nodes
 - [x] user
-- [ ] user-group
+- [ ] user-group (as `users`)
 - [x] user-plus
 - [x] users
 

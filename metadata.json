@@ -2383,6 +2383,17 @@
     ],
     "animation": "shake"
   },
+  "ban-smoking": {
+    "category": "Health",
+    "tags": [
+      "ban",
+      "smoking",
+      "no",
+      "cigarette",
+      "forbidden"
+    ],
+    "animation": "shake"
+  },
   "banana": {
     "category": "Nature",
     "tags": [
@@ -4716,6 +4727,53 @@
     ],
     "animation": "pop"
   },
+  "bridge": {
+    "category": "Places",
+    "tags": [
+      "bridge",
+      "river",
+      "crossing",
+      "road"
+    ],
+    "animation": "pop"
+  },
+  "bridge-circle-check": {
+    "category": "Places",
+    "tags": [
+      "open",
+      "safe",
+      "ok",
+      "bridge",
+      "river",
+      "crossing",
+      "road"
+    ],
+    "animation": "pop"
+  },
+  "bridge-circle-exclamation": {
+    "category": "Places",
+    "tags": [
+      "warning",
+      "danger",
+      "bridge",
+      "river",
+      "crossing",
+      "road"
+    ],
+    "animation": "pop"
+  },
+  "bridge-circle-xmark": {
+    "category": "Places",
+    "tags": [
+      "closed",
+      "blocked",
+      "bridge",
+      "river",
+      "crossing",
+      "road"
+    ],
+    "animation": "pop"
+  },
   "bridge-suspension": {
     "category": "Places",
     "tags": [
@@ -4727,6 +4785,17 @@
       "puente"
     ],
     "animation": "wave"
+  },
+  "bridge-water": {
+    "category": "Places",
+    "tags": [
+      "bridge",
+      "water",
+      "river",
+      "flood",
+      "crossing"
+    ],
+    "animation": "pop"
   },
   "briefcase": {
     "category": "Objects",
@@ -5273,6 +5342,18 @@
       "archivador"
     ],
     "animation": "bounce"
+  },
+  "cable-car": {
+    "category": "Places",
+    "tags": [
+      "cable",
+      "car",
+      "gondola",
+      "tram",
+      "ropeway",
+      "mountain"
+    ],
+    "animation": "swing"
   },
   "cactus": {
     "category": "Nature",
@@ -7376,6 +7457,17 @@
       "caballo"
     ],
     "animation": "pop"
+  },
+  "chess-pawn": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "pawn",
+      "piece",
+      "game",
+      "strategy"
+    ],
+    "animation": "bounce"
   },
   "chess-pawn-piece": {
     "category": "Objects",
@@ -12281,6 +12373,19 @@
     ],
     "animation": "rock"
   },
+  "dice-d20": {
+    "category": "Objects",
+    "tags": [
+      "dice",
+      "d20",
+      "rpg",
+      "dungeons",
+      "tabletop",
+      "game",
+      "roll"
+    ],
+    "animation": "spin"
+  },
   "dice-d4": {
     "category": "Objects",
     "tags": [
@@ -12763,6 +12868,17 @@
       "shape",
       "tool",
       "vector"
+    ],
+    "animation": "pop"
+  },
+  "draw-polygon": {
+    "category": "Interface",
+    "tags": [
+      "draw",
+      "polygon",
+      "shape",
+      "vector",
+      "vertices"
     ],
     "animation": "pop"
   },
@@ -13469,6 +13585,17 @@
       "error"
     ],
     "animation": "shake"
+  },
+  "explosion": {
+    "category": "Status",
+    "tags": [
+      "explosion",
+      "blast",
+      "boom",
+      "bang",
+      "bomb"
+    ],
+    "animation": "pop"
   },
   "external-link": {
     "category": "Arrows",
@@ -18357,6 +18484,18 @@
     ],
     "animation": "nudge-right"
   },
+  "hand-point-up": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "point",
+      "up",
+      "finger",
+      "index",
+      "one"
+    ],
+    "animation": "nudge-up"
+  },
   "hand-pointer": {
     "category": "Interface",
     "tags": [
@@ -18838,6 +18977,17 @@
     ],
     "animation": "float"
   },
+  "helicopter-symbol": {
+    "category": "Places",
+    "tags": [
+      "helicopter",
+      "symbol",
+      "helipad",
+      "landing",
+      "h"
+    ],
+    "animation": "pop"
+  },
   "helmet-safety": {
     "category": "Objects",
     "tags": [
@@ -19146,6 +19296,31 @@
       "doctor"
     ],
     "animation": "pop"
+  },
+  "hot-tub-person": {
+    "category": "Places",
+    "tags": [
+      "hot",
+      "tub",
+      "person",
+      "jacuzzi",
+      "spa",
+      "bath"
+    ],
+    "animation": "float"
+  },
+  "hotdog": {
+    "category": "Objects",
+    "tags": [
+      "hotdog",
+      "hot",
+      "dog",
+      "sausage",
+      "bun",
+      "fast",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "hotel": {
     "category": "Places",
@@ -20235,6 +20410,19 @@
       "aircraft"
     ],
     "animation": "nudge-right"
+  },
+  "jet-fighter-up": {
+    "category": "Places",
+    "tags": [
+      "jet",
+      "fighter",
+      "up",
+      "plane",
+      "military",
+      "air",
+      "force"
+    ],
+    "animation": "nudge-up"
   },
   "joystick": {
     "category": "Technology",
@@ -22356,6 +22544,18 @@
     ],
     "animation": "bounce"
   },
+  "marker": {
+    "category": "Objects",
+    "tags": [
+      "marker",
+      "highlighter",
+      "pen",
+      "draw",
+      "felt",
+      "tip"
+    ],
+    "animation": "write"
+  },
   "mars": {
     "category": "People",
     "tags": [
@@ -22461,6 +22661,29 @@
       "copa"
     ],
     "animation": "wobble"
+  },
+  "mask": {
+    "category": "Objects",
+    "tags": [
+      "mask",
+      "carnival",
+      "masquerade",
+      "costume",
+      "party"
+    ],
+    "animation": "wobble"
+  },
+  "mask-face": {
+    "category": "Health",
+    "tags": [
+      "mask",
+      "face",
+      "surgical",
+      "medical",
+      "covid",
+      "protection"
+    ],
+    "animation": "pop"
   },
   "math-function": {
     "category": "Letters & Numbers",
@@ -29512,6 +29735,17 @@
     ],
     "animation": "pop"
   },
+  "sleigh": {
+    "category": "Objects",
+    "tags": [
+      "sleigh",
+      "sled",
+      "santa",
+      "christmas",
+      "snow"
+    ],
+    "animation": "slide"
+  },
   "slider": {
     "category": "Interface",
     "tags": [
@@ -29786,6 +30020,18 @@
       "asc"
     ],
     "animation": "nudge-up"
+  },
+  "spa": {
+    "category": "Health",
+    "tags": [
+      "spa",
+      "lotus",
+      "wellness",
+      "relax",
+      "massage",
+      "yoga"
+    ],
+    "animation": "float"
   },
   "spade": {
     "category": "Objects",
@@ -32050,6 +32296,17 @@
       "time",
       "clock",
       "cronometro"
+    ],
+    "animation": "tick"
+  },
+  "stopwatch-20": {
+    "category": "Interface",
+    "tags": [
+      "stopwatch",
+      "20",
+      "seconds",
+      "timer",
+      "countdown"
     ],
     "animation": "tick"
   },
@@ -36014,6 +36271,17 @@
       "varita"
     ],
     "animation": "swing"
+  },
+  "wand-magic": {
+    "category": "Objects",
+    "tags": [
+      "wand",
+      "magic",
+      "spell",
+      "wizard",
+      "trick"
+    ],
+    "animation": "glow"
   },
   "wand-magic-sparkles": {
     "category": "Objects",
