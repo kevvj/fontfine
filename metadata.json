@@ -243,6 +243,19 @@
     ],
     "animation": "slide"
   },
+  "align-slash": {
+    "category": "Interface",
+    "tags": [
+      "slash",
+      "off",
+      "disabled",
+      "text",
+      "align",
+      "left",
+      "paragraph"
+    ],
+    "animation": "shake"
+  },
   "almost-equal-to": {
     "category": "Letters & Numbers",
     "tags": [
@@ -253,6 +266,17 @@
       "math"
     ],
     "animation": "wave"
+  },
+  "alt": {
+    "category": "Technology",
+    "tags": [
+      "alt",
+      "key",
+      "alternative",
+      "keyboard",
+      "modifier"
+    ],
+    "animation": "pop"
   },
   "amp-guitar": {
     "category": "Music & Audio",
@@ -572,6 +596,20 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-big-small": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "big",
+      "small",
+      "sort",
+      "order",
+      "size",
+      "descending"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-down-from-arc": {
     "category": "Arrows",
     "tags": [
@@ -682,6 +720,33 @@
     ],
     "animation": "nudge-down"
   },
+  "arrow-down-small-big": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "small",
+      "big",
+      "sort",
+      "order",
+      "size",
+      "ascending"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-square-triangle": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "square",
+      "triangle",
+      "sort",
+      "order",
+      "shape"
+    ],
+    "animation": "nudge-down"
+  },
   "arrow-down-to-arc": {
     "category": "Arrows",
     "tags": [
@@ -748,6 +813,32 @@
       "inbox"
     ],
     "animation": "nudge-down"
+  },
+  "arrow-down-triangle-square": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "triangle",
+      "square",
+      "sort",
+      "order",
+      "shape"
+    ],
+    "animation": "nudge-down"
+  },
+  "arrow-down-up-across-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "down",
+      "up",
+      "across",
+      "line",
+      "swap",
+      "border"
+    ],
+    "animation": "pop"
   },
   "arrow-down-wide-short": {
     "category": "Arrows",
@@ -1502,6 +1593,20 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-big-small": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "big",
+      "small",
+      "sort",
+      "order",
+      "size",
+      "descending"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-up-from-arc": {
     "category": "Arrows",
     "tags": [
@@ -1579,6 +1684,19 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-left-from-circle": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "left",
+      "from",
+      "circle",
+      "exit",
+      "leave"
+    ],
+    "animation": "nudge-diag"
+  },
   "arrow-up-long": {
     "category": "Arrows",
     "tags": [
@@ -1624,6 +1742,21 @@
     ],
     "animation": "nudge-diag"
   },
+  "arrow-up-right-from-square": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "right",
+      "from",
+      "square",
+      "external",
+      "link",
+      "open",
+      "new"
+    ],
+    "animation": "nudge-diag"
+  },
   "arrow-up-short-wide": {
     "category": "Arrows",
     "tags": [
@@ -1634,6 +1767,33 @@
       "size",
       "sort",
       "order"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-small-big": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "small",
+      "big",
+      "sort",
+      "order",
+      "size",
+      "ascending"
+    ],
+    "animation": "nudge-up"
+  },
+  "arrow-up-square-triangle": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "square",
+      "triangle",
+      "sort",
+      "order",
+      "shape"
     ],
     "animation": "nudge-up"
   },
@@ -1691,6 +1851,19 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-triangle-square": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "triangle",
+      "square",
+      "sort",
+      "order",
+      "shape"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-up-wide-short": {
     "category": "Arrows",
     "tags": [
@@ -1729,6 +1902,18 @@
     ],
     "animation": "pulse"
   },
+  "arrows-down-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "down",
+      "to",
+      "line",
+      "bottom",
+      "drop"
+    ],
+    "animation": "nudge-down"
+  },
   "arrows-from-dotted-line": {
     "category": "Arrows",
     "tags": [
@@ -1763,6 +1948,19 @@
       "resize"
     ],
     "animation": "slide"
+  },
+  "arrows-left-right-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "left",
+      "right",
+      "to",
+      "line",
+      "center",
+      "merge"
+    ],
+    "animation": "pop"
   },
   "arrows-maximize": {
     "category": "Arrows",
@@ -1832,6 +2030,18 @@
     ],
     "animation": "spin"
   },
+  "arrows-rotate-reverse": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "rotate",
+      "reverse",
+      "refresh",
+      "sync",
+      "counterclockwise"
+    ],
+    "animation": "spin"
+  },
   "arrows-spin": {
     "category": "Arrows",
     "tags": [
@@ -1842,6 +2052,19 @@
       "cycle"
     ],
     "animation": "spin"
+  },
+  "arrows-split-up-and-left": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "split",
+      "up",
+      "and",
+      "left",
+      "fork",
+      "divide"
+    ],
+    "animation": "nudge-up"
   },
   "arrows-to-circle": {
     "category": "Arrows",
@@ -1891,6 +2114,17 @@
     ],
     "animation": "squash"
   },
+  "arrows-turn-right": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "turn",
+      "right",
+      "redirect",
+      "forward"
+    ],
+    "animation": "nudge-right"
+  },
   "arrows-up-down": {
     "category": "Arrows",
     "tags": [
@@ -1915,6 +2149,18 @@
       "drag"
     ],
     "animation": "pop"
+  },
+  "arrows-up-to-line": {
+    "category": "Arrows",
+    "tags": [
+      "arrows",
+      "up",
+      "to",
+      "line",
+      "top",
+      "lift"
+    ],
+    "animation": "nudge-up"
   },
   "asterisk": {
     "category": "Letters & Numbers",
@@ -2485,6 +2731,17 @@
     ],
     "animation": "bounce"
   },
+  "bar-progress": {
+    "category": "Interface",
+    "tags": [
+      "bar",
+      "progress",
+      "loading",
+      "percent",
+      "status"
+    ],
+    "animation": "progress"
+  },
   "bar-progress-empty": {
     "category": "Interface",
     "tags": [
@@ -2555,6 +2812,17 @@
       "upc",
       "price",
       "codigo de barras"
+    ],
+    "animation": "pulse"
+  },
+  "barcode-read": {
+    "category": "Technology",
+    "tags": [
+      "barcode",
+      "read",
+      "scan",
+      "scanner",
+      "product"
     ],
     "animation": "pulse"
   },
@@ -4410,6 +4678,17 @@
       "cerebro"
     ],
     "animation": "pulse"
+  },
+  "brake-warning": {
+    "category": "Status",
+    "tags": [
+      "brake",
+      "warning",
+      "car",
+      "dashboard",
+      "alert"
+    ],
+    "animation": "flash"
   },
   "brand-android": {
     "category": "Brands",
@@ -11604,6 +11883,17 @@
     ],
     "animation": "pulse"
   },
+  "compress-wide": {
+    "category": "Arrows",
+    "tags": [
+      "compress",
+      "wide",
+      "minimize",
+      "exit",
+      "fullscreen"
+    ],
+    "animation": "pop"
+  },
   "computer": {
     "category": "Technology",
     "tags": [
@@ -13085,6 +13375,23 @@
     ],
     "animation": "float"
   },
+  "down-left-and-up-right-to-center": {
+    "category": "Arrows",
+    "tags": [
+      "down",
+      "left",
+      "and",
+      "up",
+      "right",
+      "to",
+      "center",
+      "compress",
+      "minimize",
+      "arrows",
+      "shrink"
+    ],
+    "animation": "pop"
+  },
   "download": {
     "category": "Actions",
     "tags": [
@@ -13590,6 +13897,27 @@
     ],
     "animation": "pop"
   },
+  "engine": {
+    "category": "Objects",
+    "tags": [
+      "engine",
+      "motor",
+      "car",
+      "mechanic"
+    ],
+    "animation": "wiggle"
+  },
+  "engine-warning": {
+    "category": "Status",
+    "tags": [
+      "engine",
+      "warning",
+      "check",
+      "car",
+      "dashboard"
+    ],
+    "animation": "flash"
+  },
   "envelope-circle-check": {
     "category": "Communication",
     "tags": [
@@ -13823,6 +14151,27 @@
       "error"
     ],
     "animation": "shake"
+  },
+  "expand": {
+    "category": "Arrows",
+    "tags": [
+      "expand",
+      "fullscreen",
+      "maximize",
+      "enlarge"
+    ],
+    "animation": "pop"
+  },
+  "expand-wide": {
+    "category": "Arrows",
+    "tags": [
+      "expand",
+      "wide",
+      "fullscreen",
+      "maximize",
+      "widescreen"
+    ],
+    "animation": "pop"
   },
   "explosion": {
     "category": "Status",
@@ -22141,6 +22490,17 @@
     ],
     "animation": "pop"
   },
+  "loader": {
+    "category": "Interface",
+    "tags": [
+      "loader",
+      "loading",
+      "spinner",
+      "wait",
+      "progress"
+    ],
+    "animation": "spin-steps"
+  },
   "loader-bar": {
     "category": "Status",
     "tags": [
@@ -23607,6 +23967,18 @@
     ],
     "animation": "pulse"
   },
+  "microchip-ai": {
+    "category": "Technology",
+    "tags": [
+      "microchip",
+      "ai",
+      "artificial",
+      "intelligence",
+      "chip",
+      "processor"
+    ],
+    "animation": "pulse"
+  },
   "microphone": {
     "category": "Music & Audio",
     "tags": [
@@ -24098,6 +24470,18 @@
       "pc"
     ],
     "animation": "bounce"
+  },
+  "monitor-waveform": {
+    "category": "Technology",
+    "tags": [
+      "monitor",
+      "waveform",
+      "heart",
+      "rate",
+      "ecg",
+      "screen"
+    ],
+    "animation": "pulse"
   },
   "monument": {
     "category": "Places",
@@ -35516,6 +35900,23 @@
       "accessibility",
       "disability",
       "a11y"
+    ],
+    "animation": "pop"
+  },
+  "up-right-and-down-left-from-center": {
+    "category": "Arrows",
+    "tags": [
+      "up",
+      "right",
+      "and",
+      "down",
+      "left",
+      "from",
+      "center",
+      "expand",
+      "maximize",
+      "arrows",
+      "grow"
     ],
     "animation": "pop"
   },

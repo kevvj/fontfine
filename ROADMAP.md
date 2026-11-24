@@ -1679,7 +1679,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] arrow-down-from-dotted-line
 - [x] arrow-down-from-line
 - [x] arrow-down-left
-- [ ] arrow-down-left-and-arrow-up-right-to-center
+- [ ] arrow-down-left-and-arrow-up-right-to-center (as `down-left-and-up-right-to-center`)
 - [x] arrow-down-long-to-line
 - [x] arrow-down-right
 - [ ] arrow-down-small-big
@@ -1738,7 +1738,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] arrow-up-left-from-circle
 - [x] arrow-up-long-to-line
 - [x] arrow-up-right
-- [ ] arrow-up-right-and-arrow-down-left-from-center
+- [ ] arrow-up-right-and-arrow-down-left-from-center (as `up-right-and-down-left-from-center`)
 - [ ] arrow-up-small-big
 - [ ] arrow-up-square-triangle
 - [x] arrow-up-to-arc
