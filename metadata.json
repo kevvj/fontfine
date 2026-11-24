@@ -13088,6 +13088,17 @@
     ],
     "animation": "spin-slow"
   },
+  "eclipse": {
+    "category": "Weather",
+    "tags": [
+      "eclipse",
+      "sun",
+      "moon",
+      "solar",
+      "astronomy"
+    ],
+    "animation": "glow"
+  },
   "egg": {
     "category": "Nature",
     "tags": [
@@ -16104,6 +16115,16 @@
     ],
     "animation": "shake"
   },
+  "fire-flame": {
+    "category": "Nature",
+    "tags": [
+      "fire",
+      "flame",
+      "hot",
+      "burn"
+    ],
+    "animation": "flicker"
+  },
   "fire-flame-curved": {
     "category": "Nature",
     "tags": [
@@ -16449,6 +16470,16 @@
       "flor"
     ],
     "animation": "spin-slow"
+  },
+  "flower-daffodil": {
+    "category": "Nature",
+    "tags": [
+      "flower",
+      "daffodil",
+      "spring",
+      "narcissus"
+    ],
+    "animation": "swing"
   },
   "flower-tulip": {
     "category": "Nature",
@@ -16935,6 +16966,18 @@
     ],
     "animation": "bounce"
   },
+  "galaxy": {
+    "category": "Nature",
+    "tags": [
+      "galaxy",
+      "spiral",
+      "space",
+      "universe",
+      "milky",
+      "way"
+    ],
+    "animation": "spin-slow"
+  },
   "gallery-thumbnails": {
     "category": "Media",
     "tags": [
@@ -17380,6 +17423,16 @@
       "regalos"
     ],
     "animation": "bounce"
+  },
+  "gingerbread-man": {
+    "category": "Objects",
+    "tags": [
+      "gingerbread",
+      "man",
+      "cookie",
+      "christmas"
+    ],
+    "animation": "dance"
   },
   "glass": {
     "category": "Objects",
@@ -20105,6 +20158,17 @@
     ],
     "animation": "pop"
   },
+  "island-tropical": {
+    "category": "Nature",
+    "tags": [
+      "island",
+      "tropical",
+      "palm",
+      "beach",
+      "vacation"
+    ],
+    "animation": "swing"
+  },
   "italic": {
     "category": "Interface",
     "tags": [
@@ -20114,6 +20178,17 @@
       "cursiva"
     ],
     "animation": "wobble"
+  },
+  "jack-o-lantern": {
+    "category": "Objects",
+    "tags": [
+      "jack",
+      "o",
+      "lantern",
+      "pumpkin",
+      "halloween"
+    ],
+    "animation": "flicker"
   },
   "jar": {
     "category": "Objects",
@@ -20737,6 +20812,17 @@
     ],
     "animation": "swing"
   },
+  "leaf-oak": {
+    "category": "Nature",
+    "tags": [
+      "leaf",
+      "oak",
+      "autumn",
+      "fall",
+      "tree"
+    ],
+    "animation": "swing"
+  },
   "leafy-green": {
     "category": "Objects",
     "tags": [
@@ -21307,6 +21393,17 @@
       "faro"
     ],
     "animation": "glow"
+  },
+  "lights-holiday": {
+    "category": "Objects",
+    "tags": [
+      "lights",
+      "holiday",
+      "christmas",
+      "string",
+      "bulbs"
+    ],
+    "animation": "flash"
   },
   "line-columns": {
     "category": "Interface",
@@ -23975,6 +24072,17 @@
     ],
     "animation": "nudge-diag"
   },
+  "nesting-dolls": {
+    "category": "Objects",
+    "tags": [
+      "nesting",
+      "dolls",
+      "matryoshka",
+      "russian",
+      "toy"
+    ],
+    "animation": "wobble"
+  },
   "network-wired": {
     "category": "Technology",
     "tags": [
@@ -24642,6 +24750,16 @@
     ],
     "animation": "rock"
   },
+  "olive-branch": {
+    "category": "Nature",
+    "tags": [
+      "olive",
+      "branch",
+      "peace",
+      "leaves"
+    ],
+    "animation": "swing"
+  },
   "omega": {
     "category": "Letters & Numbers",
     "tags": [
@@ -24674,6 +24792,16 @@
       "modifier"
     ],
     "animation": "pop"
+  },
+  "ornament": {
+    "category": "Objects",
+    "tags": [
+      "ornament",
+      "bauble",
+      "christmas",
+      "decoration"
+    ],
+    "animation": "swing"
   },
   "outdent": {
     "category": "Interface",
@@ -25080,6 +25208,17 @@
       "estacionamiento"
     ],
     "animation": "shake"
+  },
+  "party-horn": {
+    "category": "Objects",
+    "tags": [
+      "party",
+      "horn",
+      "celebration",
+      "birthday",
+      "noise"
+    ],
+    "animation": "wiggle"
   },
   "passport": {
     "category": "Objects",
@@ -29464,6 +29603,16 @@
     ],
     "animation": "float"
   },
+  "smoke": {
+    "category": "Weather",
+    "tags": [
+      "smoke",
+      "cloud",
+      "fog",
+      "pollution"
+    ],
+    "animation": "float"
+  },
   "smoking": {
     "category": "Health",
     "tags": [
@@ -29522,6 +29671,17 @@
     ],
     "animation": "wobble"
   },
+  "snowman-head": {
+    "category": "Weather",
+    "tags": [
+      "snowman",
+      "head",
+      "winter",
+      "christmas",
+      "frosty"
+    ],
+    "animation": "wobble"
+  },
   "soap": {
     "category": "Objects",
     "tags": [
@@ -29561,6 +29721,18 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "solar-system": {
+    "category": "Nature",
+    "tags": [
+      "solar",
+      "system",
+      "planets",
+      "orbit",
+      "space",
+      "sun"
+    ],
+    "animation": "spin-slow"
   },
   "sort": {
     "category": "Arrows",
@@ -34186,6 +34358,17 @@
     "animation": "swing",
     "origin": "50% 95%"
   },
+  "tree-decorated": {
+    "category": "Nature",
+    "tags": [
+      "tree",
+      "decorated",
+      "christmas",
+      "holiday",
+      "xmas"
+    ],
+    "animation": "swing"
+  },
   "tree-large": {
     "category": "Nature",
     "tags": [
@@ -34286,6 +34469,16 @@
       "bike"
     ],
     "animation": "drive"
+  },
+  "trillium": {
+    "category": "Nature",
+    "tags": [
+      "trillium",
+      "flower",
+      "three",
+      "petals"
+    ],
+    "animation": "spin-slow"
   },
   "triple-chevrons-down": {
     "category": "Arrows",
