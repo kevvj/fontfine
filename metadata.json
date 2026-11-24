@@ -1086,6 +1086,51 @@
     ],
     "animation": "spin"
   },
+  "arrow-rotate-left-10": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "left",
+      "10",
+      "seconds",
+      "rewind",
+      "back",
+      "skip",
+      "replay"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-left-15": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "left",
+      "15",
+      "seconds",
+      "rewind",
+      "back",
+      "skip",
+      "replay"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-left-30": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "left",
+      "30",
+      "seconds",
+      "rewind",
+      "back",
+      "skip",
+      "replay"
+    ],
+    "animation": "spin"
+  },
   "arrow-rotate-right": {
     "category": "Arrows",
     "tags": [
@@ -1094,6 +1139,45 @@
       "right",
       "redo",
       "refresh"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-right-10": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "right",
+      "10",
+      "seconds",
+      "forward",
+      "skip"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-right-15": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "right",
+      "15",
+      "seconds",
+      "forward",
+      "skip"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-right-30": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "right",
+      "30",
+      "seconds",
+      "forward",
+      "skip"
     ],
     "animation": "spin"
   },
@@ -8648,6 +8732,19 @@
     ],
     "animation": "pop"
   },
+  "circle-singapore-dollar": {
+    "category": "Objects",
+    "tags": [
+      "singapore",
+      "dollar",
+      "sgd",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-small": {
     "category": "Interface",
     "tags": [
@@ -10117,6 +10214,18 @@
       "git",
       "review",
       "pr"
+    ],
+    "animation": "pop"
+  },
+  "code-simple": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "simple",
+      "brackets",
+      "html",
+      "developer",
+      "programming"
     ],
     "animation": "pop"
   },
@@ -16316,6 +16425,16 @@
     ],
     "animation": "float"
   },
+  "gif": {
+    "category": "Media",
+    "tags": [
+      "gif",
+      "animated",
+      "image",
+      "animation"
+    ],
+    "animation": "pop"
+  },
   "gift": {
     "category": "Objects",
     "tags": [
@@ -17798,6 +17917,18 @@
     ],
     "animation": "pop"
   },
+  "high-definition": {
+    "category": "Media",
+    "tags": [
+      "high",
+      "definition",
+      "hd",
+      "video",
+      "quality",
+      "resolution"
+    ],
+    "animation": "pop"
+  },
   "highlighter": {
     "category": "Interface",
     "tags": [
@@ -18754,12 +18885,75 @@
     ],
     "animation": "pop"
   },
+  "input-numeric": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "numeric",
+      "field",
+      "form",
+      "number",
+      "digits",
+      "123"
+    ],
+    "animation": "pop"
+  },
+  "input-password": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "password",
+      "field",
+      "form",
+      "secret",
+      "hidden",
+      "asterisk"
+    ],
+    "animation": "pop"
+  },
+  "input-pipe": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "pipe",
+      "field",
+      "form",
+      "cursor",
+      "caret",
+      "empty"
+    ],
+    "animation": "pop"
+  },
+  "input-text": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "text",
+      "field",
+      "form",
+      "type",
+      "letters",
+      "abc"
+    ],
+    "animation": "pop"
+  },
   "integral": {
     "category": "Letters & Numbers",
     "tags": [
       "integral",
       "math",
       "calculus"
+    ],
+    "animation": "pop"
+  },
+  "interrobang": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "interrobang",
+      "punctuation",
+      "question",
+      "exclamation",
+      "surprise"
     ],
     "animation": "pop"
   },
@@ -20901,6 +21095,17 @@
     ],
     "animation": "pop"
   },
+  "merge": {
+    "category": "Arrows",
+    "tags": [
+      "merge",
+      "combine",
+      "join",
+      "arrows",
+      "git"
+    ],
+    "animation": "nudge-down"
+  },
   "message": {
     "category": "Communication",
     "tags": [
@@ -22867,6 +23072,18 @@
       "cebolla"
     ],
     "animation": "rock"
+  },
+  "option": {
+    "category": "Technology",
+    "tags": [
+      "option",
+      "key",
+      "alt",
+      "mac",
+      "keyboard",
+      "modifier"
+    ],
+    "animation": "pop"
   },
   "outdent": {
     "category": "Interface",
@@ -25052,6 +25269,19 @@
     ],
     "animation": "pop"
   },
+  "rectangle-4k": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "4k",
+      "uhd",
+      "ultra",
+      "hd",
+      "video",
+      "resolution"
+    ],
+    "animation": "pop"
+  },
   "rectangle-ad": {
     "category": "Interface",
     "tags": [
@@ -25060,6 +25290,17 @@
       "advertisement",
       "ads",
       "banner"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-api": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "api",
+      "interface",
+      "developer",
+      "endpoint"
     ],
     "animation": "pop"
   },
@@ -25074,6 +25315,18 @@
     ],
     "animation": "pop"
   },
+  "rectangle-beta": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "beta",
+      "version",
+      "preview",
+      "test",
+      "greek"
+    ],
+    "animation": "pop"
+  },
   "rectangle-code": {
     "category": "Interface",
     "tags": [
@@ -25081,6 +25334,56 @@
       "code",
       "developer",
       "terminal"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-high-dynamic-range": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "high",
+      "dynamic",
+      "range",
+      "hdr",
+      "photo",
+      "video"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-history": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "history",
+      "stack",
+      "layers",
+      "recent",
+      "archive"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-history-circle-plus": {
+    "category": "Interface",
+    "tags": [
+      "add",
+      "new",
+      "rectangle",
+      "history",
+      "stack",
+      "layers",
+      "recent",
+      "archive"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-irc": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "irc",
+      "chat",
+      "internet",
+      "relay"
     ],
     "animation": "pop"
   },
@@ -25102,6 +25405,30 @@
       "minus",
       "remove",
       "subtract"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-n-a": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "n",
+      "a",
+      "na",
+      "not",
+      "available",
+      "applicable"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-new": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "new",
+      "badge",
+      "label",
+      "fresh"
     ],
     "animation": "pop"
   },
@@ -25145,6 +25472,30 @@
       "vertical",
       "shape",
       "portrait"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-vertical-history": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "vertical",
+      "history",
+      "stack",
+      "cards",
+      "recent"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-video-on-demand": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "video",
+      "on",
+      "demand",
+      "vod",
+      "streaming"
     ],
     "animation": "pop"
   },
@@ -26910,6 +27261,18 @@
       "phone",
       "carrier",
       "chip"
+    ],
+    "animation": "pop"
+  },
+  "singapore-dollar-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "singapore",
+      "dollar",
+      "sgd",
+      "money",
+      "currency",
+      "sign"
     ],
     "animation": "pop"
   },
@@ -28936,6 +29299,18 @@
     ],
     "animation": "pop"
   },
+  "square-singapore-dollar": {
+    "category": "Objects",
+    "tags": [
+      "singapore",
+      "dollar",
+      "sgd",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-sliders": {
     "category": "Interface",
     "tags": [
@@ -29268,6 +29643,18 @@
       "sello"
     ],
     "animation": "bounce"
+  },
+  "standard-definition": {
+    "category": "Media",
+    "tags": [
+      "standard",
+      "definition",
+      "sd",
+      "video",
+      "quality",
+      "resolution"
+    ],
+    "animation": "pop"
   },
   "stapler": {
     "category": "Objects",
@@ -29718,6 +30105,17 @@
       "trade"
     ],
     "animation": "spin"
+  },
+  "swap-arrows": {
+    "category": "Arrows",
+    "tags": [
+      "swap",
+      "arrows",
+      "exchange",
+      "switch",
+      "trade"
+    ],
+    "animation": "pop"
   },
   "swedish-krona-sign": {
     "category": "Letters & Numbers",
@@ -31737,6 +32135,54 @@
       "alerta"
     ],
     "animation": "shake"
+  },
+  "triple-chevrons-down": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "down",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-down"
+  },
+  "triple-chevrons-left": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "left",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-left"
+  },
+  "triple-chevrons-right": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "right",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-right"
+  },
+  "triple-chevrons-up": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "up",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-up"
   },
   "trophy": {
     "category": "Objects",
