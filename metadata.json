@@ -382,6 +382,17 @@
     ],
     "animation": "wiggle"
   },
+  "apartment": {
+    "category": "Places",
+    "tags": [
+      "apartment",
+      "building",
+      "flat",
+      "condo",
+      "city"
+    ],
+    "animation": "bounce"
+  },
   "aperture": {
     "category": "Media",
     "tags": [
@@ -13384,6 +13395,19 @@
     ],
     "animation": "shake"
   },
+  "face-angry-horns": {
+    "category": "People",
+    "tags": [
+      "face",
+      "angry",
+      "horns",
+      "devil",
+      "mad",
+      "evil",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-anguished": {
     "category": "People",
     "tags": [
@@ -13422,6 +13446,18 @@
       "emotion"
     ],
     "animation": "shake"
+  },
+  "face-awesome": {
+    "category": "People",
+    "tags": [
+      "face",
+      "awesome",
+      "grin",
+      "cool",
+      "happy",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-confounded": {
     "category": "People",
@@ -13485,6 +13521,19 @@
     ],
     "animation": "pop"
   },
+  "face-disguise": {
+    "category": "People",
+    "tags": [
+      "face",
+      "disguise",
+      "glasses",
+      "nose",
+      "mustache",
+      "incognito",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-dizzy": {
     "category": "People",
     "tags": [
@@ -13495,6 +13544,17 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-dotted": {
+    "category": "People",
+    "tags": [
+      "face",
+      "dotted",
+      "invisible",
+      "hidden",
+      "emoji"
+    ],
+    "animation": "blink"
   },
   "face-downcast-sweat": {
     "category": "People",
@@ -13816,6 +13876,18 @@
       "guiño"
     ],
     "animation": "pop"
+  },
+  "face-head-bandage": {
+    "category": "People",
+    "tags": [
+      "face",
+      "head",
+      "bandage",
+      "hurt",
+      "injured",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-hushed": {
     "category": "People",
@@ -14158,6 +14230,45 @@
     ],
     "animation": "shake"
   },
+  "face-shaking": {
+    "category": "People",
+    "tags": [
+      "face",
+      "shaking",
+      "shock",
+      "trembling",
+      "earthquake",
+      "emoji"
+    ],
+    "animation": "shake"
+  },
+  "face-shaking-horizontal": {
+    "category": "People",
+    "tags": [
+      "face",
+      "shaking",
+      "horizontal",
+      "no",
+      "shake",
+      "head",
+      "disagree",
+      "emoji"
+    ],
+    "animation": "shake"
+  },
+  "face-shaking-vertical": {
+    "category": "People",
+    "tags": [
+      "face",
+      "shaking",
+      "vertical",
+      "yes",
+      "nod",
+      "agree",
+      "emoji"
+    ],
+    "animation": "shake"
+  },
   "face-shush": {
     "category": "People",
     "tags": [
@@ -14233,6 +14344,32 @@
       "emotion"
     ],
     "animation": "float"
+  },
+  "face-smile-hearts": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "hearts",
+      "love",
+      "happy",
+      "adore",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-smile-horns": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "horns",
+      "devil",
+      "evil",
+      "mischievous",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-smile-plus": {
     "category": "People",
@@ -14326,6 +14463,19 @@
     ],
     "animation": "pop"
   },
+  "face-spiral-eyes": {
+    "category": "People",
+    "tags": [
+      "face",
+      "spiral",
+      "eyes",
+      "dizzy",
+      "hypnotized",
+      "confused",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-sunglasses": {
     "category": "People",
     "tags": [
@@ -14360,6 +14510,18 @@
       "emotion"
     ],
     "animation": "shake"
+  },
+  "face-thermometer": {
+    "category": "People",
+    "tags": [
+      "face",
+      "thermometer",
+      "sick",
+      "ill",
+      "fever",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-thinking": {
     "category": "People",
@@ -14408,6 +14570,18 @@
       "annoyed",
       "emoji",
       "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-viewfinder": {
+    "category": "People",
+    "tags": [
+      "face",
+      "viewfinder",
+      "recognition",
+      "id",
+      "scan",
+      "emoji"
     ],
     "animation": "pop"
   },
@@ -16671,6 +16845,26 @@
     ],
     "animation": "pop"
   },
+  "garage-empty": {
+    "category": "Places",
+    "tags": [
+      "garage",
+      "empty",
+      "parking"
+    ],
+    "animation": "pop"
+  },
+  "garage-open": {
+    "category": "Places",
+    "tags": [
+      "garage",
+      "open",
+      "door",
+      "parking",
+      "car"
+    ],
+    "animation": "pop"
+  },
   "garlic": {
     "category": "Nature",
     "tags": [
@@ -18783,6 +18977,16 @@
     ],
     "animation": "pop"
   },
+  "house-building": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "building",
+      "home",
+      "city"
+    ],
+    "animation": "bounce"
+  },
   "house-chimney": {
     "category": "Places",
     "tags": [
@@ -18793,6 +18997,17 @@
       "home"
     ],
     "animation": "pop"
+  },
+  "house-chimney-blank": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "chimney",
+      "blank",
+      "home",
+      "building"
+    ],
+    "animation": "bounce"
   },
   "house-chimney-crack": {
     "category": "Places",
@@ -18897,6 +19112,17 @@
       "home"
     ],
     "animation": "shake"
+  },
+  "house-day": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "day",
+      "home",
+      "sun",
+      "morning"
+    ],
+    "animation": "bounce"
   },
   "house-fire": {
     "category": "Places",
@@ -19043,6 +19269,17 @@
     ],
     "animation": "wave"
   },
+  "house-night": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "night",
+      "home",
+      "moon",
+      "evening"
+    ],
+    "animation": "bounce"
+  },
   "house-signal": {
     "category": "Places",
     "tags": [
@@ -19070,6 +19307,17 @@
     ],
     "animation": "shake"
   },
+  "house-tree": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "tree",
+      "home",
+      "garden",
+      "nature"
+    ],
+    "animation": "bounce"
+  },
   "house-unlock": {
     "category": "Places",
     "tags": [
@@ -19092,6 +19340,16 @@
       "home"
     ],
     "animation": "pop"
+  },
+  "house-water": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "water",
+      "home",
+      "flood"
+    ],
+    "animation": "bounce"
   },
   "house-window": {
     "category": "Places",
@@ -19507,6 +19765,16 @@
       "fabrica"
     ],
     "animation": "bounce"
+  },
+  "industry-windows": {
+    "category": "Places",
+    "tags": [
+      "industry",
+      "windows",
+      "factory",
+      "plant"
+    ],
+    "animation": "pop"
   },
   "infinity": {
     "category": "Letters & Numbers",
