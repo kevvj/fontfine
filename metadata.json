@@ -3096,6 +3096,16 @@
     ],
     "animation": "slide"
   },
+  "blinds-open": {
+    "category": "Objects",
+    "tags": [
+      "blinds",
+      "open",
+      "window",
+      "shade"
+    ],
+    "animation": "pop"
+  },
   "block-brick": {
     "category": "Objects",
     "tags": [
@@ -4679,6 +4689,17 @@
     ],
     "animation": "swing"
   },
+  "broom-wide": {
+    "category": "Objects",
+    "tags": [
+      "broom",
+      "wide",
+      "push",
+      "sweep",
+      "cleaning"
+    ],
+    "animation": "wiggle"
+  },
   "browser": {
     "category": "Technology",
     "tags": [
@@ -5527,6 +5548,27 @@
       "switch",
       "selfie",
       "flip"
+    ],
+    "animation": "spin"
+  },
+  "camera-security": {
+    "category": "Technology",
+    "tags": [
+      "camera",
+      "security",
+      "cctv",
+      "surveillance"
+    ],
+    "animation": "swing"
+  },
+  "camera-shutter": {
+    "category": "Technology",
+    "tags": [
+      "camera",
+      "shutter",
+      "aperture",
+      "lens",
+      "photo"
     ],
     "animation": "spin"
   },
@@ -10946,6 +10988,28 @@
     ],
     "animation": "pop"
   },
+  "computer-mouse-button-left": {
+    "category": "Technology",
+    "tags": [
+      "computer",
+      "mouse",
+      "button",
+      "left",
+      "click"
+    ],
+    "animation": "pop"
+  },
+  "computer-mouse-button-right": {
+    "category": "Technology",
+    "tags": [
+      "computer",
+      "mouse",
+      "button",
+      "right",
+      "click"
+    ],
+    "animation": "pop"
+  },
   "computer-mouse-scrollwheel": {
     "category": "Technology",
     "tags": [
@@ -11526,6 +11590,18 @@
       "screen"
     ],
     "animation": "pop"
+  },
+  "desktop-arrow-down": {
+    "category": "Technology",
+    "tags": [
+      "desktop",
+      "arrow",
+      "down",
+      "computer",
+      "download",
+      "monitor"
+    ],
+    "animation": "nudge-down"
   },
   "dharmachakra": {
     "category": "Religion",
@@ -12357,6 +12433,17 @@
     ],
     "animation": "swing",
     "origin": "50% 10%"
+  },
+  "dresser": {
+    "category": "Objects",
+    "tags": [
+      "dresser",
+      "drawers",
+      "furniture",
+      "bedroom",
+      "chest"
+    ],
+    "animation": "pop"
   },
   "drone": {
     "category": "Technology",
@@ -16898,6 +16985,18 @@
     ],
     "animation": "wave"
   },
+  "gpu": {
+    "category": "Technology",
+    "tags": [
+      "gpu",
+      "graphics",
+      "card",
+      "video",
+      "hardware",
+      "gaming"
+    ],
+    "animation": "pop"
+  },
   "graduation-cap": {
     "category": "Objects",
     "tags": [
@@ -16920,6 +17019,16 @@
       "uvas"
     ],
     "animation": "rock"
+  },
+  "grate": {
+    "category": "Objects",
+    "tags": [
+      "grate",
+      "drain",
+      "grid",
+      "vent"
+    ],
+    "animation": "pop"
   },
   "grave": {
     "category": "Religion",
@@ -19404,6 +19513,50 @@
     ],
     "animation": "pulse"
   },
+  "keyboard-brightness": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "brightness",
+      "backlight",
+      "light",
+      "bright"
+    ],
+    "animation": "glow"
+  },
+  "keyboard-brightness-low": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "brightness",
+      "low",
+      "backlight",
+      "light",
+      "dim"
+    ],
+    "animation": "glow"
+  },
+  "keyboard-down": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "down",
+      "hide",
+      "close",
+      "collapse"
+    ],
+    "animation": "nudge-down"
+  },
+  "keyboard-left": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "left",
+      "arrow",
+      "side"
+    ],
+    "animation": "nudge-left"
+  },
   "keyhole": {
     "category": "Security",
     "tags": [
@@ -19492,6 +19645,17 @@
       "cuchillo"
     ],
     "animation": "rock"
+  },
+  "knife-kitchen": {
+    "category": "Objects",
+    "tags": [
+      "knife",
+      "kitchen",
+      "chef",
+      "cooking",
+      "cut"
+    ],
+    "animation": "swing"
   },
   "label": {
     "category": "Objects",
@@ -19654,6 +19818,17 @@
       "computer"
     ],
     "animation": "nudge-down"
+  },
+  "laptop-binary": {
+    "category": "Technology",
+    "tags": [
+      "laptop",
+      "binary",
+      "code",
+      "programming",
+      "developer"
+    ],
+    "animation": "pop"
   },
   "laptop-code": {
     "category": "Technology",
@@ -20226,6 +20401,16 @@
     ],
     "animation": "spin-slow"
   },
+  "light-ceiling": {
+    "category": "Objects",
+    "tags": [
+      "light",
+      "ceiling",
+      "lamp",
+      "pendant"
+    ],
+    "animation": "swing"
+  },
   "light-switch": {
     "category": "Objects",
     "tags": [
@@ -20237,6 +20422,28 @@
     ],
     "animation": "pop"
   },
+  "light-switch-off": {
+    "category": "Objects",
+    "tags": [
+      "light",
+      "switch",
+      "off",
+      "toggle",
+      "electric"
+    ],
+    "animation": "flash"
+  },
+  "light-switch-on": {
+    "category": "Objects",
+    "tags": [
+      "light",
+      "switch",
+      "on",
+      "toggle",
+      "electric"
+    ],
+    "animation": "flash"
+  },
   "lightbulb": {
     "category": "Objects",
     "tags": [
@@ -20245,6 +20452,29 @@
       "light",
       "bulb",
       "bombillo"
+    ],
+    "animation": "glow"
+  },
+  "lightbulb-cfl": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "cfl",
+      "fluorescent",
+      "energy",
+      "saving"
+    ],
+    "animation": "pop"
+  },
+  "lightbulb-cfl-on": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "cfl",
+      "on",
+      "fluorescent",
+      "energy",
+      "saving"
     ],
     "animation": "glow"
   },
@@ -21163,6 +21393,16 @@
       "food"
     ],
     "animation": "bounce"
+  },
+  "manhole": {
+    "category": "Objects",
+    "tags": [
+      "manhole",
+      "cover",
+      "street",
+      "sewer"
+    ],
+    "animation": "pop"
   },
   "map": {
     "category": "Places",
@@ -22663,6 +22903,17 @@
     ],
     "animation": "pop"
   },
+  "mp3-player": {
+    "category": "Technology",
+    "tags": [
+      "mp3",
+      "player",
+      "music",
+      "ipod",
+      "audio"
+    ],
+    "animation": "pop"
+  },
   "mug": {
     "category": "Objects",
     "tags": [
@@ -22837,6 +23088,18 @@
       "nigeria",
       "money",
       "currency"
+    ],
+    "animation": "pop"
+  },
+  "nas": {
+    "category": "Technology",
+    "tags": [
+      "nas",
+      "network",
+      "attached",
+      "storage",
+      "server",
+      "drive"
     ],
     "animation": "pop"
   },
@@ -23698,6 +23961,18 @@
       "inventory"
     ],
     "animation": "pop"
+  },
+  "pan-food": {
+    "category": "Objects",
+    "tags": [
+      "pan",
+      "food",
+      "frying",
+      "cooking",
+      "egg",
+      "kitchen"
+    ],
+    "animation": "wiggle"
   },
   "pan-frying": {
     "category": "Objects",
@@ -26145,6 +26420,16 @@
     ],
     "animation": "pop"
   },
+  "remote": {
+    "category": "Technology",
+    "tags": [
+      "remote",
+      "control",
+      "tv",
+      "controller"
+    ],
+    "animation": "pop"
+  },
   "renminbi-sign": {
     "category": "Letters & Numbers",
     "tags": [
@@ -26845,6 +27130,16 @@
     ],
     "animation": "pulse"
   },
+  "scanner-keyboard": {
+    "category": "Technology",
+    "tags": [
+      "scanner",
+      "keyboard",
+      "barcode",
+      "inventory"
+    ],
+    "animation": "pop"
+  },
   "scarf": {
     "category": "Objects",
     "tags": [
@@ -27040,6 +27335,17 @@
     ],
     "animation": "pop"
   },
+  "sd-cards": {
+    "category": "Technology",
+    "tags": [
+      "sd",
+      "cards",
+      "card",
+      "memory",
+      "storage"
+    ],
+    "animation": "pop"
+  },
   "seal": {
     "category": "Interface",
     "tags": [
@@ -27085,6 +27391,17 @@
       "encontrar"
     ],
     "animation": "search"
+  },
+  "seat": {
+    "category": "Objects",
+    "tags": [
+      "seat",
+      "chair",
+      "sofa",
+      "armchair",
+      "furniture"
+    ],
+    "animation": "pop"
   },
   "section": {
     "category": "Letters & Numbers",
@@ -27592,6 +27909,16 @@
     ],
     "animation": "slide"
   },
+  "shutters": {
+    "category": "Objects",
+    "tags": [
+      "shutters",
+      "window",
+      "roller",
+      "garage"
+    ],
+    "animation": "pop"
+  },
   "shuttle-space": {
     "category": "Technology",
     "tags": [
@@ -27867,6 +28194,17 @@
       "phone",
       "carrier",
       "chip"
+    ],
+    "animation": "pop"
+  },
+  "sim-cards": {
+    "category": "Technology",
+    "tags": [
+      "sim",
+      "cards",
+      "card",
+      "phone",
+      "mobile"
     ],
     "animation": "pop"
   },
@@ -28462,6 +28800,16 @@
       "aerosol"
     ],
     "animation": "shake"
+  },
+  "sprinkler": {
+    "category": "Objects",
+    "tags": [
+      "sprinkler",
+      "garden",
+      "water",
+      "lawn"
+    ],
+    "animation": "pulse"
   },
   "sprout": {
     "category": "Nature",
@@ -30485,6 +30833,17 @@
     "animation": "swing",
     "origin": "50% 0%"
   },
+  "stool": {
+    "category": "Objects",
+    "tags": [
+      "stool",
+      "seat",
+      "bar",
+      "chair",
+      "furniture"
+    ],
+    "animation": "pop"
+  },
   "stop": {
     "category": "Media",
     "tags": [
@@ -31290,6 +31649,30 @@
       "screen"
     ],
     "animation": "bounce"
+  },
+  "tablet-rugged": {
+    "category": "Technology",
+    "tags": [
+      "tablet",
+      "rugged",
+      "ipad",
+      "device",
+      "tough",
+      "outdoor",
+      "industrial"
+    ],
+    "animation": "pop"
+  },
+  "tablet-screen": {
+    "category": "Technology",
+    "tags": [
+      "tablet",
+      "screen",
+      "ipad",
+      "device",
+      "display"
+    ],
+    "animation": "pop"
   },
   "tablet-screen-button": {
     "category": "Technology",
@@ -33740,6 +34123,38 @@
     ],
     "animation": "shake"
   },
+  "utility-pole": {
+    "category": "Objects",
+    "tags": [
+      "utility",
+      "pole",
+      "power",
+      "line",
+      "electricity",
+      "telephone"
+    ],
+    "animation": "pop"
+  },
+  "vacuum": {
+    "category": "Objects",
+    "tags": [
+      "vacuum",
+      "cleaner",
+      "hoover",
+      "cleaning"
+    ],
+    "animation": "wiggle"
+  },
+  "vacuum-robot": {
+    "category": "Objects",
+    "tags": [
+      "vacuum",
+      "robot",
+      "roomba",
+      "cleaning"
+    ],
+    "animation": "spin-slow"
+  },
   "value-absolute": {
     "category": "Letters & Numbers",
     "tags": [
@@ -33784,6 +34199,17 @@
       "fuerte"
     ],
     "animation": "turn-key"
+  },
+  "vent-damper": {
+    "category": "Objects",
+    "tags": [
+      "vent",
+      "damper",
+      "air",
+      "duct",
+      "hvac"
+    ],
+    "animation": "pop"
   },
   "venus": {
     "category": "People",
@@ -34284,6 +34710,16 @@
     ],
     "animation": "tick"
   },
+  "watch-calculator": {
+    "category": "Technology",
+    "tags": [
+      "watch",
+      "calculator",
+      "digital",
+      "wrist"
+    ],
+    "animation": "pop"
+  },
   "watch-fitness": {
     "category": "Health",
     "tags": [
@@ -34701,6 +35137,16 @@
       "house",
       "glass",
       "ventana"
+    ],
+    "animation": "pop"
+  },
+  "window-frame-open": {
+    "category": "Objects",
+    "tags": [
+      "window",
+      "frame",
+      "open",
+      "house"
     ],
     "animation": "pop"
   },
