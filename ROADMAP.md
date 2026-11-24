@@ -3401,7 +3401,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] rings-wedding
 - [ ] robot-astromech
 - [x] rocket-launch
-- [ ] rocket-vertical
+- [ ] rocket-vertical (as `rocket`)
 - [ ] roller-coaster
 - [ ] rotate-exclamation
 - [ ] rotate-reverse

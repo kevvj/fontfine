@@ -5047,6 +5047,19 @@
     ],
     "animation": "bounce"
   },
+  "bulldozer": {
+    "category": "Objects",
+    "tags": [
+      "bulldozer",
+      "construction",
+      "dozer",
+      "earth",
+      "mover",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "bullhorn": {
     "category": "Communication",
     "tags": [
@@ -5141,6 +5154,18 @@
     ],
     "animation": "drive"
   },
+  "bus-school": {
+    "category": "Objects",
+    "tags": [
+      "bus",
+      "school",
+      "kids",
+      "children",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "bus-side": {
     "category": "Places",
     "tags": [
@@ -5178,6 +5203,19 @@
       "autobus"
     ],
     "animation": "shake"
+  },
+  "bus-stop": {
+    "category": "Objects",
+    "tags": [
+      "bus",
+      "stop",
+      "station",
+      "sign",
+      "public",
+      "transport",
+      "vehicle"
+    ],
+    "animation": "pop"
   },
   "business-time": {
     "category": "Objects",
@@ -5959,6 +5997,17 @@
     ],
     "animation": "turn-key"
   },
+  "car-mirrors": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "mirrors",
+      "front",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "car-rear": {
     "category": "Places",
     "tags": [
@@ -5980,6 +6029,45 @@
       "automobile"
     ],
     "animation": "drive"
+  },
+  "car-side-bolt": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "side",
+      "bolt",
+      "electric",
+      "ev",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
+  "car-siren": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "siren",
+      "police",
+      "emergency",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "flash"
+  },
+  "car-siren-on": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "siren",
+      "on",
+      "police",
+      "emergency",
+      "alarm",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "flash"
   },
   "car-tunnel": {
     "category": "Places",
@@ -23544,6 +23632,16 @@
     ],
     "animation": "spin-slow"
   },
+  "moped": {
+    "category": "Objects",
+    "tags": [
+      "moped",
+      "scooter",
+      "vespa",
+      "vehicle"
+    ],
+    "animation": "drive"
+  },
   "mortar-pestle": {
     "category": "Health",
     "tags": [
@@ -32716,6 +32814,16 @@
     ],
     "animation": "pop"
   },
+  "tank-water": {
+    "category": "Places",
+    "tags": [
+      "tank",
+      "water",
+      "tower",
+      "reservoir"
+    ],
+    "animation": "pop"
+  },
   "tape": {
     "category": "Objects",
     "tags": [
@@ -33606,6 +33714,18 @@
     ],
     "animation": "signal"
   },
+  "tower-control": {
+    "category": "Places",
+    "tags": [
+      "tower",
+      "control",
+      "airport",
+      "atc",
+      "air",
+      "traffic"
+    ],
+    "animation": "pop"
+  },
   "tower-observation": {
     "category": "Places",
     "tags": [
@@ -33746,6 +33866,17 @@
     ],
     "animation": "drive"
   },
+  "train-track": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "track",
+      "railroad",
+      "rails",
+      "railway"
+    ],
+    "animation": "pop"
+  },
   "train-tram": {
     "category": "Places",
     "tags": [
@@ -33754,6 +33885,16 @@
       "streetcar",
       "city",
       "transit"
+    ],
+    "animation": "drive"
+  },
+  "train-tunnel": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "tunnel",
+      "subway",
+      "metro"
     ],
     "animation": "drive"
   },
@@ -34135,6 +34276,17 @@
     ],
     "animation": "shake"
   },
+  "tricycle": {
+    "category": "Objects",
+    "tags": [
+      "tricycle",
+      "trike",
+      "kid",
+      "child",
+      "bike"
+    ],
+    "animation": "drive"
+  },
   "triple-chevrons-down": {
     "category": "Arrows",
     "tags": [
@@ -34259,6 +34411,19 @@
     ],
     "animation": "drive"
   },
+  "truck-container": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "container",
+      "lorry",
+      "shipping",
+      "cargo",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "truck-droplet": {
     "category": "Places",
     "tags": [
@@ -34296,6 +34461,18 @@
     ],
     "animation": "flicker"
   },
+  "truck-flatbed": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "flatbed",
+      "lorry",
+      "delivery",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "truck-front": {
     "category": "Places",
     "tags": [
@@ -34303,6 +34480,19 @@
       "front",
       "vehicle",
       "delivery"
+    ],
+    "animation": "drive"
+  },
+  "truck-ladder": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "ladder",
+      "fire",
+      "engine",
+      "firefighter",
+      "vehicle",
+      "transport"
     ],
     "animation": "drive"
   },
@@ -34340,6 +34530,19 @@
     ],
     "animation": "drive"
   },
+  "truck-plow": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "plow",
+      "snow",
+      "plough",
+      "winter",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "truck-ramp-box": {
     "category": "Places",
     "tags": [
@@ -34350,6 +34553,31 @@
       "loading",
       "vehicle",
       "delivery"
+    ],
+    "animation": "drive"
+  },
+  "truck-suv": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "suv",
+      "jeep",
+      "4x4",
+      "car",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
+  "truck-tow": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "tow",
+      "towing",
+      "recovery",
+      "vehicle",
+      "transport"
     ],
     "animation": "drive"
   },
@@ -34448,6 +34676,17 @@
     ],
     "animation": "float"
   },
+  "ufo-beam": {
+    "category": "Objects",
+    "tags": [
+      "ufo",
+      "beam",
+      "alien",
+      "abduction",
+      "spaceship"
+    ],
+    "animation": "float"
+  },
   "umbrella": {
     "category": "Weather",
     "tags": [
@@ -34491,6 +34730,16 @@
       "deshacer"
     ],
     "animation": "nudge-left"
+  },
+  "unicycle": {
+    "category": "Objects",
+    "tags": [
+      "unicycle",
+      "circus",
+      "wheel",
+      "balance"
+    ],
+    "animation": "drive"
   },
   "universal-access": {
     "category": "People",
@@ -35526,6 +35775,18 @@
       "gofre"
     ],
     "animation": "pop"
+  },
+  "wagon-covered": {
+    "category": "Objects",
+    "tags": [
+      "wagon",
+      "covered",
+      "western",
+      "pioneer",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
   },
   "walkie-talkie": {
     "category": "Communication",
