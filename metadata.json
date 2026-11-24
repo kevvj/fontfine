@@ -1869,6 +1869,19 @@
     ],
     "animation": "pop"
   },
+  "australian-dollar-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "australian",
+      "dollar",
+      "aud",
+      "australia",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "avocado": {
     "category": "Nature",
     "tags": [
@@ -2233,6 +2246,19 @@
       "curita"
     ],
     "animation": "wiggle"
+  },
+  "bangladeshi-taka-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "bangladeshi",
+      "taka",
+      "bdt",
+      "bangladesh",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
   },
   "bank": {
     "category": "Places",
@@ -7045,6 +7071,19 @@
     ],
     "animation": "nudge-up"
   },
+  "chf-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "chf",
+      "swiss",
+      "franc",
+      "switzerland",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "child": {
     "category": "People",
     "tags": [
@@ -7368,6 +7407,20 @@
     ],
     "animation": "pop"
   },
+  "circle-australian-dollar": {
+    "category": "Objects",
+    "tags": [
+      "australian",
+      "dollar",
+      "aud",
+      "australia",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-b": {
     "category": "Letters & Numbers",
     "tags": [
@@ -7388,6 +7441,20 @@
       "thailand",
       "currency",
       "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-bangladeshi-taka": {
+    "category": "Objects",
+    "tags": [
+      "bangladeshi",
+      "taka",
+      "bdt",
+      "bangladesh",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -7607,6 +7674,20 @@
     ],
     "animation": "nudge-up"
   },
+  "circle-chf": {
+    "category": "Objects",
+    "tags": [
+      "chf",
+      "swiss",
+      "franc",
+      "switzerland",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-colon": {
     "category": "Objects",
     "tags": [
@@ -7651,6 +7732,21 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-danish-krone": {
+    "category": "Objects",
+    "tags": [
+      "danish",
+      "krone",
+      "dkk",
+      "denmark",
+      "kr",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -7812,6 +7908,21 @@
       "currency",
       "money",
       "price"
+    ],
+    "animation": "pop"
+  },
+  "circle-eurozone": {
+    "category": "Objects",
+    "tags": [
+      "eurozone",
+      "ecu",
+      "european",
+      "currency",
+      "unit",
+      "euro",
+      "money",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -8102,6 +8213,21 @@
     ],
     "animation": "pop"
   },
+  "circle-malaysian-ringgit": {
+    "category": "Objects",
+    "tags": [
+      "malaysian",
+      "ringgit",
+      "myr",
+      "malaysia",
+      "rm",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-manat": {
     "category": "Objects",
     "tags": [
@@ -8202,6 +8328,21 @@
     ],
     "animation": "pop"
   },
+  "circle-norwegian-krone": {
+    "category": "Objects",
+    "tags": [
+      "norwegian",
+      "krone",
+      "nok",
+      "norway",
+      "kr",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-notch": {
     "category": "Status",
     "tags": [
@@ -8257,6 +8398,20 @@
       "pause",
       "stop",
       "media"
+    ],
+    "animation": "pop"
+  },
+  "circle-peruvian-soles": {
+    "category": "Objects",
+    "tags": [
+      "peruvian",
+      "soles",
+      "pen",
+      "peru",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -8409,6 +8564,21 @@
     ],
     "animation": "spin-slow"
   },
+  "circle-renminbi": {
+    "category": "Objects",
+    "tags": [
+      "renminbi",
+      "cny",
+      "rmb",
+      "china",
+      "yuan",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-ruble": {
     "category": "Objects",
     "tags": [
@@ -8555,6 +8725,21 @@
       "stop",
       "end",
       "media"
+    ],
+    "animation": "pop"
+  },
+  "circle-swedish-krona": {
+    "category": "Objects",
+    "tags": [
+      "swedish",
+      "krona",
+      "sek",
+      "sweden",
+      "kr",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -10923,6 +11108,20 @@
     ],
     "animation": "swing"
   },
+  "danish-krone-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "danish",
+      "krone",
+      "dkk",
+      "denmark",
+      "kr",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "dash": {
     "category": "Letters & Numbers",
     "tags": [
@@ -12427,6 +12626,20 @@
       "money",
       "currency",
       "eur"
+    ],
+    "animation": "pop"
+  },
+  "eurozone-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "eurozone",
+      "ecu",
+      "european",
+      "currency",
+      "unit",
+      "euro",
+      "money",
+      "sign"
     ],
     "animation": "pop"
   },
@@ -20385,6 +20598,20 @@
     ],
     "animation": "wave"
   },
+  "malaysian-ringgit-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "malaysian",
+      "ringgit",
+      "myr",
+      "malaysia",
+      "rm",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "manat-sign": {
     "category": "Letters & Numbers",
     "tags": [
@@ -22113,6 +22340,20 @@
     ],
     "animation": "float"
   },
+  "norwegian-krone-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "norwegian",
+      "krone",
+      "nok",
+      "norway",
+      "kr",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "not-equal": {
     "category": "Letters & Numbers",
     "tags": [
@@ -23475,6 +23716,19 @@
       "blind"
     ],
     "animation": "nudge-right"
+  },
+  "peruvian-soles-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "peruvian",
+      "soles",
+      "pen",
+      "peru",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
   },
   "peseta-sign": {
     "category": "Objects",
@@ -24978,6 +25232,20 @@
       "trademark",
       "brand",
       "legal"
+    ],
+    "animation": "pop"
+  },
+  "renminbi-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "renminbi",
+      "cny",
+      "rmb",
+      "china",
+      "yuan",
+      "money",
+      "currency",
+      "sign"
     ],
     "animation": "pop"
   },
@@ -27444,6 +27712,19 @@
     ],
     "animation": "pop"
   },
+  "square-australian-dollar": {
+    "category": "Objects",
+    "tags": [
+      "australian",
+      "dollar",
+      "aud",
+      "australia",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-b": {
     "category": "Letters & Numbers",
     "tags": [
@@ -27463,6 +27744,19 @@
       "thailand",
       "currency",
       "money"
+    ],
+    "animation": "pop"
+  },
+  "square-bangladeshi-taka": {
+    "category": "Objects",
+    "tags": [
+      "bangladeshi",
+      "taka",
+      "bdt",
+      "bangladesh",
+      "money",
+      "currency",
+      "square"
     ],
     "animation": "pop"
   },
@@ -27650,6 +27944,19 @@
     ],
     "animation": "pop"
   },
+  "square-chf": {
+    "category": "Objects",
+    "tags": [
+      "chf",
+      "swiss",
+      "franc",
+      "switzerland",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-code": {
     "category": "Interface",
     "tags": [
@@ -27703,6 +28010,20 @@
       "letter",
       "alphabet",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-danish-krone": {
+    "category": "Objects",
+    "tags": [
+      "danish",
+      "krone",
+      "dkk",
+      "denmark",
+      "kr",
+      "money",
+      "currency",
+      "square"
     ],
     "animation": "pop"
   },
@@ -27858,6 +28179,20 @@
       "currency",
       "money",
       "europe"
+    ],
+    "animation": "pop"
+  },
+  "square-eurozone": {
+    "category": "Objects",
+    "tags": [
+      "eurozone",
+      "ecu",
+      "european",
+      "currency",
+      "unit",
+      "euro",
+      "money",
+      "square"
     ],
     "animation": "pop"
   },
@@ -28148,6 +28483,20 @@
     ],
     "animation": "pop"
   },
+  "square-malaysian-ringgit": {
+    "category": "Objects",
+    "tags": [
+      "malaysian",
+      "ringgit",
+      "myr",
+      "malaysia",
+      "rm",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-manat": {
     "category": "Objects",
     "tags": [
@@ -28213,6 +28562,20 @@
     ],
     "animation": "pop"
   },
+  "square-norwegian-krone": {
+    "category": "Objects",
+    "tags": [
+      "norwegian",
+      "krone",
+      "nok",
+      "norway",
+      "kr",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-o": {
     "category": "Letters & Numbers",
     "tags": [
@@ -28269,6 +28632,19 @@
       "button"
     ],
     "animation": "write"
+  },
+  "square-peruvian-soles": {
+    "category": "Objects",
+    "tags": [
+      "peruvian",
+      "soles",
+      "pen",
+      "peru",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
   },
   "square-peseta": {
     "category": "Objects",
@@ -28421,6 +28797,20 @@
       "letter",
       "alphabet",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-renminbi": {
+    "category": "Objects",
+    "tags": [
+      "renminbi",
+      "cny",
+      "rmb",
+      "china",
+      "yuan",
+      "money",
+      "currency",
+      "square"
     ],
     "animation": "pop"
   },
@@ -28597,6 +28987,20 @@
       "currency",
       "money",
       "uk"
+    ],
+    "animation": "pop"
+  },
+  "square-swedish-krona": {
+    "category": "Objects",
+    "tags": [
+      "swedish",
+      "krona",
+      "sek",
+      "sweden",
+      "kr",
+      "money",
+      "currency",
+      "square"
     ],
     "animation": "pop"
   },
@@ -29314,6 +29718,20 @@
       "trade"
     ],
     "animation": "spin"
+  },
+  "swedish-krona-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "swedish",
+      "krona",
+      "sek",
+      "sweden",
+      "kr",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
   },
   "sword": {
     "category": "Objects",
@@ -31720,6 +32138,21 @@
     ],
     "animation": "pop"
   },
+  "user-circle-clock": {
+    "category": "People",
+    "tags": [
+      "time",
+      "pending",
+      "waiting",
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
   "user-circle-exclamation": {
     "category": "People",
     "tags": [
@@ -31732,6 +32165,21 @@
     ],
     "animation": "pop"
   },
+  "user-circle-heart": {
+    "category": "People",
+    "tags": [
+      "favorite",
+      "friend",
+      "love",
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
   "user-circle-minus": {
     "category": "People",
     "tags": [
@@ -31743,6 +32191,19 @@
       "status"
     ],
     "animation": "pop"
+  },
+  "user-circle-pen": {
+    "category": "People",
+    "tags": [
+      "edit",
+      "profile",
+      "user",
+      "circle",
+      "account",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
   },
   "user-circle-plus": {
     "category": "People",
@@ -31767,6 +32228,20 @@
       "status"
     ],
     "animation": "pop"
+  },
+  "user-circle-star": {
+    "category": "People",
+    "tags": [
+      "featured",
+      "vip",
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
   },
   "user-circle-xmark": {
     "category": "People",
