@@ -36423,6 +36423,17 @@
     ],
     "animation": "bounce"
   },
+  "user-alien": {
+    "category": "People",
+    "tags": [
+      "user",
+      "alien",
+      "extraterrestrial",
+      "ufo",
+      "avatar"
+    ],
+    "animation": "wobble"
+  },
   "user-astronaut": {
     "category": "People",
     "tags": [
@@ -36432,6 +36443,17 @@
       "helmet"
     ],
     "animation": "float"
+  },
+  "user-beard": {
+    "category": "People",
+    "tags": [
+      "user",
+      "beard",
+      "man",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
   },
   "user-check": {
     "category": "People",
@@ -36452,6 +36474,21 @@
       "cook",
       "kitchen",
       "restaurant"
+    ],
+    "animation": "pop"
+  },
+  "user-chef-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "chef",
+      "hair",
+      "long",
+      "cook",
+      "kitchen",
+      "hat",
+      "person",
+      "avatar"
     ],
     "animation": "pop"
   },
@@ -36629,6 +36666,18 @@
     ],
     "animation": "pop"
   },
+  "user-dashed": {
+    "category": "People",
+    "tags": [
+      "user",
+      "dashed",
+      "guest",
+      "anonymous",
+      "placeholder",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
   "user-doctor": {
     "category": "People",
     "tags": [
@@ -36637,6 +36686,47 @@
       "physician",
       "medical",
       "stethoscope"
+    ],
+    "animation": "pop"
+  },
+  "user-doctor-hair": {
+    "category": "People",
+    "tags": [
+      "user",
+      "doctor",
+      "hair",
+      "physician",
+      "stethoscope",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-doctor-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "doctor",
+      "hair",
+      "long",
+      "physician",
+      "stethoscope",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-doctor-hair-mullet": {
+    "category": "People",
+    "tags": [
+      "user",
+      "doctor",
+      "hair",
+      "mullet",
+      "physician",
+      "stethoscope",
+      "person",
+      "avatar"
     ],
     "animation": "pop"
   },
@@ -36664,6 +36754,76 @@
     ],
     "animation": "pop"
   },
+  "user-group-simple": {
+    "category": "People",
+    "tags": [
+      "user",
+      "group",
+      "simple",
+      "team",
+      "people",
+      "two"
+    ],
+    "animation": "pop"
+  },
+  "user-hair": {
+    "category": "People",
+    "tags": [
+      "user",
+      "hair",
+      "short",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-hair-buns": {
+    "category": "People",
+    "tags": [
+      "user",
+      "hair",
+      "buns",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "hair",
+      "long",
+      "woman",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-hair-mullet": {
+    "category": "People",
+    "tags": [
+      "user",
+      "hair",
+      "mullet",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-hat-tie": {
+    "category": "People",
+    "tags": [
+      "user",
+      "hat",
+      "tie",
+      "fedora",
+      "detective",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
   "user-headset": {
     "category": "People",
     "tags": [
@@ -36673,6 +36833,33 @@
       "agent",
       "call",
       "center"
+    ],
+    "animation": "pop"
+  },
+  "user-helmet-safety": {
+    "category": "People",
+    "tags": [
+      "user",
+      "helmet",
+      "safety",
+      "hard",
+      "hat",
+      "construction",
+      "worker",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-hoodie": {
+    "category": "People",
+    "tags": [
+      "user",
+      "hoodie",
+      "sweatshirt",
+      "casual",
+      "person",
+      "avatar"
     ],
     "animation": "pop"
   },
@@ -36808,6 +36995,33 @@
     ],
     "animation": "pop"
   },
+  "user-nurse-hair": {
+    "category": "People",
+    "tags": [
+      "user",
+      "nurse",
+      "hair",
+      "hospital",
+      "cap",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-nurse-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "nurse",
+      "hair",
+      "long",
+      "hospital",
+      "cap",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
   "user-pen": {
     "category": "People",
     "tags": [
@@ -36816,6 +37030,58 @@
       "edit",
       "profile",
       "account"
+    ],
+    "animation": "pop"
+  },
+  "user-pilot": {
+    "category": "People",
+    "tags": [
+      "user",
+      "pilot",
+      "captain",
+      "airline",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-pilot-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "pilot",
+      "hair",
+      "long",
+      "captain",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-pilot-tie": {
+    "category": "People",
+    "tags": [
+      "user",
+      "pilot",
+      "tie",
+      "captain",
+      "airline",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-pilot-tie-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "pilot",
+      "tie",
+      "hair",
+      "long",
+      "captain",
+      "person",
+      "avatar"
     ],
     "animation": "pop"
   },
@@ -36833,6 +37099,60 @@
     ],
     "animation": "bounce"
   },
+  "user-police": {
+    "category": "People",
+    "tags": [
+      "user",
+      "police",
+      "officer",
+      "cop",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-police-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "police",
+      "hair",
+      "long",
+      "officer",
+      "cop",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-police-tie": {
+    "category": "People",
+    "tags": [
+      "user",
+      "police",
+      "tie",
+      "officer",
+      "cop",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-police-tie-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "police",
+      "tie",
+      "hair",
+      "long",
+      "officer",
+      "cop",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
   "user-question": {
     "category": "People",
     "tags": [
@@ -36847,6 +37167,18 @@
       "perfil"
     ],
     "animation": "bounce"
+  },
+  "user-robot": {
+    "category": "People",
+    "tags": [
+      "user",
+      "robot",
+      "bot",
+      "android",
+      "ai",
+      "avatar"
+    ],
+    "animation": "wobble"
   },
   "user-shield": {
     "category": "Security",
@@ -36901,6 +37233,44 @@
     ],
     "animation": "bounce"
   },
+  "user-tie-hair": {
+    "category": "People",
+    "tags": [
+      "user",
+      "tie",
+      "hair",
+      "business",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-tie-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "tie",
+      "hair",
+      "long",
+      "business",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-tie-hair-mullet": {
+    "category": "People",
+    "tags": [
+      "user",
+      "tie",
+      "hair",
+      "mullet",
+      "business",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
   "user-unlock": {
     "category": "People",
     "tags": [
@@ -36915,6 +37285,77 @@
       "perfil"
     ],
     "animation": "shake"
+  },
+  "user-viewfinder": {
+    "category": "People",
+    "tags": [
+      "user",
+      "viewfinder",
+      "face",
+      "scan",
+      "recognition",
+      "id"
+    ],
+    "animation": "pop"
+  },
+  "user-visor": {
+    "category": "People",
+    "tags": [
+      "user",
+      "visor",
+      "glasses",
+      "vr",
+      "goggles",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-vneck": {
+    "category": "People",
+    "tags": [
+      "user",
+      "vneck",
+      "shirt",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-vneck-hair": {
+    "category": "People",
+    "tags": [
+      "user",
+      "vneck",
+      "hair",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-vneck-hair-long": {
+    "category": "People",
+    "tags": [
+      "user",
+      "vneck",
+      "hair",
+      "long",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-vneck-hair-mullet": {
+    "category": "People",
+    "tags": [
+      "user",
+      "vneck",
+      "hair",
+      "mullet",
+      "person",
+      "avatar"
+    ],
+    "animation": "pop"
   },
   "user-x": {
     "category": "People",
