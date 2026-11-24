@@ -6763,6 +6763,17 @@
     ],
     "animation": "flip"
   },
+  "cards": {
+    "category": "Objects",
+    "tags": [
+      "cards",
+      "playing",
+      "poker",
+      "game",
+      "deck"
+    ],
+    "animation": "flip"
+  },
   "cards-blank": {
     "category": "Objects",
     "tags": [
@@ -7178,6 +7189,18 @@
       "checkout",
       "pos",
       "caja"
+    ],
+    "animation": "pop"
+  },
+  "cassette-betamax": {
+    "category": "Objects",
+    "tags": [
+      "cassette",
+      "betamax",
+      "video",
+      "tape",
+      "vhs",
+      "retro"
     ],
     "animation": "pop"
   },
@@ -11176,6 +11199,18 @@
     ],
     "animation": "spin-slow"
   },
+  "club": {
+    "category": "Objects",
+    "tags": [
+      "club",
+      "clubs",
+      "card",
+      "suit",
+      "poker",
+      "clover"
+    ],
+    "animation": "pop"
+  },
   "coaster": {
     "category": "Objects",
     "tags": [
@@ -11353,6 +11388,16 @@
       "token",
       "cash",
       "moneda"
+    ],
+    "animation": "flip"
+  },
+  "coin-blank": {
+    "category": "Objects",
+    "tags": [
+      "coin",
+      "blank",
+      "money",
+      "token"
     ],
     "animation": "flip"
   },
@@ -11998,6 +12043,17 @@
     ],
     "animation": "pulse"
   },
+  "conveyor-belt": {
+    "category": "Objects",
+    "tags": [
+      "conveyor",
+      "belt",
+      "factory",
+      "production",
+      "logistics"
+    ],
+    "animation": "slide"
+  },
   "conveyor-belt-boxes": {
     "category": "Objects",
     "tags": [
@@ -12322,6 +12378,18 @@
       "muleta"
     ],
     "animation": "rock"
+  },
+  "crutches": {
+    "category": "Health",
+    "tags": [
+      "crutches",
+      "injury",
+      "broken",
+      "leg",
+      "walking",
+      "aid"
+    ],
+    "animation": "wobble"
   },
   "cruzeiro-sign": {
     "category": "Objects",
@@ -14262,6 +14330,17 @@
       "gotero"
     ],
     "animation": "drip"
+  },
+  "eye-evil": {
+    "category": "Religion",
+    "tags": [
+      "eye",
+      "evil",
+      "nazar",
+      "amulet",
+      "protection"
+    ],
+    "animation": "blink"
   },
   "eye-low-vision": {
     "category": "Health",
@@ -17642,6 +17721,17 @@
     ],
     "animation": "drive"
   },
+  "fort": {
+    "category": "Places",
+    "tags": [
+      "fort",
+      "castle",
+      "fortress",
+      "walls",
+      "defense"
+    ],
+    "animation": "pop"
+  },
   "forward": {
     "category": "Media",
     "tags": [
@@ -17781,6 +17871,18 @@
       "checkers",
       "tabletop",
       "tablero"
+    ],
+    "animation": "pop"
+  },
+  "game-board-simple": {
+    "category": "Objects",
+    "tags": [
+      "game",
+      "board",
+      "simple",
+      "checkers",
+      "chess",
+      "grid"
     ],
     "animation": "pop"
   },
@@ -18660,6 +18762,17 @@
       "parrilla"
     ],
     "animation": "pop"
+  },
+  "grill-hot": {
+    "category": "Objects",
+    "tags": [
+      "grill",
+      "hot",
+      "bbq",
+      "barbecue",
+      "cooking"
+    ],
+    "animation": "flicker"
   },
   "grip": {
     "category": "Interface",
@@ -19903,6 +20016,17 @@
     ],
     "animation": "shake"
   },
+  "hexagon-image": {
+    "category": "Files",
+    "tags": [
+      "hexagon",
+      "image",
+      "photo",
+      "picture",
+      "nft"
+    ],
+    "animation": "pop"
+  },
   "hexagon-minus": {
     "category": "Interface",
     "tags": [
@@ -19978,6 +20102,17 @@
     ],
     "animation": "write"
   },
+  "highlighter-line": {
+    "category": "Interface",
+    "tags": [
+      "highlighter",
+      "line",
+      "marker",
+      "underline",
+      "text"
+    ],
+    "animation": "write"
+  },
   "highway": {
     "category": "Places",
     "tags": [
@@ -19996,6 +20131,17 @@
       "hippopotamus",
       "animal",
       "zoo"
+    ],
+    "animation": "wobble"
+  },
+  "hockey-mask": {
+    "category": "Objects",
+    "tags": [
+      "hockey",
+      "mask",
+      "goalie",
+      "halloween",
+      "jason"
     ],
     "animation": "wobble"
   },
@@ -20116,6 +20262,16 @@
       "herradura"
     ],
     "animation": "swing"
+  },
+  "hose-reel": {
+    "category": "Objects",
+    "tags": [
+      "hose",
+      "reel",
+      "garden",
+      "water"
+    ],
+    "animation": "spin"
   },
   "hospital": {
     "category": "Places",
@@ -21089,6 +21245,16 @@
       "details",
       "i",
       "about"
+    ],
+    "animation": "pop"
+  },
+  "inhaler": {
+    "category": "Health",
+    "tags": [
+      "inhaler",
+      "asthma",
+      "medicine",
+      "breathing"
     ],
     "animation": "pop"
   },
@@ -22297,6 +22463,30 @@
     ],
     "animation": "swing"
   },
+  "light-emergency": {
+    "category": "Status",
+    "tags": [
+      "light",
+      "emergency",
+      "siren",
+      "beacon",
+      "police",
+      "alarm"
+    ],
+    "animation": "flash"
+  },
+  "light-emergency-on": {
+    "category": "Status",
+    "tags": [
+      "light",
+      "emergency",
+      "on",
+      "siren",
+      "beacon",
+      "alarm"
+    ],
+    "animation": "flash"
+  },
   "light-switch": {
     "category": "Objects",
     "tags": [
@@ -22387,6 +22577,18 @@
     ],
     "animation": "glow"
   },
+  "lightbulb-exclamation-on": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "exclamation",
+      "on",
+      "idea",
+      "alert",
+      "warning"
+    ],
+    "animation": "glow"
+  },
   "lightbulb-gear": {
     "category": "Objects",
     "tags": [
@@ -22395,6 +22597,18 @@
       "idea",
       "settings",
       "innovation"
+    ],
+    "animation": "glow"
+  },
+  "lightbulb-message": {
+    "category": "Communication",
+    "tags": [
+      "lightbulb",
+      "message",
+      "idea",
+      "suggestion",
+      "tip",
+      "chat"
     ],
     "animation": "glow"
   },
@@ -22564,6 +22778,16 @@
       "enlace"
     ],
     "animation": "shake"
+  },
+  "lips": {
+    "category": "People",
+    "tags": [
+      "lips",
+      "mouth",
+      "kiss",
+      "lipstick"
+    ],
+    "animation": "beat"
   },
   "lira-sign": {
     "category": "Objects",
@@ -23184,6 +23408,18 @@
     ],
     "animation": "search"
   },
+  "magnifying-glass-arrows-rotate": {
+    "category": "Interface",
+    "tags": [
+      "magnifying",
+      "glass",
+      "arrows",
+      "rotate",
+      "search",
+      "refresh"
+    ],
+    "animation": "search"
+  },
   "magnifying-glass-chart": {
     "category": "Actions",
     "tags": [
@@ -23234,6 +23470,18 @@
       "minus",
       "zoom",
       "out",
+      "find"
+    ],
+    "animation": "search"
+  },
+  "magnifying-glass-music": {
+    "category": "Interface",
+    "tags": [
+      "magnifying",
+      "glass",
+      "music",
+      "search",
+      "song",
       "find"
     ],
     "animation": "search"
@@ -25331,6 +25579,15 @@
       "money",
       "currency",
       "sign"
+    ],
+    "animation": "pop"
+  },
+  "nose": {
+    "category": "People",
+    "tags": [
+      "nose",
+      "smell",
+      "face"
     ],
     "animation": "pop"
   },
