@@ -108,6 +108,19 @@
     ],
     "animation": "ring"
   },
+  "alarm-minus": {
+    "category": "Interface",
+    "tags": [
+      "remove",
+      "alarm",
+      "clock",
+      "wake",
+      "up",
+      "time",
+      "morning"
+    ],
+    "animation": "ring"
+  },
   "alarm-plus": {
     "category": "Interface",
     "tags": [
@@ -229,6 +242,17 @@
       "math"
     ],
     "animation": "wave"
+  },
+  "amp-guitar": {
+    "category": "Music & Audio",
+    "tags": [
+      "amp",
+      "guitar",
+      "amplifier",
+      "speaker",
+      "music"
+    ],
+    "animation": "pulse"
   },
   "ampersand": {
     "category": "Letters & Numbers",
@@ -1086,6 +1110,51 @@
     ],
     "animation": "spin"
   },
+  "arrow-rotate-left-10": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "left",
+      "10",
+      "seconds",
+      "rewind",
+      "back",
+      "skip",
+      "replay"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-left-15": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "left",
+      "15",
+      "seconds",
+      "rewind",
+      "back",
+      "skip",
+      "replay"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-left-30": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "left",
+      "30",
+      "seconds",
+      "rewind",
+      "back",
+      "skip",
+      "replay"
+    ],
+    "animation": "spin"
+  },
   "arrow-rotate-right": {
     "category": "Arrows",
     "tags": [
@@ -1094,6 +1163,45 @@
       "right",
       "redo",
       "refresh"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-right-10": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "right",
+      "10",
+      "seconds",
+      "forward",
+      "skip"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-right-15": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "right",
+      "15",
+      "seconds",
+      "forward",
+      "skip"
+    ],
+    "animation": "spin"
+  },
+  "arrow-rotate-right-30": {
+    "category": "Media",
+    "tags": [
+      "arrow",
+      "rotate",
+      "right",
+      "30",
+      "seconds",
+      "forward",
+      "skip"
     ],
     "animation": "spin"
   },
@@ -1842,6 +1950,21 @@
     ],
     "animation": "pop"
   },
+  "audio-description-slash": {
+    "category": "Health",
+    "tags": [
+      "slash",
+      "off",
+      "disabled",
+      "audio",
+      "description",
+      "ad",
+      "accessibility",
+      "narration",
+      "blind"
+    ],
+    "animation": "shake"
+  },
   "audio-mixer": {
     "category": "Music & Audio",
     "tags": [
@@ -1866,6 +1989,19 @@
       "argentina",
       "money",
       "currency"
+    ],
+    "animation": "pop"
+  },
+  "australian-dollar-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "australian",
+      "dollar",
+      "aud",
+      "australia",
+      "money",
+      "currency",
+      "sign"
     ],
     "animation": "pop"
   },
@@ -2231,6 +2367,31 @@
       "wound",
       "first",
       "curita"
+    ],
+    "animation": "wiggle"
+  },
+  "bangladeshi-taka-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "bangladeshi",
+      "taka",
+      "bdt",
+      "bangladesh",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
+  "banjo": {
+    "category": "Music & Audio",
+    "tags": [
+      "banjo",
+      "strings",
+      "country",
+      "folk",
+      "bluegrass",
+      "music"
     ],
     "animation": "wiggle"
   },
@@ -2935,6 +3096,16 @@
     ],
     "animation": "slide"
   },
+  "blinds-open": {
+    "category": "Objects",
+    "tags": [
+      "blinds",
+      "open",
+      "window",
+      "shade"
+    ],
+    "animation": "pop"
+  },
   "block-brick": {
     "category": "Objects",
     "tags": [
@@ -3331,6 +3502,18 @@
       "shoe",
       "footwear",
       "bota"
+    ],
+    "animation": "bounce"
+  },
+  "boot-heeled": {
+    "category": "Objects",
+    "tags": [
+      "boot",
+      "heeled",
+      "heels",
+      "shoe",
+      "fashion",
+      "clothing"
     ],
     "animation": "bounce"
   },
@@ -3771,6 +3954,17 @@
       "guante"
     ],
     "animation": "shake"
+  },
+  "bra": {
+    "category": "Objects",
+    "tags": [
+      "bra",
+      "lingerie",
+      "underwear",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
   },
   "bracket-curly": {
     "category": "Interface",
@@ -4440,6 +4634,17 @@
     ],
     "animation": "rock"
   },
+  "briefs": {
+    "category": "Objects",
+    "tags": [
+      "briefs",
+      "underwear",
+      "boxer",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
+  },
   "brightness": {
     "category": "Interface",
     "tags": [
@@ -4483,6 +4688,17 @@
       "escoba"
     ],
     "animation": "swing"
+  },
+  "broom-wide": {
+    "category": "Objects",
+    "tags": [
+      "broom",
+      "wide",
+      "push",
+      "sweep",
+      "cleaning"
+    ],
+    "animation": "wiggle"
   },
   "browser": {
     "category": "Technology",
@@ -4762,6 +4978,17 @@
     ],
     "animation": "pop"
   },
+  "burrito": {
+    "category": "Objects",
+    "tags": [
+      "burrito",
+      "wrap",
+      "mexican",
+      "tortilla",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "burst": {
     "category": "Status",
     "tags": [
@@ -4835,6 +5062,17 @@
       "maletin"
     ],
     "animation": "rock"
+  },
+  "butter": {
+    "category": "Objects",
+    "tags": [
+      "butter",
+      "dairy",
+      "margarine",
+      "dish",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "butterfly": {
     "category": "Nature",
@@ -5310,6 +5548,27 @@
       "switch",
       "selfie",
       "flip"
+    ],
+    "animation": "spin"
+  },
+  "camera-security": {
+    "category": "Technology",
+    "tags": [
+      "camera",
+      "security",
+      "cctv",
+      "surveillance"
+    ],
+    "animation": "swing"
+  },
+  "camera-shutter": {
+    "category": "Technology",
+    "tags": [
+      "camera",
+      "shutter",
+      "aperture",
+      "lens",
+      "photo"
     ],
     "animation": "spin"
   },
@@ -6962,6 +7221,18 @@
     ],
     "animation": "pulse"
   },
+  "chestnut": {
+    "category": "Objects",
+    "tags": [
+      "chestnut",
+      "nut",
+      "autumn",
+      "fall",
+      "roasted",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "chevron-down": {
     "category": "Arrows",
     "tags": [
@@ -7044,6 +7315,19 @@
       "chevron"
     ],
     "animation": "nudge-up"
+  },
+  "chf-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "chf",
+      "swiss",
+      "franc",
+      "switzerland",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
   },
   "child": {
     "category": "People",
@@ -7368,6 +7652,20 @@
     ],
     "animation": "pop"
   },
+  "circle-australian-dollar": {
+    "category": "Objects",
+    "tags": [
+      "australian",
+      "dollar",
+      "aud",
+      "australia",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-b": {
     "category": "Letters & Numbers",
     "tags": [
@@ -7388,6 +7686,20 @@
       "thailand",
       "currency",
       "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-bangladeshi-taka": {
+    "category": "Objects",
+    "tags": [
+      "bangladeshi",
+      "taka",
+      "bdt",
+      "bangladesh",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -7607,6 +7919,20 @@
     ],
     "animation": "nudge-up"
   },
+  "circle-chf": {
+    "category": "Objects",
+    "tags": [
+      "chf",
+      "swiss",
+      "franc",
+      "switzerland",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-colon": {
     "category": "Objects",
     "tags": [
@@ -7651,6 +7977,21 @@
       "alphabet",
       "badge",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "circle-danish-krone": {
+    "category": "Objects",
+    "tags": [
+      "danish",
+      "krone",
+      "dkk",
+      "denmark",
+      "kr",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -7812,6 +8153,21 @@
       "currency",
       "money",
       "price"
+    ],
+    "animation": "pop"
+  },
+  "circle-eurozone": {
+    "category": "Objects",
+    "tags": [
+      "eurozone",
+      "ecu",
+      "european",
+      "currency",
+      "unit",
+      "euro",
+      "money",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -8102,6 +8458,21 @@
     ],
     "animation": "pop"
   },
+  "circle-malaysian-ringgit": {
+    "category": "Objects",
+    "tags": [
+      "malaysian",
+      "ringgit",
+      "myr",
+      "malaysia",
+      "rm",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-manat": {
     "category": "Objects",
     "tags": [
@@ -8202,6 +8573,21 @@
     ],
     "animation": "pop"
   },
+  "circle-norwegian-krone": {
+    "category": "Objects",
+    "tags": [
+      "norwegian",
+      "krone",
+      "nok",
+      "norway",
+      "kr",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-notch": {
     "category": "Status",
     "tags": [
@@ -8257,6 +8643,20 @@
       "pause",
       "stop",
       "media"
+    ],
+    "animation": "pop"
+  },
+  "circle-peruvian-soles": {
+    "category": "Objects",
+    "tags": [
+      "peruvian",
+      "soles",
+      "pen",
+      "peru",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -8409,6 +8809,21 @@
     ],
     "animation": "spin-slow"
   },
+  "circle-renminbi": {
+    "category": "Objects",
+    "tags": [
+      "renminbi",
+      "cny",
+      "rmb",
+      "china",
+      "yuan",
+      "money",
+      "currency",
+      "circle",
+      "coin"
+    ],
+    "animation": "pop"
+  },
   "circle-ruble": {
     "category": "Objects",
     "tags": [
@@ -8475,6 +8890,19 @@
       "israel",
       "currency",
       "money"
+    ],
+    "animation": "pop"
+  },
+  "circle-singapore-dollar": {
+    "category": "Objects",
+    "tags": [
+      "singapore",
+      "dollar",
+      "sgd",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -8555,6 +8983,21 @@
       "stop",
       "end",
       "media"
+    ],
+    "animation": "pop"
+  },
+  "circle-swedish-krona": {
+    "category": "Objects",
+    "tags": [
+      "swedish",
+      "krona",
+      "sek",
+      "sweden",
+      "kr",
+      "money",
+      "currency",
+      "circle",
+      "coin"
     ],
     "animation": "pop"
   },
@@ -8857,6 +9300,18 @@
       "claqueta"
     ],
     "animation": "flip"
+  },
+  "clarinet": {
+    "category": "Music & Audio",
+    "tags": [
+      "clarinet",
+      "woodwind",
+      "wind",
+      "instrument",
+      "jazz",
+      "music"
+    ],
+    "animation": "wiggle"
   },
   "claw-marks": {
     "category": "Nature",
@@ -9935,6 +10390,18 @@
     ],
     "animation": "pop"
   },
+  "code-simple": {
+    "category": "Technology",
+    "tags": [
+      "code",
+      "simple",
+      "brackets",
+      "html",
+      "developer",
+      "programming"
+    ],
+    "animation": "pop"
+  },
   "coffee-bean": {
     "category": "Objects",
     "tags": [
@@ -9945,6 +10412,18 @@
       "grano"
     ],
     "animation": "rock"
+  },
+  "coffee-beans": {
+    "category": "Objects",
+    "tags": [
+      "coffee",
+      "beans",
+      "bean",
+      "roast",
+      "cafe",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "coffee-pot": {
     "category": "Objects",
@@ -10398,6 +10877,19 @@
     ],
     "animation": "pop"
   },
+  "comments-question": {
+    "category": "Communication",
+    "tags": [
+      "help",
+      "faq",
+      "ask",
+      "comments",
+      "conversation",
+      "chat",
+      "discussion"
+    ],
+    "animation": "pop"
+  },
   "compact-disc": {
     "category": "Media",
     "tags": [
@@ -10493,6 +10985,28 @@
       "click",
       "pointer",
       "raton"
+    ],
+    "animation": "pop"
+  },
+  "computer-mouse-button-left": {
+    "category": "Technology",
+    "tags": [
+      "computer",
+      "mouse",
+      "button",
+      "left",
+      "click"
+    ],
+    "animation": "pop"
+  },
+  "computer-mouse-button-right": {
+    "category": "Technology",
+    "tags": [
+      "computer",
+      "mouse",
+      "button",
+      "right",
+      "click"
     ],
     "animation": "pop"
   },
@@ -10891,6 +11405,44 @@
     ],
     "animation": "bounce"
   },
+  "cucumber": {
+    "category": "Objects",
+    "tags": [
+      "cucumber",
+      "vegetable",
+      "pickle",
+      "salad",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "cup-straw": {
+    "category": "Objects",
+    "tags": [
+      "cup",
+      "straw",
+      "drink",
+      "soda",
+      "juice",
+      "smoothie",
+      "food"
+    ],
+    "animation": "float"
+  },
+  "cup-togo": {
+    "category": "Objects",
+    "tags": [
+      "cup",
+      "togo",
+      "coffee",
+      "takeaway",
+      "drink",
+      "to",
+      "go",
+      "food"
+    ],
+    "animation": "float"
+  },
   "cupcake": {
     "category": "Objects",
     "tags": [
@@ -10912,6 +11464,18 @@
     ],
     "animation": "pop"
   },
+  "custard": {
+    "category": "Objects",
+    "tags": [
+      "custard",
+      "flan",
+      "pudding",
+      "dessert",
+      "caramel",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "dagger": {
     "category": "Objects",
     "tags": [
@@ -10922,6 +11486,20 @@
       "daga"
     ],
     "animation": "swing"
+  },
+  "danish-krone-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "danish",
+      "krone",
+      "dkk",
+      "denmark",
+      "kr",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
   },
   "dash": {
     "category": "Letters & Numbers",
@@ -11012,6 +11590,18 @@
       "screen"
     ],
     "animation": "pop"
+  },
+  "desktop-arrow-down": {
+    "category": "Technology",
+    "tags": [
+      "desktop",
+      "arrow",
+      "down",
+      "computer",
+      "download",
+      "monitor"
+    ],
+    "animation": "nudge-down"
   },
   "dharmachakra": {
     "category": "Religion",
@@ -11844,6 +12434,17 @@
     "animation": "swing",
     "origin": "50% 10%"
   },
+  "dresser": {
+    "category": "Objects",
+    "tags": [
+      "dresser",
+      "drawers",
+      "furniture",
+      "bedroom",
+      "chest"
+    ],
+    "animation": "pop"
+  },
   "drone": {
     "category": "Technology",
     "tags": [
@@ -12016,6 +12617,19 @@
     ],
     "animation": "wiggle"
   },
+  "ear-circle-checkmark": {
+    "category": "Health",
+    "tags": [
+      "hearing",
+      "test",
+      "ok",
+      "ear",
+      "listen",
+      "sound",
+      "oreja"
+    ],
+    "animation": "wiggle"
+  },
   "ear-deaf": {
     "category": "Health",
     "tags": [
@@ -12048,6 +12662,19 @@
       "warm",
       "cold",
       "orejeras"
+    ],
+    "animation": "wiggle"
+  },
+  "ear-triangle-exclamation": {
+    "category": "Health",
+    "tags": [
+      "hearing",
+      "warning",
+      "loss",
+      "ear",
+      "listen",
+      "sound",
+      "oreja"
     ],
     "animation": "wiggle"
   },
@@ -12427,6 +13054,20 @@
       "money",
       "currency",
       "eur"
+    ],
+    "animation": "pop"
+  },
+  "eurozone-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "eurozone",
+      "ecu",
+      "european",
+      "currency",
+      "unit",
+      "euro",
+      "money",
+      "sign"
     ],
     "animation": "pop"
   },
@@ -15269,6 +15910,17 @@
     "animation": "swing",
     "origin": "50% 100%"
   },
+  "flute": {
+    "category": "Music & Audio",
+    "tags": [
+      "flute",
+      "woodwind",
+      "wind",
+      "instrument",
+      "music"
+    ],
+    "animation": "wiggle"
+  },
   "flying-disc": {
     "category": "Objects",
     "tags": [
@@ -16103,6 +16755,16 @@
     ],
     "animation": "float"
   },
+  "gif": {
+    "category": "Media",
+    "tags": [
+      "gif",
+      "animated",
+      "image",
+      "animation"
+    ],
+    "animation": "pop"
+  },
   "gift": {
     "category": "Objects",
     "tags": [
@@ -16323,6 +16985,18 @@
     ],
     "animation": "wave"
   },
+  "gpu": {
+    "category": "Technology",
+    "tags": [
+      "gpu",
+      "graphics",
+      "card",
+      "video",
+      "hardware",
+      "gaming"
+    ],
+    "animation": "pop"
+  },
   "graduation-cap": {
     "category": "Objects",
     "tags": [
@@ -16345,6 +17019,16 @@
       "uvas"
     ],
     "animation": "rock"
+  },
+  "grate": {
+    "category": "Objects",
+    "tags": [
+      "grate",
+      "drain",
+      "grid",
+      "vent"
+    ],
+    "animation": "pop"
   },
   "grave": {
     "category": "Religion",
@@ -17179,6 +17863,18 @@
     ],
     "animation": "shake"
   },
+  "hat-beach": {
+    "category": "Objects",
+    "tags": [
+      "hat",
+      "beach",
+      "sun",
+      "summer",
+      "straw",
+      "clothing"
+    ],
+    "animation": "swing"
+  },
   "hat-chef": {
     "category": "Objects",
     "tags": [
@@ -17449,6 +18145,18 @@
     ],
     "animation": "beat"
   },
+  "heat": {
+    "category": "Weather",
+    "tags": [
+      "heat",
+      "hot",
+      "temperature",
+      "warm",
+      "waves",
+      "summer"
+    ],
+    "animation": "wave"
+  },
   "helicopter": {
     "category": "Places",
     "tags": [
@@ -17585,6 +18293,18 @@
     ],
     "animation": "pop"
   },
+  "high-definition": {
+    "category": "Media",
+    "tags": [
+      "high",
+      "definition",
+      "hd",
+      "video",
+      "quality",
+      "resolution"
+    ],
+    "animation": "pop"
+  },
   "highlighter": {
     "category": "Interface",
     "tags": [
@@ -17654,6 +18374,18 @@
       "inicio",
       "hogar",
       "principal"
+    ],
+    "animation": "bounce"
+  },
+  "honey-pot": {
+    "category": "Objects",
+    "tags": [
+      "honey",
+      "pot",
+      "jar",
+      "sweet",
+      "bee",
+      "food"
     ],
     "animation": "bounce"
   },
@@ -18541,12 +19273,75 @@
     ],
     "animation": "pop"
   },
+  "input-numeric": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "numeric",
+      "field",
+      "form",
+      "number",
+      "digits",
+      "123"
+    ],
+    "animation": "pop"
+  },
+  "input-password": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "password",
+      "field",
+      "form",
+      "secret",
+      "hidden",
+      "asterisk"
+    ],
+    "animation": "pop"
+  },
+  "input-pipe": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "pipe",
+      "field",
+      "form",
+      "cursor",
+      "caret",
+      "empty"
+    ],
+    "animation": "pop"
+  },
+  "input-text": {
+    "category": "Interface",
+    "tags": [
+      "input",
+      "text",
+      "field",
+      "form",
+      "type",
+      "letters",
+      "abc"
+    ],
+    "animation": "pop"
+  },
   "integral": {
     "category": "Letters & Numbers",
     "tags": [
       "integral",
       "math",
       "calculus"
+    ],
+    "animation": "pop"
+  },
+  "interrobang": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "interrobang",
+      "punctuation",
+      "question",
+      "exclamation",
+      "surprise"
     ],
     "animation": "pop"
   },
@@ -18592,6 +19387,18 @@
       "denim"
     ],
     "animation": "pop"
+  },
+  "jeans-straight": {
+    "category": "Objects",
+    "tags": [
+      "jeans",
+      "straight",
+      "denim",
+      "pants",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
   },
   "jet-fighter": {
     "category": "Places",
@@ -18706,6 +19513,50 @@
     ],
     "animation": "pulse"
   },
+  "keyboard-brightness": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "brightness",
+      "backlight",
+      "light",
+      "bright"
+    ],
+    "animation": "glow"
+  },
+  "keyboard-brightness-low": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "brightness",
+      "low",
+      "backlight",
+      "light",
+      "dim"
+    ],
+    "animation": "glow"
+  },
+  "keyboard-down": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "down",
+      "hide",
+      "close",
+      "collapse"
+    ],
+    "animation": "nudge-down"
+  },
+  "keyboard-left": {
+    "category": "Technology",
+    "tags": [
+      "keyboard",
+      "left",
+      "arrow",
+      "side"
+    ],
+    "animation": "nudge-left"
+  },
   "keyhole": {
     "category": "Security",
     "tags": [
@@ -18794,6 +19645,27 @@
       "cuchillo"
     ],
     "animation": "rock"
+  },
+  "knife-kitchen": {
+    "category": "Objects",
+    "tags": [
+      "knife",
+      "kitchen",
+      "chef",
+      "cooking",
+      "cut"
+    ],
+    "animation": "swing"
+  },
+  "label": {
+    "category": "Objects",
+    "tags": [
+      "label",
+      "tag",
+      "price",
+      "sticker"
+    ],
+    "animation": "swing"
   },
   "ladder": {
     "category": "Objects",
@@ -18947,6 +19819,17 @@
     ],
     "animation": "nudge-down"
   },
+  "laptop-binary": {
+    "category": "Technology",
+    "tags": [
+      "laptop",
+      "binary",
+      "code",
+      "programming",
+      "developer"
+    ],
+    "animation": "pop"
+  },
   "laptop-code": {
     "category": "Technology",
     "tags": [
@@ -19093,6 +19976,19 @@
       "arce"
     ],
     "animation": "swing"
+  },
+  "leafy-green": {
+    "category": "Objects",
+    "tags": [
+      "leafy",
+      "green",
+      "lettuce",
+      "salad",
+      "vegetable",
+      "greens",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "lectern": {
     "category": "Religion",
@@ -19505,6 +20401,16 @@
     ],
     "animation": "spin-slow"
   },
+  "light-ceiling": {
+    "category": "Objects",
+    "tags": [
+      "light",
+      "ceiling",
+      "lamp",
+      "pendant"
+    ],
+    "animation": "swing"
+  },
   "light-switch": {
     "category": "Objects",
     "tags": [
@@ -19516,6 +20422,28 @@
     ],
     "animation": "pop"
   },
+  "light-switch-off": {
+    "category": "Objects",
+    "tags": [
+      "light",
+      "switch",
+      "off",
+      "toggle",
+      "electric"
+    ],
+    "animation": "flash"
+  },
+  "light-switch-on": {
+    "category": "Objects",
+    "tags": [
+      "light",
+      "switch",
+      "on",
+      "toggle",
+      "electric"
+    ],
+    "animation": "flash"
+  },
   "lightbulb": {
     "category": "Objects",
     "tags": [
@@ -19524,6 +20452,29 @@
       "light",
       "bulb",
       "bombillo"
+    ],
+    "animation": "glow"
+  },
+  "lightbulb-cfl": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "cfl",
+      "fluorescent",
+      "energy",
+      "saving"
+    ],
+    "animation": "pop"
+  },
+  "lightbulb-cfl-on": {
+    "category": "Objects",
+    "tags": [
+      "lightbulb",
+      "cfl",
+      "on",
+      "fluorescent",
+      "energy",
+      "saving"
     ],
     "animation": "glow"
   },
@@ -20222,6 +21173,17 @@
     ],
     "animation": "pulse"
   },
+  "lychee": {
+    "category": "Objects",
+    "tags": [
+      "lychee",
+      "fruit",
+      "tropical",
+      "asian",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "magnet": {
     "category": "Objects",
     "tags": [
@@ -20385,6 +21347,20 @@
     ],
     "animation": "wave"
   },
+  "malaysian-ringgit-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "malaysian",
+      "ringgit",
+      "myr",
+      "malaysia",
+      "rm",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "manat-sign": {
     "category": "Letters & Numbers",
     "tags": [
@@ -20395,6 +21371,36 @@
       "turkmenistan",
       "money",
       "currency"
+    ],
+    "animation": "pop"
+  },
+  "mandolin": {
+    "category": "Music & Audio",
+    "tags": [
+      "mandolin",
+      "strings",
+      "folk",
+      "music"
+    ],
+    "animation": "wiggle"
+  },
+  "mango": {
+    "category": "Objects",
+    "tags": [
+      "mango",
+      "fruit",
+      "tropical",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "manhole": {
+    "category": "Objects",
+    "tags": [
+      "manhole",
+      "cover",
+      "street",
+      "sewer"
     ],
     "animation": "pop"
   },
@@ -20575,6 +21581,21 @@
     ],
     "animation": "pop"
   },
+  "meat": {
+    "category": "Objects",
+    "tags": [
+      "meat",
+      "steak",
+      "beef",
+      "red",
+      "bbq",
+      "leg",
+      "ham",
+      "drumstick",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "medal": {
     "category": "Objects",
     "tags": [
@@ -20598,6 +21619,29 @@
       "speaker"
     ],
     "animation": "shake"
+  },
+  "melon": {
+    "category": "Objects",
+    "tags": [
+      "melon",
+      "fruit",
+      "watermelon",
+      "cantaloupe",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "melon-slice": {
+    "category": "Objects",
+    "tags": [
+      "melon",
+      "slice",
+      "fruit",
+      "watermelon",
+      "summer",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "memo": {
     "category": "Files",
@@ -20673,6 +21717,17 @@
       "planet"
     ],
     "animation": "pop"
+  },
+  "merge": {
+    "category": "Arrows",
+    "tags": [
+      "merge",
+      "combine",
+      "join",
+      "arrows",
+      "git"
+    ],
+    "animation": "nudge-down"
   },
   "message": {
     "category": "Communication",
@@ -21038,6 +22093,20 @@
     ],
     "animation": "pop"
   },
+  "messages-question": {
+    "category": "Communication",
+    "tags": [
+      "help",
+      "faq",
+      "ask",
+      "messages",
+      "chat",
+      "conversation",
+      "multiple",
+      "bubbles"
+    ],
+    "animation": "pop"
+  },
   "meteor": {
     "category": "Nature",
     "tags": [
@@ -21151,6 +22220,19 @@
     ],
     "animation": "shake"
   },
+  "microphone-stand": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "stand",
+      "mic",
+      "stage",
+      "singing",
+      "karaoke",
+      "music"
+    ],
+    "animation": "pulse"
+  },
   "microscope": {
     "category": "Health",
     "tags": [
@@ -21171,6 +22253,18 @@
       "oven",
       "kitchen",
       "appliance"
+    ],
+    "animation": "pop"
+  },
+  "midi": {
+    "category": "Music & Audio",
+    "tags": [
+      "midi",
+      "connector",
+      "port",
+      "din",
+      "cable",
+      "music"
     ],
     "animation": "pop"
   },
@@ -21552,6 +22646,18 @@
     ],
     "animation": "rock"
   },
+  "moon-cloud": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "cloud",
+      "night",
+      "weather",
+      "partly",
+      "cloudy"
+    ],
+    "animation": "float"
+  },
   "moon-first-quarter": {
     "category": "Weather",
     "tags": [
@@ -21797,6 +22903,17 @@
     ],
     "animation": "pop"
   },
+  "mp3-player": {
+    "category": "Technology",
+    "tags": [
+      "mp3",
+      "player",
+      "music",
+      "ipod",
+      "audio"
+    ],
+    "animation": "pop"
+  },
   "mug": {
     "category": "Objects",
     "tags": [
@@ -21974,6 +23091,18 @@
     ],
     "animation": "pop"
   },
+  "nas": {
+    "category": "Technology",
+    "tags": [
+      "nas",
+      "network",
+      "attached",
+      "storage",
+      "server",
+      "drive"
+    ],
+    "animation": "pop"
+  },
   "navigation": {
     "category": "Places",
     "tags": [
@@ -22113,6 +23242,20 @@
     ],
     "animation": "float"
   },
+  "norwegian-krone-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "norwegian",
+      "krone",
+      "nok",
+      "norway",
+      "kr",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "not-equal": {
     "category": "Letters & Numbers",
     "tags": [
@@ -22135,6 +23278,18 @@
       "character"
     ],
     "animation": "shake"
+  },
+  "note": {
+    "category": "Files",
+    "tags": [
+      "note",
+      "sticky",
+      "memo",
+      "post",
+      "it",
+      "paper"
+    ],
+    "animation": "pop"
   },
   "note-medical": {
     "category": "Health",
@@ -22627,6 +23782,18 @@
     ],
     "animation": "rock"
   },
+  "option": {
+    "category": "Technology",
+    "tags": [
+      "option",
+      "key",
+      "alt",
+      "mac",
+      "keyboard",
+      "modifier"
+    ],
+    "animation": "pop"
+  },
   "outdent": {
     "category": "Interface",
     "tags": [
@@ -22745,6 +23912,21 @@
     ],
     "animation": "shake"
   },
+  "paintbrush-slash": {
+    "category": "Objects",
+    "tags": [
+      "slash",
+      "no",
+      "paint",
+      "disabled",
+      "paintbrush",
+      "brush",
+      "art",
+      "design",
+      "pincel"
+    ],
+    "animation": "shake"
+  },
   "palette": {
     "category": "Objects",
     "tags": [
@@ -22780,6 +23962,18 @@
     ],
     "animation": "pop"
   },
+  "pan-food": {
+    "category": "Objects",
+    "tags": [
+      "pan",
+      "food",
+      "frying",
+      "cooking",
+      "egg",
+      "kitchen"
+    ],
+    "animation": "wiggle"
+  },
   "pan-frying": {
     "category": "Objects",
     "tags": [
@@ -22812,6 +24006,38 @@
       "360"
     ],
     "animation": "pop"
+  },
+  "panties": {
+    "category": "Objects",
+    "tags": [
+      "panties",
+      "underwear",
+      "lingerie",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
+  },
+  "pants": {
+    "category": "Objects",
+    "tags": [
+      "pants",
+      "trousers",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
+  },
+  "pants-straight": {
+    "category": "Objects",
+    "tags": [
+      "pants",
+      "straight",
+      "trousers",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
   },
   "paper-plane": {
     "category": "Communication",
@@ -22950,6 +24176,27 @@
       "paz"
     ],
     "animation": "spin-slow"
+  },
+  "peach": {
+    "category": "Objects",
+    "tags": [
+      "peach",
+      "fruit",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "peanut": {
+    "category": "Objects",
+    "tags": [
+      "peanut",
+      "nut",
+      "legume",
+      "snack",
+      "allergy",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "pear": {
     "category": "Nature",
@@ -23203,6 +24450,17 @@
       "pair"
     ],
     "animation": "pop"
+  },
+  "pepper": {
+    "category": "Objects",
+    "tags": [
+      "pepper",
+      "bell",
+      "vegetable",
+      "paprika",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "pepper-hot": {
     "category": "Nature",
@@ -23476,6 +24734,19 @@
     ],
     "animation": "nudge-right"
   },
+  "peruvian-soles-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "peruvian",
+      "soles",
+      "pen",
+      "peru",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "peseta-sign": {
     "category": "Objects",
     "tags": [
@@ -23733,6 +25004,18 @@
     ],
     "animation": "pop"
   },
+  "pie": {
+    "category": "Objects",
+    "tags": [
+      "pie",
+      "dessert",
+      "baked",
+      "tart",
+      "thanksgiving",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "piggy-bank": {
     "category": "Objects",
     "tags": [
@@ -23830,6 +25113,18 @@
       "piscis"
     ],
     "animation": "float"
+  },
+  "pizza": {
+    "category": "Objects",
+    "tags": [
+      "pizza",
+      "slice",
+      "pepperoni",
+      "italian",
+      "fast",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "pizza-slice": {
     "category": "Objects",
@@ -24727,6 +26022,16 @@
     ],
     "animation": "pop"
   },
+  "rainbow-half": {
+    "category": "Weather",
+    "tags": [
+      "rainbow",
+      "half",
+      "arc",
+      "weather"
+    ],
+    "animation": "pop"
+  },
   "raindrops": {
     "category": "Weather",
     "tags": [
@@ -24798,6 +26103,19 @@
     ],
     "animation": "pop"
   },
+  "rectangle-4k": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "4k",
+      "uhd",
+      "ultra",
+      "hd",
+      "video",
+      "resolution"
+    ],
+    "animation": "pop"
+  },
   "rectangle-ad": {
     "category": "Interface",
     "tags": [
@@ -24806,6 +26124,17 @@
       "advertisement",
       "ads",
       "banner"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-api": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "api",
+      "interface",
+      "developer",
+      "endpoint"
     ],
     "animation": "pop"
   },
@@ -24820,6 +26149,18 @@
     ],
     "animation": "pop"
   },
+  "rectangle-beta": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "beta",
+      "version",
+      "preview",
+      "test",
+      "greek"
+    ],
+    "animation": "pop"
+  },
   "rectangle-code": {
     "category": "Interface",
     "tags": [
@@ -24827,6 +26168,56 @@
       "code",
       "developer",
       "terminal"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-high-dynamic-range": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "high",
+      "dynamic",
+      "range",
+      "hdr",
+      "photo",
+      "video"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-history": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "history",
+      "stack",
+      "layers",
+      "recent",
+      "archive"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-history-circle-plus": {
+    "category": "Interface",
+    "tags": [
+      "add",
+      "new",
+      "rectangle",
+      "history",
+      "stack",
+      "layers",
+      "recent",
+      "archive"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-irc": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "irc",
+      "chat",
+      "internet",
+      "relay"
     ],
     "animation": "pop"
   },
@@ -24848,6 +26239,30 @@
       "minus",
       "remove",
       "subtract"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-n-a": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "n",
+      "a",
+      "na",
+      "not",
+      "available",
+      "applicable"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-new": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "new",
+      "badge",
+      "label",
+      "fresh"
     ],
     "animation": "pop"
   },
@@ -24891,6 +26306,30 @@
       "vertical",
       "shape",
       "portrait"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-vertical-history": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "vertical",
+      "history",
+      "stack",
+      "cards",
+      "recent"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-video-on-demand": {
+    "category": "Media",
+    "tags": [
+      "rectangle",
+      "video",
+      "on",
+      "demand",
+      "vod",
+      "streaming"
     ],
     "animation": "pop"
   },
@@ -24978,6 +26417,30 @@
       "trademark",
       "brand",
       "legal"
+    ],
+    "animation": "pop"
+  },
+  "remote": {
+    "category": "Technology",
+    "tags": [
+      "remote",
+      "control",
+      "tv",
+      "controller"
+    ],
+    "animation": "pop"
+  },
+  "renminbi-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "renminbi",
+      "cny",
+      "rmb",
+      "china",
+      "yuan",
+      "money",
+      "currency",
+      "sign"
     ],
     "animation": "pop"
   },
@@ -25582,6 +27045,18 @@
     ],
     "animation": "signal"
   },
+  "sausage": {
+    "category": "Objects",
+    "tags": [
+      "sausage",
+      "hot",
+      "dog",
+      "meat",
+      "bbq",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "save": {
     "category": "Files",
     "tags": [
@@ -25654,6 +27129,28 @@
       "leer"
     ],
     "animation": "pulse"
+  },
+  "scanner-keyboard": {
+    "category": "Technology",
+    "tags": [
+      "scanner",
+      "keyboard",
+      "barcode",
+      "inventory"
+    ],
+    "animation": "pop"
+  },
+  "scarf": {
+    "category": "Objects",
+    "tags": [
+      "scarf",
+      "winter",
+      "neck",
+      "clothing",
+      "clothes",
+      "cold"
+    ],
+    "animation": "swing"
   },
   "school": {
     "category": "Places",
@@ -25838,6 +27335,17 @@
     ],
     "animation": "pop"
   },
+  "sd-cards": {
+    "category": "Technology",
+    "tags": [
+      "sd",
+      "cards",
+      "card",
+      "memory",
+      "storage"
+    ],
+    "animation": "pop"
+  },
   "seal": {
     "category": "Interface",
     "tags": [
@@ -25883,6 +27391,17 @@
       "encontrar"
     ],
     "animation": "search"
+  },
+  "seat": {
+    "category": "Objects",
+    "tags": [
+      "seat",
+      "chair",
+      "sofa",
+      "armchair",
+      "furniture"
+    ],
+    "animation": "pop"
   },
   "section": {
     "category": "Letters & Numbers",
@@ -26267,6 +27786,29 @@
     ],
     "animation": "swing"
   },
+  "shish-kebab": {
+    "category": "Objects",
+    "tags": [
+      "shish",
+      "kebab",
+      "skewer",
+      "bbq",
+      "grill",
+      "meat",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "shoe": {
+    "category": "Objects",
+    "tags": [
+      "shoe",
+      "sneaker",
+      "footwear",
+      "clothing"
+    ],
+    "animation": "bounce"
+  },
   "shoe-prints": {
     "category": "People",
     "tags": [
@@ -26366,6 +27908,16 @@
       "aleatorio"
     ],
     "animation": "slide"
+  },
+  "shutters": {
+    "category": "Objects",
+    "tags": [
+      "shutters",
+      "window",
+      "roller",
+      "garage"
+    ],
+    "animation": "pop"
   },
   "shuttle-space": {
     "category": "Technology",
@@ -26645,6 +28197,29 @@
     ],
     "animation": "pop"
   },
+  "sim-cards": {
+    "category": "Technology",
+    "tags": [
+      "sim",
+      "cards",
+      "card",
+      "phone",
+      "mobile"
+    ],
+    "animation": "pop"
+  },
+  "singapore-dollar-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "singapore",
+      "dollar",
+      "sgd",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
+  },
   "single-quote-left": {
     "category": "Letters & Numbers",
     "tags": [
@@ -26793,6 +28368,17 @@
     ],
     "animation": "pop"
   },
+  "slider": {
+    "category": "Interface",
+    "tags": [
+      "slider",
+      "range",
+      "control",
+      "input",
+      "volume"
+    ],
+    "animation": "slide"
+  },
   "sliders": {
     "category": "Interface",
     "tags": [
@@ -26905,6 +28491,17 @@
       "winter",
       "frozen",
       "nieve"
+    ],
+    "animation": "spin-slow"
+  },
+  "snowflakes": {
+    "category": "Weather",
+    "tags": [
+      "snowflakes",
+      "snow",
+      "winter",
+      "cold",
+      "weather"
     ],
     "animation": "spin-slow"
   },
@@ -27065,6 +28662,17 @@
     ],
     "animation": "beat"
   },
+  "speakers": {
+    "category": "Music & Audio",
+    "tags": [
+      "speakers",
+      "audio",
+      "sound",
+      "stereo",
+      "music"
+    ],
+    "animation": "pulse"
+  },
   "spell-check": {
     "category": "Letters & Numbers",
     "tags": [
@@ -27147,6 +28755,17 @@
     ],
     "animation": "spin"
   },
+  "split": {
+    "category": "Arrows",
+    "tags": [
+      "split",
+      "fork",
+      "divide",
+      "branch",
+      "arrows"
+    ],
+    "animation": "nudge-up"
+  },
   "splotch": {
     "category": "Objects",
     "tags": [
@@ -27181,6 +28800,16 @@
       "aerosol"
     ],
     "animation": "shake"
+  },
+  "sprinkler": {
+    "category": "Objects",
+    "tags": [
+      "sprinkler",
+      "garden",
+      "water",
+      "lawn"
+    ],
+    "animation": "pulse"
   },
   "sprout": {
     "category": "Nature",
@@ -27444,6 +29073,19 @@
     ],
     "animation": "pop"
   },
+  "square-australian-dollar": {
+    "category": "Objects",
+    "tags": [
+      "australian",
+      "dollar",
+      "aud",
+      "australia",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-b": {
     "category": "Letters & Numbers",
     "tags": [
@@ -27463,6 +29105,19 @@
       "thailand",
       "currency",
       "money"
+    ],
+    "animation": "pop"
+  },
+  "square-bangladeshi-taka": {
+    "category": "Objects",
+    "tags": [
+      "bangladeshi",
+      "taka",
+      "bdt",
+      "bangladesh",
+      "money",
+      "currency",
+      "square"
     ],
     "animation": "pop"
   },
@@ -27650,6 +29305,19 @@
     ],
     "animation": "pop"
   },
+  "square-chf": {
+    "category": "Objects",
+    "tags": [
+      "chf",
+      "swiss",
+      "franc",
+      "switzerland",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-code": {
     "category": "Interface",
     "tags": [
@@ -27703,6 +29371,20 @@
       "letter",
       "alphabet",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-danish-krone": {
+    "category": "Objects",
+    "tags": [
+      "danish",
+      "krone",
+      "dkk",
+      "denmark",
+      "kr",
+      "money",
+      "currency",
+      "square"
     ],
     "animation": "pop"
   },
@@ -27858,6 +29540,20 @@
       "currency",
       "money",
       "europe"
+    ],
+    "animation": "pop"
+  },
+  "square-eurozone": {
+    "category": "Objects",
+    "tags": [
+      "eurozone",
+      "ecu",
+      "european",
+      "currency",
+      "unit",
+      "euro",
+      "money",
+      "square"
     ],
     "animation": "pop"
   },
@@ -28148,6 +29844,20 @@
     ],
     "animation": "pop"
   },
+  "square-malaysian-ringgit": {
+    "category": "Objects",
+    "tags": [
+      "malaysian",
+      "ringgit",
+      "myr",
+      "malaysia",
+      "rm",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-manat": {
     "category": "Objects",
     "tags": [
@@ -28213,6 +29923,20 @@
     ],
     "animation": "pop"
   },
+  "square-norwegian-krone": {
+    "category": "Objects",
+    "tags": [
+      "norwegian",
+      "krone",
+      "nok",
+      "norway",
+      "kr",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-o": {
     "category": "Letters & Numbers",
     "tags": [
@@ -28269,6 +29993,19 @@
       "button"
     ],
     "animation": "write"
+  },
+  "square-peruvian-soles": {
+    "category": "Objects",
+    "tags": [
+      "peruvian",
+      "soles",
+      "pen",
+      "peru",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
   },
   "square-peseta": {
     "category": "Objects",
@@ -28424,6 +30161,20 @@
     ],
     "animation": "pop"
   },
+  "square-renminbi": {
+    "category": "Objects",
+    "tags": [
+      "renminbi",
+      "cny",
+      "rmb",
+      "china",
+      "yuan",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-right": {
     "category": "Arrows",
     "tags": [
@@ -28546,6 +30297,18 @@
     ],
     "animation": "pop"
   },
+  "square-singapore-dollar": {
+    "category": "Objects",
+    "tags": [
+      "singapore",
+      "dollar",
+      "sgd",
+      "money",
+      "currency",
+      "square"
+    ],
+    "animation": "pop"
+  },
   "square-sliders": {
     "category": "Interface",
     "tags": [
@@ -28597,6 +30360,20 @@
       "currency",
       "money",
       "uk"
+    ],
+    "animation": "pop"
+  },
+  "square-swedish-krona": {
+    "category": "Objects",
+    "tags": [
+      "swedish",
+      "krona",
+      "sek",
+      "sweden",
+      "kr",
+      "money",
+      "currency",
+      "square"
     ],
     "animation": "pop"
   },
@@ -28865,6 +30642,18 @@
     ],
     "animation": "bounce"
   },
+  "standard-definition": {
+    "category": "Media",
+    "tags": [
+      "standard",
+      "definition",
+      "sd",
+      "video",
+      "quality",
+      "resolution"
+    ],
+    "animation": "pop"
+  },
   "stapler": {
     "category": "Objects",
     "tags": [
@@ -29043,6 +30832,17 @@
     ],
     "animation": "swing",
     "origin": "50% 0%"
+  },
+  "stool": {
+    "category": "Objects",
+    "tags": [
+      "stool",
+      "seat",
+      "bar",
+      "chair",
+      "furniture"
+    ],
+    "animation": "pop"
   },
   "stop": {
     "category": "Media",
@@ -29226,6 +31026,18 @@
     ],
     "animation": "spin-slow"
   },
+  "sun-cloud": {
+    "category": "Weather",
+    "tags": [
+      "sun",
+      "cloud",
+      "weather",
+      "partly",
+      "sunny",
+      "day"
+    ],
+    "animation": "float"
+  },
   "sun-dust": {
     "category": "Weather",
     "tags": [
@@ -29305,6 +31117,18 @@
     ],
     "animation": "pop"
   },
+  "sushi-roll": {
+    "category": "Objects",
+    "tags": [
+      "sushi",
+      "roll",
+      "japanese",
+      "maki",
+      "fish",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "swap": {
     "category": "Arrows",
     "tags": [
@@ -29314,6 +31138,31 @@
       "trade"
     ],
     "animation": "spin"
+  },
+  "swap-arrows": {
+    "category": "Arrows",
+    "tags": [
+      "swap",
+      "arrows",
+      "exchange",
+      "switch",
+      "trade"
+    ],
+    "animation": "pop"
+  },
+  "swedish-krona-sign": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "swedish",
+      "krona",
+      "sek",
+      "sweden",
+      "kr",
+      "money",
+      "currency",
+      "sign"
+    ],
+    "animation": "pop"
   },
   "sword": {
     "category": "Objects",
@@ -29801,6 +31650,30 @@
     ],
     "animation": "bounce"
   },
+  "tablet-rugged": {
+    "category": "Technology",
+    "tags": [
+      "tablet",
+      "rugged",
+      "ipad",
+      "device",
+      "tough",
+      "outdoor",
+      "industrial"
+    ],
+    "animation": "pop"
+  },
+  "tablet-screen": {
+    "category": "Technology",
+    "tags": [
+      "tablet",
+      "screen",
+      "ipad",
+      "device",
+      "display"
+    ],
+    "animation": "pop"
+  },
   "tablet-screen-button": {
     "category": "Technology",
     "tags": [
@@ -29823,6 +31696,17 @@
       "pastillas"
     ],
     "animation": "rock"
+  },
+  "taco": {
+    "category": "Objects",
+    "tags": [
+      "taco",
+      "mexican",
+      "shell",
+      "tortilla",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "tag": {
     "category": "Objects",
@@ -31320,6 +33204,54 @@
     ],
     "animation": "shake"
   },
+  "triple-chevrons-down": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "down",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-down"
+  },
+  "triple-chevrons-left": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "left",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-left"
+  },
+  "triple-chevrons-right": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "right",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-right"
+  },
+  "triple-chevrons-up": {
+    "category": "Arrows",
+    "tags": [
+      "triple",
+      "chevrons",
+      "up",
+      "three",
+      "fast",
+      "skip"
+    ],
+    "animation": "nudge-up"
+  },
   "trophy": {
     "category": "Objects",
     "tags": [
@@ -31537,6 +33469,18 @@
     ],
     "animation": "pop"
   },
+  "turntable": {
+    "category": "Music & Audio",
+    "tags": [
+      "turntable",
+      "record",
+      "player",
+      "vinyl",
+      "dj",
+      "music"
+    ],
+    "animation": "spin"
+  },
   "tv": {
     "category": "Technology",
     "tags": [
@@ -31720,6 +33664,21 @@
     ],
     "animation": "pop"
   },
+  "user-circle-clock": {
+    "category": "People",
+    "tags": [
+      "time",
+      "pending",
+      "waiting",
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
   "user-circle-exclamation": {
     "category": "People",
     "tags": [
@@ -31732,6 +33691,21 @@
     ],
     "animation": "pop"
   },
+  "user-circle-heart": {
+    "category": "People",
+    "tags": [
+      "favorite",
+      "friend",
+      "love",
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
   "user-circle-minus": {
     "category": "People",
     "tags": [
@@ -31743,6 +33717,19 @@
       "status"
     ],
     "animation": "pop"
+  },
+  "user-circle-pen": {
+    "category": "People",
+    "tags": [
+      "edit",
+      "profile",
+      "user",
+      "circle",
+      "account",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
   },
   "user-circle-plus": {
     "category": "People",
@@ -31767,6 +33754,20 @@
       "status"
     ],
     "animation": "pop"
+  },
+  "user-circle-star": {
+    "category": "People",
+    "tags": [
+      "featured",
+      "vip",
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
   },
   "user-circle-xmark": {
     "category": "People",
@@ -32122,6 +34123,38 @@
     ],
     "animation": "shake"
   },
+  "utility-pole": {
+    "category": "Objects",
+    "tags": [
+      "utility",
+      "pole",
+      "power",
+      "line",
+      "electricity",
+      "telephone"
+    ],
+    "animation": "pop"
+  },
+  "vacuum": {
+    "category": "Objects",
+    "tags": [
+      "vacuum",
+      "cleaner",
+      "hoover",
+      "cleaning"
+    ],
+    "animation": "wiggle"
+  },
+  "vacuum-robot": {
+    "category": "Objects",
+    "tags": [
+      "vacuum",
+      "robot",
+      "roomba",
+      "cleaning"
+    ],
+    "animation": "spin-slow"
+  },
   "value-absolute": {
     "category": "Letters & Numbers",
     "tags": [
@@ -32166,6 +34199,17 @@
       "fuerte"
     ],
     "animation": "turn-key"
+  },
+  "vent-damper": {
+    "category": "Objects",
+    "tags": [
+      "vent",
+      "damper",
+      "air",
+      "duct",
+      "hvac"
+    ],
+    "animation": "pop"
   },
   "venus": {
     "category": "People",
@@ -32374,6 +34418,18 @@
       "templo"
     ],
     "animation": "bounce"
+  },
+  "violin": {
+    "category": "Music & Audio",
+    "tags": [
+      "violin",
+      "fiddle",
+      "strings",
+      "classical",
+      "orchestra",
+      "music"
+    ],
+    "animation": "wiggle"
   },
   "virus": {
     "category": "Health",
@@ -32654,6 +34710,16 @@
     ],
     "animation": "tick"
   },
+  "watch-calculator": {
+    "category": "Technology",
+    "tags": [
+      "watch",
+      "calculator",
+      "digital",
+      "wrist"
+    ],
+    "animation": "pop"
+  },
   "watch-fitness": {
     "category": "Health",
     "tags": [
@@ -32730,6 +34796,17 @@
       "sandia"
     ],
     "animation": "rock"
+  },
+  "wave": {
+    "category": "Weather",
+    "tags": [
+      "wave",
+      "water",
+      "ocean",
+      "sea",
+      "surf"
+    ],
+    "animation": "wave"
   },
   "wave-pulse": {
     "category": "Health",
@@ -33060,6 +35137,16 @@
       "house",
       "glass",
       "ventana"
+    ],
+    "animation": "pop"
+  },
+  "window-frame-open": {
+    "category": "Objects",
+    "tags": [
+      "window",
+      "frame",
+      "open",
+      "house"
     ],
     "animation": "pop"
   },
