@@ -1053,7 +1053,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] anchor-circle-xmark
 - [x] anchor-lock
 - [ ] arrows-down-to-people
-- [ ] bacterium
+- [ ] bacterium (as `bacteria`)
 - [x] ban
 - [x] book-bookmark
 - [ ] bridge
@@ -1160,7 +1160,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vial-circle-check
 - [ ] vial-virus
 - [x] virus
-- [ ] virus-covid
+- [ ] virus-covid (as `virus`)
 
 ## Logistics (8/8)
 
@@ -1322,7 +1322,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] user-nurse
 - [x] vial
 - [x] vials
-- [ ] virus-covid-slash
+- [ ] virus-covid-slash (as `virus-slash`)
 - [x] virus-slash
 - [x] viruses
 - [x] weight-scale

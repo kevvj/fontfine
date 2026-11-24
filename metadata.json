@@ -3166,6 +3166,18 @@
     ],
     "animation": "pop"
   },
+  "bed-pulse": {
+    "category": "Health",
+    "tags": [
+      "bed",
+      "pulse",
+      "hospital",
+      "patient",
+      "heart",
+      "rate"
+    ],
+    "animation": "pulse"
+  },
   "bee": {
     "category": "Nature",
     "tags": [
@@ -5859,6 +5871,18 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "caduceus": {
+    "category": "Health",
+    "tags": [
+      "caduceus",
+      "medical",
+      "symbol",
+      "wings",
+      "snakes",
+      "hermes"
+    ],
+    "animation": "wiggle"
   },
   "cake-candles": {
     "category": "Objects",
@@ -19382,6 +19406,180 @@
     ],
     "animation": "rock"
   },
+  "head-side": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "profile",
+      "face",
+      "person",
+      "human"
+    ],
+    "animation": "pop"
+  },
+  "head-side-brain": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "brain",
+      "profile",
+      "mind",
+      "think",
+      "psychology"
+    ],
+    "animation": "pop"
+  },
+  "head-side-circuit": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "circuit",
+      "profile",
+      "ai",
+      "artificial",
+      "intelligence",
+      "robot",
+      "mind"
+    ],
+    "animation": "pop"
+  },
+  "head-side-cough": {
+    "category": "Health",
+    "tags": [
+      "head",
+      "side",
+      "cough",
+      "profile",
+      "sick",
+      "ill",
+      "covid"
+    ],
+    "animation": "shake"
+  },
+  "head-side-cough-slash": {
+    "category": "Health",
+    "tags": [
+      "slash",
+      "no",
+      "cough",
+      "healthy",
+      "head",
+      "side",
+      "profile",
+      "sick",
+      "ill"
+    ],
+    "animation": "shake"
+  },
+  "head-side-gear": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "gear",
+      "profile",
+      "settings",
+      "think",
+      "process"
+    ],
+    "animation": "pop"
+  },
+  "head-side-goggles": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "goggles",
+      "profile",
+      "vr",
+      "virtual",
+      "reality",
+      "glasses"
+    ],
+    "animation": "pop"
+  },
+  "head-side-headphones": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "headphones",
+      "profile",
+      "music",
+      "listen",
+      "audio"
+    ],
+    "animation": "pop"
+  },
+  "head-side-heart": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "heart",
+      "profile",
+      "love",
+      "emotion",
+      "feelings"
+    ],
+    "animation": "beat"
+  },
+  "head-side-mask": {
+    "category": "Health",
+    "tags": [
+      "head",
+      "side",
+      "mask",
+      "profile",
+      "covid",
+      "protection",
+      "medical"
+    ],
+    "animation": "pop"
+  },
+  "head-side-medical": {
+    "category": "Health",
+    "tags": [
+      "head",
+      "side",
+      "medical",
+      "profile",
+      "health",
+      "mental",
+      "patient"
+    ],
+    "animation": "pop"
+  },
+  "head-side-speak": {
+    "category": "People",
+    "tags": [
+      "head",
+      "side",
+      "speak",
+      "profile",
+      "talk",
+      "voice",
+      "say"
+    ],
+    "animation": "pop"
+  },
+  "head-side-virus": {
+    "category": "Health",
+    "tags": [
+      "head",
+      "side",
+      "virus",
+      "profile",
+      "sick",
+      "ill",
+      "covid",
+      "infection"
+    ],
+    "animation": "shake"
+  },
   "heading": {
     "category": "Letters & Numbers",
     "tags": [
@@ -32756,6 +32954,18 @@
     ],
     "animation": "glow"
   },
+  "staff-snake": {
+    "category": "Health",
+    "tags": [
+      "staff",
+      "snake",
+      "rod",
+      "asclepius",
+      "medicine",
+      "medical"
+    ],
+    "animation": "wiggle"
+  },
   "stairs": {
     "category": "Places",
     "tags": [
@@ -36162,6 +36372,17 @@
     ],
     "animation": "pop"
   },
+  "user-doctor": {
+    "category": "People",
+    "tags": [
+      "user",
+      "doctor",
+      "physician",
+      "medical",
+      "stethoscope"
+    ],
+    "animation": "pop"
+  },
   "user-gear": {
     "category": "People",
     "tags": [
@@ -36197,6 +36418,17 @@
       "center"
     ],
     "animation": "pop"
+  },
+  "user-injured": {
+    "category": "People",
+    "tags": [
+      "user",
+      "injured",
+      "hurt",
+      "bandage",
+      "accident"
+    ],
+    "animation": "shake"
   },
   "user-key": {
     "category": "People",
@@ -36305,6 +36537,17 @@
       "secret",
       "stealth",
       "incognito"
+    ],
+    "animation": "pop"
+  },
+  "user-nurse": {
+    "category": "People",
+    "tags": [
+      "user",
+      "nurse",
+      "medical",
+      "hospital",
+      "cap"
     ],
     "animation": "pop"
   },
