@@ -243,6 +243,17 @@
     ],
     "animation": "wave"
   },
+  "amp-guitar": {
+    "category": "Music & Audio",
+    "tags": [
+      "amp",
+      "guitar",
+      "amplifier",
+      "speaker",
+      "music"
+    ],
+    "animation": "pulse"
+  },
   "ampersand": {
     "category": "Letters & Numbers",
     "tags": [
@@ -2371,6 +2382,18 @@
       "sign"
     ],
     "animation": "pop"
+  },
+  "banjo": {
+    "category": "Music & Audio",
+    "tags": [
+      "banjo",
+      "strings",
+      "country",
+      "folk",
+      "bluegrass",
+      "music"
+    ],
+    "animation": "wiggle"
   },
   "bank": {
     "category": "Places",
@@ -4934,6 +4957,17 @@
     ],
     "animation": "pop"
   },
+  "burrito": {
+    "category": "Objects",
+    "tags": [
+      "burrito",
+      "wrap",
+      "mexican",
+      "tortilla",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "burst": {
     "category": "Status",
     "tags": [
@@ -5007,6 +5041,17 @@
       "maletin"
     ],
     "animation": "rock"
+  },
+  "butter": {
+    "category": "Objects",
+    "tags": [
+      "butter",
+      "dairy",
+      "margarine",
+      "dish",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "butterfly": {
     "category": "Nature",
@@ -7134,6 +7179,18 @@
     ],
     "animation": "pulse"
   },
+  "chestnut": {
+    "category": "Objects",
+    "tags": [
+      "chestnut",
+      "nut",
+      "autumn",
+      "fall",
+      "roasted",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "chevron-down": {
     "category": "Arrows",
     "tags": [
@@ -9202,6 +9259,18 @@
     ],
     "animation": "flip"
   },
+  "clarinet": {
+    "category": "Music & Audio",
+    "tags": [
+      "clarinet",
+      "woodwind",
+      "wind",
+      "instrument",
+      "jazz",
+      "music"
+    ],
+    "animation": "wiggle"
+  },
   "claw-marks": {
     "category": "Nature",
     "tags": [
@@ -10302,6 +10371,18 @@
     ],
     "animation": "rock"
   },
+  "coffee-beans": {
+    "category": "Objects",
+    "tags": [
+      "coffee",
+      "beans",
+      "bean",
+      "roast",
+      "cafe",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "coffee-pot": {
     "category": "Objects",
     "tags": [
@@ -11260,6 +11341,44 @@
     ],
     "animation": "bounce"
   },
+  "cucumber": {
+    "category": "Objects",
+    "tags": [
+      "cucumber",
+      "vegetable",
+      "pickle",
+      "salad",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "cup-straw": {
+    "category": "Objects",
+    "tags": [
+      "cup",
+      "straw",
+      "drink",
+      "soda",
+      "juice",
+      "smoothie",
+      "food"
+    ],
+    "animation": "float"
+  },
+  "cup-togo": {
+    "category": "Objects",
+    "tags": [
+      "cup",
+      "togo",
+      "coffee",
+      "takeaway",
+      "drink",
+      "to",
+      "go",
+      "food"
+    ],
+    "animation": "float"
+  },
   "cupcake": {
     "category": "Objects",
     "tags": [
@@ -11280,6 +11399,18 @@
       "symbol"
     ],
     "animation": "pop"
+  },
+  "custard": {
+    "category": "Objects",
+    "tags": [
+      "custard",
+      "flan",
+      "pudding",
+      "dessert",
+      "caramel",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "dagger": {
     "category": "Objects",
@@ -15692,6 +15823,17 @@
     "animation": "swing",
     "origin": "50% 100%"
   },
+  "flute": {
+    "category": "Music & Audio",
+    "tags": [
+      "flute",
+      "woodwind",
+      "wind",
+      "instrument",
+      "music"
+    ],
+    "animation": "wiggle"
+  },
   "flying-disc": {
     "category": "Objects",
     "tags": [
@@ -18126,6 +18268,18 @@
     ],
     "animation": "bounce"
   },
+  "honey-pot": {
+    "category": "Objects",
+    "tags": [
+      "honey",
+      "pot",
+      "jar",
+      "sweet",
+      "bee",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "hoodie": {
     "category": "Objects",
     "tags": [
@@ -19648,6 +19802,19 @@
     ],
     "animation": "swing"
   },
+  "leafy-green": {
+    "category": "Objects",
+    "tags": [
+      "leafy",
+      "green",
+      "lettuce",
+      "salad",
+      "vegetable",
+      "greens",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "lectern": {
     "category": "Religion",
     "tags": [
@@ -20776,6 +20943,17 @@
     ],
     "animation": "pulse"
   },
+  "lychee": {
+    "category": "Objects",
+    "tags": [
+      "lychee",
+      "fruit",
+      "tropical",
+      "asian",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "magnet": {
     "category": "Objects",
     "tags": [
@@ -20966,6 +21144,26 @@
     ],
     "animation": "pop"
   },
+  "mandolin": {
+    "category": "Music & Audio",
+    "tags": [
+      "mandolin",
+      "strings",
+      "folk",
+      "music"
+    ],
+    "animation": "wiggle"
+  },
+  "mango": {
+    "category": "Objects",
+    "tags": [
+      "mango",
+      "fruit",
+      "tropical",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "map": {
     "category": "Places",
     "tags": [
@@ -21143,6 +21341,21 @@
     ],
     "animation": "pop"
   },
+  "meat": {
+    "category": "Objects",
+    "tags": [
+      "meat",
+      "steak",
+      "beef",
+      "red",
+      "bbq",
+      "leg",
+      "ham",
+      "drumstick",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "medal": {
     "category": "Objects",
     "tags": [
@@ -21166,6 +21379,29 @@
       "speaker"
     ],
     "animation": "shake"
+  },
+  "melon": {
+    "category": "Objects",
+    "tags": [
+      "melon",
+      "fruit",
+      "watermelon",
+      "cantaloupe",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "melon-slice": {
+    "category": "Objects",
+    "tags": [
+      "melon",
+      "slice",
+      "fruit",
+      "watermelon",
+      "summer",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "memo": {
     "category": "Files",
@@ -21744,6 +21980,19 @@
     ],
     "animation": "shake"
   },
+  "microphone-stand": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "stand",
+      "mic",
+      "stage",
+      "singing",
+      "karaoke",
+      "music"
+    ],
+    "animation": "pulse"
+  },
   "microscope": {
     "category": "Health",
     "tags": [
@@ -21764,6 +22013,18 @@
       "oven",
       "kitchen",
       "appliance"
+    ],
+    "animation": "pop"
+  },
+  "midi": {
+    "category": "Music & Audio",
+    "tags": [
+      "midi",
+      "connector",
+      "port",
+      "din",
+      "cable",
+      "music"
     ],
     "animation": "pop"
   },
@@ -23641,6 +23902,27 @@
     ],
     "animation": "spin-slow"
   },
+  "peach": {
+    "category": "Objects",
+    "tags": [
+      "peach",
+      "fruit",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "peanut": {
+    "category": "Objects",
+    "tags": [
+      "peanut",
+      "nut",
+      "legume",
+      "snack",
+      "allergy",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "pear": {
     "category": "Nature",
     "tags": [
@@ -23893,6 +24175,17 @@
       "pair"
     ],
     "animation": "pop"
+  },
+  "pepper": {
+    "category": "Objects",
+    "tags": [
+      "pepper",
+      "bell",
+      "vegetable",
+      "paprika",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "pepper-hot": {
     "category": "Nature",
@@ -24436,6 +24729,18 @@
     ],
     "animation": "pop"
   },
+  "pie": {
+    "category": "Objects",
+    "tags": [
+      "pie",
+      "dessert",
+      "baked",
+      "tart",
+      "thanksgiving",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "piggy-bank": {
     "category": "Objects",
     "tags": [
@@ -24533,6 +24838,18 @@
       "piscis"
     ],
     "animation": "float"
+  },
+  "pizza": {
+    "category": "Objects",
+    "tags": [
+      "pizza",
+      "slice",
+      "pepperoni",
+      "italian",
+      "fast",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "pizza-slice": {
     "category": "Objects",
@@ -26443,6 +26760,18 @@
     ],
     "animation": "signal"
   },
+  "sausage": {
+    "category": "Objects",
+    "tags": [
+      "sausage",
+      "hot",
+      "dog",
+      "meat",
+      "bbq",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "save": {
     "category": "Files",
     "tags": [
@@ -27139,6 +27468,19 @@
       "clothing"
     ],
     "animation": "swing"
+  },
+  "shish-kebab": {
+    "category": "Objects",
+    "tags": [
+      "shish",
+      "kebab",
+      "skewer",
+      "bbq",
+      "grill",
+      "meat",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "shoe": {
     "category": "Objects",
@@ -27981,6 +28323,17 @@
       "accesorio"
     ],
     "animation": "beat"
+  },
+  "speakers": {
+    "category": "Music & Audio",
+    "tags": [
+      "speakers",
+      "audio",
+      "sound",
+      "stereo",
+      "music"
+    ],
+    "animation": "pulse"
   },
   "spell-check": {
     "category": "Letters & Numbers",
@@ -30405,6 +30758,18 @@
     ],
     "animation": "pop"
   },
+  "sushi-roll": {
+    "category": "Objects",
+    "tags": [
+      "sushi",
+      "roll",
+      "japanese",
+      "maki",
+      "fish",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "swap": {
     "category": "Arrows",
     "tags": [
@@ -30948,6 +31313,17 @@
       "pastillas"
     ],
     "animation": "rock"
+  },
+  "taco": {
+    "category": "Objects",
+    "tags": [
+      "taco",
+      "mexican",
+      "shell",
+      "tortilla",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "tag": {
     "category": "Objects",
@@ -32710,6 +33086,18 @@
     ],
     "animation": "pop"
   },
+  "turntable": {
+    "category": "Music & Audio",
+    "tags": [
+      "turntable",
+      "record",
+      "player",
+      "vinyl",
+      "dj",
+      "music"
+    ],
+    "animation": "spin"
+  },
   "tv": {
     "category": "Technology",
     "tags": [
@@ -33604,6 +33992,18 @@
       "templo"
     ],
     "animation": "bounce"
+  },
+  "violin": {
+    "category": "Music & Audio",
+    "tags": [
+      "violin",
+      "fiddle",
+      "strings",
+      "classical",
+      "orchestra",
+      "music"
+    ],
+    "animation": "wiggle"
   },
   "virus": {
     "category": "Health",
