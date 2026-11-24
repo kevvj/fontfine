@@ -46,6 +46,17 @@
     ],
     "animation": "pop"
   },
+  "aeropress": {
+    "category": "Objects",
+    "tags": [
+      "aeropress",
+      "coffee",
+      "maker",
+      "press",
+      "brew"
+    ],
+    "animation": "float"
+  },
   "air-conditioner": {
     "category": "Technology",
     "tags": [
@@ -2218,6 +2229,17 @@
     ],
     "animation": "swing"
   },
+  "bag-seedling": {
+    "category": "Objects",
+    "tags": [
+      "bag",
+      "seedling",
+      "soil",
+      "garden",
+      "plant"
+    ],
+    "animation": "bounce"
+  },
   "bag-shopping": {
     "category": "Objects",
     "tags": [
@@ -2263,6 +2285,16 @@
       "rosca"
     ],
     "animation": "spin-slow"
+  },
+  "bags-shopping": {
+    "category": "Objects",
+    "tags": [
+      "bags",
+      "shopping",
+      "store",
+      "buy"
+    ],
+    "animation": "bounce"
   },
   "baguette": {
     "category": "Objects",
@@ -2666,6 +2698,17 @@
     ],
     "animation": "bounce"
   },
+  "basket-shopping-simple": {
+    "category": "Objects",
+    "tags": [
+      "basket",
+      "shopping",
+      "simple",
+      "cart",
+      "buy"
+    ],
+    "animation": "bounce"
+  },
   "basketball": {
     "category": "Objects",
     "tags": [
@@ -2820,6 +2863,18 @@
     ],
     "animation": "pop"
   },
+  "bed-bunk": {
+    "category": "Objects",
+    "tags": [
+      "bed",
+      "bunk",
+      "dorm",
+      "hostel",
+      "kids",
+      "sleep"
+    ],
+    "animation": "pop"
+  },
   "bed-empty": {
     "category": "Objects",
     "tags": [
@@ -2831,6 +2886,17 @@
       "cama"
     ],
     "animation": "bounce"
+  },
+  "bed-front": {
+    "category": "Objects",
+    "tags": [
+      "bed",
+      "front",
+      "bedroom",
+      "sleep",
+      "hotel"
+    ],
+    "animation": "pop"
   },
   "bee": {
     "category": "Nature",
@@ -3055,6 +3121,39 @@
     ],
     "animation": "shake"
   },
+  "bin-bottles": {
+    "category": "Objects",
+    "tags": [
+      "bin",
+      "bottles",
+      "glass",
+      "recycling",
+      "crate"
+    ],
+    "animation": "wiggle"
+  },
+  "bin-bottles-recycle": {
+    "category": "Objects",
+    "tags": [
+      "bin",
+      "bottles",
+      "recycle",
+      "glass",
+      "crate"
+    ],
+    "animation": "wiggle"
+  },
+  "bin-recycle": {
+    "category": "Objects",
+    "tags": [
+      "bin",
+      "recycle",
+      "recycling",
+      "trash",
+      "eco"
+    ],
+    "animation": "wiggle"
+  },
   "binary": {
     "category": "Technology",
     "tags": [
@@ -3143,6 +3242,17 @@
       "cryptocurrency",
       "money",
       "currency"
+    ],
+    "animation": "pop"
+  },
+  "blanket": {
+    "category": "Objects",
+    "tags": [
+      "blanket",
+      "quilt",
+      "bed",
+      "cover",
+      "warm"
     ],
     "animation": "pop"
   },
@@ -3831,6 +3941,18 @@
     ],
     "animation": "wiggle"
   },
+  "bowl-chopsticks-noodles": {
+    "category": "Objects",
+    "tags": [
+      "bowl",
+      "chopsticks",
+      "noodles",
+      "ramen",
+      "asian",
+      "food"
+    ],
+    "animation": "bounce"
+  },
   "bowl-food": {
     "category": "Objects",
     "tags": [
@@ -3866,6 +3988,43 @@
       "arroz"
     ],
     "animation": "float"
+  },
+  "bowl-scoop": {
+    "category": "Objects",
+    "tags": [
+      "bowl",
+      "scoop",
+      "ice",
+      "cream",
+      "dessert"
+    ],
+    "animation": "bounce"
+  },
+  "bowl-scoops": {
+    "category": "Objects",
+    "tags": [
+      "bowl",
+      "scoops",
+      "ice",
+      "cream",
+      "sundae",
+      "dessert"
+    ],
+    "animation": "bounce"
+  },
+  "bowl-soft-serve": {
+    "category": "Objects",
+    "tags": [
+      "bowl",
+      "soft",
+      "serve",
+      "ice",
+      "cream",
+      "frozen",
+      "yogurt",
+      "dessert"
+    ],
+    "animation": "bounce"
   },
   "bowl-spoon": {
     "category": "Objects",
@@ -3980,6 +4139,16 @@
     ],
     "animation": "nudge-up"
   },
+  "box-ballot": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "ballot",
+      "vote",
+      "election"
+    ],
+    "animation": "pop"
+  },
   "box-check": {
     "category": "Objects",
     "tags": [
@@ -4019,6 +4188,18 @@
       "storage",
       "shipping",
       "caja"
+    ],
+    "animation": "bounce"
+  },
+  "box-isometric-tape": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "isometric",
+      "tape",
+      "package",
+      "parcel",
+      "shipping"
     ],
     "animation": "bounce"
   },
@@ -4727,6 +4908,17 @@
     ],
     "animation": "pop"
   },
+  "bread-slice-butter": {
+    "category": "Objects",
+    "tags": [
+      "bread",
+      "slice",
+      "butter",
+      "toast",
+      "breakfast"
+    ],
+    "animation": "bounce"
+  },
   "bridge": {
     "category": "Places",
     "tags": [
@@ -5187,6 +5379,29 @@
       "sandwich"
     ],
     "animation": "pop"
+  },
+  "burger-cheese": {
+    "category": "Objects",
+    "tags": [
+      "burger",
+      "cheese",
+      "cheeseburger",
+      "fast",
+      "food"
+    ],
+    "animation": "bounce"
+  },
+  "burger-lettuce": {
+    "category": "Objects",
+    "tags": [
+      "burger",
+      "lettuce",
+      "hamburger",
+      "salad",
+      "fast",
+      "food"
+    ],
+    "animation": "bounce"
   },
   "burrito": {
     "category": "Objects",
@@ -7366,6 +7581,18 @@
       "queso"
     ],
     "animation": "wiggle"
+  },
+  "chemex": {
+    "category": "Objects",
+    "tags": [
+      "chemex",
+      "coffee",
+      "maker",
+      "pour",
+      "over",
+      "brew"
+    ],
+    "animation": "float"
   },
   "cherries": {
     "category": "Nature",
@@ -11864,6 +12091,17 @@
     ],
     "animation": "float"
   },
+  "cup-straw-swoosh": {
+    "category": "Objects",
+    "tags": [
+      "cup",
+      "straw",
+      "swoosh",
+      "drink",
+      "soda"
+    ],
+    "animation": "float"
+  },
   "cup-togo": {
     "category": "Objects",
     "tags": [
@@ -14966,6 +15204,17 @@
     ],
     "animation": "pop"
   },
+  "falafel": {
+    "category": "Objects",
+    "tags": [
+      "falafel",
+      "chickpea",
+      "middle",
+      "eastern",
+      "balls"
+    ],
+    "animation": "bounce"
+  },
   "fan": {
     "category": "Objects",
     "tags": [
@@ -16319,6 +16568,17 @@
     ],
     "animation": "wiggle"
   },
+  "fish-cooked": {
+    "category": "Objects",
+    "tags": [
+      "fish",
+      "cooked",
+      "grilled",
+      "seafood",
+      "dinner"
+    ],
+    "animation": "bounce"
+  },
   "fishing-rod": {
     "category": "Objects",
     "tags": [
@@ -16496,6 +16756,28 @@
       "chemistry"
     ],
     "animation": "float"
+  },
+  "flatbread": {
+    "category": "Objects",
+    "tags": [
+      "flatbread",
+      "naan",
+      "pita",
+      "bread"
+    ],
+    "animation": "bounce"
+  },
+  "flatbread-stuffed": {
+    "category": "Objects",
+    "tags": [
+      "flatbread",
+      "stuffed",
+      "pita",
+      "kebab",
+      "wrap",
+      "gyro"
+    ],
+    "animation": "bounce"
   },
   "floor-plan": {
     "category": "Places",
@@ -17572,6 +17854,18 @@
       "vaso"
     ],
     "animation": "rock"
+  },
+  "glass-citrus": {
+    "category": "Objects",
+    "tags": [
+      "glass",
+      "citrus",
+      "lemon",
+      "drink",
+      "cocktail",
+      "juice"
+    ],
+    "animation": "float"
   },
   "glass-crack": {
     "category": "Objects",
@@ -20445,6 +20739,17 @@
       "jarra"
     ],
     "animation": "rock"
+  },
+  "jug-bottle": {
+    "category": "Objects",
+    "tags": [
+      "jug",
+      "bottle",
+      "milk",
+      "water",
+      "container"
+    ],
+    "animation": "float"
   },
   "jug-detergent": {
     "category": "Objects",
@@ -29938,6 +30243,18 @@
       "medias"
     ],
     "animation": "swing"
+  },
+  "soft-serve": {
+    "category": "Objects",
+    "tags": [
+      "soft",
+      "serve",
+      "ice",
+      "cream",
+      "cone",
+      "dessert"
+    ],
+    "animation": "bounce"
   },
   "solar-panel": {
     "category": "Nature",

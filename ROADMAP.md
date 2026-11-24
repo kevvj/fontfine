@@ -1902,7 +1902,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] box-circle-check
 - [ ] box-dollar
 - [x] box-heart
-- [ ] box-isometric
+- [ ] box-isometric (as `box`)
 - [ ] box-isometric-tape
 - [x] box-magnifying-glass
 - [ ] box-open-full
