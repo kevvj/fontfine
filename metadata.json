@@ -21105,6 +21105,18 @@
     ],
     "animation": "pop"
   },
+  "image-music": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "music",
+      "photo",
+      "song",
+      "cover",
+      "album"
+    ],
+    "animation": "pop"
+  },
   "image-polaroid": {
     "category": "Media",
     "tags": [
@@ -24819,6 +24831,18 @@
     ],
     "animation": "spin"
   },
+  "mobile-rotate-reverse": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "rotate",
+      "reverse",
+      "phone",
+      "orientation",
+      "landscape"
+    ],
+    "animation": "spin"
+  },
   "mobile-screen": {
     "category": "Technology",
     "tags": [
@@ -24850,6 +24874,18 @@
       "coverage"
     ],
     "animation": "signal"
+  },
+  "mobile-signal-out": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "signal",
+      "out",
+      "broadcast",
+      "phone",
+      "wireless"
+    ],
+    "animation": "pulse"
   },
   "mobile-slash": {
     "category": "Technology",
@@ -26317,6 +26353,17 @@
     ],
     "animation": "rock"
   },
+  "open-captioning": {
+    "category": "Media",
+    "tags": [
+      "open",
+      "captioning",
+      "captions",
+      "oc",
+      "accessibility"
+    ],
+    "animation": "pop"
+  },
   "option": {
     "category": "Technology",
     "tags": [
@@ -27502,6 +27549,17 @@
     ],
     "animation": "ring"
   },
+  "phone-connection": {
+    "category": "Technology",
+    "tags": [
+      "phone",
+      "connection",
+      "network",
+      "share",
+      "call"
+    ],
+    "animation": "pulse"
+  },
   "phone-flip": {
     "category": "Communication",
     "tags": [
@@ -27522,6 +27580,17 @@
       "disconnect"
     ],
     "animation": "shake"
+  },
+  "phone-intercom": {
+    "category": "Technology",
+    "tags": [
+      "phone",
+      "intercom",
+      "door",
+      "entry",
+      "speaker"
+    ],
+    "animation": "pulse"
   },
   "phone-missed": {
     "category": "Communication",
@@ -27623,6 +27692,17 @@
       "gallery",
       "images",
       "media"
+    ],
+    "animation": "pop"
+  },
+  "photo-film-music": {
+    "category": "Media",
+    "tags": [
+      "photo",
+      "film",
+      "music",
+      "media",
+      "gallery"
     ],
     "animation": "pop"
   },
@@ -27979,6 +28059,16 @@
     ],
     "animation": "nudge-up"
   },
+  "plane-engines": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "engines",
+      "airplane",
+      "jet"
+    ],
+    "animation": "float"
+  },
   "plane-lock": {
     "category": "Places",
     "tags": [
@@ -27992,6 +28082,17 @@
       "avion"
     ],
     "animation": "shake"
+  },
+  "plane-prop": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "prop",
+      "propeller",
+      "aircraft",
+      "small"
+    ],
+    "animation": "float"
   },
   "plane-slash": {
     "category": "Places",
@@ -28008,6 +28109,17 @@
       "travel"
     ],
     "animation": "shake"
+  },
+  "plane-tail": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "tail",
+      "airplane",
+      "rudder",
+      "fin"
+    ],
+    "animation": "float"
   },
   "plane-up": {
     "category": "Places",
@@ -28449,6 +28561,17 @@
     ],
     "animation": "rock"
   },
+  "prescription-bottle-pill": {
+    "category": "Health",
+    "tags": [
+      "prescription",
+      "bottle",
+      "pill",
+      "medicine",
+      "pharmacy"
+    ],
+    "animation": "pop"
+  },
   "presentation-screen": {
     "category": "Objects",
     "tags": [
@@ -28800,6 +28923,17 @@
     ],
     "animation": "pop"
   },
+  "radio-tuner": {
+    "category": "Media",
+    "tags": [
+      "radio",
+      "tuner",
+      "station",
+      "frequency",
+      "fm"
+    ],
+    "animation": "pulse"
+  },
   "rainbow": {
     "category": "Weather",
     "tags": [
@@ -28845,6 +28979,17 @@
       "pc"
     ],
     "animation": "pulse"
+  },
+  "ramp-loading": {
+    "category": "Places",
+    "tags": [
+      "ramp",
+      "loading",
+      "truck",
+      "dock",
+      "unload"
+    ],
+    "animation": "slide"
   },
   "ranking-star": {
     "category": "Status",
@@ -29952,6 +30097,28 @@
     ],
     "animation": "pulse"
   },
+  "scanner-gun": {
+    "category": "Technology",
+    "tags": [
+      "scanner",
+      "gun",
+      "barcode",
+      "reader",
+      "retail"
+    ],
+    "animation": "pulse"
+  },
+  "scanner-image": {
+    "category": "Technology",
+    "tags": [
+      "scanner",
+      "image",
+      "copier",
+      "document",
+      "scan"
+    ],
+    "animation": "pulse"
+  },
   "scanner-keyboard": {
     "category": "Technology",
     "tags": [
@@ -29961,6 +30128,17 @@
       "inventory"
     ],
     "animation": "pop"
+  },
+  "scanner-touchscreen": {
+    "category": "Technology",
+    "tags": [
+      "scanner",
+      "touchscreen",
+      "handheld",
+      "device",
+      "pos"
+    ],
+    "animation": "pulse"
   },
   "scarf": {
     "category": "Objects",
@@ -30079,6 +30257,18 @@
       "patineta"
     ],
     "animation": "drive"
+  },
+  "screen-users": {
+    "category": "Technology",
+    "tags": [
+      "screen",
+      "users",
+      "meeting",
+      "video",
+      "conference",
+      "presentation"
+    ],
+    "animation": "pop"
   },
   "screencast": {
     "category": "Technology",
@@ -30247,6 +30437,17 @@
     ],
     "animation": "pop"
   },
+  "seat-airline": {
+    "category": "Places",
+    "tags": [
+      "seat",
+      "airline",
+      "airplane",
+      "chair",
+      "travel"
+    ],
+    "animation": "pop"
+  },
   "section": {
     "category": "Letters & Numbers",
     "tags": [
@@ -30291,6 +30492,62 @@
       "enviar"
     ],
     "animation": "nudge-diag"
+  },
+  "sensor": {
+    "category": "Technology",
+    "tags": [
+      "sensor",
+      "detector",
+      "device",
+      "smart",
+      "home"
+    ],
+    "animation": "pulse"
+  },
+  "sensor-cloud": {
+    "category": "Technology",
+    "tags": [
+      "sensor",
+      "cloud",
+      "smoke",
+      "iot",
+      "connected"
+    ],
+    "animation": "float"
+  },
+  "sensor-fire": {
+    "category": "Technology",
+    "tags": [
+      "sensor",
+      "fire",
+      "smoke",
+      "detector",
+      "alarm"
+    ],
+    "animation": "flicker"
+  },
+  "sensor-on": {
+    "category": "Technology",
+    "tags": [
+      "sensor",
+      "on",
+      "detector",
+      "active",
+      "smart",
+      "home"
+    ],
+    "animation": "pulse"
+  },
+  "sensor-triangle-exclamation": {
+    "category": "Technology",
+    "tags": [
+      "sensor",
+      "triangle",
+      "exclamation",
+      "warning",
+      "alert"
+    ],
+    "animation": "flash"
   },
   "septagon": {
     "category": "Interface",
@@ -31340,6 +31597,17 @@
     ],
     "animation": "slide"
   },
+  "slider-circle": {
+    "category": "Interface",
+    "tags": [
+      "slider",
+      "circle",
+      "range",
+      "control",
+      "knob"
+    ],
+    "animation": "slide"
+  },
   "sliders": {
     "category": "Interface",
     "tags": [
@@ -31745,6 +32013,16 @@
       "cobweb",
       "halloween",
       "telaraña"
+    ],
+    "animation": "pop"
+  },
+  "spine": {
+    "category": "Health",
+    "tags": [
+      "spine",
+      "back",
+      "bone",
+      "vertebrae"
     ],
     "animation": "pop"
   },
@@ -33684,6 +33962,18 @@
     ],
     "animation": "wiggle"
   },
+  "stair-car": {
+    "category": "Places",
+    "tags": [
+      "stair",
+      "car",
+      "airport",
+      "airstairs",
+      "ramp",
+      "truck"
+    ],
+    "animation": "slide"
+  },
   "stairs": {
     "category": "Places",
     "tags": [
@@ -34032,6 +34322,16 @@
     ],
     "animation": "bounce"
   },
+  "stretcher": {
+    "category": "Health",
+    "tags": [
+      "stretcher",
+      "ambulance",
+      "hospital",
+      "gurney"
+    ],
+    "animation": "slide"
+  },
   "strikethrough": {
     "category": "Interface",
     "tags": [
@@ -34064,6 +34364,29 @@
       "math"
     ],
     "animation": "pop"
+  },
+  "subtitles": {
+    "category": "Media",
+    "tags": [
+      "subtitles",
+      "captions",
+      "text",
+      "video"
+    ],
+    "animation": "pop"
+  },
+  "subtitles-slash": {
+    "category": "Media",
+    "tags": [
+      "slash",
+      "off",
+      "no",
+      "captions",
+      "subtitles",
+      "text",
+      "video"
+    ],
+    "animation": "shake"
   },
   "suitcase": {
     "category": "Objects",
@@ -34995,6 +35318,17 @@
     ],
     "animation": "drive"
   },
+  "taxi-bus": {
+    "category": "Places",
+    "tags": [
+      "taxi",
+      "bus",
+      "minibus",
+      "shuttle",
+      "transport"
+    ],
+    "animation": "slide"
+  },
   "teddy-bear": {
     "category": "Objects",
     "tags": [
@@ -35860,6 +36194,17 @@
     ],
     "animation": "pop"
   },
+  "tower-receive": {
+    "category": "Technology",
+    "tags": [
+      "tower",
+      "receive",
+      "antenna",
+      "broadcast",
+      "signal"
+    ],
+    "animation": "pulse"
+  },
   "tractor": {
     "category": "Places",
     "tags": [
@@ -35979,6 +36324,17 @@
     ],
     "animation": "shake"
   },
+  "train-stop": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "stop",
+      "station",
+      "platform",
+      "subway"
+    ],
+    "animation": "pop"
+  },
   "train-subway": {
     "category": "Places",
     "tags": [
@@ -35989,6 +36345,17 @@
       "transit"
     ],
     "animation": "drive"
+  },
+  "train-subway-tunnel": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "subway",
+      "tunnel",
+      "metro",
+      "underground"
+    ],
+    "animation": "pop"
   },
   "train-track": {
     "category": "Places",
@@ -36022,6 +36389,17 @@
     ],
     "animation": "drive"
   },
+  "transformer-bolt": {
+    "category": "Places",
+    "tags": [
+      "transformer",
+      "bolt",
+      "electricity",
+      "power",
+      "substation"
+    ],
+    "animation": "flash"
+  },
   "transgender": {
     "category": "People",
     "tags": [
@@ -36029,6 +36407,18 @@
       "gender",
       "symbol",
       "trans"
+    ],
+    "animation": "pop"
+  },
+  "transmission": {
+    "category": "Technology",
+    "tags": [
+      "transmission",
+      "gearbox",
+      "car",
+      "gear",
+      "shift",
+      "manual"
     ],
     "animation": "pop"
   },
@@ -36708,6 +37098,17 @@
     ],
     "animation": "drive"
   },
+  "truck-ramp": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "ramp",
+      "moving",
+      "delivery",
+      "loading"
+    ],
+    "animation": "slide"
+  },
   "truck-ramp-box": {
     "category": "Places",
     "tags": [
@@ -36756,6 +37157,18 @@
       "trompeta"
     ],
     "animation": "beat"
+  },
+  "tty-answer": {
+    "category": "Technology",
+    "tags": [
+      "tty",
+      "answer",
+      "teletype",
+      "deaf",
+      "phone",
+      "accessibility"
+    ],
+    "animation": "pulse"
   },
   "tugrik-sign": {
     "category": "Letters & Numbers",
@@ -36826,6 +37239,17 @@
       "media",
       "antenna",
       "televisor"
+    ],
+    "animation": "pop"
+  },
+  "tv-music": {
+    "category": "Media",
+    "tags": [
+      "tv",
+      "music",
+      "television",
+      "concert",
+      "video"
     ],
     "animation": "pop"
   },
@@ -38004,6 +38428,18 @@
     ],
     "animation": "pop"
   },
+  "utility-pole-double": {
+    "category": "Places",
+    "tags": [
+      "utility",
+      "pole",
+      "double",
+      "power",
+      "electricity",
+      "lines"
+    ],
+    "animation": "pop"
+  },
   "vacuum": {
     "category": "Objects",
     "tags": [
@@ -38244,6 +38680,18 @@
     ],
     "animation": "nudge-diag"
   },
+  "video-down-to-line": {
+    "category": "Media",
+    "tags": [
+      "video",
+      "down",
+      "to",
+      "line",
+      "download",
+      "camera"
+    ],
+    "animation": "nudge-down"
+  },
   "video-off": {
     "category": "Media",
     "tags": [
@@ -38476,6 +38924,17 @@
       "transport"
     ],
     "animation": "drive"
+  },
+  "walker": {
+    "category": "Health",
+    "tags": [
+      "walker",
+      "elderly",
+      "mobility",
+      "aid",
+      "frame"
+    ],
+    "animation": "wobble"
   },
   "walkie-talkie": {
     "category": "Communication",
