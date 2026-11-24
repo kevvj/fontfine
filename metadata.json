@@ -2904,6 +2904,32 @@
     "animation": "swing",
     "origin": "50% 12%"
   },
+  "bell-school": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "school",
+      "hand",
+      "ring",
+      "class"
+    ],
+    "animation": "ring"
+  },
+  "bell-school-slash": {
+    "category": "Interface",
+    "tags": [
+      "slash",
+      "mute",
+      "silent",
+      "off",
+      "bell",
+      "school",
+      "hand",
+      "ring",
+      "class"
+    ],
+    "animation": "shake"
+  },
   "bell-slash": {
     "category": "Interface",
     "tags": [
@@ -3308,6 +3334,17 @@
     ],
     "animation": "nudge-up"
   },
+  "book-font": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "font",
+      "typography",
+      "letter",
+      "reading"
+    ],
+    "animation": "pop"
+  },
   "book-heart": {
     "category": "Objects",
     "tags": [
@@ -3381,6 +3418,17 @@
     ],
     "animation": "bounce"
   },
+  "book-section": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "section",
+      "law",
+      "legal",
+      "rules"
+    ],
+    "animation": "pop"
+  },
   "book-skull": {
     "category": "Objects",
     "tags": [
@@ -3408,6 +3456,28 @@
       "libro"
     ],
     "animation": "shake"
+  },
+  "book-sparkles": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "sparkles",
+      "magic",
+      "spell",
+      "fantasy",
+      "new"
+    ],
+    "animation": "pop"
+  },
+  "book-spine": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "spine",
+      "library",
+      "shelf"
+    ],
+    "animation": "pop"
   },
   "book-tanakh": {
     "category": "Religion",
@@ -8280,6 +8350,19 @@
     ],
     "animation": "spin"
   },
+  "circle-half-stroke-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "half",
+      "stroke",
+      "horizontal",
+      "contrast",
+      "progress",
+      "50"
+    ],
+    "animation": "pop"
+  },
   "circle-heart": {
     "category": "Interface",
     "tags": [
@@ -8763,6 +8846,18 @@
     ],
     "animation": "spin-slow"
   },
+  "circle-quarter-stroke": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "quarter",
+      "stroke",
+      "progress",
+      "pie",
+      "25"
+    ],
+    "animation": "pop"
+  },
   "circle-quarters": {
     "category": "Interface",
     "tags": [
@@ -9036,6 +9131,19 @@
       "percent"
     ],
     "animation": "spin-slow"
+  },
+  "circle-three-quarters-stroke": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "three",
+      "quarters",
+      "stroke",
+      "progress",
+      "pie",
+      "75"
+    ],
+    "animation": "pop"
   },
   "circle-trash": {
     "category": "Actions",
@@ -10623,6 +10731,17 @@
     ],
     "animation": "nudge-diag"
   },
+  "comment-captions": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "captions",
+      "subtitles",
+      "chat",
+      "transcript"
+    ],
+    "animation": "pop"
+  },
   "comment-check": {
     "category": "Communication",
     "tags": [
@@ -10709,6 +10828,17 @@
     ],
     "animation": "beat"
   },
+  "comment-image": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "image",
+      "photo",
+      "picture",
+      "chat"
+    ],
+    "animation": "pop"
+  },
   "comment-lines": {
     "category": "Communication",
     "tags": [
@@ -10735,6 +10865,29 @@
     ],
     "animation": "pop"
   },
+  "comment-middle": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "middle",
+      "speech",
+      "bubble",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "comment-middle-top": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "middle",
+      "top",
+      "speech",
+      "bubble",
+      "chat"
+    ],
+    "animation": "pop"
+  },
   "comment-minus": {
     "category": "Communication",
     "tags": [
@@ -10742,6 +10895,17 @@
       "minus",
       "message",
       "status"
+    ],
+    "animation": "pop"
+  },
+  "comment-music": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "music",
+      "song",
+      "note",
+      "chat"
     ],
     "animation": "pop"
   },
@@ -10854,6 +11018,18 @@
       "write",
       "type",
       "caption"
+    ],
+    "animation": "pop"
+  },
+  "comment-waveform": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "waveform",
+      "voice",
+      "audio",
+      "message",
+      "chat"
     ],
     "animation": "pop"
   },
@@ -11852,6 +12028,17 @@
       "rombo"
     ],
     "animation": "turn-y"
+  },
+  "diamond-half-stroke": {
+    "category": "Interface",
+    "tags": [
+      "diamond",
+      "half",
+      "stroke",
+      "shape",
+      "rating"
+    ],
+    "animation": "pop"
   },
   "diamond-turn-right": {
     "category": "Arrows",
@@ -14472,6 +14659,17 @@
     ],
     "animation": "pop"
   },
+  "file-binary": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "binary",
+      "code",
+      "data",
+      "bits"
+    ],
+    "animation": "pop"
+  },
   "file-brackets-curly": {
     "category": "Files",
     "tags": [
@@ -15244,6 +15442,18 @@
       "profile",
       "account",
       "document"
+    ],
+    "animation": "pop"
+  },
+  "file-vector": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "vector",
+      "svg",
+      "illustration",
+      "design",
+      "bezier"
     ],
     "animation": "pop"
   },
@@ -16382,6 +16592,18 @@
       "sport"
     ],
     "animation": "bounce"
+  },
+  "gallery-thumbnails": {
+    "category": "Media",
+    "tags": [
+      "gallery",
+      "thumbnails",
+      "photos",
+      "images",
+      "slider",
+      "carousel"
+    ],
+    "animation": "pop"
   },
   "game-board": {
     "category": "Objects",
@@ -18108,6 +18330,18 @@
     ],
     "animation": "beat"
   },
+  "heart-half-stroke": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "half",
+      "stroke",
+      "rating",
+      "love",
+      "favorite"
+    ],
+    "animation": "pop"
+  },
   "heart-pulse": {
     "category": "Health",
     "tags": [
@@ -19001,6 +19235,18 @@
     ],
     "animation": "float"
   },
+  "image-broken": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "broken",
+      "error",
+      "missing",
+      "photo",
+      "picture"
+    ],
+    "animation": "shake"
+  },
   "image-circle-arrow-down": {
     "category": "Media",
     "tags": [
@@ -19106,6 +19352,18 @@
       "foto"
     ],
     "animation": "shake"
+  },
+  "image-stack": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "stack",
+      "photos",
+      "gallery",
+      "album",
+      "pictures"
+    ],
+    "animation": "pop"
   },
   "image-user": {
     "category": "Media",
@@ -19908,6 +20166,16 @@
     ],
     "animation": "swing"
   },
+  "layer": {
+    "category": "Interface",
+    "tags": [
+      "layer",
+      "stack",
+      "design",
+      "sheet"
+    ],
+    "animation": "pop"
+  },
   "layer-group": {
     "category": "Interface",
     "tags": [
@@ -20594,6 +20862,17 @@
     ],
     "animation": "wiggle"
   },
+  "link-broken": {
+    "category": "Interface",
+    "tags": [
+      "link",
+      "broken",
+      "unlink",
+      "chain",
+      "disconnect"
+    ],
+    "animation": "shake"
+  },
   "link-horizontal": {
     "category": "Interface",
     "tags": [
@@ -20842,6 +21121,18 @@
     ],
     "animation": "shake"
   },
+  "location-arrow-up": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "arrow",
+      "up",
+      "navigation",
+      "direction",
+      "north"
+    ],
+    "animation": "nudge-up"
+  },
   "location-check": {
     "category": "Places",
     "tags": [
@@ -21051,6 +21342,29 @@
       "clave"
     ],
     "animation": "shake"
+  },
+  "lock-a": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "a",
+      "letter",
+      "caps",
+      "secure"
+    ],
+    "animation": "pop"
+  },
+  "lock-hashtag": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "hashtag",
+      "number",
+      "pin",
+      "code",
+      "secure"
+    ],
+    "animation": "pop"
   },
   "lock-keyhole": {
     "category": "Security",
@@ -21797,6 +22111,17 @@
     ],
     "animation": "pop"
   },
+  "message-captions": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "captions",
+      "subtitles",
+      "chat",
+      "transcript"
+    ],
+    "animation": "pop"
+  },
   "message-check": {
     "category": "Communication",
     "tags": [
@@ -21924,6 +22249,29 @@
       "health",
       "doctor",
       "consult",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "message-middle": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "middle",
+      "speech",
+      "bubble",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "message-middle-top": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "middle",
+      "top",
+      "speech",
+      "bubble",
       "chat"
     ],
     "animation": "pop"
@@ -23852,6 +24200,38 @@
     ],
     "animation": "blink"
   },
+  "page": {
+    "category": "Files",
+    "tags": [
+      "page",
+      "document",
+      "paper",
+      "sheet"
+    ],
+    "animation": "pop"
+  },
+  "page-caret-down": {
+    "category": "Files",
+    "tags": [
+      "page",
+      "caret",
+      "down",
+      "document",
+      "expand"
+    ],
+    "animation": "nudge-down"
+  },
+  "page-caret-up": {
+    "category": "Files",
+    "tags": [
+      "page",
+      "caret",
+      "up",
+      "document",
+      "collapse"
+    ],
+    "animation": "nudge-up"
+  },
   "pager": {
     "category": "Technology",
     "tags": [
@@ -24051,6 +24431,18 @@
     ],
     "animation": "nudge-diag"
   },
+  "paper-plane-top": {
+    "category": "Communication",
+    "tags": [
+      "paper",
+      "plane",
+      "top",
+      "send",
+      "message",
+      "submit"
+    ],
+    "animation": "nudge-right"
+  },
   "paperclip": {
     "category": "Objects",
     "tags": [
@@ -24084,6 +24476,19 @@
       "section"
     ],
     "animation": "pop"
+  },
+  "paragraph-left": {
+    "category": "Interface",
+    "tags": [
+      "paragraph",
+      "left",
+      "pilcrow",
+      "text",
+      "direction",
+      "rtl",
+      "ltr"
+    ],
+    "animation": "nudge-left"
   },
   "parentheses": {
     "category": "Letters & Numbers",

@@ -3205,7 +3205,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] pants
 - [x] pants-straight
 - [ ] paper-plane-top
-- [ ] paperclip-vertical
+- [ ] paperclip-vertical (as `paperclip`)
 - [ ] paragraph-left
 - [ ] party-bell
 - [ ] party-horn
