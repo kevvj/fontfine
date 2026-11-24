@@ -12165,6 +12165,17 @@
     ],
     "animation": "pulse"
   },
+  "cow": {
+    "category": "Nature",
+    "tags": [
+      "cow",
+      "cattle",
+      "farm",
+      "milk",
+      "animal"
+    ],
+    "animation": "wobble"
+  },
   "cowbell": {
     "category": "Music & Audio",
     "tags": [
@@ -12355,6 +12366,18 @@
       "position"
     ],
     "animation": "spin-slow"
+  },
+  "crow": {
+    "category": "Nature",
+    "tags": [
+      "crow",
+      "bird",
+      "raven",
+      "black",
+      "halloween",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "crown": {
     "category": "Objects",
@@ -12610,6 +12633,31 @@
       "datos"
     ],
     "animation": "pulse"
+  },
+  "deer": {
+    "category": "Nature",
+    "tags": [
+      "deer",
+      "reindeer",
+      "stag",
+      "antlers",
+      "forest",
+      "animal"
+    ],
+    "animation": "wobble"
+  },
+  "deer-rudolph": {
+    "category": "Nature",
+    "tags": [
+      "deer",
+      "rudolph",
+      "reindeer",
+      "christmas",
+      "red",
+      "nose",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "delete-left": {
     "category": "Technology",
@@ -13336,6 +13384,17 @@
       "prohibido"
     ],
     "animation": "shake"
+  },
+  "dog": {
+    "category": "Nature",
+    "tags": [
+      "dog",
+      "puppy",
+      "pet",
+      "canine",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "dollar": {
     "category": "Objects",
@@ -15747,6 +15806,18 @@
     ],
     "animation": "float"
   },
+  "feather-pointed": {
+    "category": "Nature",
+    "tags": [
+      "feather",
+      "pointed",
+      "quill",
+      "pen",
+      "bird",
+      "animal"
+    ],
+    "animation": "swing"
+  },
   "fence": {
     "category": "Places",
     "tags": [
@@ -17030,6 +17101,17 @@
       "dinner"
     ],
     "animation": "bounce"
+  },
+  "fish-fins": {
+    "category": "Nature",
+    "tags": [
+      "fish",
+      "fins",
+      "sea",
+      "aquarium",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "fishing-rod": {
     "category": "Objects",
@@ -20241,6 +20323,17 @@
       "separator"
     ],
     "animation": "pop"
+  },
+  "horse": {
+    "category": "Nature",
+    "tags": [
+      "horse",
+      "pony",
+      "equine",
+      "ride",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "horse-head": {
     "category": "Nature",
@@ -24929,6 +25022,16 @@
     ],
     "animation": "pulse"
   },
+  "monkey": {
+    "category": "Nature",
+    "tags": [
+      "monkey",
+      "ape",
+      "primate",
+      "animal"
+    ],
+    "animation": "wobble"
+  },
   "monument": {
     "category": "Places",
     "tags": [
@@ -25405,6 +25508,18 @@
       "currency"
     ],
     "animation": "pop"
+  },
+  "narwhal": {
+    "category": "Nature",
+    "tags": [
+      "narwhal",
+      "whale",
+      "sea",
+      "unicorn",
+      "ocean",
+      "animal"
+    ],
+    "animation": "float"
   },
   "nas": {
     "category": "Technology",
@@ -26632,6 +26747,31 @@
     ],
     "animation": "bounce"
   },
+  "paw-claws": {
+    "category": "Nature",
+    "tags": [
+      "paw",
+      "claws",
+      "pet",
+      "footprint",
+      "scratch",
+      "animal"
+    ],
+    "animation": "pop"
+  },
+  "paw-simple": {
+    "category": "Nature",
+    "tags": [
+      "paw",
+      "simple",
+      "pet",
+      "footprint",
+      "dog",
+      "cat",
+      "animal"
+    ],
+    "animation": "pop"
+  },
   "peace": {
     "category": "Religion",
     "tags": [
@@ -27492,6 +27632,17 @@
       "food"
     ],
     "animation": "bounce"
+  },
+  "pig": {
+    "category": "Nature",
+    "tags": [
+      "pig",
+      "farm",
+      "pork",
+      "hog",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "piggy-bank": {
     "category": "Objects",
@@ -30013,6 +30164,17 @@
     ],
     "animation": "pop"
   },
+  "sheep": {
+    "category": "Nature",
+    "tags": [
+      "sheep",
+      "lamb",
+      "wool",
+      "farm",
+      "animal"
+    ],
+    "animation": "wobble"
+  },
   "shekel-sign": {
     "category": "Letters & Numbers",
     "tags": [
@@ -30397,6 +30559,16 @@
       "office"
     ],
     "animation": "pop"
+  },
+  "shrimp": {
+    "category": "Nature",
+    "tags": [
+      "shrimp",
+      "prawn",
+      "seafood",
+      "animal"
+    ],
+    "animation": "wobble"
   },
   "shuffle": {
     "category": "Media",
@@ -31003,6 +31175,16 @@
     ],
     "animation": "float"
   },
+  "snake": {
+    "category": "Nature",
+    "tags": [
+      "snake",
+      "serpent",
+      "reptile",
+      "animal"
+    ],
+    "animation": "wiggle"
+  },
   "sneaker": {
     "category": "Objects",
     "tags": [
@@ -31275,6 +31457,18 @@
       "arana"
     ],
     "animation": "bounce"
+  },
+  "spider-black-widow": {
+    "category": "Nature",
+    "tags": [
+      "spider",
+      "black",
+      "widow",
+      "venom",
+      "halloween",
+      "animal"
+    ],
+    "animation": "wiggle"
   },
   "spider-web": {
     "category": "Nature",
@@ -36257,6 +36451,17 @@
       "music"
     ],
     "animation": "spin"
+  },
+  "turtle": {
+    "category": "Nature",
+    "tags": [
+      "turtle",
+      "tortoise",
+      "slow",
+      "reptile",
+      "animal"
+    ],
+    "animation": "slide"
   },
   "tv": {
     "category": "Technology",
