@@ -2067,6 +2067,18 @@
     "animation": "swing",
     "origin": "20% 80%"
   },
+  "axe-battle": {
+    "category": "Objects",
+    "tags": [
+      "axe",
+      "battle",
+      "double",
+      "weapon",
+      "viking",
+      "medieval"
+    ],
+    "animation": "swing"
+  },
   "baby": {
     "category": "People",
     "tags": [
@@ -2193,6 +2205,18 @@
       "percent"
     ],
     "animation": "spin-slow"
+  },
+  "badminton": {
+    "category": "Objects",
+    "tags": [
+      "badminton",
+      "racket",
+      "shuttlecock",
+      "birdie",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
   },
   "bag-shopping": {
     "category": "Objects",
@@ -3773,6 +3797,17 @@
     ],
     "animation": "rock"
   },
+  "bow-arrow": {
+    "category": "Objects",
+    "tags": [
+      "bow",
+      "arrow",
+      "archery",
+      "weapon",
+      "hunting"
+    ],
+    "animation": "nudge-right"
+  },
   "bowl-chopsticks": {
     "category": "Objects",
     "tags": [
@@ -3843,6 +3878,18 @@
       "bolos"
     ],
     "animation": "spin"
+  },
+  "bowling-ball-pin": {
+    "category": "Objects",
+    "tags": [
+      "bowling",
+      "ball",
+      "pin",
+      "strike",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
   },
   "bowling-pins": {
     "category": "Objects",
@@ -5811,6 +5858,16 @@
       "dulce"
     ],
     "animation": "wiggle"
+  },
+  "cannon": {
+    "category": "Objects",
+    "tags": [
+      "cannon",
+      "artillery",
+      "pirate",
+      "war"
+    ],
+    "animation": "shake"
   },
   "capsule": {
     "category": "Health",
@@ -11426,6 +11483,17 @@
     ],
     "animation": "flip"
   },
+  "cricket-bat": {
+    "category": "Objects",
+    "tags": [
+      "cricket",
+      "bat",
+      "ball",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
   "cricket-bat-ball": {
     "category": "Objects",
     "tags": [
@@ -11639,6 +11707,18 @@
       "sweet"
     ],
     "animation": "pop"
+  },
+  "curling-stone": {
+    "category": "Objects",
+    "tags": [
+      "curling",
+      "stone",
+      "winter",
+      "ice",
+      "sport",
+      "game"
+    ],
+    "animation": "slide"
   },
   "currency-sign": {
     "category": "Letters & Numbers",
@@ -17369,6 +17449,17 @@
     ],
     "animation": "spin-slow"
   },
+  "goal-net": {
+    "category": "Objects",
+    "tags": [
+      "goal",
+      "net",
+      "soccer",
+      "football",
+      "sport"
+    ],
+    "animation": "pop"
+  },
   "golf-ball-tee": {
     "category": "Objects",
     "tags": [
@@ -17819,6 +17910,16 @@
     ],
     "animation": "swing",
     "origin": "50% 100%"
+  },
+  "hammer-war": {
+    "category": "Objects",
+    "tags": [
+      "hammer",
+      "war",
+      "weapon",
+      "medieval"
+    ],
+    "animation": "swing"
   },
   "hamsa": {
     "category": "Religion",
@@ -18777,6 +18878,29 @@
     ],
     "animation": "slide"
   },
+  "hockey-stick": {
+    "category": "Objects",
+    "tags": [
+      "hockey",
+      "stick",
+      "ice",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
+  "hockey-stick-puck": {
+    "category": "Objects",
+    "tags": [
+      "hockey",
+      "stick",
+      "puck",
+      "ice",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
   "holly-berry": {
     "category": "Nature",
     "tags": [
@@ -19419,6 +19543,18 @@
       "helado"
     ],
     "animation": "wobble"
+  },
+  "ice-skate": {
+    "category": "Objects",
+    "tags": [
+      "ice",
+      "skate",
+      "skating",
+      "winter",
+      "sport",
+      "game"
+    ],
+    "animation": "slide"
   },
   "icicles": {
     "category": "Weather",
@@ -21766,6 +21902,16 @@
     ],
     "animation": "bounce"
   },
+  "mace": {
+    "category": "Objects",
+    "tags": [
+      "mace",
+      "weapon",
+      "medieval",
+      "spiked"
+    ],
+    "animation": "shake"
+  },
   "magnet": {
     "category": "Objects",
     "tags": [
@@ -24111,6 +24257,27 @@
     ],
     "animation": "pop"
   },
+  "oar": {
+    "category": "Objects",
+    "tags": [
+      "oar",
+      "paddle",
+      "rowing",
+      "boat"
+    ],
+    "animation": "swing"
+  },
+  "oars": {
+    "category": "Objects",
+    "tags": [
+      "oars",
+      "paddles",
+      "rowing",
+      "boat",
+      "crossed"
+    ],
+    "animation": "swing"
+  },
   "object-exclude": {
     "category": "Interface",
     "tags": [
@@ -24467,6 +24634,28 @@
       "buho"
     ],
     "animation": "blink"
+  },
+  "padel": {
+    "category": "Objects",
+    "tags": [
+      "padel",
+      "paddle",
+      "racket",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
+  "padel-ball": {
+    "category": "Objects",
+    "tags": [
+      "padel",
+      "ball",
+      "tennis",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
   },
   "page": {
     "category": "Files",
@@ -25666,6 +25855,17 @@
     ],
     "animation": "swing"
   },
+  "pickleball": {
+    "category": "Objects",
+    "tags": [
+      "pickleball",
+      "ball",
+      "wiffle",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
+  },
   "picture-in-picture": {
     "category": "Media",
     "tags": [
@@ -26635,6 +26835,18 @@
       "conejo"
     ],
     "animation": "bounce"
+  },
+  "racquet": {
+    "category": "Objects",
+    "tags": [
+      "racquet",
+      "racket",
+      "tennis",
+      "squash",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
   },
   "radar": {
     "category": "Technology",
@@ -27997,6 +28209,17 @@
     ],
     "animation": "flip"
   },
+  "scythe": {
+    "category": "Objects",
+    "tags": [
+      "scythe",
+      "reaper",
+      "harvest",
+      "farm",
+      "halloween"
+    ],
+    "animation": "swing"
+  },
   "sd-card": {
     "category": "Technology",
     "tags": [
@@ -28602,6 +28825,17 @@
       "orbit"
     ],
     "animation": "nudge-right"
+  },
+  "shuttlecock": {
+    "category": "Objects",
+    "tags": [
+      "shuttlecock",
+      "badminton",
+      "birdie",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
   },
   "sidebar": {
     "category": "Interface",
@@ -31294,6 +31528,17 @@
     ],
     "animation": "float"
   },
+  "staff": {
+    "category": "Objects",
+    "tags": [
+      "staff",
+      "wizard",
+      "magic",
+      "wand",
+      "rod"
+    ],
+    "animation": "glow"
+  },
   "stairs": {
     "category": "Places",
     "tags": [
@@ -32300,6 +32545,19 @@
       "grid"
     ],
     "animation": "shake"
+  },
+  "table-tennis-paddle": {
+    "category": "Objects",
+    "tags": [
+      "table",
+      "tennis",
+      "paddle",
+      "ping",
+      "pong",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
   },
   "table-tennis-paddle-ball": {
     "category": "Objects",
