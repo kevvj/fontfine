@@ -141,6 +141,20 @@
     ],
     "animation": "spin-slow"
   },
+  "album-circle-plus": {
+    "category": "Music & Audio",
+    "tags": [
+      "album",
+      "circle",
+      "plus",
+      "music",
+      "record",
+      "vinyl",
+      "cover",
+      "disco"
+    ],
+    "animation": "spin-slow"
+  },
   "alien": {
     "category": "People",
     "tags": [
@@ -260,6 +274,19 @@
       "status"
     ],
     "animation": "pop"
+  },
+  "anchor-lock": {
+    "category": "Places",
+    "tags": [
+      "anchor",
+      "lock",
+      "ship",
+      "port",
+      "marine",
+      "navy",
+      "ancla"
+    ],
+    "animation": "shake"
   },
   "angle": {
     "category": "Letters & Numbers",
@@ -1911,6 +1938,19 @@
     ],
     "animation": "nudge-left"
   },
+  "backward-fast": {
+    "category": "Media",
+    "tags": [
+      "backward",
+      "fast",
+      "rewind",
+      "first",
+      "start",
+      "media",
+      "previous"
+    ],
+    "animation": "nudge-left"
+  },
   "bacon": {
     "category": "Objects",
     "tags": [
@@ -1980,6 +2020,29 @@
       "bolsa"
     ],
     "animation": "rock"
+  },
+  "bag-shopping-minus": {
+    "category": "Objects",
+    "tags": [
+      "bag",
+      "shopping",
+      "minus",
+      "remove",
+      "store"
+    ],
+    "animation": "bounce"
+  },
+  "bag-shopping-plus": {
+    "category": "Objects",
+    "tags": [
+      "bag",
+      "shopping",
+      "plus",
+      "add",
+      "buy",
+      "store"
+    ],
+    "animation": "bounce"
   },
   "bagel": {
     "category": "Objects",
@@ -2193,6 +2256,19 @@
     ],
     "animation": "pulse"
   },
+  "barcode": {
+    "category": "Objects",
+    "tags": [
+      "barcode",
+      "scan",
+      "product",
+      "code",
+      "upc",
+      "price",
+      "codigo de barras"
+    ],
+    "animation": "pulse"
+  },
   "barcode-scan": {
     "category": "Technology",
     "tags": [
@@ -2297,6 +2373,29 @@
       "canasta"
     ],
     "animation": "rock"
+  },
+  "basket-shopping-minus": {
+    "category": "Objects",
+    "tags": [
+      "basket",
+      "shopping",
+      "minus",
+      "remove",
+      "store"
+    ],
+    "animation": "bounce"
+  },
+  "basket-shopping-plus": {
+    "category": "Objects",
+    "tags": [
+      "basket",
+      "shopping",
+      "plus",
+      "add",
+      "buy",
+      "store"
+    ],
+    "animation": "bounce"
   },
   "basketball": {
     "category": "Objects",
@@ -2428,6 +2527,19 @@
     ],
     "animation": "shake"
   },
+  "battery-three-quarters": {
+    "category": "Technology",
+    "tags": [
+      "battery",
+      "three quarters",
+      "75",
+      "charge",
+      "power",
+      "level",
+      "bateria"
+    ],
+    "animation": "pulse"
+  },
   "bed": {
     "category": "Objects",
     "tags": [
@@ -2525,6 +2637,20 @@
     ],
     "animation": "swing",
     "origin": "50% 12%"
+  },
+  "bell-on": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "on",
+      "notification",
+      "alert",
+      "ringing",
+      "active",
+      "alarm"
+    ],
+    "animation": "ring",
+    "origin": "50% 15%"
   },
   "bell-plus": {
     "category": "Interface",
@@ -2647,6 +2773,49 @@
     ],
     "animation": "flash"
   },
+  "binary-circle-check": {
+    "category": "Technology",
+    "tags": [
+      "binary",
+      "circle",
+      "check",
+      "code",
+      "bits",
+      "data",
+      "zeros",
+      "ones",
+      "binario"
+    ],
+    "animation": "flash"
+  },
+  "binary-lock": {
+    "category": "Technology",
+    "tags": [
+      "binary",
+      "lock",
+      "code",
+      "bits",
+      "data",
+      "zeros",
+      "ones",
+      "binario"
+    ],
+    "animation": "shake"
+  },
+  "binary-slash": {
+    "category": "Technology",
+    "tags": [
+      "binary",
+      "slash",
+      "code",
+      "bits",
+      "data",
+      "zeros",
+      "ones",
+      "binario"
+    ],
+    "animation": "shake"
+  },
   "binoculars": {
     "category": "Objects",
     "tags": [
@@ -2760,6 +2929,19 @@
     ],
     "animation": "flash"
   },
+  "bolt-lightning": {
+    "category": "Weather",
+    "tags": [
+      "bolt",
+      "lightning",
+      "thunder",
+      "storm",
+      "electric",
+      "energy",
+      "rayo"
+    ],
+    "animation": "flash"
+  },
   "bolt-slash": {
     "category": "Weather",
     "tags": [
@@ -2808,6 +2990,30 @@
     ],
     "animation": "flip"
   },
+  "book-arrow-right": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "arrow",
+      "right",
+      "return",
+      "lend",
+      "library"
+    ],
+    "animation": "nudge-right"
+  },
+  "book-arrow-up": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "arrow",
+      "up",
+      "upload",
+      "publish",
+      "library"
+    ],
+    "animation": "nudge-up"
+  },
   "book-atlas": {
     "category": "Objects",
     "tags": [
@@ -2844,6 +3050,30 @@
       "library"
     ],
     "animation": "flip"
+  },
+  "book-circle-arrow-right": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "circle",
+      "arrow",
+      "right",
+      "return",
+      "library"
+    ],
+    "animation": "nudge-right"
+  },
+  "book-circle-arrow-up": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "circle",
+      "arrow",
+      "up",
+      "upload",
+      "library"
+    ],
+    "animation": "nudge-up"
   },
   "book-heart": {
     "category": "Objects",
@@ -3016,6 +3246,19 @@
     ],
     "animation": "bounce"
   },
+  "border-all": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "all",
+      "table",
+      "grid",
+      "cells",
+      "spreadsheet",
+      "borde"
+    ],
+    "animation": "pop"
+  },
   "border-bottom": {
     "category": "Interface",
     "tags": [
@@ -3085,6 +3328,19 @@
     ],
     "animation": "pop"
   },
+  "border-none": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "none",
+      "no border",
+      "table",
+      "grid",
+      "clear",
+      "sin borde"
+    ],
+    "animation": "pop"
+  },
   "border-outer": {
     "category": "Interface",
     "tags": [
@@ -3115,6 +3371,18 @@
       "table",
       "cell",
       "format"
+    ],
+    "animation": "pop"
+  },
+  "border-top-left": {
+    "category": "Interface",
+    "tags": [
+      "border",
+      "top",
+      "left",
+      "corner",
+      "table",
+      "cell"
     ],
     "animation": "pop"
   },
@@ -3252,6 +3520,30 @@
     ],
     "animation": "pop"
   },
+  "box-arrow-down": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "arrow",
+      "down",
+      "receive",
+      "package",
+      "delivery"
+    ],
+    "animation": "nudge-down"
+  },
+  "box-arrow-up": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "arrow",
+      "up",
+      "send",
+      "package",
+      "ship"
+    ],
+    "animation": "nudge-up"
+  },
   "box-check": {
     "category": "Objects",
     "tags": [
@@ -3267,6 +3559,18 @@
     ],
     "animation": "bounce"
   },
+  "box-circle-check": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "circle",
+      "check",
+      "delivered",
+      "package",
+      "done"
+    ],
+    "animation": "pop"
+  },
   "box-heart": {
     "category": "Objects",
     "tags": [
@@ -3281,6 +3585,18 @@
       "caja"
     ],
     "animation": "bounce"
+  },
+  "box-magnifying-glass": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "magnifying glass",
+      "search",
+      "track",
+      "package",
+      "find"
+    ],
+    "animation": "search"
   },
   "box-open": {
     "category": "Objects",
@@ -4294,6 +4610,19 @@
     ],
     "animation": "pop"
   },
+  "burst": {
+    "category": "Status",
+    "tags": [
+      "burst",
+      "explosion",
+      "boom",
+      "bang",
+      "impact",
+      "star",
+      "explosion"
+    ],
+    "animation": "pop"
+  },
   "bus": {
     "category": "Places",
     "tags": [
@@ -4501,6 +4830,19 @@
       "plus",
       "date",
       "event"
+    ],
+    "animation": "pop"
+  },
+  "calendar-circle-user": {
+    "category": "Interface",
+    "tags": [
+      "calendar",
+      "circle",
+      "user",
+      "appointment",
+      "meeting",
+      "attendee",
+      "schedule"
     ],
     "animation": "pop"
   },
@@ -4985,6 +5327,19 @@
     ],
     "animation": "flash"
   },
+  "car-circle-bolt": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "circle",
+      "bolt",
+      "vehicle",
+      "auto",
+      "transport",
+      "carro"
+    ],
+    "animation": "drive"
+  },
   "car-garage": {
     "category": "Places",
     "tags": [
@@ -5293,6 +5648,96 @@
       "compra"
     ],
     "animation": "drive"
+  },
+  "cart-circle-arrow-down": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "circle",
+      "shopping",
+      "checkout",
+      "store",
+      "arrow",
+      "down",
+      "add",
+      "download"
+    ],
+    "animation": "bounce"
+  },
+  "cart-circle-arrow-up": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "circle",
+      "shopping",
+      "checkout",
+      "store",
+      "arrow",
+      "up",
+      "remove",
+      "upload"
+    ],
+    "animation": "bounce"
+  },
+  "cart-circle-check": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "circle",
+      "shopping",
+      "checkout",
+      "store",
+      "check",
+      "done",
+      "purchased",
+      "complete"
+    ],
+    "animation": "pop"
+  },
+  "cart-circle-exclamation": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "circle",
+      "shopping",
+      "checkout",
+      "store",
+      "exclamation",
+      "warning",
+      "error",
+      "alert"
+    ],
+    "animation": "shake"
+  },
+  "cart-circle-plus": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "circle",
+      "shopping",
+      "checkout",
+      "store",
+      "plus",
+      "add",
+      "new",
+      "buy"
+    ],
+    "animation": "pop"
+  },
+  "cart-circle-xmark": {
+    "category": "Objects",
+    "tags": [
+      "cart",
+      "circle",
+      "shopping",
+      "checkout",
+      "store",
+      "xmark",
+      "remove",
+      "cancel",
+      "delete"
+    ],
+    "animation": "shake"
   },
   "cart-flatbed": {
     "category": "Objects",
@@ -8627,6 +9072,31 @@
     ],
     "animation": "flash"
   },
+  "cloud-bolt-moon": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "bolt",
+      "moon",
+      "storm",
+      "night",
+      "thunder",
+      "weather"
+    ],
+    "animation": "flash"
+  },
+  "cloud-bolt-sun": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "bolt",
+      "sun",
+      "storm",
+      "thunder",
+      "weather"
+    ],
+    "animation": "flash"
+  },
   "cloud-check": {
     "category": "Weather",
     "tags": [
@@ -8733,6 +9203,19 @@
       "night",
       "partly",
       "cloudy"
+    ],
+    "animation": "float"
+  },
+  "cloud-moon-rain": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "moon",
+      "rain",
+      "night",
+      "weather",
+      "shower",
+      "lluvia"
     ],
     "animation": "float"
   },
@@ -8868,6 +9351,19 @@
     ],
     "animation": "float"
   },
+  "cloud-sun-rain": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "sun",
+      "rain",
+      "weather",
+      "shower",
+      "showers",
+      "lluvia"
+    ],
+    "animation": "float"
+  },
   "cloud-upload": {
     "category": "Files",
     "tags": [
@@ -8905,6 +9401,17 @@
     ],
     "animation": "float"
   },
+  "cloud-xmark": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "xmark",
+      "weather",
+      "storage",
+      "nube"
+    ],
+    "animation": "float"
+  },
   "clouds": {
     "category": "Weather",
     "tags": [
@@ -8915,6 +9422,19 @@
       "nubes"
     ],
     "animation": "float"
+  },
+  "clover": {
+    "category": "Nature",
+    "tags": [
+      "clover",
+      "luck",
+      "lucky",
+      "shamrock",
+      "irish",
+      "four leaf",
+      "trebol"
+    ],
+    "animation": "spin-slow"
   },
   "coaster": {
     "category": "Objects",
@@ -9142,6 +9662,18 @@
     ],
     "animation": "pop"
   },
+  "comet": {
+    "category": "Nature",
+    "tags": [
+      "comet",
+      "space",
+      "astronomy",
+      "meteor",
+      "shooting star",
+      "cometa"
+    ],
+    "animation": "float"
+  },
   "comma": {
     "category": "Letters & Numbers",
     "tags": [
@@ -9173,6 +9705,45 @@
       "bubble"
     ],
     "animation": "pop"
+  },
+  "comment-arrow-down": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "message",
+      "chat",
+      "arrow",
+      "down",
+      "receive",
+      "download"
+    ],
+    "animation": "nudge-down"
+  },
+  "comment-arrow-up": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "message",
+      "chat",
+      "arrow",
+      "up",
+      "send",
+      "upload"
+    ],
+    "animation": "nudge-up"
+  },
+  "comment-arrow-up-right": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "message",
+      "chat",
+      "arrow",
+      "up right",
+      "share",
+      "forward"
+    ],
+    "animation": "nudge-diag"
   },
   "comment-check": {
     "category": "Communication",
@@ -9208,6 +9779,19 @@
       "message",
       "chat",
       "bubble"
+    ],
+    "animation": "pop"
+  },
+  "comment-dot": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "message",
+      "chat",
+      "dot",
+      "typing",
+      "unread",
+      "notification"
     ],
     "animation": "pop"
   },
@@ -9282,6 +9866,18 @@
       "status"
     ],
     "animation": "pop"
+  },
+  "comment-pen": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "pen",
+      "edit",
+      "write",
+      "message",
+      "reply"
+    ],
+    "animation": "write"
   },
   "comment-plus": {
     "category": "Communication",
@@ -9358,6 +9954,19 @@
     ],
     "animation": "pop"
   },
+  "comment-text": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "message",
+      "chat",
+      "text",
+      "write",
+      "type",
+      "caption"
+    ],
+    "animation": "pop"
+  },
   "comment-xmark": {
     "category": "Communication",
     "tags": [
@@ -9415,6 +10024,31 @@
       "brujula"
     ],
     "animation": "shake"
+  },
+  "compress": {
+    "category": "Arrows",
+    "tags": [
+      "compress",
+      "exit fullscreen",
+      "minimize",
+      "shrink",
+      "collapse",
+      "reduce"
+    ],
+    "animation": "pulse"
+  },
+  "computer": {
+    "category": "Technology",
+    "tags": [
+      "computer",
+      "desktop",
+      "pc",
+      "tower",
+      "monitor",
+      "workstation",
+      "computadora"
+    ],
+    "animation": "pop"
   },
   "computer-classic": {
     "category": "Technology",
@@ -9584,6 +10218,19 @@
     "animation": "swing",
     "origin": "50% 10%"
   },
+  "cowbell-circle-plus": {
+    "category": "Music & Audio",
+    "tags": [
+      "cowbell",
+      "circle",
+      "plus",
+      "bell",
+      "farm",
+      "music",
+      "cencerro"
+    ],
+    "animation": "swing"
+  },
   "crab": {
     "category": "Nature",
     "tags": [
@@ -9688,6 +10335,19 @@
     ],
     "animation": "pop"
   },
+  "crop-simple": {
+    "category": "Objects",
+    "tags": [
+      "crop",
+      "simple",
+      "cut",
+      "image",
+      "trim",
+      "edit",
+      "recortar"
+    ],
+    "animation": "pulse"
+  },
   "cross": {
     "category": "Religion",
     "tags": [
@@ -9713,6 +10373,19 @@
     ],
     "animation": "spin-slow"
   },
+  "crosshairs-simple": {
+    "category": "Interface",
+    "tags": [
+      "crosshairs",
+      "simple",
+      "target",
+      "aim",
+      "focus",
+      "gps",
+      "position"
+    ],
+    "animation": "spin-slow"
+  },
   "crown": {
     "category": "Objects",
     "tags": [
@@ -9735,6 +10408,18 @@
       "muleta"
     ],
     "animation": "rock"
+  },
+  "cruzeiro-sign": {
+    "category": "Objects",
+    "tags": [
+      "cruzeiro",
+      "sign",
+      "currency",
+      "money",
+      "brazil",
+      "cr"
+    ],
+    "animation": "pop"
   },
   "crystal-ball": {
     "category": "Objects",
@@ -9831,6 +10516,19 @@
       "datos"
     ],
     "animation": "pulse"
+  },
+  "delete-left": {
+    "category": "Technology",
+    "tags": [
+      "delete",
+      "left",
+      "backspace",
+      "erase",
+      "remove",
+      "keyboard",
+      "borrar"
+    ],
+    "animation": "nudge-left"
   },
   "delete-right": {
     "category": "Technology",
@@ -10286,6 +10984,18 @@
     ],
     "animation": "spin-slow"
   },
+  "display": {
+    "category": "Technology",
+    "tags": [
+      "display",
+      "monitor",
+      "screen",
+      "desktop",
+      "computer",
+      "pantalla"
+    ],
+    "animation": "pop"
+  },
   "display-arrow-down": {
     "category": "Technology",
     "tags": [
@@ -10441,6 +11151,18 @@
       "usd"
     ],
     "animation": "pop"
+  },
+  "dolly": {
+    "category": "Objects",
+    "tags": [
+      "dolly",
+      "hand truck",
+      "box",
+      "moving",
+      "delivery",
+      "carry"
+    ],
+    "animation": "drive"
   },
   "dolly-empty": {
     "category": "Objects",
@@ -10646,6 +11368,18 @@
       "water"
     ],
     "animation": "drip"
+  },
+  "droplet-slash": {
+    "category": "Nature",
+    "tags": [
+      "droplet",
+      "slash",
+      "no water",
+      "dry",
+      "waterproof",
+      "off"
+    ],
+    "animation": "shake"
   },
   "drum": {
     "category": "Music & Audio",
@@ -10867,6 +11601,19 @@
     ],
     "animation": "rock"
   },
+  "eject": {
+    "category": "Media",
+    "tags": [
+      "eject",
+      "media",
+      "disc",
+      "remove",
+      "usb",
+      "unmount",
+      "expulsar"
+    ],
+    "animation": "nudge-up"
+  },
   "elephant": {
     "category": "Nature",
     "tags": [
@@ -10877,6 +11624,19 @@
       "elefante"
     ],
     "animation": "rock"
+  },
+  "elevator": {
+    "category": "Places",
+    "tags": [
+      "elevator",
+      "lift",
+      "up",
+      "down",
+      "floor",
+      "building",
+      "ascensor"
+    ],
+    "animation": "bounce"
   },
   "ellipsis": {
     "category": "Interface",
@@ -10890,6 +11650,46 @@
       "mas",
       "opciones",
       "tres"
+    ],
+    "animation": "dots"
+  },
+  "ellipsis-stroke": {
+    "category": "Interface",
+    "tags": [
+      "ellipsis",
+      "stroke",
+      "more",
+      "options",
+      "menu",
+      "dots",
+      "outline"
+    ],
+    "animation": "dots"
+  },
+  "ellipsis-stroke-vertical": {
+    "category": "Interface",
+    "tags": [
+      "ellipsis",
+      "stroke",
+      "vertical",
+      "more",
+      "options",
+      "kebab",
+      "dots"
+    ],
+    "animation": "dots"
+  },
+  "ellipsis-vertical": {
+    "category": "Interface",
+    "tags": [
+      "ellipsis",
+      "vertical",
+      "more",
+      "options",
+      "menu",
+      "kebab",
+      "dots",
+      "mas"
     ],
     "animation": "dots"
   },
@@ -10935,6 +11735,19 @@
       "plus",
       "mail",
       "status"
+    ],
+    "animation": "pop"
+  },
+  "envelope-circle-user": {
+    "category": "Communication",
+    "tags": [
+      "envelope",
+      "circle",
+      "user",
+      "contact",
+      "email",
+      "sender",
+      "mail"
     ],
     "animation": "pop"
   },
@@ -11031,6 +11844,18 @@
       "mail",
       "many",
       "newsletter"
+    ],
+    "animation": "pop"
+  },
+  "equals": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "equals",
+      "equal",
+      "math",
+      "sign",
+      "result",
+      "igual"
     ],
     "animation": "pop"
   },
@@ -12223,6 +13048,19 @@
     ],
     "animation": "pop"
   },
+  "file-csv": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "csv",
+      "data",
+      "spreadsheet",
+      "export",
+      "table",
+      "comma"
+    ],
+    "animation": "pop"
+  },
   "file-dashed-line": {
     "category": "Files",
     "tags": [
@@ -12232,6 +13070,19 @@
       "cut",
       "tear",
       "document"
+    ],
+    "animation": "pop"
+  },
+  "file-excel": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "excel",
+      "xls",
+      "xlsx",
+      "spreadsheet",
+      "sheet",
+      "microsoft"
     ],
     "animation": "pop"
   },
@@ -12258,6 +13109,19 @@
       "document"
     ],
     "animation": "nudge-right"
+  },
+  "file-half-dashed": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "half",
+      "dashed",
+      "draft",
+      "partial",
+      "incomplete",
+      "document"
+    ],
+    "animation": "pop"
   },
   "file-heart": {
     "category": "Files",
@@ -12405,6 +13269,18 @@
     ],
     "animation": "pop"
   },
+  "file-pdf": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "pdf",
+      "document",
+      "acrobat",
+      "print",
+      "export"
+    ],
+    "animation": "pop"
+  },
   "file-pen": {
     "category": "Files",
     "tags": [
@@ -12439,6 +13315,19 @@
       "remove",
       "difference",
       "document"
+    ],
+    "animation": "pop"
+  },
+  "file-powerpoint": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "powerpoint",
+      "ppt",
+      "pptx",
+      "presentation",
+      "slides",
+      "microsoft"
     ],
     "animation": "pop"
   },
@@ -12557,6 +13446,19 @@
     ],
     "animation": "beat"
   },
+  "file-word": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "word",
+      "doc",
+      "docx",
+      "document",
+      "text",
+      "microsoft"
+    ],
+    "animation": "pop"
+  },
   "file-xmark": {
     "category": "Files",
     "tags": [
@@ -12590,6 +13492,30 @@
       "multiple"
     ],
     "animation": "pop"
+  },
+  "fill": {
+    "category": "Objects",
+    "tags": [
+      "fill",
+      "bucket",
+      "paint",
+      "color",
+      "design",
+      "relleno"
+    ],
+    "animation": "wiggle"
+  },
+  "fill-drip": {
+    "category": "Objects",
+    "tags": [
+      "fill",
+      "drip",
+      "bucket",
+      "paint",
+      "color",
+      "pour"
+    ],
+    "animation": "drip"
   },
   "film": {
     "category": "Media",
@@ -12648,6 +13574,19 @@
       "refine"
     ],
     "animation": "pop"
+  },
+  "filter-circle-xmark": {
+    "category": "Interface",
+    "tags": [
+      "filter",
+      "circle",
+      "xmark",
+      "clear",
+      "remove",
+      "reset",
+      "funnel"
+    ],
+    "animation": "shake"
   },
   "filter-list": {
     "category": "Interface",
@@ -12958,6 +13897,33 @@
     "tags": [
       "floppy",
       "disk",
+      "save",
+      "storage",
+      "diskette"
+    ],
+    "animation": "pop"
+  },
+  "floppy-disk-circle-arrow-right": {
+    "category": "Technology",
+    "tags": [
+      "floppy",
+      "disk",
+      "circle",
+      "arrow",
+      "right",
+      "save",
+      "storage",
+      "diskette"
+    ],
+    "animation": "pop"
+  },
+  "floppy-disk-circle-xmark": {
+    "category": "Technology",
+    "tags": [
+      "floppy",
+      "disk",
+      "circle",
+      "xmark",
       "save",
       "storage",
       "diskette"
@@ -13388,6 +14354,19 @@
     ],
     "animation": "nudge-right"
   },
+  "forward-fast": {
+    "category": "Media",
+    "tags": [
+      "forward",
+      "fast",
+      "last",
+      "end",
+      "media",
+      "next",
+      "skip"
+    ],
+    "animation": "nudge-right"
+  },
   "frame": {
     "category": "Interface",
     "tags": [
@@ -13599,6 +14578,48 @@
     ],
     "animation": "swing"
   },
+  "gauge-circle-bolt": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "circle",
+      "bolt",
+      "medium",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
+  "gauge-circle-minus": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "circle",
+      "minus",
+      "medium",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
+  "gauge-circle-plus": {
+    "category": "Interface",
+    "tags": [
+      "gauge",
+      "circle",
+      "plus",
+      "medium",
+      "speedometer",
+      "meter",
+      "dashboard",
+      "performance"
+    ],
+    "animation": "swing"
+  },
   "gauge-high": {
     "category": "Interface",
     "tags": [
@@ -13740,6 +14761,19 @@
       "configuracion",
       "opciones",
       "preferencias"
+    ],
+    "animation": "spin"
+  },
+  "gears": {
+    "category": "Interface",
+    "tags": [
+      "gears",
+      "settings",
+      "cogs",
+      "mechanism",
+      "configuration",
+      "engine",
+      "engranajes"
     ],
     "animation": "spin"
   },
@@ -14075,6 +15109,128 @@
     ],
     "animation": "pop"
   },
+  "grid-2-minus": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "2",
+      "minus",
+      "remove",
+      "apps",
+      "widget"
+    ],
+    "animation": "pop"
+  },
+  "grid-2-plus": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "2",
+      "plus",
+      "add",
+      "apps",
+      "new",
+      "widget"
+    ],
+    "animation": "pop"
+  },
+  "grid-4": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "4",
+      "layout",
+      "tiles",
+      "apps",
+      "gallery"
+    ],
+    "animation": "pop"
+  },
+  "grid-5": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "5",
+      "layout",
+      "tiles",
+      "apps",
+      "gallery",
+      "dense"
+    ],
+    "animation": "pop"
+  },
+  "grid-round": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "round",
+      "circles",
+      "dots",
+      "apps",
+      "layout"
+    ],
+    "animation": "pop"
+  },
+  "grid-round-2": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "round",
+      "2",
+      "circles",
+      "apps",
+      "layout"
+    ],
+    "animation": "pop"
+  },
+  "grid-round-2-minus": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "round",
+      "2",
+      "minus",
+      "remove",
+      "apps"
+    ],
+    "animation": "pop"
+  },
+  "grid-round-2-plus": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "round",
+      "2",
+      "plus",
+      "add",
+      "apps"
+    ],
+    "animation": "pop"
+  },
+  "grid-round-4": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "round",
+      "4",
+      "circles",
+      "dots",
+      "layout"
+    ],
+    "animation": "pop"
+  },
+  "grid-round-5": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "round",
+      "5",
+      "circles",
+      "dots",
+      "layout"
+    ],
+    "animation": "pop"
+  },
   "grill": {
     "category": "Objects",
     "tags": [
@@ -14220,6 +15376,42 @@
       "heading",
       "text",
       "header"
+    ],
+    "animation": "pop"
+  },
+  "h4": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "h4",
+      "heading",
+      "header",
+      "title",
+      "text",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "h5": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "h5",
+      "heading",
+      "header",
+      "title",
+      "text",
+      "format"
+    ],
+    "animation": "pop"
+  },
+  "h6": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "h6",
+      "heading",
+      "header",
+      "title",
+      "text",
+      "format"
     ],
     "animation": "pop"
   },
@@ -14477,6 +15669,18 @@
     ],
     "animation": "pop"
   },
+  "hashtag-lock": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "hashtag",
+      "lock",
+      "hash",
+      "pound",
+      "number",
+      "tag"
+    ],
+    "animation": "shake"
+  },
   "hat-chef": {
     "category": "Objects",
     "tags": [
@@ -14543,6 +15747,19 @@
       "fantasy"
     ],
     "animation": "rock"
+  },
+  "heading": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "heading",
+      "header",
+      "title",
+      "h",
+      "text",
+      "format",
+      "titulo"
+    ],
+    "animation": "pop"
   },
   "headphones": {
     "category": "Music & Audio",
@@ -14830,6 +16047,19 @@
       "badge"
     ],
     "animation": "pop"
+  },
+  "hexagon-nodes": {
+    "category": "Technology",
+    "tags": [
+      "hexagon",
+      "nodes",
+      "network",
+      "graph",
+      "blockchain",
+      "structure",
+      "connections"
+    ],
+    "animation": "spin-slow"
   },
   "hexagon-plus": {
     "category": "Interface",
@@ -15197,6 +16427,20 @@
     ],
     "animation": "wave"
   },
+  "house-flood-water-circle-arrow-right": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "flood",
+      "water",
+      "circle",
+      "arrow",
+      "right",
+      "disaster",
+      "inundacion"
+    ],
+    "animation": "wave"
+  },
   "house-heart": {
     "category": "Places",
     "tags": [
@@ -15367,6 +16611,17 @@
     ],
     "animation": "pop"
   },
+  "hyphen": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "hyphen",
+      "dash",
+      "minus",
+      "punctuation",
+      "guion"
+    ],
+    "animation": "pop"
+  },
   "i-cursor": {
     "category": "Interface",
     "tags": [
@@ -15415,6 +16670,20 @@
     ],
     "animation": "flip"
   },
+  "id-card-clip": {
+    "category": "People",
+    "tags": [
+      "id",
+      "card",
+      "clip",
+      "badge",
+      "identification",
+      "employee",
+      "credential"
+    ],
+    "animation": "swing",
+    "origin": "50% 10%"
+  },
   "igloo": {
     "category": "Places",
     "tags": [
@@ -15431,6 +16700,20 @@
     "category": "Media",
     "tags": [
       "image",
+      "picture",
+      "photo",
+      "imagen",
+      "foto"
+    ],
+    "animation": "float"
+  },
+  "image-circle-arrow-down": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "circle",
+      "arrow",
+      "down",
       "picture",
       "photo",
       "imagen",
@@ -15659,6 +16942,18 @@
       "math"
     ],
     "animation": "pulse"
+  },
+  "info": {
+    "category": "Status",
+    "tags": [
+      "info",
+      "information",
+      "help",
+      "details",
+      "i",
+      "about"
+    ],
+    "animation": "pop"
   },
   "integral": {
     "category": "Letters & Numbers",
@@ -16690,6 +17985,18 @@
     ],
     "animation": "glow"
   },
+  "line-columns": {
+    "category": "Interface",
+    "tags": [
+      "line",
+      "columns",
+      "text",
+      "layout",
+      "newspaper",
+      "columnas"
+    ],
+    "animation": "pop"
+  },
   "line-height": {
     "category": "Interface",
     "tags": [
@@ -16722,6 +18029,18 @@
       "connect"
     ],
     "animation": "pop"
+  },
+  "link-horizontal-slash": {
+    "category": "Interface",
+    "tags": [
+      "link",
+      "horizontal",
+      "slash",
+      "chain",
+      "url",
+      "connect"
+    ],
+    "animation": "shake"
   },
   "link-simple": {
     "category": "Interface",
@@ -16762,6 +18081,18 @@
       "enlace"
     ],
     "animation": "shake"
+  },
+  "lira-sign": {
+    "category": "Objects",
+    "tags": [
+      "lira",
+      "sign",
+      "currency",
+      "money",
+      "italy",
+      "pound"
+    ],
+    "animation": "pop"
   },
   "list": {
     "category": "Interface",
@@ -16924,6 +18255,18 @@
     ],
     "animation": "nudge-diag"
   },
+  "location-arrow-slash": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "arrow",
+      "slash",
+      "navigation",
+      "gps",
+      "direction"
+    ],
+    "animation": "shake"
+  },
   "location-check": {
     "category": "Places",
     "tags": [
@@ -16949,6 +18292,19 @@
     ],
     "animation": "pulse"
   },
+  "location-crosshairs-slash": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "crosshairs",
+      "slash",
+      "gps",
+      "target",
+      "current",
+      "position"
+    ],
+    "animation": "shake"
+  },
   "location-dot": {
     "category": "Places",
     "tags": [
@@ -16960,6 +18316,19 @@
       "marker"
     ],
     "animation": "bounce"
+  },
+  "location-dot-slash": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "dot",
+      "slash",
+      "pin",
+      "map",
+      "place",
+      "marker"
+    ],
+    "animation": "shake"
   },
   "location-exclamation": {
     "category": "Places",
@@ -17465,6 +18834,42 @@
     ],
     "animation": "pop"
   },
+  "mars-stroke": {
+    "category": "People",
+    "tags": [
+      "mars",
+      "stroke",
+      "gender",
+      "transgender",
+      "symbol",
+      "male"
+    ],
+    "animation": "pop"
+  },
+  "mars-stroke-right": {
+    "category": "People",
+    "tags": [
+      "mars",
+      "stroke",
+      "right",
+      "gender",
+      "symbol",
+      "horizontal"
+    ],
+    "animation": "pop"
+  },
+  "mars-stroke-up": {
+    "category": "People",
+    "tags": [
+      "mars",
+      "stroke",
+      "up",
+      "gender",
+      "symbol",
+      "vertical"
+    ],
+    "animation": "pop"
+  },
   "martini-glass": {
     "category": "Objects",
     "tags": [
@@ -17582,6 +18987,18 @@
       "navigation"
     ],
     "animation": "squash"
+  },
+  "mercury": {
+    "category": "People",
+    "tags": [
+      "mercury",
+      "gender",
+      "transgender",
+      "intersex",
+      "symbol",
+      "planet"
+    ],
+    "animation": "pop"
   },
   "message": {
     "category": "Communication",
@@ -17989,6 +19406,42 @@
     "animation": "wiggle",
     "origin": "50% 90%"
   },
+  "microphone-circle-plus": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "circle",
+      "plus",
+      "mic",
+      "voice",
+      "sing",
+      "record",
+      "microfono",
+      "voz",
+      "cantar",
+      "hablar",
+      "inalambrico"
+    ],
+    "animation": "wiggle"
+  },
+  "microphone-circle-xmark": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "circle",
+      "xmark",
+      "mic",
+      "voice",
+      "sing",
+      "record",
+      "microfono",
+      "voz",
+      "cantar",
+      "hablar",
+      "inalambrico"
+    ],
+    "animation": "wiggle"
+  },
   "microphone-lines": {
     "category": "Music & Audio",
     "tags": [
@@ -17999,6 +19452,18 @@
       "podcast"
     ],
     "animation": "pulse"
+  },
+  "microphone-lines-slash": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "lines",
+      "slash",
+      "record",
+      "voice",
+      "podcast"
+    ],
+    "animation": "shake"
   },
   "microphone-off": {
     "category": "Media",
@@ -18012,6 +19477,19 @@
     ],
     "animation": "shake"
   },
+  "microscope": {
+    "category": "Health",
+    "tags": [
+      "microscope",
+      "science",
+      "lab",
+      "research",
+      "biology",
+      "laboratory",
+      "microscopio"
+    ],
+    "animation": "wiggle"
+  },
   "microwave": {
     "category": "Objects",
     "tags": [
@@ -18019,6 +19497,18 @@
       "oven",
       "kitchen",
       "appliance"
+    ],
+    "animation": "pop"
+  },
+  "mill-sign": {
+    "category": "Objects",
+    "tags": [
+      "mill",
+      "sign",
+      "currency",
+      "money",
+      "mil",
+      "thousandth"
     ],
     "animation": "pop"
   },
@@ -18174,6 +19664,18 @@
     "tags": [
       "mobile",
       "vibrate",
+      "phone",
+      "silent",
+      "buzz"
+    ],
+    "animation": "shake"
+  },
+  "mobile-vibrate-slash": {
+    "category": "Technology",
+    "tags": [
+      "mobile",
+      "vibrate",
+      "slash",
       "phone",
       "silent",
       "buzz"
@@ -18786,6 +20288,18 @@
     ],
     "animation": "pop"
   },
+  "nfc-lock": {
+    "category": "Technology",
+    "tags": [
+      "nfc",
+      "lock",
+      "near",
+      "field",
+      "contactless",
+      "tap"
+    ],
+    "animation": "shake"
+  },
   "nfc-signal": {
     "category": "Technology",
     "tags": [
@@ -18797,6 +20311,18 @@
       "wireless"
     ],
     "animation": "signal"
+  },
+  "nfc-slash": {
+    "category": "Technology",
+    "tags": [
+      "nfc",
+      "slash",
+      "near",
+      "field",
+      "contactless",
+      "tap"
+    ],
+    "animation": "shake"
   },
   "non-binary": {
     "category": "People",
@@ -19358,6 +20884,17 @@
     ],
     "animation": "pop"
   },
+  "overline": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "overline",
+      "text",
+      "format",
+      "line",
+      "decoration"
+    ],
+    "animation": "pop"
+  },
   "owl": {
     "category": "Nature",
     "tags": [
@@ -19369,6 +20906,19 @@
       "buho"
     ],
     "animation": "blink"
+  },
+  "pager": {
+    "category": "Technology",
+    "tags": [
+      "pager",
+      "beeper",
+      "message",
+      "device",
+      "hospital",
+      "notification",
+      "buscapersonas"
+    ],
+    "animation": "shake"
   },
   "paint-roller": {
     "category": "Objects",
@@ -19393,6 +20943,18 @@
     ],
     "animation": "rock"
   },
+  "paintbrush-fine-slash": {
+    "category": "Objects",
+    "tags": [
+      "paintbrush",
+      "fine",
+      "slash",
+      "art",
+      "detail",
+      "pincel"
+    ],
+    "animation": "shake"
+  },
   "palette": {
     "category": "Objects",
     "tags": [
@@ -19404,6 +20966,18 @@
       "paleta"
     ],
     "animation": "rock"
+  },
+  "pallet": {
+    "category": "Objects",
+    "tags": [
+      "pallet",
+      "warehouse",
+      "shipping",
+      "logistics",
+      "storage",
+      "palet"
+    ],
+    "animation": "bounce"
   },
   "pallet-boxes": {
     "category": "Objects",
@@ -19434,6 +21008,18 @@
       "breakfast",
       "food",
       "syrup"
+    ],
+    "animation": "pop"
+  },
+  "panorama": {
+    "category": "Media",
+    "tags": [
+      "panorama",
+      "wide",
+      "photo",
+      "landscape",
+      "image",
+      "360"
     ],
     "animation": "pop"
   },
@@ -19605,6 +21191,18 @@
     ],
     "animation": "write"
   },
+  "pen-clip-slash": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "clip",
+      "slash",
+      "write",
+      "edit",
+      "office"
+    ],
+    "animation": "shake"
+  },
   "pen-fancy": {
     "category": "Actions",
     "tags": [
@@ -19615,6 +21213,18 @@
       "write"
     ],
     "animation": "write"
+  },
+  "pen-fancy-slash": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "fancy",
+      "slash",
+      "fountain",
+      "calligraphy",
+      "write"
+    ],
+    "animation": "shake"
   },
   "pen-line": {
     "category": "Actions",
@@ -19639,6 +21249,19 @@
     ],
     "animation": "write"
   },
+  "pen-nib-slash": {
+    "category": "Interface",
+    "tags": [
+      "pen",
+      "nib",
+      "slash",
+      "fountain",
+      "write",
+      "vector",
+      "design"
+    ],
+    "animation": "shake"
+  },
   "pen-ruler": {
     "category": "Actions",
     "tags": [
@@ -19649,6 +21272,18 @@
       "measure"
     ],
     "animation": "write"
+  },
+  "pen-slash": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "slash",
+      "write",
+      "edit",
+      "sign",
+      "pluma"
+    ],
+    "animation": "shake"
   },
   "pen-to-square": {
     "category": "Actions",
@@ -19696,6 +21331,21 @@
       "write"
     ],
     "animation": "write"
+  },
+  "pencil-slash": {
+    "category": "Actions",
+    "tags": [
+      "pencil",
+      "slash",
+      "edit",
+      "write",
+      "modify",
+      "lapiz",
+      "editar",
+      "escribir",
+      "modificar"
+    ],
+    "animation": "shake"
   },
   "pentagon": {
     "category": "Interface",
@@ -19773,6 +21423,17 @@
       "porcentaje"
     ],
     "animation": "spin-slow"
+  },
+  "period": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "period",
+      "dot",
+      "full stop",
+      "punctuation",
+      "punto"
+    ],
+    "animation": "pop"
   },
   "person": {
     "category": "People",
@@ -20011,6 +21672,18 @@
       "blind"
     ],
     "animation": "nudge-right"
+  },
+  "peseta-sign": {
+    "category": "Objects",
+    "tags": [
+      "peseta",
+      "sign",
+      "currency",
+      "money",
+      "spain",
+      "pts"
+    ],
+    "animation": "pop"
   },
   "peso-sign": {
     "category": "Letters & Numbers",
@@ -20452,6 +22125,20 @@
     ],
     "animation": "nudge-up"
   },
+  "plane-lock": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "lock",
+      "trip",
+      "airport",
+      "airplane",
+      "flight",
+      "travel",
+      "avion"
+    ],
+    "animation": "shake"
+  },
   "plane-slash": {
     "category": "Places",
     "tags": [
@@ -20481,6 +22168,21 @@
       "avion"
     ],
     "animation": "float"
+  },
+  "plane-up-slash": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "up",
+      "slash",
+      "takeoff",
+      "north",
+      "airplane",
+      "flight",
+      "travel",
+      "avion"
+    ],
+    "animation": "shake"
   },
   "planet-moon": {
     "category": "Nature",
@@ -20637,6 +22339,18 @@
       "añadir"
     ],
     "animation": "quarter"
+  },
+  "plus-large": {
+    "category": "Interface",
+    "tags": [
+      "plus",
+      "large",
+      "add",
+      "new",
+      "create",
+      "big"
+    ],
+    "animation": "pop"
   },
   "plus-minus": {
     "category": "Letters & Numbers",
@@ -20818,6 +22532,19 @@
     ],
     "animation": "pulse"
   },
+  "prescription": {
+    "category": "Health",
+    "tags": [
+      "prescription",
+      "rx",
+      "medicine",
+      "pharmacy",
+      "drug",
+      "doctor",
+      "receta"
+    ],
+    "animation": "pop"
+  },
   "prescription-bottle": {
     "category": "Health",
     "tags": [
@@ -20861,6 +22588,17 @@
       "impresora"
     ],
     "animation": "nudge-down"
+  },
+  "print-slash": {
+    "category": "Objects",
+    "tags": [
+      "print",
+      "slash",
+      "printer",
+      "imprimir",
+      "impresora"
+    ],
+    "animation": "shake"
   },
   "progress-full": {
     "category": "Status",
@@ -21170,6 +22908,17 @@
     ],
     "animation": "spin-slow"
   },
+  "rectangle": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "shape",
+      "box",
+      "frame",
+      "rectangulo"
+    ],
+    "animation": "pop"
+  },
   "rectangle-ad": {
     "category": "Interface",
     "tags": [
@@ -21231,6 +22980,17 @@
       "add",
       "new",
       "create"
+    ],
+    "animation": "pop"
+  },
+  "rectangle-tall": {
+    "category": "Interface",
+    "tags": [
+      "rectangle",
+      "tall",
+      "vertical",
+      "portrait",
+      "shape"
     ],
     "animation": "pop"
   },
@@ -21488,6 +23248,57 @@
     ],
     "animation": "drive"
   },
+  "road-circle-check": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "circle",
+      "check",
+      "street",
+      "highway",
+      "route",
+      "carretera"
+    ],
+    "animation": "drive"
+  },
+  "road-circle-exclamation": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "circle",
+      "exclamation",
+      "street",
+      "highway",
+      "route",
+      "carretera"
+    ],
+    "animation": "drive"
+  },
+  "road-circle-xmark": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "circle",
+      "xmark",
+      "street",
+      "highway",
+      "route",
+      "carretera"
+    ],
+    "animation": "drive"
+  },
+  "road-lock": {
+    "category": "Places",
+    "tags": [
+      "road",
+      "lock",
+      "street",
+      "highway",
+      "route",
+      "carretera"
+    ],
+    "animation": "shake"
+  },
   "road-spikes": {
     "category": "Places",
     "tags": [
@@ -21615,6 +23426,18 @@
     ],
     "animation": "signal"
   },
+  "rows-3": {
+    "category": "Interface",
+    "tags": [
+      "rows",
+      "3",
+      "layout",
+      "list",
+      "stack",
+      "filas"
+    ],
+    "animation": "pop"
+  },
   "rss": {
     "category": "Communication",
     "tags": [
@@ -21738,6 +23561,18 @@
       "lanka",
       "money",
       "currency"
+    ],
+    "animation": "pop"
+  },
+  "rupiah-sign": {
+    "category": "Objects",
+    "tags": [
+      "rupiah",
+      "sign",
+      "currency",
+      "money",
+      "indonesia",
+      "rp"
     ],
     "animation": "pop"
   },
@@ -21974,6 +23809,22 @@
     ],
     "animation": "shake"
   },
+  "school-unlock": {
+    "category": "Places",
+    "tags": [
+      "school",
+      "unlock",
+      "education",
+      "building",
+      "class",
+      "escuela",
+      "colegio",
+      "educacion",
+      "estudiar",
+      "clases"
+    ],
+    "animation": "shake"
+  },
   "scissors": {
     "category": "Actions",
     "tags": [
@@ -22116,6 +23967,19 @@
       "encontrar"
     ],
     "animation": "search"
+  },
+  "section": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "section",
+      "paragraph",
+      "law",
+      "legal",
+      "sign",
+      "symbol",
+      "seccion"
+    ],
+    "animation": "pop"
   },
   "seedling": {
     "category": "Nature",
@@ -22522,6 +24386,18 @@
     ],
     "animation": "shake"
   },
+  "shop-slash": {
+    "category": "Places",
+    "tags": [
+      "shop",
+      "slash",
+      "closed",
+      "store",
+      "unavailable",
+      "cerrado"
+    ],
+    "animation": "shake"
+  },
   "shorts": {
     "category": "Objects",
     "tags": [
@@ -22585,6 +24461,30 @@
       "orbit"
     ],
     "animation": "nudge-right"
+  },
+  "sidebar": {
+    "category": "Interface",
+    "tags": [
+      "sidebar",
+      "panel",
+      "layout",
+      "menu",
+      "navigation",
+      "left"
+    ],
+    "animation": "nudge-right"
+  },
+  "sidebar-flip": {
+    "category": "Interface",
+    "tags": [
+      "sidebar",
+      "flip",
+      "panel",
+      "layout",
+      "right",
+      "navigation"
+    ],
+    "animation": "nudge-left"
   },
   "sigma": {
     "category": "Letters & Numbers",
@@ -22737,6 +24637,18 @@
     ],
     "animation": "signal"
   },
+  "signal-stream-slash": {
+    "category": "Technology",
+    "tags": [
+      "signal",
+      "stream",
+      "slash",
+      "broadcast",
+      "live",
+      "waves"
+    ],
+    "animation": "shake"
+  },
   "signal-strong": {
     "category": "Technology",
     "tags": [
@@ -22769,6 +24681,30 @@
       "firma"
     ],
     "animation": "write"
+  },
+  "signature-lock": {
+    "category": "Actions",
+    "tags": [
+      "signature",
+      "lock",
+      "sign",
+      "autograph",
+      "contract",
+      "firma"
+    ],
+    "animation": "shake"
+  },
+  "signature-slash": {
+    "category": "Actions",
+    "tags": [
+      "signature",
+      "slash",
+      "sign",
+      "autograph",
+      "contract",
+      "firma"
+    ],
+    "animation": "shake"
   },
   "signs-post": {
     "category": "Places",
@@ -22881,6 +24817,42 @@
     ],
     "animation": "shake"
   },
+  "slash": {
+    "category": "Interface",
+    "tags": [
+      "slash",
+      "line",
+      "divide",
+      "spinner",
+      "loading",
+      "diagonal"
+    ],
+    "animation": "spin"
+  },
+  "slash-back": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "slash",
+      "back",
+      "backslash",
+      "path",
+      "punctuation",
+      "barra invertida"
+    ],
+    "animation": "pop"
+  },
+  "slash-forward": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "slash",
+      "forward",
+      "divide",
+      "path",
+      "punctuation",
+      "barra"
+    ],
+    "animation": "pop"
+  },
   "sliders": {
     "category": "Interface",
     "tags": [
@@ -22958,6 +24930,18 @@
       "haze",
       "air",
       "quality"
+    ],
+    "animation": "float"
+  },
+  "smoking": {
+    "category": "Health",
+    "tags": [
+      "smoking",
+      "cigarette",
+      "smoke",
+      "tobacco",
+      "smoker",
+      "fumar"
     ],
     "animation": "float"
   },
@@ -23140,6 +25124,19 @@
       "accesorio"
     ],
     "animation": "beat"
+  },
+  "spell-check": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "spell",
+      "check",
+      "spelling",
+      "grammar",
+      "abc",
+      "proofread",
+      "ortografia"
+    ],
+    "animation": "pop"
   },
   "spider": {
     "category": "Nature",
@@ -23377,6 +25374,18 @@
     ],
     "animation": "pop"
   },
+  "square-a-lock": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "square",
+      "a",
+      "lock",
+      "letter",
+      "alphabet",
+      "initial"
+    ],
+    "animation": "shake"
+  },
   "square-ampersand": {
     "category": "Letters & Numbers",
     "tags": [
@@ -23479,6 +25488,19 @@
       "letter",
       "alphabet",
       "initial"
+    ],
+    "animation": "pop"
+  },
+  "square-binary": {
+    "category": "Technology",
+    "tags": [
+      "binary",
+      "square",
+      "code",
+      "bits",
+      "data",
+      "digital",
+      "computer"
     ],
     "animation": "pop"
   },
@@ -23644,6 +25666,19 @@
     "tags": [
       "square",
       "dashed",
+      "selection",
+      "outline",
+      "placeholder"
+    ],
+    "animation": "pulse"
+  },
+  "square-dashed-circle-plus": {
+    "category": "Interface",
+    "tags": [
+      "square",
+      "dashed",
+      "circle",
+      "plus",
       "selection",
       "outline",
       "placeholder"
@@ -24013,6 +26048,19 @@
       "estacionamiento"
     ],
     "animation": "pop"
+  },
+  "square-parking-slash": {
+    "category": "Places",
+    "tags": [
+      "square",
+      "parking",
+      "slash",
+      "p",
+      "car",
+      "park",
+      "estacionamiento"
+    ],
+    "animation": "shake"
   },
   "square-pen": {
     "category": "Interface",
@@ -24705,6 +26753,30 @@
     ],
     "animation": "bounce"
   },
+  "store-lock": {
+    "category": "Places",
+    "tags": [
+      "store",
+      "lock",
+      "shop",
+      "market",
+      "business",
+      "tienda"
+    ],
+    "animation": "shake"
+  },
+  "store-slash": {
+    "category": "Places",
+    "tags": [
+      "store",
+      "slash",
+      "closed",
+      "shop",
+      "unavailable",
+      "cerrado"
+    ],
+    "animation": "shake"
+  },
   "strawberry": {
     "category": "Nature",
     "tags": [
@@ -24927,6 +26999,33 @@
     ],
     "animation": "pulse"
   },
+  "table-cells": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "cells",
+      "grid",
+      "spreadsheet",
+      "data",
+      "rows",
+      "columns",
+      "tabla"
+    ],
+    "animation": "pop"
+  },
+  "table-cells-column-lock": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "column",
+      "lock",
+      "locked",
+      "freeze",
+      "spreadsheet",
+      "protected"
+    ],
+    "animation": "shake"
+  },
   "table-cells-large": {
     "category": "Interface",
     "tags": [
@@ -24937,6 +27036,62 @@
       "spreadsheet"
     ],
     "animation": "pop"
+  },
+  "table-cells-lock": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "cells",
+      "lock",
+      "grid",
+      "spreadsheet",
+      "data",
+      "rows",
+      "columns",
+      "tabla"
+    ],
+    "animation": "shake"
+  },
+  "table-cells-row-lock": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "row",
+      "lock",
+      "locked",
+      "freeze",
+      "spreadsheet",
+      "protected"
+    ],
+    "animation": "shake"
+  },
+  "table-cells-row-unlock": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "row",
+      "unlock",
+      "unlocked",
+      "unfreeze",
+      "spreadsheet",
+      "open"
+    ],
+    "animation": "shake"
+  },
+  "table-cells-unlock": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "cells",
+      "unlock",
+      "grid",
+      "spreadsheet",
+      "data",
+      "rows",
+      "columns",
+      "tabla"
+    ],
+    "animation": "shake"
   },
   "table-columns": {
     "category": "Interface",
@@ -24968,6 +27123,19 @@
       "spreadsheet"
     ],
     "animation": "pop"
+  },
+  "table-slash": {
+    "category": "Interface",
+    "tags": [
+      "table",
+      "slash",
+      "spreadsheet",
+      "data",
+      "rows",
+      "columns",
+      "grid"
+    ],
+    "animation": "shake"
   },
   "tablet": {
     "category": "Technology",
@@ -25066,6 +27234,18 @@
       "score"
     ],
     "animation": "pop"
+  },
+  "tape": {
+    "category": "Objects",
+    "tags": [
+      "tape",
+      "adhesive",
+      "roll",
+      "packing",
+      "duct",
+      "cinta"
+    ],
+    "animation": "spin"
   },
   "taurus": {
     "category": "Religion",
@@ -25321,6 +27501,18 @@
     ],
     "animation": "pop"
   },
+  "text-slash": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "text",
+      "slash",
+      "clear formatting",
+      "remove",
+      "format",
+      "no text"
+    ],
+    "animation": "shake"
+  },
   "text-width": {
     "category": "Letters & Numbers",
     "tags": [
@@ -25532,6 +27724,18 @@
       "papel"
     ],
     "animation": "spin"
+  },
+  "toilet-paper-slash": {
+    "category": "Objects",
+    "tags": [
+      "toilet",
+      "paper",
+      "slash",
+      "roll",
+      "bathroom",
+      "papel"
+    ],
+    "animation": "shake"
   },
   "toilet-portable": {
     "category": "Places",
@@ -25784,6 +27988,20 @@
     ],
     "animation": "shake"
   },
+  "trash-arrow-up": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "arrow",
+      "up",
+      "restore",
+      "recover",
+      "undelete",
+      "bin",
+      "restaurar"
+    ],
+    "animation": "nudge-up"
+  },
   "trash-can": {
     "category": "Actions",
     "tags": [
@@ -25857,6 +28075,20 @@
       "plus",
       "add",
       "new",
+      "delete",
+      "bin",
+      "remove"
+    ],
+    "animation": "shake"
+  },
+  "trash-can-slash": {
+    "category": "Actions",
+    "tags": [
+      "trash",
+      "can",
+      "slash",
+      "garbage",
+      "waste",
       "delete",
       "bin",
       "remove"
@@ -26128,6 +28360,19 @@
     ],
     "animation": "drive"
   },
+  "truck-fast": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "fast",
+      "shipping",
+      "delivery",
+      "express",
+      "speed",
+      "envio"
+    ],
+    "animation": "drive"
+  },
   "truck-fire": {
     "category": "Places",
     "tags": [
@@ -26241,6 +28486,19 @@
       "turkey",
       "money",
       "currency"
+    ],
+    "animation": "pop"
+  },
+  "tv": {
+    "category": "Technology",
+    "tags": [
+      "tv",
+      "television",
+      "screen",
+      "watch",
+      "media",
+      "antenna",
+      "televisor"
     ],
     "animation": "pop"
   },
@@ -26507,6 +28765,19 @@
     ],
     "animation": "pop"
   },
+  "user-gear": {
+    "category": "People",
+    "tags": [
+      "user",
+      "gear",
+      "settings",
+      "account",
+      "profile",
+      "admin",
+      "configuration"
+    ],
+    "animation": "bounce"
+  },
   "user-graduate": {
     "category": "People",
     "tags": [
@@ -26617,6 +28888,19 @@
     ],
     "animation": "shake"
   },
+  "user-tag": {
+    "category": "People",
+    "tags": [
+      "user",
+      "tag",
+      "label",
+      "role",
+      "badge",
+      "account",
+      "etiqueta"
+    ],
+    "animation": "bounce"
+  },
   "user-tie": {
     "category": "People",
     "tags": [
@@ -26628,6 +28912,21 @@
       "formal"
     ],
     "animation": "bounce"
+  },
+  "user-unlock": {
+    "category": "People",
+    "tags": [
+      "user",
+      "unlock",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario",
+      "cuenta",
+      "perfil"
+    ],
+    "animation": "shake"
   },
   "user-x": {
     "category": "People",
@@ -26653,6 +28952,19 @@
       "grupo",
       "equipo",
       "gente"
+    ],
+    "animation": "bounce"
+  },
+  "users-gear": {
+    "category": "People",
+    "tags": [
+      "users",
+      "gear",
+      "settings",
+      "group",
+      "team",
+      "admin",
+      "manage"
     ],
     "animation": "bounce"
   },
@@ -26794,6 +29106,21 @@
     ],
     "animation": "wiggle"
   },
+  "vial-circle-check": {
+    "category": "Health",
+    "tags": [
+      "vial",
+      "circle",
+      "check",
+      "test",
+      "tube",
+      "lab",
+      "sample",
+      "medicine",
+      "tubo"
+    ],
+    "animation": "wiggle"
+  },
   "vials": {
     "category": "Health",
     "tags": [
@@ -26919,6 +29246,19 @@
       "bacteria"
     ],
     "animation": "spin-slow"
+  },
+  "virus-slash": {
+    "category": "Health",
+    "tags": [
+      "virus",
+      "slash",
+      "covid",
+      "disinfect",
+      "clean",
+      "immune",
+      "antivirus"
+    ],
+    "animation": "shake"
   },
   "voicemail": {
     "category": "Communication",
@@ -27363,6 +29703,20 @@
     "tags": [
       "wheat",
       "awn",
+      "grain",
+      "harvest",
+      "agriculture",
+      "trigo"
+    ],
+    "animation": "swing"
+  },
+  "wheat-awn-circle-exclamation": {
+    "category": "Nature",
+    "tags": [
+      "wheat",
+      "awn",
+      "circle",
+      "exclamation",
       "grain",
       "harvest",
       "agriculture",
