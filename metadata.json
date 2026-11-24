@@ -21590,6 +21590,17 @@
     ],
     "animation": "pop"
   },
+  "kayak": {
+    "category": "Objects",
+    "tags": [
+      "kayak",
+      "paddle",
+      "boat",
+      "water",
+      "sport"
+    ],
+    "animation": "float"
+  },
   "kettlebell": {
     "category": "Health",
     "tags": [
@@ -24492,6 +24503,49 @@
     ],
     "animation": "nudge-diag"
   },
+  "meter": {
+    "category": "Objects",
+    "tags": [
+      "meter",
+      "gauge",
+      "utility",
+      "reading"
+    ],
+    "animation": "pulse"
+  },
+  "meter-bolt": {
+    "category": "Objects",
+    "tags": [
+      "meter",
+      "bolt",
+      "electricity",
+      "electric",
+      "power",
+      "utility"
+    ],
+    "animation": "flash"
+  },
+  "meter-droplet": {
+    "category": "Objects",
+    "tags": [
+      "meter",
+      "droplet",
+      "water",
+      "utility"
+    ],
+    "animation": "pulse"
+  },
+  "meter-fire": {
+    "category": "Objects",
+    "tags": [
+      "meter",
+      "fire",
+      "gas",
+      "heating",
+      "utility"
+    ],
+    "animation": "flicker"
+  },
   "microchip": {
     "category": "Objects",
     "tags": [
@@ -26804,6 +26858,27 @@
     ],
     "animation": "bounce"
   },
+  "peanuts": {
+    "category": "Objects",
+    "tags": [
+      "peanuts",
+      "peanut",
+      "nuts",
+      "snack",
+      "allergy"
+    ],
+    "animation": "pop"
+  },
+  "peapod": {
+    "category": "Objects",
+    "tags": [
+      "peapod",
+      "peas",
+      "vegetable",
+      "green"
+    ],
+    "animation": "pop"
+  },
   "pear": {
     "category": "Nature",
     "tags": [
@@ -27729,6 +27804,59 @@
     ],
     "animation": "rock"
   },
+  "pipe": {
+    "category": "Objects",
+    "tags": [
+      "pipe",
+      "plumbing",
+      "tube"
+    ],
+    "animation": "pop"
+  },
+  "pipe-circle-check": {
+    "category": "Objects",
+    "tags": [
+      "pipe",
+      "circle",
+      "check",
+      "plumbing",
+      "ok",
+      "approved"
+    ],
+    "animation": "pop"
+  },
+  "pipe-collar": {
+    "category": "Objects",
+    "tags": [
+      "pipe",
+      "collar",
+      "coupling",
+      "plumbing"
+    ],
+    "animation": "pop"
+  },
+  "pipe-section": {
+    "category": "Objects",
+    "tags": [
+      "pipe",
+      "section",
+      "plumbing",
+      "tube"
+    ],
+    "animation": "pop"
+  },
+  "pipe-valve": {
+    "category": "Objects",
+    "tags": [
+      "pipe",
+      "valve",
+      "plumbing",
+      "water",
+      "shut",
+      "off"
+    ],
+    "animation": "spin"
+  },
   "pisces": {
     "category": "Religion",
     "tags": [
@@ -28332,6 +28460,16 @@
     ],
     "animation": "pop"
   },
+  "pretzel": {
+    "category": "Objects",
+    "tags": [
+      "pretzel",
+      "snack",
+      "bakery",
+      "german"
+    ],
+    "animation": "pop"
+  },
   "print": {
     "category": "Objects",
     "tags": [
@@ -28577,6 +28715,17 @@
       "citation",
       "testimonial",
       "cita"
+    ],
+    "animation": "pop"
+  },
+  "quotes": {
+    "category": "Interface",
+    "tags": [
+      "quotes",
+      "quotation",
+      "marks",
+      "citation",
+      "text"
     ],
     "animation": "pop"
   },
@@ -29028,6 +29177,17 @@
     ],
     "animation": "nudge-right"
   },
+  "reel": {
+    "category": "Objects",
+    "tags": [
+      "reel",
+      "spool",
+      "thread",
+      "film",
+      "fishing"
+    ],
+    "animation": "spin"
+  },
   "refresh": {
     "category": "Arrows",
     "tags": [
@@ -29208,6 +29368,17 @@
       "propose"
     ],
     "animation": "glow"
+  },
+  "rings-wedding": {
+    "category": "Objects",
+    "tags": [
+      "rings",
+      "wedding",
+      "marriage",
+      "engagement",
+      "love"
+    ],
+    "animation": "beat"
   },
   "road": {
     "category": "Places",
@@ -29708,6 +29879,17 @@
     ],
     "animation": "bounce"
   },
+  "saxophone": {
+    "category": "Music & Audio",
+    "tags": [
+      "saxophone",
+      "sax",
+      "jazz",
+      "music",
+      "instrument"
+    ],
+    "animation": "wiggle"
+  },
   "scale-balanced": {
     "category": "Objects",
     "tags": [
@@ -29951,6 +30133,17 @@
       "old"
     ],
     "animation": "flip"
+  },
+  "scroll-old": {
+    "category": "Objects",
+    "tags": [
+      "scroll",
+      "old",
+      "parchment",
+      "ancient",
+      "document"
+    ],
+    "animation": "pop"
   },
   "scroll-torah": {
     "category": "Religion",
@@ -30539,6 +30732,16 @@
     ],
     "animation": "rock"
   },
+  "shovel-snow": {
+    "category": "Objects",
+    "tags": [
+      "shovel",
+      "snow",
+      "winter",
+      "clean"
+    ],
+    "animation": "swing"
+  },
   "shower": {
     "category": "Objects",
     "tags": [
@@ -30613,6 +30816,17 @@
     ],
     "animation": "bounce"
   },
+  "sickle": {
+    "category": "Objects",
+    "tags": [
+      "sickle",
+      "harvest",
+      "farm",
+      "reap",
+      "tool"
+    ],
+    "animation": "swing"
+  },
   "sidebar": {
     "category": "Interface",
     "tags": [
@@ -30659,6 +30873,39 @@
     ],
     "animation": "swing",
     "origin": "50% 10%"
+  },
+  "sign-post": {
+    "category": "Places",
+    "tags": [
+      "sign",
+      "post",
+      "direction",
+      "road",
+      "way"
+    ],
+    "animation": "swing"
+  },
+  "sign-posts": {
+    "category": "Places",
+    "tags": [
+      "sign",
+      "posts",
+      "directions",
+      "crossroads"
+    ],
+    "animation": "swing"
+  },
+  "sign-posts-wrench": {
+    "category": "Places",
+    "tags": [
+      "sign",
+      "posts",
+      "wrench",
+      "maintenance",
+      "repair",
+      "road"
+    ],
+    "animation": "swing"
   },
   "signal": {
     "category": "Technology",
@@ -30959,6 +31206,26 @@
       "organization"
     ],
     "animation": "pop"
+  },
+  "ski-boot": {
+    "category": "Objects",
+    "tags": [
+      "ski",
+      "boot",
+      "winter",
+      "sport"
+    ],
+    "animation": "pop"
+  },
+  "ski-boot-ski": {
+    "category": "Objects",
+    "tags": [
+      "ski",
+      "boot",
+      "winter",
+      "sport"
+    ],
+    "animation": "slide"
   },
   "skip-back": {
     "category": "Media",
@@ -33547,6 +33814,28 @@
     ],
     "animation": "pulse"
   },
+  "star-pointed": {
+    "category": "Interface",
+    "tags": [
+      "star",
+      "pointed",
+      "sparkle",
+      "shine",
+      "four"
+    ],
+    "animation": "spin"
+  },
+  "star-pointed-half": {
+    "category": "Interface",
+    "tags": [
+      "star",
+      "pointed",
+      "half",
+      "sparkle",
+      "rating"
+    ],
+    "animation": "spin"
+  },
   "star-shooting": {
     "category": "Weather",
     "tags": [
@@ -34017,6 +34306,17 @@
     ],
     "animation": "pulse"
   },
+  "table-bar": {
+    "category": "Objects",
+    "tags": [
+      "table",
+      "bar",
+      "pub",
+      "high",
+      "furniture"
+    ],
+    "animation": "pop"
+  },
   "table-cells": {
     "category": "Interface",
     "tags": [
@@ -34304,6 +34604,16 @@
     ],
     "animation": "shake"
   },
+  "table-dining": {
+    "category": "Objects",
+    "tags": [
+      "table",
+      "dining",
+      "eat",
+      "furniture"
+    ],
+    "animation": "pop"
+  },
   "table-layout": {
     "category": "Interface",
     "tags": [
@@ -34325,6 +34635,17 @@
       "rows",
       "data",
       "spreadsheet"
+    ],
+    "animation": "pop"
+  },
+  "table-picnic": {
+    "category": "Places",
+    "tags": [
+      "table",
+      "picnic",
+      "park",
+      "outdoor",
+      "bench"
     ],
     "animation": "pop"
   },
@@ -35426,6 +35747,18 @@
     ],
     "animation": "pop"
   },
+  "tombstone-blank": {
+    "category": "Religion",
+    "tags": [
+      "tombstone",
+      "blank",
+      "grave",
+      "rip",
+      "halloween",
+      "cemetery"
+    ],
+    "animation": "pop"
+  },
   "toolbox": {
     "category": "Objects",
     "tags": [
@@ -36078,6 +36411,16 @@
     ],
     "animation": "shake"
   },
+  "triangle-instrument": {
+    "category": "Music & Audio",
+    "tags": [
+      "triangle",
+      "instrument",
+      "percussion",
+      "music"
+    ],
+    "animation": "shake"
+  },
   "tricycle": {
     "category": "Objects",
     "tags": [
@@ -36146,6 +36489,16 @@
       "skip"
     ],
     "animation": "nudge-up"
+  },
+  "trombone": {
+    "category": "Music & Audio",
+    "tags": [
+      "trombone",
+      "brass",
+      "music",
+      "instrument"
+    ],
+    "animation": "slide"
   },
   "trophy": {
     "category": "Objects",
@@ -36486,6 +36839,16 @@
       "old"
     ],
     "animation": "pop"
+  },
+  "typewriter": {
+    "category": "Objects",
+    "tags": [
+      "typewriter",
+      "writer",
+      "typing",
+      "retro"
+    ],
+    "animation": "write"
   },
   "ufo": {
     "category": "Objects",
@@ -37617,6 +37980,18 @@
     ],
     "animation": "shake"
   },
+  "utility-can": {
+    "category": "Objects",
+    "tags": [
+      "utility",
+      "can",
+      "gas",
+      "fuel",
+      "jerry",
+      "jerrycan"
+    ],
+    "animation": "pop"
+  },
   "utility-pole": {
     "category": "Objects",
     "tags": [
@@ -38456,6 +38831,17 @@
     ],
     "animation": "float"
   },
+  "wheat": {
+    "category": "Nature",
+    "tags": [
+      "wheat",
+      "grain",
+      "farm",
+      "bread",
+      "harvest"
+    ],
+    "animation": "swing"
+  },
   "wheat-awn": {
     "category": "Nature",
     "tags": [
@@ -38495,6 +38881,22 @@
       "harvest",
       "agriculture",
       "trigo"
+    ],
+    "animation": "shake"
+  },
+  "wheat-slash": {
+    "category": "Nature",
+    "tags": [
+      "slash",
+      "gluten",
+      "free",
+      "no",
+      "wheat",
+      "allergy",
+      "grain",
+      "farm",
+      "bread",
+      "harvest"
     ],
     "animation": "shake"
   },
