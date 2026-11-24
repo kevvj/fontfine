@@ -108,6 +108,19 @@
     ],
     "animation": "ring"
   },
+  "alarm-minus": {
+    "category": "Interface",
+    "tags": [
+      "remove",
+      "alarm",
+      "clock",
+      "wake",
+      "up",
+      "time",
+      "morning"
+    ],
+    "animation": "ring"
+  },
   "alarm-plus": {
     "category": "Interface",
     "tags": [
@@ -1926,6 +1939,21 @@
     ],
     "animation": "pop"
   },
+  "audio-description-slash": {
+    "category": "Health",
+    "tags": [
+      "slash",
+      "off",
+      "disabled",
+      "audio",
+      "description",
+      "ad",
+      "accessibility",
+      "narration",
+      "blind"
+    ],
+    "animation": "shake"
+  },
   "audio-mixer": {
     "category": "Music & Audio",
     "tags": [
@@ -3444,6 +3472,18 @@
     ],
     "animation": "bounce"
   },
+  "boot-heeled": {
+    "category": "Objects",
+    "tags": [
+      "boot",
+      "heeled",
+      "heels",
+      "shoe",
+      "fashion",
+      "clothing"
+    ],
+    "animation": "bounce"
+  },
   "border-all": {
     "category": "Interface",
     "tags": [
@@ -3881,6 +3921,17 @@
       "guante"
     ],
     "animation": "shake"
+  },
+  "bra": {
+    "category": "Objects",
+    "tags": [
+      "bra",
+      "lingerie",
+      "underwear",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
   },
   "bracket-curly": {
     "category": "Interface",
@@ -4549,6 +4600,17 @@
       "kit"
     ],
     "animation": "rock"
+  },
+  "briefs": {
+    "category": "Objects",
+    "tags": [
+      "briefs",
+      "underwear",
+      "boxer",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
   },
   "brightness": {
     "category": "Interface",
@@ -10692,6 +10754,19 @@
     ],
     "animation": "pop"
   },
+  "comments-question": {
+    "category": "Communication",
+    "tags": [
+      "help",
+      "faq",
+      "ask",
+      "comments",
+      "conversation",
+      "chat",
+      "discussion"
+    ],
+    "animation": "pop"
+  },
   "compact-disc": {
     "category": "Media",
     "tags": [
@@ -12324,6 +12399,19 @@
     ],
     "animation": "wiggle"
   },
+  "ear-circle-checkmark": {
+    "category": "Health",
+    "tags": [
+      "hearing",
+      "test",
+      "ok",
+      "ear",
+      "listen",
+      "sound",
+      "oreja"
+    ],
+    "animation": "wiggle"
+  },
   "ear-deaf": {
     "category": "Health",
     "tags": [
@@ -12356,6 +12444,19 @@
       "warm",
       "cold",
       "orejeras"
+    ],
+    "animation": "wiggle"
+  },
+  "ear-triangle-exclamation": {
+    "category": "Health",
+    "tags": [
+      "hearing",
+      "warning",
+      "loss",
+      "ear",
+      "listen",
+      "sound",
+      "oreja"
     ],
     "animation": "wiggle"
   },
@@ -17511,6 +17612,18 @@
     ],
     "animation": "shake"
   },
+  "hat-beach": {
+    "category": "Objects",
+    "tags": [
+      "hat",
+      "beach",
+      "sun",
+      "summer",
+      "straw",
+      "clothing"
+    ],
+    "animation": "swing"
+  },
   "hat-chef": {
     "category": "Objects",
     "tags": [
@@ -17780,6 +17893,18 @@
       "romance"
     ],
     "animation": "beat"
+  },
+  "heat": {
+    "category": "Weather",
+    "tags": [
+      "heat",
+      "hot",
+      "temperature",
+      "warm",
+      "waves",
+      "summer"
+    ],
+    "animation": "wave"
   },
   "helicopter": {
     "category": "Places",
@@ -19000,6 +19125,18 @@
     ],
     "animation": "pop"
   },
+  "jeans-straight": {
+    "category": "Objects",
+    "tags": [
+      "jeans",
+      "straight",
+      "denim",
+      "pants",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
+  },
   "jet-fighter": {
     "category": "Places",
     "tags": [
@@ -19201,6 +19338,16 @@
       "cuchillo"
     ],
     "animation": "rock"
+  },
+  "label": {
+    "category": "Objects",
+    "tags": [
+      "label",
+      "tag",
+      "price",
+      "sticker"
+    ],
+    "animation": "swing"
   },
   "ladder": {
     "category": "Objects",
@@ -21470,6 +21617,20 @@
     ],
     "animation": "pop"
   },
+  "messages-question": {
+    "category": "Communication",
+    "tags": [
+      "help",
+      "faq",
+      "ask",
+      "messages",
+      "chat",
+      "conversation",
+      "multiple",
+      "bubbles"
+    ],
+    "animation": "pop"
+  },
   "meteor": {
     "category": "Nature",
     "tags": [
@@ -21983,6 +22144,18 @@
       "oscuro"
     ],
     "animation": "rock"
+  },
+  "moon-cloud": {
+    "category": "Weather",
+    "tags": [
+      "moon",
+      "cloud",
+      "night",
+      "weather",
+      "partly",
+      "cloudy"
+    ],
+    "animation": "float"
   },
   "moon-first-quarter": {
     "category": "Weather",
@@ -22581,6 +22754,18 @@
       "character"
     ],
     "animation": "shake"
+  },
+  "note": {
+    "category": "Files",
+    "tags": [
+      "note",
+      "sticky",
+      "memo",
+      "post",
+      "it",
+      "paper"
+    ],
+    "animation": "pop"
   },
   "note-medical": {
     "category": "Health",
@@ -23203,6 +23388,21 @@
     ],
     "animation": "shake"
   },
+  "paintbrush-slash": {
+    "category": "Objects",
+    "tags": [
+      "slash",
+      "no",
+      "paint",
+      "disabled",
+      "paintbrush",
+      "brush",
+      "art",
+      "design",
+      "pincel"
+    ],
+    "animation": "shake"
+  },
   "palette": {
     "category": "Objects",
     "tags": [
@@ -23270,6 +23470,38 @@
       "360"
     ],
     "animation": "pop"
+  },
+  "panties": {
+    "category": "Objects",
+    "tags": [
+      "panties",
+      "underwear",
+      "lingerie",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
+  },
+  "pants": {
+    "category": "Objects",
+    "tags": [
+      "pants",
+      "trousers",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
+  },
+  "pants-straight": {
+    "category": "Objects",
+    "tags": [
+      "pants",
+      "straight",
+      "trousers",
+      "clothing",
+      "clothes"
+    ],
+    "animation": "swing"
   },
   "paper-plane": {
     "category": "Communication",
@@ -25198,6 +25430,16 @@
     ],
     "animation": "pop"
   },
+  "rainbow-half": {
+    "category": "Weather",
+    "tags": [
+      "rainbow",
+      "half",
+      "arc",
+      "weather"
+    ],
+    "animation": "pop"
+  },
   "raindrops": {
     "category": "Weather",
     "tags": [
@@ -26274,6 +26516,18 @@
     ],
     "animation": "pulse"
   },
+  "scarf": {
+    "category": "Objects",
+    "tags": [
+      "scarf",
+      "winter",
+      "neck",
+      "clothing",
+      "clothes",
+      "cold"
+    ],
+    "animation": "swing"
+  },
   "school": {
     "category": "Places",
     "tags": [
@@ -26886,6 +27140,16 @@
     ],
     "animation": "swing"
   },
+  "shoe": {
+    "category": "Objects",
+    "tags": [
+      "shoe",
+      "sneaker",
+      "footwear",
+      "clothing"
+    ],
+    "animation": "bounce"
+  },
   "shoe-prints": {
     "category": "People",
     "tags": [
@@ -27424,6 +27688,17 @@
     ],
     "animation": "pop"
   },
+  "slider": {
+    "category": "Interface",
+    "tags": [
+      "slider",
+      "range",
+      "control",
+      "input",
+      "volume"
+    ],
+    "animation": "slide"
+  },
   "sliders": {
     "category": "Interface",
     "tags": [
@@ -27536,6 +27811,17 @@
       "winter",
       "frozen",
       "nieve"
+    ],
+    "animation": "spin-slow"
+  },
+  "snowflakes": {
+    "category": "Weather",
+    "tags": [
+      "snowflakes",
+      "snow",
+      "winter",
+      "cold",
+      "weather"
     ],
     "animation": "spin-slow"
   },
@@ -27777,6 +28063,17 @@
       "espiral"
     ],
     "animation": "spin"
+  },
+  "split": {
+    "category": "Arrows",
+    "tags": [
+      "split",
+      "fork",
+      "divide",
+      "branch",
+      "arrows"
+    ],
+    "animation": "nudge-up"
   },
   "splotch": {
     "category": "Objects",
@@ -30016,6 +30313,18 @@
       "light"
     ],
     "animation": "spin-slow"
+  },
+  "sun-cloud": {
+    "category": "Weather",
+    "tags": [
+      "sun",
+      "cloud",
+      "weather",
+      "partly",
+      "sunny",
+      "day"
+    ],
+    "animation": "float"
   },
   "sun-dust": {
     "category": "Weather",
@@ -33651,6 +33960,17 @@
       "sandia"
     ],
     "animation": "rock"
+  },
+  "wave": {
+    "category": "Weather",
+    "tags": [
+      "wave",
+      "water",
+      "ocean",
+      "sea",
+      "surf"
+    ],
+    "animation": "wave"
   },
   "wave-pulse": {
     "category": "Health",
