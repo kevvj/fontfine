@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 2627 / 3779**
+**Progress: 2722 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -799,36 +799,36 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] music
 - [x] user-graduate
 
-## Emoji (24/33)
+## Emoji (33/33)
 
 - [x] face-angry
 - [x] face-dizzy
-- [ ] face-flushed
+- [x] face-flushed
 - [x] face-frown-open
 - [x] face-grimace
 - [x] face-grin
 - [x] face-grin-beam
-- [ ] face-grin-beam-sweat
+- [x] face-grin-beam-sweat
 - [x] face-grin-hearts
 - [x] face-grin-squint
-- [ ] face-grin-squint-tears
+- [x] face-grin-squint-tears
 - [x] face-grin-stars
 - [x] face-grin-tears
 - [x] face-grin-tongue
-- [ ] face-grin-tongue-squint
+- [x] face-grin-tongue-squint
 - [x] face-grin-tongue-wink
 - [x] face-grin-wide
-- [ ] face-grin-wink
+- [x] face-grin-wink
 - [x] face-kiss
 - [x] face-kiss-beam
-- [ ] face-kiss-wink-heart
+- [x] face-kiss-wink-heart
 - [x] face-laugh
 - [x] face-laugh-beam
-- [ ] face-laugh-squint
-- [ ] face-laugh-wink
+- [x] face-laugh-squint
+- [x] face-laugh-wink
 - [x] face-meh-blank
 - [x] face-rolling-eyes
-- [ ] face-sad-cry
+- [x] face-sad-cry
 - [x] face-sad-tear
 - [x] face-smile-beam
 - [x] face-smile-wink
@@ -987,29 +987,29 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] mask
 - [x] skull
 
-## Hands (9/24)
+## Hands (18/24)
 
 - [x] hand
 - [ ] hand-back-fist
-- [ ] hand-dots
+- [x] hand-dots
 - [x] hand-holding
 - [x] hand-holding-medical
 - [ ] hand-lizard
-- [ ] hand-middle-finger
+- [x] hand-middle-finger
 - [x] hand-peace
-- [ ] hand-point-down
-- [ ] hand-point-left
-- [ ] hand-point-right
+- [x] hand-point-down
+- [x] hand-point-left
+- [x] hand-point-right
 - [ ] hand-point-up
 - [x] hand-pointer
-- [ ] hand-scissors
-- [ ] hand-sparkles
-- [ ] hand-spock
+- [x] hand-scissors
+- [x] hand-sparkles
+- [x] hand-spock
 - [ ] hands-bound
 - [ ] hands-bubbles
 - [x] hands-clapping
 - [ ] hands-holding
-- [ ] hands-praying
+- [x] hands-praying
 - [x] handshake-slash
 - [x] thumbs-down
 - [x] thumbs-up
@@ -2494,24 +2494,24 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] eye-evil
 - [x] eyes
 
-## Extended: F (101/198)
+## Extended: F (145/198)
 
 - [ ] face-angry-horns
-- [ ] face-anguished
-- [ ] face-anxious-sweat
+- [x] face-anguished
+- [x] face-anxious-sweat
 - [x] face-astonished
 - [ ] face-awesome
 - [ ] face-beam-hand-over-mouth
 - [ ] face-clouds
-- [ ] face-confounded
+- [x] face-confounded
 - [x] face-confused
 - [x] face-cowboy-hat
 - [x] face-diagonal-mouth
 - [x] face-disappointed
 - [ ] face-disguise
 - [ ] face-dotted
-- [ ] face-downcast-sweat
-- [ ] face-drooling
+- [x] face-downcast-sweat
+- [x] face-drooling
 - [x] face-exhaling
 - [ ] face-explode
 - [x] face-expressionless
@@ -2528,25 +2528,25 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] face-icicles
 - [x] face-kiss-closed-eyes
 - [x] face-lying
-- [ ] face-mask
+- [x] face-mask
 - [ ] face-melting
-- [ ] face-monocle
-- [ ] face-nauseated
+- [x] face-monocle
+- [x] face-nauseated
 - [ ] face-nose-steam
 - [x] face-party
 - [x] face-pensive
-- [ ] face-persevering
-- [ ] face-pleading
+- [x] face-persevering
+- [x] face-pleading
 - [x] face-pouting
-- [ ] face-raised-eyebrow
-- [ ] face-relieved
-- [ ] face-sad-sweat
+- [x] face-raised-eyebrow
+- [x] face-relieved
+- [x] face-sad-sweat
 - [ ] face-saluting
 - [x] face-scream
 - [ ] face-shaking
 - [ ] face-shaking-horizontal
 - [ ] face-shaking-vertical
-- [ ] face-shush
+- [x] face-shush
 - [x] face-sleeping
 - [x] face-sleepy
 - [x] face-smile-halo
@@ -2558,22 +2558,22 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] face-smile-tongue
 - [x] face-smile-upside-down
 - [ ] face-smiling-hands
-- [ ] face-smirking
+- [x] face-smirking
 - [ ] face-spiral-eyes
 - [x] face-sunglasses
 - [x] face-swear
 - [ ] face-thermometer
-- [ ] face-thinking
+- [x] face-thinking
 - [ ] face-tissue
 - [ ] face-tongue-money
-- [ ] face-tongue-sweat
+- [x] face-tongue-sweat
 - [x] face-unamused
 - [ ] face-viewfinder
 - [ ] face-vomit
 - [x] face-weary
-- [ ] face-woozy
+- [x] face-woozy
 - [x] face-worried
-- [ ] face-zany
+- [x] face-zany
 - [x] face-zipper
 - [ ] falafel
 - [ ] family
@@ -2585,53 +2585,53 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ferris-wheel
 - [ ] field-hockey-stick
 - [ ] field-hockey-stick-ball
-- [ ] file-aiff
+- [x] file-aiff
 - [ ] file-ban
 - [ ] file-binary
 - [x] file-brackets-curly
-- [ ] file-cad
+- [x] file-cad
 - [x] file-certificate
 - [x] file-chart-column
 - [x] file-chart-pie
 - [x] file-check
 - [x] file-circle-info
-- [ ] file-css
+- [x] file-css
 - [x] file-dashed-line
-- [ ] file-doc
-- [ ] file-eps
+- [x] file-doc
+- [x] file-eps
 - [x] file-exclamation
-- [ ] file-gif
+- [x] file-gif
 - [x] file-heart
-- [ ] file-html
-- [ ] file-icns
-- [ ] file-jpg
-- [ ] file-js
+- [x] file-html
+- [x] file-icns
+- [x] file-jpg
+- [x] file-js
 - [x] file-lock
 - [x] file-magnifying-glass
-- [ ] file-md
-- [ ] file-midi
+- [x] file-md
+- [x] file-midi
 - [x] file-minus
-- [ ] file-mov
-- [ ] file-mp3
-- [ ] file-mp4
+- [x] file-mov
+- [x] file-mp3
+- [x] file-mp4
 - [x] file-music
-- [ ] file-odf
+- [x] file-odf
 - [x] file-plus
 - [x] file-plus-minus
-- [ ] file-png
-- [ ] file-ppt
+- [x] file-png
+- [x] file-ppt
 - [x] file-slash
 - [x] file-spreadsheet
-- [ ] file-svg
-- [ ] file-tex
-- [ ] file-txt
+- [x] file-svg
+- [x] file-tex
+- [x] file-txt
 - [x] file-user
 - [ ] file-vector
-- [ ] file-wav
-- [ ] file-xls
+- [x] file-wav
+- [x] file-xls
 - [x] file-xmark
-- [ ] file-xml
-- [ ] file-zip
+- [x] file-xml
+- [x] file-zip
 - [x] files
 - [ ] files-medical
 - [x] film-canister
@@ -2770,7 +2770,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] gun-slash
 - [ ] gun-squirt
 
-## Extended: H (37/93)
+## Extended: H (41/93)
 
 - [x] h1
 - [x] h2
@@ -2781,11 +2781,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] hammer-brush
 - [ ] hammer-crash
 - [ ] hammer-war
-- [ ] hand-back-point-down
-- [ ] hand-back-point-left
+- [x] hand-back-point-down
+- [x] hand-back-point-left
 - [ ] hand-back-point-ribbon
-- [ ] hand-back-point-right
-- [ ] hand-back-point-up
+- [x] hand-back-point-right
+- [x] hand-back-point-up
 - [ ] hand-fingers-crossed
 - [x] hand-heart
 - [x] hand-holding-box
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ruler-triangle
 - [x] rv
 
-## Extended: S (202/317)
+## Extended: S (203/317)
 
 - [x] sack
 - [x] salad
@@ -3716,7 +3716,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] subtitles-slash
 - [x] sun-bright
 - [ ] sun-cloud
-- [ ] sun-dust
+- [x] sun-dust
 - [x] sun-haze
 - [x] sunglasses
 - [x] sunrise
@@ -3733,7 +3733,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] swords-laser
 - [ ] symbols
 
-## Extended: T (77/166)
+## Extended: T (98/166)
 
 - [ ] t-rex
 - [ ] table-bar
@@ -3792,24 +3792,24 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] text-size
 - [x] theta
 - [x] thought-bubble
-- [ ] thumbtack-angle
-- [ ] thumbtack-angle-slash
-- [ ] tick
-- [ ] ticket-airline
-- [ ] ticket-perforated
+- [x] thumbtack-angle
+- [x] thumbtack-angle-slash
+- [x] tick
+- [x] ticket-airline
+- [x] ticket-perforated
 - [x] tickets
-- [ ] tickets-airline
-- [ ] tickets-perforated
-- [ ] tickets-simple
+- [x] tickets-airline
+- [x] tickets-perforated
+- [x] tickets-simple
 - [x] tilde
 - [ ] timeline-arrow
 - [x] timer
 - [x] tire
-- [ ] tire-flat
-- [ ] tire-pressure-warning
-- [ ] tire-rugged
-- [ ] toggle-large-off
-- [ ] toggle-large-on
+- [x] tire-flat
+- [x] tire-pressure-warning
+- [x] tire-rugged
+- [x] toggle-large-off (as `toggle-off`)
+- [x] toggle-large-on (as `toggle-on`)
 - [x] toilet-paper-check
 - [ ] toilet-paper-under
 - [ ] toilet-paper-under-slash
@@ -3821,9 +3821,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] tower-control
 - [ ] tower-receive
 - [x] traffic-cone
-- [ ] traffic-light-go
-- [ ] traffic-light-slow
-- [ ] traffic-light-stop
+- [x] traffic-light-go
+- [x] traffic-light-slow
+- [x] traffic-light-stop
 - [ ] train-stop
 - [ ] train-subway-tunnel
 - [ ] train-track
@@ -3849,18 +3849,18 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] trash-can-xmark
 - [x] trash-check
 - [x] trash-clock
-- [ ] trash-list
+- [x] trash-list (as `trash-can-list`)
 - [x] trash-plus
 - [x] trash-slash
-- [ ] trash-undo
+- [x] trash-undo (as `trash-can-undo`)
 - [x] trash-xmark
 - [x] treasure-chest
 - [x] tree-christmas
-- [ ] tree-deciduous
+- [x] tree-deciduous
 - [ ] tree-decorated
-- [ ] tree-large
+- [x] tree-large
 - [x] tree-palm
-- [ ] trees
+- [x] trees
 - [x] triangle
 - [ ] triangle-instrument
 - [ ] triangle-person-digging
@@ -3902,7 +3902,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tv-retro
 - [ ] typewriter
 
-## Extended: U (28/87)
+## Extended: U (33/87)
 
 - [x] u-turn-down-left (as `arrow-u-turn-down-left`)
 - [x] u-turn-down-right (as `arrow-u-turn-down-right`)
@@ -3956,11 +3956,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] user-headset
 - [ ] user-helmet-safety
 - [ ] user-hoodie
-- [ ] user-key
+- [x] user-key
 - [x] user-magnifying-glass
-- [ ] user-message
-- [ ] user-microphone
-- [ ] user-music
+- [x] user-message
+- [x] user-microphone
+- [x] user-music
 - [ ] user-nurse-hair
 - [ ] user-nurse-hair-long
 - [ ] user-pilot
@@ -3971,7 +3971,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] user-police-hair-long
 - [ ] user-police-tie
 - [ ] user-police-tie-hair-long
-- [ ] user-question
+- [x] user-question
 - [ ] user-robot
 - [ ] user-robot-xmarks
 - [ ] user-shakespeare
@@ -3992,14 +3992,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] utility-pole
 - [ ] utility-pole-double
 
-## Extended: V (7/13)
+## Extended: V (8/13)
 
 - [ ] vacuum
 - [ ] vacuum-robot
 - [x] value-absolute
 - [x] van
 - [ ] vent-damper
-- [ ] vial-vertical
+- [x] vial-vertical (as `vial`)
 - [x] video-arrow-down-left
 - [x] video-arrow-up-right
 - [ ] video-down-to-line
@@ -4008,7 +4008,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] violin
 - [x] volume-slash
 
-## Extended: W (33/46)
+## Extended: W (34/46)
 
 - [x] waffle
 - [ ] wagon-covered
@@ -4047,7 +4047,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] wind-turbine
 - [ ] wind-warning
 - [x] window
-- [ ] window-flip
+- [x] window-flip
 - [x] window-frame
 - [ ] window-frame-open
 - [x] windsock

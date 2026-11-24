@@ -12556,6 +12556,33 @@
     ],
     "animation": "shake"
   },
+  "face-anguished": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "anguished",
+      "pain",
+      "distress",
+      "upset",
+      "angustia"
+    ],
+    "animation": "shake"
+  },
+  "face-anxious-sweat": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "anxious",
+      "sweat",
+      "nervous",
+      "worried",
+      "stress",
+      "ansioso"
+    ],
+    "animation": "shake"
+  },
   "face-astonished": {
     "category": "People",
     "tags": [
@@ -12565,6 +12592,19 @@
       "amazed",
       "emoji",
       "emotion"
+    ],
+    "animation": "shake"
+  },
+  "face-confounded": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "confounded",
+      "frustrated",
+      "scrunched",
+      "upset",
+      "confundido"
     ],
     "animation": "shake"
   },
@@ -12628,6 +12668,33 @@
     ],
     "animation": "wobble"
   },
+  "face-downcast-sweat": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "downcast",
+      "sweat",
+      "sad",
+      "tired",
+      "disappointed",
+      "cansado"
+    ],
+    "animation": "float"
+  },
+  "face-drooling": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "drooling",
+      "hungry",
+      "desire",
+      "yummy",
+      "babear"
+    ],
+    "animation": "drip"
+  },
   "face-exhaling": {
     "category": "People",
     "tags": [
@@ -12677,6 +12744,20 @@
       "emotion"
     ],
     "animation": "shake"
+  },
+  "face-flushed": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "flushed",
+      "embarrassed",
+      "shocked",
+      "blush",
+      "shy",
+      "sonrojado"
+    ],
+    "animation": "pulse"
   },
   "face-frown": {
     "category": "People",
@@ -12763,6 +12844,20 @@
     ],
     "animation": "pop"
   },
+  "face-grin-beam-sweat": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "grin",
+      "beam",
+      "sweat",
+      "nervous",
+      "relief",
+      "phew"
+    ],
+    "animation": "bounce"
+  },
   "face-grin-hearts": {
     "category": "People",
     "tags": [
@@ -12787,6 +12882,20 @@
       "emotion"
     ],
     "animation": "pop"
+  },
+  "face-grin-squint-tears": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "grin",
+      "squint",
+      "tears",
+      "laugh",
+      "rofl",
+      "lol"
+    ],
+    "animation": "shake"
   },
   "face-grin-stars": {
     "category": "People",
@@ -12826,6 +12935,20 @@
     ],
     "animation": "pop"
   },
+  "face-grin-tongue-squint": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "grin",
+      "tongue",
+      "squint",
+      "silly",
+      "playful",
+      "joke"
+    ],
+    "animation": "wiggle"
+  },
   "face-grin-tongue-wink": {
     "category": "People",
     "tags": [
@@ -12851,6 +12974,20 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-grin-wink": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "grin",
+      "wink",
+      "flirt",
+      "joke",
+      "playful",
+      "guiño"
+    ],
+    "animation": "pop"
   },
   "face-hushed": {
     "category": "People",
@@ -12899,6 +13036,20 @@
     ],
     "animation": "pop"
   },
+  "face-kiss-wink-heart": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "kiss",
+      "wink",
+      "heart",
+      "love",
+      "flirt",
+      "beso"
+    ],
+    "animation": "pulse"
+  },
   "face-laugh": {
     "category": "People",
     "tags": [
@@ -12923,6 +13074,34 @@
     ],
     "animation": "pop"
   },
+  "face-laugh-squint": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "laugh",
+      "squint",
+      "lol",
+      "happy",
+      "funny",
+      "risa"
+    ],
+    "animation": "shake"
+  },
+  "face-laugh-wink": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "laugh",
+      "wink",
+      "lol",
+      "joke",
+      "funny",
+      "risa"
+    ],
+    "animation": "shake"
+  },
   "face-lying": {
     "category": "People",
     "tags": [
@@ -12932,6 +13111,19 @@
       "pinocchio",
       "emoji",
       "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-mask": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "mask",
+      "sick",
+      "covid",
+      "health",
+      "cubrebocas"
     ],
     "animation": "pop"
   },
@@ -12959,6 +13151,34 @@
     ],
     "animation": "wobble"
   },
+  "face-monocle": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "monocle",
+      "fancy",
+      "posh",
+      "curious",
+      "inspect",
+      "monoculo"
+    ],
+    "animation": "pop"
+  },
+  "face-nauseated": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "nauseated",
+      "sick",
+      "nausea",
+      "green",
+      "ill",
+      "nauseas"
+    ],
+    "animation": "wiggle"
+  },
   "face-party": {
     "category": "People",
     "tags": [
@@ -12983,6 +13203,32 @@
     ],
     "animation": "pop"
   },
+  "face-persevering": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "persevering",
+      "struggle",
+      "effort",
+      "determined",
+      "esfuerzo"
+    ],
+    "animation": "shake"
+  },
+  "face-pleading": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "pleading",
+      "puppy eyes",
+      "please",
+      "beg",
+      "suplicar"
+    ],
+    "animation": "pulse"
+  },
   "face-pouting": {
     "category": "People",
     "tags": [
@@ -12995,6 +13241,32 @@
     ],
     "animation": "pop"
   },
+  "face-raised-eyebrow": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "raised eyebrow",
+      "skeptical",
+      "doubt",
+      "suspicious",
+      "ceja"
+    ],
+    "animation": "pop"
+  },
+  "face-relieved": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "relieved",
+      "calm",
+      "relaxed",
+      "content",
+      "aliviado"
+    ],
+    "animation": "float"
+  },
   "face-rolling-eyes": {
     "category": "People",
     "tags": [
@@ -13006,6 +13278,33 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-sad-cry": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "sad",
+      "cry",
+      "tears",
+      "sob",
+      "upset",
+      "llorar"
+    ],
+    "animation": "shake"
+  },
+  "face-sad-sweat": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "sad",
+      "sweat",
+      "disappointed",
+      "relief",
+      "triste"
+    ],
+    "animation": "drip"
   },
   "face-sad-tear": {
     "category": "People",
@@ -13030,6 +13329,20 @@
       "emotion"
     ],
     "animation": "shake"
+  },
+  "face-shush": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "shush",
+      "quiet",
+      "silence",
+      "secret",
+      "callar",
+      "silencio"
+    ],
+    "animation": "pop"
   },
   "face-sleeping": {
     "category": "People",
@@ -13172,6 +13485,19 @@
     ],
     "animation": "pop"
   },
+  "face-smirking": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "smirking",
+      "smirk",
+      "smug",
+      "sly",
+      "sonrisa"
+    ],
+    "animation": "pop"
+  },
   "face-sunglasses": {
     "category": "People",
     "tags": [
@@ -13207,6 +13533,20 @@
     ],
     "animation": "shake"
   },
+  "face-thinking": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "thinking",
+      "hmm",
+      "ponder",
+      "wonder",
+      "think",
+      "pensando"
+    ],
+    "animation": "wobble"
+  },
   "face-tired": {
     "category": "People",
     "tags": [
@@ -13217,6 +13557,19 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-tongue-sweat": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "tongue",
+      "sweat",
+      "hot",
+      "tired",
+      "phew"
+    ],
+    "animation": "wiggle"
   },
   "face-unamused": {
     "category": "People",
@@ -13253,6 +13606,19 @@
     ],
     "animation": "wobble"
   },
+  "face-woozy": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "woozy",
+      "drunk",
+      "dizzy",
+      "tipsy",
+      "mareado"
+    ],
+    "animation": "wobble"
+  },
   "face-worried": {
     "category": "People",
     "tags": [
@@ -13264,6 +13630,20 @@
       "emotion"
     ],
     "animation": "pop"
+  },
+  "face-zany": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "zany",
+      "crazy",
+      "goofy",
+      "silly",
+      "wacky",
+      "loco"
+    ],
+    "animation": "wiggle"
   },
   "face-zipper": {
     "category": "People",
@@ -13403,6 +13783,18 @@
     ],
     "animation": "float"
   },
+  "file-aiff": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "aiff",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-arrow-down": {
     "category": "Files",
     "tags": [
@@ -13450,6 +13842,18 @@
       "document"
     ],
     "animation": "pop"
+  },
+  "file-cad": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "cad",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-certificate": {
     "category": "Files",
@@ -13600,6 +14004,18 @@
     ],
     "animation": "pop"
   },
+  "file-css": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "css",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-csv": {
     "category": "Files",
     "tags": [
@@ -13624,6 +14040,30 @@
       "document"
     ],
     "animation": "pop"
+  },
+  "file-doc": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "doc",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
+  "file-eps": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "eps",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-excel": {
     "category": "Files",
@@ -13662,6 +14102,18 @@
     ],
     "animation": "nudge-right"
   },
+  "file-gif": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "gif",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-half-dashed": {
     "category": "Files",
     "tags": [
@@ -13686,6 +14138,30 @@
       "archivo"
     ],
     "animation": "float"
+  },
+  "file-html": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "html",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
+  "file-icns": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "icns",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-image": {
     "category": "Files",
@@ -13733,6 +14209,30 @@
       "document"
     ],
     "animation": "pop"
+  },
+  "file-jpg": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "jpg",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
+  "file-js": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "js",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-json": {
     "category": "Files",
@@ -13785,6 +14285,18 @@
     ],
     "animation": "pop"
   },
+  "file-md": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "md",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-medical": {
     "category": "Files",
     "tags": [
@@ -13796,6 +14308,18 @@
       "document"
     ],
     "animation": "pulse"
+  },
+  "file-midi": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "midi",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-minus": {
     "category": "Files",
@@ -13809,6 +14333,42 @@
     ],
     "animation": "float"
   },
+  "file-mov": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "mov",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
+  "file-mp3": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "mp3",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
+  "file-mp4": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "mp4",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-music": {
     "category": "Files",
     "tags": [
@@ -13820,6 +14380,18 @@
       "document"
     ],
     "animation": "pop"
+  },
+  "file-odf": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "odf",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-pdf": {
     "category": "Files",
@@ -13870,6 +14442,18 @@
     ],
     "animation": "pop"
   },
+  "file-png": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "png",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-powerpoint": {
     "category": "Files",
     "tags": [
@@ -13882,6 +14466,18 @@
       "microsoft"
     ],
     "animation": "pop"
+  },
+  "file-ppt": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "ppt",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-prescription": {
     "category": "Files",
@@ -13945,6 +14541,30 @@
     ],
     "animation": "pop"
   },
+  "file-svg": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "svg",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
+  "file-tex": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "tex",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-text": {
     "category": "Files",
     "tags": [
@@ -13961,6 +14581,18 @@
       "texto"
     ],
     "animation": "float"
+  },
+  "file-txt": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "txt",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-user": {
     "category": "Files",
@@ -13985,6 +14617,18 @@
       "document"
     ],
     "animation": "pulse"
+  },
+  "file-wav": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "wav",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-waveform": {
     "category": "Files",
@@ -14011,6 +14655,18 @@
     ],
     "animation": "pop"
   },
+  "file-xls": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "xls",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
   "file-xmark": {
     "category": "Files",
     "tags": [
@@ -14022,6 +14678,30 @@
       "archivo"
     ],
     "animation": "float"
+  },
+  "file-xml": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "xml",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
+  },
+  "file-zip": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "zip",
+      "document",
+      "extension",
+      "format",
+      "archivo"
+    ],
+    "animation": "bounce"
   },
   "file-zipper": {
     "category": "Files",
@@ -16064,6 +16744,81 @@
     "animation": "wave",
     "origin": "50% 100%"
   },
+  "hand-back-point-down": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "back",
+      "point",
+      "down",
+      "up",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-down"
+  },
+  "hand-back-point-left": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "back",
+      "point",
+      "left",
+      "up",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-left"
+  },
+  "hand-back-point-right": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "back",
+      "point",
+      "right",
+      "up",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-right"
+  },
+  "hand-back-point-up": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "back",
+      "point",
+      "up",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-up"
+  },
+  "hand-dots": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "dots",
+      "dirty",
+      "germs",
+      "allergy",
+      "spots"
+    ],
+    "animation": "shake"
+  },
   "hand-fist": {
     "category": "People",
     "tags": [
@@ -16195,6 +16950,18 @@
     ],
     "animation": "star"
   },
+  "hand-middle-finger": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "middle finger",
+      "rude",
+      "gesture",
+      "offensive",
+      "insult"
+    ],
+    "animation": "shake"
+  },
   "hand-peace": {
     "category": "People",
     "tags": [
@@ -16205,6 +16972,48 @@
       "fingers"
     ],
     "animation": "wiggle"
+  },
+  "hand-point-down": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "point",
+      "down",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-down"
+  },
+  "hand-point-left": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "point",
+      "left",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-left"
+  },
+  "hand-point-right": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "point",
+      "right",
+      "pointer",
+      "click",
+      "cursor",
+      "tap",
+      "select"
+    ],
+    "animation": "nudge-right"
   },
   "hand-pointer": {
     "category": "Interface",
@@ -16217,6 +17026,43 @@
       "select"
     ],
     "animation": "nudge-up"
+  },
+  "hand-scissors": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "scissors",
+      "peace",
+      "victory",
+      "two",
+      "fingers"
+    ],
+    "animation": "wiggle"
+  },
+  "hand-sparkles": {
+    "category": "Interface",
+    "tags": [
+      "hand",
+      "sparkles",
+      "stop",
+      "palm",
+      "wave",
+      "raise",
+      "mano"
+    ],
+    "animation": "wiggle"
+  },
+  "hand-spock": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "spock",
+      "vulcan",
+      "salute",
+      "live long",
+      "gesture"
+    ],
+    "animation": "wave"
   },
   "hand-wave": {
     "category": "People",
@@ -16249,6 +17095,19 @@
       "bravo"
     ],
     "animation": "shake"
+  },
+  "hands-praying": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "praying",
+      "pray",
+      "prayer",
+      "thanks",
+      "please",
+      "rezar"
+    ],
+    "animation": "pulse"
   },
   "handshake": {
     "category": "People",
@@ -28367,6 +29226,19 @@
     ],
     "animation": "spin-slow"
   },
+  "sun-dust": {
+    "category": "Weather",
+    "tags": [
+      "sun",
+      "dust",
+      "haze",
+      "sandstorm",
+      "pollution",
+      "weather",
+      "polvo"
+    ],
+    "animation": "spin-slow"
+  },
   "sun-haze": {
     "category": "Weather",
     "tags": [
@@ -29507,6 +30379,31 @@
     ],
     "animation": "bounce"
   },
+  "thumbtack-angle": {
+    "category": "Objects",
+    "tags": [
+      "thumbtack",
+      "angle",
+      "pin",
+      "push",
+      "note",
+      "chincheta"
+    ],
+    "animation": "bounce"
+  },
+  "thumbtack-angle-slash": {
+    "category": "Objects",
+    "tags": [
+      "thumbtack",
+      "angle",
+      "slash",
+      "pin",
+      "push",
+      "note",
+      "chincheta"
+    ],
+    "animation": "shake"
+  },
   "thumbtack-slash": {
     "category": "Objects",
     "tags": [
@@ -29519,6 +30416,18 @@
     ],
     "animation": "shake"
   },
+  "tick": {
+    "category": "Interface",
+    "tags": [
+      "tick",
+      "mark",
+      "line",
+      "stroke",
+      "vertical",
+      "divider"
+    ],
+    "animation": "pop"
+  },
   "ticket": {
     "category": "Objects",
     "tags": [
@@ -29526,6 +30435,30 @@
       "event",
       "admission",
       "pass",
+      "boleto"
+    ],
+    "animation": "wiggle"
+  },
+  "ticket-airline": {
+    "category": "Objects",
+    "tags": [
+      "ticket",
+      "airline",
+      "boarding pass",
+      "flight",
+      "travel",
+      "pasaje"
+    ],
+    "animation": "wiggle"
+  },
+  "ticket-perforated": {
+    "category": "Objects",
+    "tags": [
+      "ticket",
+      "perforated",
+      "admission",
+      "event",
+      "coupon",
       "boleto"
     ],
     "animation": "wiggle"
@@ -29547,6 +30480,42 @@
       "event",
       "concert",
       "admission"
+    ],
+    "animation": "wiggle"
+  },
+  "tickets-airline": {
+    "category": "Objects",
+    "tags": [
+      "tickets",
+      "airline",
+      "boarding pass",
+      "flights",
+      "travel",
+      "pasajes"
+    ],
+    "animation": "wiggle"
+  },
+  "tickets-perforated": {
+    "category": "Objects",
+    "tags": [
+      "tickets",
+      "perforated",
+      "admission",
+      "event",
+      "coupons",
+      "boletos"
+    ],
+    "animation": "wiggle"
+  },
+  "tickets-simple": {
+    "category": "Objects",
+    "tags": [
+      "tickets",
+      "simple",
+      "admission",
+      "event",
+      "pass",
+      "boletos"
     ],
     "animation": "wiggle"
   },
@@ -29588,6 +30557,43 @@
       "wheel",
       "car",
       "rubber",
+      "llanta"
+    ],
+    "animation": "spin"
+  },
+  "tire-flat": {
+    "category": "Objects",
+    "tags": [
+      "tire",
+      "flat",
+      "puncture",
+      "wheel",
+      "car",
+      "pinchazo"
+    ],
+    "animation": "squash"
+  },
+  "tire-pressure-warning": {
+    "category": "Status",
+    "tags": [
+      "tire",
+      "pressure",
+      "warning",
+      "tpms",
+      "car",
+      "alert",
+      "llanta"
+    ],
+    "animation": "flash"
+  },
+  "tire-rugged": {
+    "category": "Objects",
+    "tags": [
+      "tire",
+      "rugged",
+      "offroad",
+      "wheel",
+      "tread",
       "llanta"
     ],
     "animation": "spin"
@@ -29838,6 +30844,45 @@
       "semaforo"
     ],
     "animation": "pulse"
+  },
+  "traffic-light-go": {
+    "category": "Objects",
+    "tags": [
+      "traffic",
+      "light",
+      "signal",
+      "semaforo",
+      "go",
+      "green",
+      "start"
+    ],
+    "animation": "flash"
+  },
+  "traffic-light-slow": {
+    "category": "Objects",
+    "tags": [
+      "traffic",
+      "light",
+      "signal",
+      "semaforo",
+      "slow",
+      "yellow",
+      "caution"
+    ],
+    "animation": "flash"
+  },
+  "traffic-light-stop": {
+    "category": "Objects",
+    "tags": [
+      "traffic",
+      "light",
+      "signal",
+      "semaforo",
+      "stop",
+      "red",
+      "halt"
+    ],
+    "animation": "flash"
   },
   "trailer": {
     "category": "Places",
@@ -30171,6 +31216,34 @@
     ],
     "animation": "bounce"
   },
+  "tree-deciduous": {
+    "category": "Nature",
+    "tags": [
+      "tree",
+      "deciduous",
+      "oak",
+      "forest",
+      "park",
+      "nature",
+      "arbol"
+    ],
+    "animation": "swing",
+    "origin": "50% 95%"
+  },
+  "tree-large": {
+    "category": "Nature",
+    "tags": [
+      "tree",
+      "large",
+      "pine",
+      "forest",
+      "fir",
+      "nature",
+      "pino"
+    ],
+    "animation": "swing",
+    "origin": "50% 95%"
+  },
   "tree-palm": {
     "category": "Nature",
     "tags": [
@@ -30182,6 +31255,20 @@
       "palmera"
     ],
     "animation": "swing"
+  },
+  "trees": {
+    "category": "Nature",
+    "tags": [
+      "trees",
+      "forest",
+      "woods",
+      "pine",
+      "park",
+      "nature",
+      "bosque"
+    ],
+    "animation": "swing",
+    "origin": "50% 95%"
   },
   "trending-down": {
     "category": "Arrows",
@@ -30762,6 +31849,21 @@
     ],
     "animation": "pop"
   },
+  "user-key": {
+    "category": "People",
+    "tags": [
+      "user",
+      "key",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario",
+      "cuenta",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
   "user-lock": {
     "category": "Security",
     "tags": [
@@ -30790,6 +31892,36 @@
     ],
     "animation": "bounce"
   },
+  "user-message": {
+    "category": "People",
+    "tags": [
+      "user",
+      "message",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario",
+      "cuenta",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
+  "user-microphone": {
+    "category": "People",
+    "tags": [
+      "user",
+      "microphone",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario",
+      "cuenta",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
   "user-minus": {
     "category": "People",
     "tags": [
@@ -30800,6 +31932,21 @@
       "member"
     ],
     "animation": "shake"
+  },
+  "user-music": {
+    "category": "People",
+    "tags": [
+      "user",
+      "music",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario",
+      "cuenta",
+      "perfil"
+    ],
+    "animation": "bounce"
   },
   "user-ninja": {
     "category": "People",
@@ -30834,6 +31981,21 @@
       "invite",
       "agregar",
       "usuario"
+    ],
+    "animation": "bounce"
+  },
+  "user-question": {
+    "category": "People",
+    "tags": [
+      "user",
+      "question",
+      "person",
+      "account",
+      "profile",
+      "persona",
+      "usuario",
+      "cuenta",
+      "perfil"
     ],
     "animation": "bounce"
   },
@@ -31873,6 +33035,17 @@
     "category": "Interface",
     "tags": [
       "window",
+      "app",
+      "browser",
+      "frame"
+    ],
+    "animation": "pop"
+  },
+  "window-flip": {
+    "category": "Interface",
+    "tags": [
+      "window",
+      "flip",
       "app",
       "browser",
       "frame"
