@@ -382,6 +382,17 @@
     ],
     "animation": "wiggle"
   },
+  "apartment": {
+    "category": "Places",
+    "tags": [
+      "apartment",
+      "building",
+      "flat",
+      "condo",
+      "city"
+    ],
+    "animation": "bounce"
+  },
   "aperture": {
     "category": "Media",
     "tags": [
@@ -2056,6 +2067,18 @@
     "animation": "swing",
     "origin": "20% 80%"
   },
+  "axe-battle": {
+    "category": "Objects",
+    "tags": [
+      "axe",
+      "battle",
+      "double",
+      "weapon",
+      "viking",
+      "medieval"
+    ],
+    "animation": "swing"
+  },
   "baby": {
     "category": "People",
     "tags": [
@@ -2182,6 +2205,18 @@
       "percent"
     ],
     "animation": "spin-slow"
+  },
+  "badminton": {
+    "category": "Objects",
+    "tags": [
+      "badminton",
+      "racket",
+      "shuttlecock",
+      "birdie",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
   },
   "bag-shopping": {
     "category": "Objects",
@@ -2904,6 +2939,32 @@
     "animation": "swing",
     "origin": "50% 12%"
   },
+  "bell-school": {
+    "category": "Interface",
+    "tags": [
+      "bell",
+      "school",
+      "hand",
+      "ring",
+      "class"
+    ],
+    "animation": "ring"
+  },
+  "bell-school-slash": {
+    "category": "Interface",
+    "tags": [
+      "slash",
+      "mute",
+      "silent",
+      "off",
+      "bell",
+      "school",
+      "hand",
+      "ring",
+      "class"
+    ],
+    "animation": "shake"
+  },
   "bell-slash": {
     "category": "Interface",
     "tags": [
@@ -3308,6 +3369,17 @@
     ],
     "animation": "nudge-up"
   },
+  "book-font": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "font",
+      "typography",
+      "letter",
+      "reading"
+    ],
+    "animation": "pop"
+  },
   "book-heart": {
     "category": "Objects",
     "tags": [
@@ -3381,6 +3453,17 @@
     ],
     "animation": "bounce"
   },
+  "book-section": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "section",
+      "law",
+      "legal",
+      "rules"
+    ],
+    "animation": "pop"
+  },
   "book-skull": {
     "category": "Objects",
     "tags": [
@@ -3408,6 +3491,28 @@
       "libro"
     ],
     "animation": "shake"
+  },
+  "book-sparkles": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "sparkles",
+      "magic",
+      "spell",
+      "fantasy",
+      "new"
+    ],
+    "animation": "pop"
+  },
+  "book-spine": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "spine",
+      "library",
+      "shelf"
+    ],
+    "animation": "pop"
   },
   "book-tanakh": {
     "category": "Religion",
@@ -3692,6 +3797,17 @@
     ],
     "animation": "rock"
   },
+  "bow-arrow": {
+    "category": "Objects",
+    "tags": [
+      "bow",
+      "arrow",
+      "archery",
+      "weapon",
+      "hunting"
+    ],
+    "animation": "nudge-right"
+  },
   "bowl-chopsticks": {
     "category": "Objects",
     "tags": [
@@ -3762,6 +3878,18 @@
       "bolos"
     ],
     "animation": "spin"
+  },
+  "bowling-ball-pin": {
+    "category": "Objects",
+    "tags": [
+      "bowling",
+      "ball",
+      "pin",
+      "strike",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
   },
   "bowling-pins": {
     "category": "Objects",
@@ -4919,6 +5047,19 @@
     ],
     "animation": "bounce"
   },
+  "bulldozer": {
+    "category": "Objects",
+    "tags": [
+      "bulldozer",
+      "construction",
+      "dozer",
+      "earth",
+      "mover",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "bullhorn": {
     "category": "Communication",
     "tags": [
@@ -5013,6 +5154,18 @@
     ],
     "animation": "drive"
   },
+  "bus-school": {
+    "category": "Objects",
+    "tags": [
+      "bus",
+      "school",
+      "kids",
+      "children",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "bus-side": {
     "category": "Places",
     "tags": [
@@ -5050,6 +5203,19 @@
       "autobus"
     ],
     "animation": "shake"
+  },
+  "bus-stop": {
+    "category": "Objects",
+    "tags": [
+      "bus",
+      "stop",
+      "station",
+      "sign",
+      "public",
+      "transport",
+      "vehicle"
+    ],
+    "animation": "pop"
   },
   "business-time": {
     "category": "Objects",
@@ -5731,6 +5897,16 @@
     ],
     "animation": "wiggle"
   },
+  "cannon": {
+    "category": "Objects",
+    "tags": [
+      "cannon",
+      "artillery",
+      "pirate",
+      "war"
+    ],
+    "animation": "shake"
+  },
   "capsule": {
     "category": "Health",
     "tags": [
@@ -5821,6 +5997,17 @@
     ],
     "animation": "turn-key"
   },
+  "car-mirrors": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "mirrors",
+      "front",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "car-rear": {
     "category": "Places",
     "tags": [
@@ -5842,6 +6029,45 @@
       "automobile"
     ],
     "animation": "drive"
+  },
+  "car-side-bolt": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "side",
+      "bolt",
+      "electric",
+      "ev",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
+  "car-siren": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "siren",
+      "police",
+      "emergency",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "flash"
+  },
+  "car-siren-on": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "siren",
+      "on",
+      "police",
+      "emergency",
+      "alarm",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "flash"
   },
   "car-tunnel": {
     "category": "Places",
@@ -8280,6 +8506,19 @@
     ],
     "animation": "spin"
   },
+  "circle-half-stroke-horizontal": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "half",
+      "stroke",
+      "horizontal",
+      "contrast",
+      "progress",
+      "50"
+    ],
+    "animation": "pop"
+  },
   "circle-heart": {
     "category": "Interface",
     "tags": [
@@ -8763,6 +9002,18 @@
     ],
     "animation": "spin-slow"
   },
+  "circle-quarter-stroke": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "quarter",
+      "stroke",
+      "progress",
+      "pie",
+      "25"
+    ],
+    "animation": "pop"
+  },
   "circle-quarters": {
     "category": "Interface",
     "tags": [
@@ -9036,6 +9287,19 @@
       "percent"
     ],
     "animation": "spin-slow"
+  },
+  "circle-three-quarters-stroke": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "three",
+      "quarters",
+      "stroke",
+      "progress",
+      "pie",
+      "75"
+    ],
+    "animation": "pop"
   },
   "circle-trash": {
     "category": "Actions",
@@ -10623,6 +10887,17 @@
     ],
     "animation": "nudge-diag"
   },
+  "comment-captions": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "captions",
+      "subtitles",
+      "chat",
+      "transcript"
+    ],
+    "animation": "pop"
+  },
   "comment-check": {
     "category": "Communication",
     "tags": [
@@ -10709,6 +10984,17 @@
     ],
     "animation": "beat"
   },
+  "comment-image": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "image",
+      "photo",
+      "picture",
+      "chat"
+    ],
+    "animation": "pop"
+  },
   "comment-lines": {
     "category": "Communication",
     "tags": [
@@ -10735,6 +11021,29 @@
     ],
     "animation": "pop"
   },
+  "comment-middle": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "middle",
+      "speech",
+      "bubble",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "comment-middle-top": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "middle",
+      "top",
+      "speech",
+      "bubble",
+      "chat"
+    ],
+    "animation": "pop"
+  },
   "comment-minus": {
     "category": "Communication",
     "tags": [
@@ -10742,6 +11051,17 @@
       "minus",
       "message",
       "status"
+    ],
+    "animation": "pop"
+  },
+  "comment-music": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "music",
+      "song",
+      "note",
+      "chat"
     ],
     "animation": "pop"
   },
@@ -10854,6 +11174,18 @@
       "write",
       "type",
       "caption"
+    ],
+    "animation": "pop"
+  },
+  "comment-waveform": {
+    "category": "Communication",
+    "tags": [
+      "comment",
+      "waveform",
+      "voice",
+      "audio",
+      "message",
+      "chat"
     ],
     "animation": "pop"
   },
@@ -11239,6 +11571,17 @@
     ],
     "animation": "flip"
   },
+  "cricket-bat": {
+    "category": "Objects",
+    "tags": [
+      "cricket",
+      "bat",
+      "ball",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
   "cricket-bat-ball": {
     "category": "Objects",
     "tags": [
@@ -11452,6 +11795,18 @@
       "sweet"
     ],
     "animation": "pop"
+  },
+  "curling-stone": {
+    "category": "Objects",
+    "tags": [
+      "curling",
+      "stone",
+      "winter",
+      "ice",
+      "sport",
+      "game"
+    ],
+    "animation": "slide"
   },
   "currency-sign": {
     "category": "Letters & Numbers",
@@ -11852,6 +12207,17 @@
       "rombo"
     ],
     "animation": "turn-y"
+  },
+  "diamond-half-stroke": {
+    "category": "Interface",
+    "tags": [
+      "diamond",
+      "half",
+      "stroke",
+      "shape",
+      "rating"
+    ],
+    "animation": "pop"
   },
   "diamond-turn-right": {
     "category": "Arrows",
@@ -12722,6 +13088,17 @@
     ],
     "animation": "spin-slow"
   },
+  "eclipse": {
+    "category": "Weather",
+    "tags": [
+      "eclipse",
+      "sun",
+      "moon",
+      "solar",
+      "astronomy"
+    ],
+    "animation": "glow"
+  },
   "egg": {
     "category": "Nature",
     "tags": [
@@ -13197,6 +13574,19 @@
     ],
     "animation": "shake"
   },
+  "face-angry-horns": {
+    "category": "People",
+    "tags": [
+      "face",
+      "angry",
+      "horns",
+      "devil",
+      "mad",
+      "evil",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-anguished": {
     "category": "People",
     "tags": [
@@ -13235,6 +13625,18 @@
       "emotion"
     ],
     "animation": "shake"
+  },
+  "face-awesome": {
+    "category": "People",
+    "tags": [
+      "face",
+      "awesome",
+      "grin",
+      "cool",
+      "happy",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-confounded": {
     "category": "People",
@@ -13298,6 +13700,19 @@
     ],
     "animation": "pop"
   },
+  "face-disguise": {
+    "category": "People",
+    "tags": [
+      "face",
+      "disguise",
+      "glasses",
+      "nose",
+      "mustache",
+      "incognito",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-dizzy": {
     "category": "People",
     "tags": [
@@ -13308,6 +13723,17 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-dotted": {
+    "category": "People",
+    "tags": [
+      "face",
+      "dotted",
+      "invisible",
+      "hidden",
+      "emoji"
+    ],
+    "animation": "blink"
   },
   "face-downcast-sweat": {
     "category": "People",
@@ -13629,6 +14055,18 @@
       "guiño"
     ],
     "animation": "pop"
+  },
+  "face-head-bandage": {
+    "category": "People",
+    "tags": [
+      "face",
+      "head",
+      "bandage",
+      "hurt",
+      "injured",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-hushed": {
     "category": "People",
@@ -13971,6 +14409,45 @@
     ],
     "animation": "shake"
   },
+  "face-shaking": {
+    "category": "People",
+    "tags": [
+      "face",
+      "shaking",
+      "shock",
+      "trembling",
+      "earthquake",
+      "emoji"
+    ],
+    "animation": "shake"
+  },
+  "face-shaking-horizontal": {
+    "category": "People",
+    "tags": [
+      "face",
+      "shaking",
+      "horizontal",
+      "no",
+      "shake",
+      "head",
+      "disagree",
+      "emoji"
+    ],
+    "animation": "shake"
+  },
+  "face-shaking-vertical": {
+    "category": "People",
+    "tags": [
+      "face",
+      "shaking",
+      "vertical",
+      "yes",
+      "nod",
+      "agree",
+      "emoji"
+    ],
+    "animation": "shake"
+  },
   "face-shush": {
     "category": "People",
     "tags": [
@@ -14046,6 +14523,32 @@
       "emotion"
     ],
     "animation": "float"
+  },
+  "face-smile-hearts": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "hearts",
+      "love",
+      "happy",
+      "adore",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
+  "face-smile-horns": {
+    "category": "People",
+    "tags": [
+      "face",
+      "smile",
+      "horns",
+      "devil",
+      "evil",
+      "mischievous",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-smile-plus": {
     "category": "People",
@@ -14139,6 +14642,19 @@
     ],
     "animation": "pop"
   },
+  "face-spiral-eyes": {
+    "category": "People",
+    "tags": [
+      "face",
+      "spiral",
+      "eyes",
+      "dizzy",
+      "hypnotized",
+      "confused",
+      "emoji"
+    ],
+    "animation": "wobble"
+  },
   "face-sunglasses": {
     "category": "People",
     "tags": [
@@ -14173,6 +14689,18 @@
       "emotion"
     ],
     "animation": "shake"
+  },
+  "face-thermometer": {
+    "category": "People",
+    "tags": [
+      "face",
+      "thermometer",
+      "sick",
+      "ill",
+      "fever",
+      "emoji"
+    ],
+    "animation": "wobble"
   },
   "face-thinking": {
     "category": "People",
@@ -14221,6 +14749,18 @@
       "annoyed",
       "emoji",
       "emotion"
+    ],
+    "animation": "pop"
+  },
+  "face-viewfinder": {
+    "category": "People",
+    "tags": [
+      "face",
+      "viewfinder",
+      "recognition",
+      "id",
+      "scan",
+      "emoji"
     ],
     "animation": "pop"
   },
@@ -14469,6 +15009,17 @@
       "sound",
       "mp3",
       "document"
+    ],
+    "animation": "pop"
+  },
+  "file-binary": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "binary",
+      "code",
+      "data",
+      "bits"
     ],
     "animation": "pop"
   },
@@ -15247,6 +15798,18 @@
     ],
     "animation": "pop"
   },
+  "file-vector": {
+    "category": "Files",
+    "tags": [
+      "file",
+      "vector",
+      "svg",
+      "illustration",
+      "design",
+      "bezier"
+    ],
+    "animation": "pop"
+  },
   "file-video": {
     "category": "Files",
     "tags": [
@@ -15551,6 +16114,16 @@
       "emergency"
     ],
     "animation": "shake"
+  },
+  "fire-flame": {
+    "category": "Nature",
+    "tags": [
+      "fire",
+      "flame",
+      "hot",
+      "burn"
+    ],
+    "animation": "flicker"
   },
   "fire-flame-curved": {
     "category": "Nature",
@@ -15897,6 +16470,16 @@
       "flor"
     ],
     "animation": "spin-slow"
+  },
+  "flower-daffodil": {
+    "category": "Nature",
+    "tags": [
+      "flower",
+      "daffodil",
+      "spring",
+      "narcissus"
+    ],
+    "animation": "swing"
   },
   "flower-tulip": {
     "category": "Nature",
@@ -16383,6 +16966,30 @@
     ],
     "animation": "bounce"
   },
+  "galaxy": {
+    "category": "Nature",
+    "tags": [
+      "galaxy",
+      "spiral",
+      "space",
+      "universe",
+      "milky",
+      "way"
+    ],
+    "animation": "spin-slow"
+  },
+  "gallery-thumbnails": {
+    "category": "Media",
+    "tags": [
+      "gallery",
+      "thumbnails",
+      "photos",
+      "images",
+      "slider",
+      "carousel"
+    ],
+    "animation": "pop"
+  },
   "game-board": {
     "category": "Objects",
     "tags": [
@@ -16446,6 +17053,26 @@
       "car",
       "parking",
       "vehicle"
+    ],
+    "animation": "pop"
+  },
+  "garage-empty": {
+    "category": "Places",
+    "tags": [
+      "garage",
+      "empty",
+      "parking"
+    ],
+    "animation": "pop"
+  },
+  "garage-open": {
+    "category": "Places",
+    "tags": [
+      "garage",
+      "open",
+      "door",
+      "parking",
+      "car"
     ],
     "animation": "pop"
   },
@@ -16797,6 +17424,16 @@
     ],
     "animation": "bounce"
   },
+  "gingerbread-man": {
+    "category": "Objects",
+    "tags": [
+      "gingerbread",
+      "man",
+      "cookie",
+      "christmas"
+    ],
+    "animation": "dance"
+  },
   "glass": {
     "category": "Objects",
     "tags": [
@@ -16952,6 +17589,17 @@
       "school"
     ],
     "animation": "spin-slow"
+  },
+  "goal-net": {
+    "category": "Objects",
+    "tags": [
+      "goal",
+      "net",
+      "soccer",
+      "football",
+      "sport"
+    ],
+    "animation": "pop"
   },
   "golf-ball-tee": {
     "category": "Objects",
@@ -17403,6 +18051,16 @@
     ],
     "animation": "swing",
     "origin": "50% 100%"
+  },
+  "hammer-war": {
+    "category": "Objects",
+    "tags": [
+      "hammer",
+      "war",
+      "weapon",
+      "medieval"
+    ],
+    "animation": "swing"
   },
   "hamsa": {
     "category": "Religion",
@@ -18108,6 +18766,18 @@
     ],
     "animation": "beat"
   },
+  "heart-half-stroke": {
+    "category": "Interface",
+    "tags": [
+      "heart",
+      "half",
+      "stroke",
+      "rating",
+      "love",
+      "favorite"
+    ],
+    "animation": "pop"
+  },
   "heart-pulse": {
     "category": "Health",
     "tags": [
@@ -18349,6 +19019,29 @@
     ],
     "animation": "slide"
   },
+  "hockey-stick": {
+    "category": "Objects",
+    "tags": [
+      "hockey",
+      "stick",
+      "ice",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
+  "hockey-stick-puck": {
+    "category": "Objects",
+    "tags": [
+      "hockey",
+      "stick",
+      "puck",
+      "ice",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
   "holly-berry": {
     "category": "Nature",
     "tags": [
@@ -18549,6 +19242,16 @@
     ],
     "animation": "pop"
   },
+  "house-building": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "building",
+      "home",
+      "city"
+    ],
+    "animation": "bounce"
+  },
   "house-chimney": {
     "category": "Places",
     "tags": [
@@ -18559,6 +19262,17 @@
       "home"
     ],
     "animation": "pop"
+  },
+  "house-chimney-blank": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "chimney",
+      "blank",
+      "home",
+      "building"
+    ],
+    "animation": "bounce"
   },
   "house-chimney-crack": {
     "category": "Places",
@@ -18663,6 +19377,17 @@
       "home"
     ],
     "animation": "shake"
+  },
+  "house-day": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "day",
+      "home",
+      "sun",
+      "morning"
+    ],
+    "animation": "bounce"
   },
   "house-fire": {
     "category": "Places",
@@ -18809,6 +19534,17 @@
     ],
     "animation": "wave"
   },
+  "house-night": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "night",
+      "home",
+      "moon",
+      "evening"
+    ],
+    "animation": "bounce"
+  },
   "house-signal": {
     "category": "Places",
     "tags": [
@@ -18836,6 +19572,17 @@
     ],
     "animation": "shake"
   },
+  "house-tree": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "tree",
+      "home",
+      "garden",
+      "nature"
+    ],
+    "animation": "bounce"
+  },
   "house-unlock": {
     "category": "Places",
     "tags": [
@@ -18858,6 +19605,16 @@
       "home"
     ],
     "animation": "pop"
+  },
+  "house-water": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "water",
+      "home",
+      "flood"
+    ],
+    "animation": "bounce"
   },
   "house-window": {
     "category": "Places",
@@ -18927,6 +19684,18 @@
       "helado"
     ],
     "animation": "wobble"
+  },
+  "ice-skate": {
+    "category": "Objects",
+    "tags": [
+      "ice",
+      "skate",
+      "skating",
+      "winter",
+      "sport",
+      "game"
+    ],
+    "animation": "slide"
   },
   "icicles": {
     "category": "Weather",
@@ -19000,6 +19769,18 @@
       "foto"
     ],
     "animation": "float"
+  },
+  "image-broken": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "broken",
+      "error",
+      "missing",
+      "photo",
+      "picture"
+    ],
+    "animation": "shake"
   },
   "image-circle-arrow-down": {
     "category": "Media",
@@ -19106,6 +19887,18 @@
       "foto"
     ],
     "animation": "shake"
+  },
+  "image-stack": {
+    "category": "Media",
+    "tags": [
+      "image",
+      "stack",
+      "photos",
+      "gallery",
+      "album",
+      "pictures"
+    ],
+    "animation": "pop"
   },
   "image-user": {
     "category": "Media",
@@ -19250,6 +20043,16 @@
     ],
     "animation": "bounce"
   },
+  "industry-windows": {
+    "category": "Places",
+    "tags": [
+      "industry",
+      "windows",
+      "factory",
+      "plant"
+    ],
+    "animation": "pop"
+  },
   "infinity": {
     "category": "Letters & Numbers",
     "tags": [
@@ -19355,6 +20158,17 @@
     ],
     "animation": "pop"
   },
+  "island-tropical": {
+    "category": "Nature",
+    "tags": [
+      "island",
+      "tropical",
+      "palm",
+      "beach",
+      "vacation"
+    ],
+    "animation": "swing"
+  },
   "italic": {
     "category": "Interface",
     "tags": [
@@ -19364,6 +20178,17 @@
       "cursiva"
     ],
     "animation": "wobble"
+  },
+  "jack-o-lantern": {
+    "category": "Objects",
+    "tags": [
+      "jack",
+      "o",
+      "lantern",
+      "pumpkin",
+      "halloween"
+    ],
+    "animation": "flicker"
   },
   "jar": {
     "category": "Objects",
@@ -19908,6 +20733,16 @@
     ],
     "animation": "swing"
   },
+  "layer": {
+    "category": "Interface",
+    "tags": [
+      "layer",
+      "stack",
+      "design",
+      "sheet"
+    ],
+    "animation": "pop"
+  },
   "layer-group": {
     "category": "Interface",
     "tags": [
@@ -19974,6 +20809,17 @@
       "fall",
       "canada",
       "arce"
+    ],
+    "animation": "swing"
+  },
+  "leaf-oak": {
+    "category": "Nature",
+    "tags": [
+      "leaf",
+      "oak",
+      "autumn",
+      "fall",
+      "tree"
     ],
     "animation": "swing"
   },
@@ -20548,6 +21394,17 @@
     ],
     "animation": "glow"
   },
+  "lights-holiday": {
+    "category": "Objects",
+    "tags": [
+      "lights",
+      "holiday",
+      "christmas",
+      "string",
+      "bulbs"
+    ],
+    "animation": "flash"
+  },
   "line-columns": {
     "category": "Interface",
     "tags": [
@@ -20593,6 +21450,17 @@
       "enlace"
     ],
     "animation": "wiggle"
+  },
+  "link-broken": {
+    "category": "Interface",
+    "tags": [
+      "link",
+      "broken",
+      "unlink",
+      "chain",
+      "disconnect"
+    ],
+    "animation": "shake"
   },
   "link-horizontal": {
     "category": "Interface",
@@ -20842,6 +21710,18 @@
     ],
     "animation": "shake"
   },
+  "location-arrow-up": {
+    "category": "Places",
+    "tags": [
+      "location",
+      "arrow",
+      "up",
+      "navigation",
+      "direction",
+      "north"
+    ],
+    "animation": "nudge-up"
+  },
   "location-check": {
     "category": "Places",
     "tags": [
@@ -21052,6 +21932,29 @@
     ],
     "animation": "shake"
   },
+  "lock-a": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "a",
+      "letter",
+      "caps",
+      "secure"
+    ],
+    "animation": "pop"
+  },
+  "lock-hashtag": {
+    "category": "Security",
+    "tags": [
+      "lock",
+      "hashtag",
+      "number",
+      "pin",
+      "code",
+      "secure"
+    ],
+    "animation": "pop"
+  },
   "lock-keyhole": {
     "category": "Security",
     "tags": [
@@ -21183,6 +22086,16 @@
       "food"
     ],
     "animation": "bounce"
+  },
+  "mace": {
+    "category": "Objects",
+    "tags": [
+      "mace",
+      "weapon",
+      "medieval",
+      "spiked"
+    ],
+    "animation": "shake"
   },
   "magnet": {
     "category": "Objects",
@@ -21797,6 +22710,17 @@
     ],
     "animation": "pop"
   },
+  "message-captions": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "captions",
+      "subtitles",
+      "chat",
+      "transcript"
+    ],
+    "animation": "pop"
+  },
   "message-check": {
     "category": "Communication",
     "tags": [
@@ -21924,6 +22848,29 @@
       "health",
       "doctor",
       "consult",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "message-middle": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "middle",
+      "speech",
+      "bubble",
+      "chat"
+    ],
+    "animation": "pop"
+  },
+  "message-middle-top": {
+    "category": "Communication",
+    "tags": [
+      "message",
+      "middle",
+      "top",
+      "speech",
+      "bubble",
       "chat"
     ],
     "animation": "pop"
@@ -22782,6 +23729,16 @@
     ],
     "animation": "spin-slow"
   },
+  "moped": {
+    "category": "Objects",
+    "tags": [
+      "moped",
+      "scooter",
+      "vespa",
+      "vehicle"
+    ],
+    "animation": "drive"
+  },
   "mortar-pestle": {
     "category": "Health",
     "tags": [
@@ -23114,6 +24071,17 @@
       "navegacion"
     ],
     "animation": "nudge-diag"
+  },
+  "nesting-dolls": {
+    "category": "Objects",
+    "tags": [
+      "nesting",
+      "dolls",
+      "matryoshka",
+      "russian",
+      "toy"
+    ],
+    "animation": "wobble"
   },
   "network-wired": {
     "category": "Technology",
@@ -23495,6 +24463,27 @@
     ],
     "animation": "pop"
   },
+  "oar": {
+    "category": "Objects",
+    "tags": [
+      "oar",
+      "paddle",
+      "rowing",
+      "boat"
+    ],
+    "animation": "swing"
+  },
+  "oars": {
+    "category": "Objects",
+    "tags": [
+      "oars",
+      "paddles",
+      "rowing",
+      "boat",
+      "crossed"
+    ],
+    "animation": "swing"
+  },
   "object-exclude": {
     "category": "Interface",
     "tags": [
@@ -23761,6 +24750,16 @@
     ],
     "animation": "rock"
   },
+  "olive-branch": {
+    "category": "Nature",
+    "tags": [
+      "olive",
+      "branch",
+      "peace",
+      "leaves"
+    ],
+    "animation": "swing"
+  },
   "omega": {
     "category": "Letters & Numbers",
     "tags": [
@@ -23793,6 +24792,16 @@
       "modifier"
     ],
     "animation": "pop"
+  },
+  "ornament": {
+    "category": "Objects",
+    "tags": [
+      "ornament",
+      "bauble",
+      "christmas",
+      "decoration"
+    ],
+    "animation": "swing"
   },
   "outdent": {
     "category": "Interface",
@@ -23851,6 +24860,60 @@
       "buho"
     ],
     "animation": "blink"
+  },
+  "padel": {
+    "category": "Objects",
+    "tags": [
+      "padel",
+      "paddle",
+      "racket",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
+  "padel-ball": {
+    "category": "Objects",
+    "tags": [
+      "padel",
+      "ball",
+      "tennis",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
+  },
+  "page": {
+    "category": "Files",
+    "tags": [
+      "page",
+      "document",
+      "paper",
+      "sheet"
+    ],
+    "animation": "pop"
+  },
+  "page-caret-down": {
+    "category": "Files",
+    "tags": [
+      "page",
+      "caret",
+      "down",
+      "document",
+      "expand"
+    ],
+    "animation": "nudge-down"
+  },
+  "page-caret-up": {
+    "category": "Files",
+    "tags": [
+      "page",
+      "caret",
+      "up",
+      "document",
+      "collapse"
+    ],
+    "animation": "nudge-up"
   },
   "pager": {
     "category": "Technology",
@@ -24051,6 +25114,18 @@
     ],
     "animation": "nudge-diag"
   },
+  "paper-plane-top": {
+    "category": "Communication",
+    "tags": [
+      "paper",
+      "plane",
+      "top",
+      "send",
+      "message",
+      "submit"
+    ],
+    "animation": "nudge-right"
+  },
   "paperclip": {
     "category": "Objects",
     "tags": [
@@ -24084,6 +25159,19 @@
       "section"
     ],
     "animation": "pop"
+  },
+  "paragraph-left": {
+    "category": "Interface",
+    "tags": [
+      "paragraph",
+      "left",
+      "pilcrow",
+      "text",
+      "direction",
+      "rtl",
+      "ltr"
+    ],
+    "animation": "nudge-left"
   },
   "parentheses": {
     "category": "Letters & Numbers",
@@ -24120,6 +25208,17 @@
       "estacionamiento"
     ],
     "animation": "shake"
+  },
+  "party-horn": {
+    "category": "Objects",
+    "tags": [
+      "party",
+      "horn",
+      "celebration",
+      "birthday",
+      "noise"
+    ],
+    "animation": "wiggle"
   },
   "passport": {
     "category": "Objects",
@@ -24992,6 +26091,17 @@
       "pico"
     ],
     "animation": "swing"
+  },
+  "pickleball": {
+    "category": "Objects",
+    "tags": [
+      "pickleball",
+      "ball",
+      "wiffle",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
   },
   "picture-in-picture": {
     "category": "Media",
@@ -25962,6 +27072,18 @@
       "conejo"
     ],
     "animation": "bounce"
+  },
+  "racquet": {
+    "category": "Objects",
+    "tags": [
+      "racquet",
+      "racket",
+      "tennis",
+      "squash",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
   },
   "radar": {
     "category": "Technology",
@@ -27324,6 +28446,17 @@
     ],
     "animation": "flip"
   },
+  "scythe": {
+    "category": "Objects",
+    "tags": [
+      "scythe",
+      "reaper",
+      "harvest",
+      "farm",
+      "halloween"
+    ],
+    "animation": "swing"
+  },
   "sd-card": {
     "category": "Technology",
     "tags": [
@@ -27930,6 +29063,17 @@
     ],
     "animation": "nudge-right"
   },
+  "shuttlecock": {
+    "category": "Objects",
+    "tags": [
+      "shuttlecock",
+      "badminton",
+      "birdie",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
+  },
   "sidebar": {
     "category": "Interface",
     "tags": [
@@ -28459,6 +29603,16 @@
     ],
     "animation": "float"
   },
+  "smoke": {
+    "category": "Weather",
+    "tags": [
+      "smoke",
+      "cloud",
+      "fog",
+      "pollution"
+    ],
+    "animation": "float"
+  },
   "smoking": {
     "category": "Health",
     "tags": [
@@ -28517,6 +29671,17 @@
     ],
     "animation": "wobble"
   },
+  "snowman-head": {
+    "category": "Weather",
+    "tags": [
+      "snowman",
+      "head",
+      "winter",
+      "christmas",
+      "frosty"
+    ],
+    "animation": "wobble"
+  },
   "soap": {
     "category": "Objects",
     "tags": [
@@ -28556,6 +29721,18 @@
     ],
     "animation": "rock",
     "origin": "50% 100%"
+  },
+  "solar-system": {
+    "category": "Nature",
+    "tags": [
+      "solar",
+      "system",
+      "planets",
+      "orbit",
+      "space",
+      "sun"
+    ],
+    "animation": "spin-slow"
   },
   "sort": {
     "category": "Arrows",
@@ -30621,6 +31798,17 @@
     ],
     "animation": "float"
   },
+  "staff": {
+    "category": "Objects",
+    "tags": [
+      "staff",
+      "wizard",
+      "magic",
+      "wand",
+      "rod"
+    ],
+    "animation": "glow"
+  },
   "stairs": {
     "category": "Places",
     "tags": [
@@ -31628,6 +32816,19 @@
     ],
     "animation": "shake"
   },
+  "table-tennis-paddle": {
+    "category": "Objects",
+    "tags": [
+      "table",
+      "tennis",
+      "paddle",
+      "ping",
+      "pong",
+      "sport",
+      "game"
+    ],
+    "animation": "swing"
+  },
   "table-tennis-paddle-ball": {
     "category": "Objects",
     "tags": [
@@ -31782,6 +32983,16 @@
       "count",
       "marks",
       "score"
+    ],
+    "animation": "pop"
+  },
+  "tank-water": {
+    "category": "Places",
+    "tags": [
+      "tank",
+      "water",
+      "tower",
+      "reservoir"
     ],
     "animation": "pop"
   },
@@ -32675,6 +33886,18 @@
     ],
     "animation": "signal"
   },
+  "tower-control": {
+    "category": "Places",
+    "tags": [
+      "tower",
+      "control",
+      "airport",
+      "atc",
+      "air",
+      "traffic"
+    ],
+    "animation": "pop"
+  },
   "tower-observation": {
     "category": "Places",
     "tags": [
@@ -32815,6 +34038,17 @@
     ],
     "animation": "drive"
   },
+  "train-track": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "track",
+      "railroad",
+      "rails",
+      "railway"
+    ],
+    "animation": "pop"
+  },
   "train-tram": {
     "category": "Places",
     "tags": [
@@ -32823,6 +34057,16 @@
       "streetcar",
       "city",
       "transit"
+    ],
+    "animation": "drive"
+  },
+  "train-tunnel": {
+    "category": "Places",
+    "tags": [
+      "train",
+      "tunnel",
+      "subway",
+      "metro"
     ],
     "animation": "drive"
   },
@@ -33114,6 +34358,17 @@
     "animation": "swing",
     "origin": "50% 95%"
   },
+  "tree-decorated": {
+    "category": "Nature",
+    "tags": [
+      "tree",
+      "decorated",
+      "christmas",
+      "holiday",
+      "xmas"
+    ],
+    "animation": "swing"
+  },
   "tree-large": {
     "category": "Nature",
     "tags": [
@@ -33203,6 +34458,27 @@
       "alerta"
     ],
     "animation": "shake"
+  },
+  "tricycle": {
+    "category": "Objects",
+    "tags": [
+      "tricycle",
+      "trike",
+      "kid",
+      "child",
+      "bike"
+    ],
+    "animation": "drive"
+  },
+  "trillium": {
+    "category": "Nature",
+    "tags": [
+      "trillium",
+      "flower",
+      "three",
+      "petals"
+    ],
+    "animation": "spin-slow"
   },
   "triple-chevrons-down": {
     "category": "Arrows",
@@ -33328,6 +34604,19 @@
     ],
     "animation": "drive"
   },
+  "truck-container": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "container",
+      "lorry",
+      "shipping",
+      "cargo",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "truck-droplet": {
     "category": "Places",
     "tags": [
@@ -33365,6 +34654,18 @@
     ],
     "animation": "flicker"
   },
+  "truck-flatbed": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "flatbed",
+      "lorry",
+      "delivery",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "truck-front": {
     "category": "Places",
     "tags": [
@@ -33372,6 +34673,19 @@
       "front",
       "vehicle",
       "delivery"
+    ],
+    "animation": "drive"
+  },
+  "truck-ladder": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "ladder",
+      "fire",
+      "engine",
+      "firefighter",
+      "vehicle",
+      "transport"
     ],
     "animation": "drive"
   },
@@ -33409,6 +34723,19 @@
     ],
     "animation": "drive"
   },
+  "truck-plow": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "plow",
+      "snow",
+      "plough",
+      "winter",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
   "truck-ramp-box": {
     "category": "Places",
     "tags": [
@@ -33419,6 +34746,31 @@
       "loading",
       "vehicle",
       "delivery"
+    ],
+    "animation": "drive"
+  },
+  "truck-suv": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "suv",
+      "jeep",
+      "4x4",
+      "car",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
+  },
+  "truck-tow": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "tow",
+      "towing",
+      "recovery",
+      "vehicle",
+      "transport"
     ],
     "animation": "drive"
   },
@@ -33517,6 +34869,17 @@
     ],
     "animation": "float"
   },
+  "ufo-beam": {
+    "category": "Objects",
+    "tags": [
+      "ufo",
+      "beam",
+      "alien",
+      "abduction",
+      "spaceship"
+    ],
+    "animation": "float"
+  },
   "umbrella": {
     "category": "Weather",
     "tags": [
@@ -33560,6 +34923,16 @@
       "deshacer"
     ],
     "animation": "nudge-left"
+  },
+  "unicycle": {
+    "category": "Objects",
+    "tags": [
+      "unicycle",
+      "circus",
+      "wheel",
+      "balance"
+    ],
+    "animation": "drive"
   },
   "universal-access": {
     "category": "People",
@@ -34595,6 +35968,18 @@
       "gofre"
     ],
     "animation": "pop"
+  },
+  "wagon-covered": {
+    "category": "Objects",
+    "tags": [
+      "wagon",
+      "covered",
+      "western",
+      "pioneer",
+      "vehicle",
+      "transport"
+    ],
+    "animation": "drive"
   },
   "walkie-talkie": {
     "category": "Communication",
