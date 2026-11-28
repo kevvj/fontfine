@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3541 / 3779**
+**Progress: 3550 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1045,7 +1045,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] toilet-paper-slash
 - [x] utensils (as `fork-knife`)
 
-## Humanitarian (101/114)
+## Humanitarian (102/114)
 
 - [x] anchor
 - [x] anchor-circle-check
@@ -1089,7 +1089,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] money-bill-trend-up
 - [x] money-bill-wheat
 - [x] money-bills
-- [ ] people-arrows
+- [x] people-arrows
 - [x] people-group
 - [x] people-line
 - [ ] people-pulling
@@ -1374,10 +1374,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] won-sign
 - [x] yen-sign
 
-## Moving (4/6)
+## Moving (5/6)
 
 - [x] box-open
-- [ ] people-carry-box
+- [x] people-carry-box
 - [x] sign-hanging
 - [x] tape
 - [ ] truck-moving
@@ -2695,7 +2695,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] french-fries
 - [x] function
 
-## Extended: G (63/72)
+## Extended: G (64/72)
 
 - [x] galaxy
 - [x] gallery-thumbnails
@@ -2766,7 +2766,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] grip-dots
 - [x] grip-dots-vertical
 - [x] guitar-electric
-- [ ] guitars
+- [x] guitars
 - [x] gun-slash
 - [ ] gun-squirt
 
@@ -2906,14 +2906,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] jug
 - [x] jug-bottle
 
-## Extended: K (14/16)
+## Extended: K (15/16)
 
 - [x] kayak
 - [x] kazoo
 - [x] kerning
 - [x] kettlebell
 - [x] key-skeleton
-- [ ] key-skeleton-left-right
+- [x] key-skeleton-left-right
 - [x] keyboard-brightness
 - [x] keyboard-brightness-low
 - [x] keyboard-down
@@ -3183,7 +3183,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] overline
 - [x] owl
 
-## Extended: P (115/152)
+## Extended: P (118/152)
 
 - [x] padel
 - [x] padel-ball
@@ -3192,7 +3192,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] page-caret-up
 - [x] paintbrush-fine
 - [x] paintbrush-fine-slash
-- [ ] paintbrush-pencil
+- [x] paintbrush-pencil
 - [x] paintbrush-slash
 - [x] pallet-box
 - [x] pallet-boxes
@@ -3224,7 +3224,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] pen-field
 - [x] pen-line
 - [x] pen-nib-slash
-- [ ] pen-paintbrush
+- [x] pen-paintbrush
 - [x] pen-slash
 - [ ] pen-swirl
 - [x] pencil-line
@@ -3241,7 +3241,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] person-arms-raised
 - [x] person-basketball
 - [x] person-biking-mountain
-- [ ] person-carry-box
+- [x] person-carry-box
 - [ ] person-carry-empty
 - [ ] person-dolly
 - [ ] person-dolly-empty
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ruler-triangle
 - [x] rv
 
-## Extended: S (289/317)
+## Extended: S (291/317)
 
 - [x] sack
 - [x] salad
@@ -3729,8 +3729,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] sword
 - [x] sword-laser
 - [x] sword-laser-alt
-- [ ] swords
-- [ ] swords-laser
+- [x] swords
+- [x] swords-laser
 - [x] symbols
 
 ## Extended: T (149/166)

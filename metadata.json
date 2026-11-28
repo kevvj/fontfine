@@ -20393,6 +20393,18 @@
     ],
     "animation": "rock"
   },
+  "guitars": {
+    "category": "Media",
+    "tags": [
+      "guitars",
+      "music",
+      "band",
+      "instruments",
+      "rock",
+      "guitarras"
+    ],
+    "animation": "wiggle"
+  },
   "gun": {
     "category": "Objects",
     "tags": [
@@ -23450,6 +23462,18 @@
       "vintage",
       "door",
       "llave"
+    ],
+    "animation": "turn-key"
+  },
+  "key-skeleton-left-right": {
+    "category": "Security",
+    "tags": [
+      "key",
+      "skeleton",
+      "keys",
+      "crossed",
+      "old",
+      "llaves"
     ],
     "animation": "turn-key"
   },
@@ -28584,6 +28608,18 @@
     ],
     "animation": "shake"
   },
+  "paintbrush-pencil": {
+    "category": "Objects",
+    "tags": [
+      "paintbrush",
+      "pencil",
+      "design",
+      "art",
+      "create",
+      "diseño"
+    ],
+    "animation": "write"
+  },
   "paintbrush-slash": {
     "category": "Objects",
     "tags": [
@@ -29107,6 +29143,18 @@
     ],
     "animation": "shake"
   },
+  "pen-paintbrush": {
+    "category": "Objects",
+    "tags": [
+      "pen",
+      "paintbrush",
+      "design",
+      "art",
+      "create",
+      "diseño"
+    ],
+    "animation": "write"
+  },
   "pen-ruler": {
     "category": "Actions",
     "tags": [
@@ -29213,6 +29261,30 @@
       "personas"
     ],
     "animation": "wave"
+  },
+  "people-arrows": {
+    "category": "People",
+    "tags": [
+      "people",
+      "arrows",
+      "distance",
+      "social distancing",
+      "exchange",
+      "personas"
+    ],
+    "animation": "nudge-right"
+  },
+  "people-carry-box": {
+    "category": "People",
+    "tags": [
+      "people",
+      "carry",
+      "box",
+      "moving",
+      "teamwork",
+      "mudanza"
+    ],
+    "animation": "bounce"
   },
   "people-dress": {
     "category": "People",
@@ -29478,6 +29550,18 @@
       "old"
     ],
     "animation": "pop"
+  },
+  "person-carry-box": {
+    "category": "People",
+    "tags": [
+      "person",
+      "carry",
+      "box",
+      "moving",
+      "delivery",
+      "caja"
+    ],
+    "animation": "bounce"
   },
   "person-chalkboard": {
     "category": "People",
@@ -37393,6 +37477,30 @@
       "saber",
       "sci-fi",
       "espada"
+    ],
+    "animation": "flash"
+  },
+  "swords": {
+    "category": "Objects",
+    "tags": [
+      "swords",
+      "crossed",
+      "battle",
+      "fight",
+      "weapon",
+      "espadas"
+    ],
+    "animation": "swing"
+  },
+  "swords-laser": {
+    "category": "Objects",
+    "tags": [
+      "swords",
+      "laser",
+      "lightsaber",
+      "duel",
+      "sci-fi",
+      "espadas"
     ],
     "animation": "flash"
   },
