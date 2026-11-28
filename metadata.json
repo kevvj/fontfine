@@ -19130,6 +19130,18 @@
     ],
     "animation": "pop"
   },
+  "foot-wing": {
+    "category": "Objects",
+    "tags": [
+      "foot",
+      "wing",
+      "fast",
+      "speed",
+      "hermes",
+      "alado"
+    ],
+    "animation": "float"
+  },
   "football": {
     "category": "Objects",
     "tags": [
@@ -20930,6 +20942,18 @@
       "select"
     ],
     "animation": "nudge-left"
+  },
+  "hand-point-ribbon": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "point",
+      "ribbon",
+      "award",
+      "winner",
+      "cinta"
+    ],
+    "animation": "pop"
   },
   "hand-point-right": {
     "category": "Interface",
@@ -25666,6 +25690,18 @@
       "letter"
     ],
     "animation": "wave"
+  },
+  "mailbox-open-letter": {
+    "category": "Communication",
+    "tags": [
+      "mailbox",
+      "open",
+      "letter",
+      "mail",
+      "post",
+      "buzón"
+    ],
+    "animation": "bounce"
   },
   "malaysian-ringgit-sign": {
     "category": "Letters & Numbers",

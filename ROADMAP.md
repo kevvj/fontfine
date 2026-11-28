@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3574 / 3779**
+**Progress: 3579 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -2494,7 +2494,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] eye-evil
 - [x] eyes
 
-## Extended: F (191/198)
+## Extended: F (192/198)
 
 - [x] face-angry-horns
 - [x] face-anguished
@@ -2685,7 +2685,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] folders
 - [x] fondue-pot
 - [x] font-case
-- [ ] foot-wing
+- [x] foot-wing
 - [ ] football-helmet
 - [x] fork
 - [x] fork-knife
@@ -2770,7 +2770,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gun-slash
 - [ ] gun-squirt
 
-## Extended: H (82/93)
+## Extended: H (83/93)
 
 - [x] h1
 - [x] h2
@@ -2796,7 +2796,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] hand-holding-star
 - [ ] hand-horns
 - [ ] hand-love
-- [ ] hand-point-ribbon
+- [x] hand-point-ribbon
 - [ ] hand-shaka
 - [x] hand-wave
 - [x] hands-holding-diamond
@@ -3011,7 +3011,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] luchador-mask
 - [x] lychee
 
-## Extended: M (105/111)
+## Extended: M (106/111)
 
 - [x] mace
 - [x] magnifying-glass-arrows-rotate
@@ -3021,7 +3021,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] mailbox
 - [x] mailbox-flag-up
 - [ ] mailbox-open-empty
-- [ ] mailbox-open-letter
+- [x] mailbox-open-letter
 - [x] malaysian-ringgit-sign
 - [x] mandolin
 - [x] mango
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ruler-triangle
 - [x] rv
 
-## Extended: S (293/317)
+## Extended: S (294/317)
 
 - [x] sack
 - [x] salad
@@ -3524,7 +3524,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] smoke
 - [x] snake
 - [x] sneaker
-- [ ] sneaker-running
+- [x] sneaker-running (as `sneaker`)
 - [x] snooze
 - [ ] snow-blowing
 - [x] snowflake-droplets
@@ -4008,7 +4008,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] violin
 - [x] volume-slash
 
-## Extended: W (44/46)
+## Extended: W (45/46)
 
 - [x] waffle
 - [x] wagon-covered
@@ -4054,7 +4054,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] wine-glass-crack
 - [ ] wireless
 - [x] wreath
-- [ ] wreath-laurel
+- [x] wreath-laurel (as `wreath`)
 - [x] wrench-simple
 
 ## Extended: X (2/2)
