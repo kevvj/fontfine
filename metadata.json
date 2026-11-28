@@ -5881,6 +5881,17 @@
     ],
     "animation": "shake"
   },
+  "bugs": {
+    "category": "Nature",
+    "tags": [
+      "bugs",
+      "insects",
+      "debug",
+      "errors",
+      "bichos"
+    ],
+    "animation": "wiggle"
+  },
   "building": {
     "category": "Places",
     "tags": [
@@ -8257,6 +8268,40 @@
     ],
     "animation": "pulse"
   },
+  "chart-mixed-up-circle-currency": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "mixed",
+      "up",
+      "circle",
+      "currency",
+      "bars",
+      "line",
+      "combo",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
+  "chart-mixed-up-circle-dollar": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "mixed",
+      "up",
+      "circle",
+      "dollar",
+      "bars",
+      "line",
+      "combo",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "pulse"
+  },
   "chart-network": {
     "category": "Interface",
     "tags": [
@@ -9786,6 +9831,21 @@
       "coin"
     ],
     "animation": "pop"
+  },
+  "circle-exclamation-check": {
+    "category": "Status",
+    "tags": [
+      "circle",
+      "exclamation",
+      "check",
+      "alert",
+      "error",
+      "problem",
+      "circulo alerta",
+      "problema",
+      "fallo"
+    ],
+    "animation": "shake"
   },
   "circle-f": {
     "category": "Letters & Numbers",
@@ -25814,6 +25874,18 @@
     ],
     "animation": "pop"
   },
+  "masks-theater": {
+    "category": "Media",
+    "tags": [
+      "masks",
+      "theater",
+      "drama",
+      "comedy",
+      "tragedy",
+      "teatro"
+    ],
+    "animation": "wobble"
+  },
   "math-function": {
     "category": "Letters & Numbers",
     "tags": [
@@ -40762,6 +40834,19 @@
     ],
     "animation": "pop"
   },
+  "user-circle-moon": {
+    "category": "People",
+    "tags": [
+      "user",
+      "circle",
+      "moon",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
   "user-circle-pen": {
     "category": "People",
     "tags": [
@@ -40804,6 +40889,18 @@
     "tags": [
       "featured",
       "vip",
+      "user",
+      "circle",
+      "account",
+      "profile",
+      "avatar",
+      "perfil"
+    ],
+    "animation": "bounce"
+  },
+  "user-circle-user": {
+    "category": "People",
+    "tags": [
       "user",
       "circle",
       "account",

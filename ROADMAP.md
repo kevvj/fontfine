@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3550 / 3779**
+**Progress: 3557 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -92,9 +92,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-h
 - [x] square-h
 
-## Animals (21/25)
+## Animals (22/25)
 
-- [ ] bugs
+- [x] bugs
 - [x] cat
 - [x] cow
 - [x] crow
@@ -786,7 +786,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] trash-can-arrow-up
 - [x] xmark (as `x`)
 
-## Education (9/10)
+## Education (10/10)
 
 - [x] atom
 - [x] award
@@ -794,7 +794,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] book-open-reader
 - [x] chalkboard
 - [x] chalkboard-user
-- [ ] masks-theater
+- [x] masks-theater
 - [x] microscope
 - [x] music
 - [x] user-graduate
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] butter
 - [x] butterfly
 
-## Extended: C (412/423)
+## Extended: C (417/423)
 
 - [x] cabin
 - [x] cabinet-filing
@@ -2056,8 +2056,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] chart-line-up
 - [x] chart-line-up-down
 - [x] chart-mixed
-- [ ] chart-mixed-up-circle-currency
-- [ ] chart-mixed-up-circle-dollar
+- [x] chart-mixed-up-circle-currency
+- [x] chart-mixed-up-circle-dollar
 - [x] chart-network
 - [x] chart-pie-simple
 - [x] chart-pie-simple-circle-currency
@@ -2146,7 +2146,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-equals
 - [x] circle-euro
 - [x] circle-eurozone
-- [ ] circle-exclamation-check
+- [x] circle-exclamation-check
 - [x] circle-f
 - [x] circle-florin
 - [x] circle-franc
@@ -2221,10 +2221,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-user-circle-check (as `user-circle-check`)
 - [x] circle-user-circle-exclamation (as `user-circle-exclamation`)
 - [x] circle-user-circle-minus (as `user-circle-minus`)
-- [ ] circle-user-circle-moon
+- [x] circle-user-circle-moon (as `user-circle-moon`)
 - [x] circle-user-circle-plus (as `user-circle-plus`)
 - [x] circle-user-circle-question (as `user-circle-question`)
-- [ ] circle-user-circle-user
+- [x] circle-user-circle-user (as `user-circle-user`)
 - [x] circle-user-circle-xmark (as `user-circle-xmark`)
 - [x] circle-user-clock (as `user-circle-clock`)
 - [x] circle-v
