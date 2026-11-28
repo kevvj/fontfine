@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3491 / 3779**
+**Progress: 3505 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -492,7 +492,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] toilet-paper
 - [x] tree
 
-## Charity (14/16)
+## Charity (15/16)
 
 - [x] circle-dollar-to-slot
 - [x] dollar-sign
@@ -502,7 +502,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] hand-holding-hand
 - [x] hand-holding-heart
 - [x] hands-holding-child
-- [ ] hands-holding-circle
+- [x] hands-holding-circle
 - [x] handshake
 - [x] heart
 - [x] leaf
@@ -651,7 +651,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tower-broadcast
 - [x] wifi
 
-## Construction (18/23)
+## Construction (19/23)
 
 - [ ] arrow-up-from-ground-water
 - [ ] bore-hole
@@ -674,7 +674,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] sheet-plastic
 - [x] toolbox
 - [x] trowel
-- [ ] trowel-bricks
+- [x] trowel-bricks
 - [x] wrench
 
 ## Design (24/25)
@@ -1765,7 +1765,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] axe
 - [x] axe-battle
 
-## Extended: B (174/187)
+## Extended: B (175/187)
 
 - [x] backpack
 - [x] badge
@@ -1847,7 +1847,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] block-question
 - [x] block-quote
 - [x] blueberries
-- [ ] bolt-auto
+- [x] bolt-auto
 - [x] bolt-slash
 - [ ] bone-break
 - [x] book-arrow-right
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] butter
 - [x] butterfly
 
-## Extended: C (411/423)
+## Extended: C (412/423)
 
 - [x] cabin
 - [x] cabinet-filing
@@ -2044,7 +2044,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] cassette-tape
 - [x] cassette-vhs
 - [x] castle
-- [ ] cat-space
+- [x] cat-space
 - [x] cauldron
 - [x] chair-office
 - [x] champagne-glass
@@ -2770,7 +2770,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gun-slash
 - [ ] gun-squirt
 
-## Extended: H (78/93)
+## Extended: H (79/93)
 
 - [x] h1
 - [x] h2
@@ -2779,7 +2779,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] h5
 - [x] h6
 - [ ] hammer-brush
-- [ ] hammer-crash
+- [x] hammer-crash
 - [x] hammer-war
 - [x] hand-back-point-down
 - [x] hand-back-point-left
@@ -3183,7 +3183,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] overline
 - [x] owl
 
-## Extended: P (108/152)
+## Extended: P (114/152)
 
 - [x] padel
 - [x] padel-ball
@@ -3240,7 +3240,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] period
 - [x] person-arms-raised
 - [x] person-basketball
-- [ ] person-biking-mountain
+- [x] person-biking-mountain
 - [ ] person-carry-box
 - [ ] person-carry-empty
 - [ ] person-dolly
@@ -3257,16 +3257,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] person-seat
 - [ ] person-seat-reclined
 - [ ] person-seat-window
-- [ ] person-sign
+- [x] person-sign
 - [x] person-simple
 - [ ] person-ski-jumping
 - [ ] person-ski-lift
 - [ ] person-sledding
 - [ ] person-snowmobiling
-- [ ] person-soccer
-- [ ] person-swimming-pool
-- [ ] person-swimming-water
-- [ ] person-to-door
+- [x] person-soccer
+- [x] person-swimming-pool
+- [x] person-swimming-water
+- [x] person-to-door
 - [ ] person-to-portal
 - [ ] person-water-arms-raised
 - [ ] person-waving
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ruler-triangle
 - [x] rv
 
-## Extended: S (285/317)
+## Extended: S (286/317)
 
 - [x] sack
 - [x] salad
@@ -3482,7 +3482,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] shower-down
 - [x] shredder
 - [x] shutters
-- [ ] shuttle-space-vertical
+- [x] shuttle-space-vertical
 - [x] shuttlecock
 - [x] sickle
 - [x] sidebar
@@ -3902,7 +3902,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tv-retro
 - [x] typewriter
 
-## Extended: U (79/87)
+## Extended: U (80/87)
 
 - [x] u-turn-down-left (as `arrow-u-turn-down-left`)
 - [x] u-turn-down-right (as `arrow-u-turn-down-right`)
@@ -3945,7 +3945,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] user-doctor-hair-long
 - [x] user-doctor-hair-mullet
 - [x] user-doctor-message
-- [ ] user-group-crown
+- [x] user-group-crown
 - [x] user-group-simple
 - [x] user-hair
 - [x] user-hair-buns
@@ -4008,7 +4008,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] violin
 - [x] volume-slash
 
-## Extended: W (43/46)
+## Extended: W (44/46)
 
 - [x] waffle
 - [x] wagon-covered
@@ -4024,7 +4024,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] watch-smart
 - [x] water-arrow-down
 - [x] water-arrow-up
-- [ ] water-temperature
+- [x] water-temperature
 - [x] watermelon-slice
 - [x] wave
 - [x] wave-pulse

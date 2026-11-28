@@ -3837,6 +3837,21 @@
     ],
     "animation": "flash"
   },
+  "bolt-auto": {
+    "category": "Letters & Numbers",
+    "tags": [
+      "bolt",
+      "auto",
+      "letter a",
+      "a",
+      "letter",
+      "alphabet",
+      "lightning",
+      "flash",
+      "power"
+    ],
+    "animation": "flash"
+  },
   "bolt-lightning": {
     "category": "Weather",
     "tags": [
@@ -7821,6 +7836,20 @@
       "gato"
     ],
     "animation": "wiggle"
+  },
+  "cat-space": {
+    "category": "Nature",
+    "tags": [
+      "cat",
+      "space",
+      "pet",
+      "animal",
+      "kitten",
+      "planet",
+      "ringed",
+      "saturn"
+    ],
+    "animation": "spin-slow"
   },
   "cauldron": {
     "category": "Objects",
@@ -20318,6 +20347,21 @@
     "animation": "swing",
     "origin": "50% 100%"
   },
+  "hammer-crash": {
+    "category": "Objects",
+    "tags": [
+      "hammer",
+      "crash",
+      "tool",
+      "build",
+      "construction",
+      "burst",
+      "explosion",
+      "boom",
+      "bang"
+    ],
+    "animation": "pop"
+  },
   "hammer-war": {
     "category": "Objects",
     "tags": [
@@ -20782,6 +20826,20 @@
       "girl"
     ],
     "animation": "bounce"
+  },
+  "hands-holding-circle": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "holding",
+      "circle",
+      "care",
+      "support",
+      "small",
+      "dot",
+      "point"
+    ],
+    "animation": "pulse"
   },
   "hands-holding-diamond": {
     "category": "People",
@@ -29055,6 +29113,20 @@
     ],
     "animation": "drive"
   },
+  "person-biking-mountain": {
+    "category": "People",
+    "tags": [
+      "person",
+      "biking",
+      "mountain",
+      "cycling",
+      "bike",
+      "peak",
+      "nature",
+      "hiking"
+    ],
+    "animation": "pop"
+  },
   "person-booth": {
     "category": "People",
     "tags": [
@@ -29256,6 +29328,20 @@
     ],
     "animation": "nudge-right"
   },
+  "person-sign": {
+    "category": "People",
+    "tags": [
+      "person",
+      "sign",
+      "human",
+      "man",
+      "figure",
+      "hanging",
+      "shop",
+      "store"
+    ],
+    "animation": "swing"
+  },
   "person-simple": {
     "category": "People",
     "tags": [
@@ -29279,6 +29365,20 @@
     ],
     "animation": "nudge-diag"
   },
+  "person-soccer": {
+    "category": "People",
+    "tags": [
+      "person",
+      "soccer",
+      "running",
+      "run",
+      "sport",
+      "futbol",
+      "football",
+      "ball"
+    ],
+    "animation": "bounce"
+  },
   "person-swimming": {
     "category": "People",
     "tags": [
@@ -29290,6 +29390,47 @@
       "nadar"
     ],
     "animation": "wave"
+  },
+  "person-swimming-pool": {
+    "category": "People",
+    "tags": [
+      "person",
+      "swimming",
+      "pool",
+      "swim",
+      "water",
+      "ladder"
+    ],
+    "animation": "pop"
+  },
+  "person-swimming-water": {
+    "category": "People",
+    "tags": [
+      "person",
+      "swimming",
+      "water",
+      "swim",
+      "pool",
+      "waves",
+      "sea",
+      "ocean"
+    ],
+    "animation": "wave"
+  },
+  "person-to-door": {
+    "category": "People",
+    "tags": [
+      "person",
+      "to",
+      "door",
+      "walking",
+      "walk",
+      "pedestrian",
+      "open",
+      "enter",
+      "exit"
+    ],
+    "animation": "turn-y"
   },
   "person-walking": {
     "category": "People",
@@ -33222,6 +33363,18 @@
     "tags": [
       "shuttle",
       "space",
+      "rocket",
+      "nasa",
+      "orbit"
+    ],
+    "animation": "nudge-right"
+  },
+  "shuttle-space-vertical": {
+    "category": "Technology",
+    "tags": [
+      "shuttle",
+      "space",
+      "vertical",
       "rocket",
       "nasa",
       "orbit"
@@ -39335,6 +39488,20 @@
     ],
     "animation": "wiggle"
   },
+  "trowel-bricks": {
+    "category": "Objects",
+    "tags": [
+      "trowel",
+      "bricks",
+      "construction",
+      "mason",
+      "cement",
+      "block",
+      "brick",
+      "wall"
+    ],
+    "animation": "pulse"
+  },
   "truck": {
     "category": "Places",
     "tags": [
@@ -40240,6 +40407,21 @@
       "education"
     ],
     "animation": "pop"
+  },
+  "user-group-crown": {
+    "category": "People",
+    "tags": [
+      "user",
+      "group",
+      "crown",
+      "users",
+      "people",
+      "team",
+      "king",
+      "queen",
+      "royal"
+    ],
+    "animation": "float"
   },
   "user-group-simple": {
     "category": "People",
@@ -41781,6 +41963,20 @@
       "swimming"
     ],
     "animation": "pop"
+  },
+  "water-temperature": {
+    "category": "Weather",
+    "tags": [
+      "water",
+      "temperature",
+      "thermometer",
+      "heat",
+      "fever",
+      "waves",
+      "sea",
+      "ocean"
+    ],
+    "animation": "wave"
   },
   "watermelon-slice": {
     "category": "Nature",
