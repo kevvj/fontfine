@@ -4721,6 +4721,20 @@
     ],
     "animation": "nudge-down"
   },
+  "box-arrow-down-arrow-up": {
+    "category": "Objects",
+    "tags": [
+      "box",
+      "arrow",
+      "down",
+      "up",
+      "package",
+      "inventory",
+      "storage",
+      "sort"
+    ],
+    "animation": "nudge-down"
+  },
   "box-arrow-down-magnifying-glass": {
     "category": "Objects",
     "tags": [
@@ -26658,6 +26672,21 @@
     ],
     "animation": "shake"
   },
+  "microphone-signal-meter": {
+    "category": "Music & Audio",
+    "tags": [
+      "microphone",
+      "signal",
+      "meter",
+      "mic",
+      "voice",
+      "sing",
+      "bars",
+      "full",
+      "strong"
+    ],
+    "animation": "bars"
+  },
   "microphone-stand": {
     "category": "Music & Audio",
     "tags": [
@@ -29249,6 +29278,20 @@
       "pluma"
     ],
     "animation": "shake"
+  },
+  "pen-swirl": {
+    "category": "Actions",
+    "tags": [
+      "pen",
+      "swirl",
+      "write",
+      "edit",
+      "sign",
+      "signature",
+      "autograph",
+      "contract"
+    ],
+    "animation": "write"
   },
   "pen-to-square": {
     "category": "Actions",
@@ -33145,6 +33188,20 @@
       "airplane",
       "chair",
       "travel"
+    ],
+    "animation": "pop"
+  },
+  "seat-airline-window": {
+    "category": "Places",
+    "tags": [
+      "seat",
+      "airline",
+      "window",
+      "airplane",
+      "chair",
+      "frame",
+      "house",
+      "glass"
     ],
     "animation": "pop"
   },
@@ -40315,6 +40372,20 @@
       "delivery"
     ],
     "animation": "drive"
+  },
+  "truck-ramp-couch": {
+    "category": "Objects",
+    "tags": [
+      "truck",
+      "ramp",
+      "couch",
+      "sofa",
+      "living",
+      "room",
+      "moving",
+      "delivery"
+    ],
+    "animation": "slide"
   },
   "truck-suv": {
     "category": "Objects",

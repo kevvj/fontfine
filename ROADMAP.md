@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3557 / 3779**
+**Progress: 3566 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1494,7 +1494,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] slash
 - [x] spinner
 
-## Sports + Fitness (16/20)
+## Sports + Fitness (17/20)
 
 - [x] baseball
 - [x] basketball
@@ -1509,7 +1509,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] person-running
 - [ ] person-skating
 - [x] person-skiing
-- [ ] person-skiing-nordic
+- [x] person-skiing-nordic (as `person-skiing`)
 - [ ] person-snowboarding
 - [x] spa
 - [x] stopwatch-20
@@ -1765,7 +1765,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] axe
 - [x] axe-battle
 
-## Extended: B (177/187)
+## Extended: B (178/187)
 
 - [x] backpack
 - [x] badge
@@ -1894,7 +1894,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] bowling-ball-pin
 - [x] bowling-pins
 - [x] box-arrow-down
-- [ ] box-arrow-down-arrow-up
+- [x] box-arrow-down-arrow-up
 - [x] box-arrow-down-magnifying-glass
 - [x] box-arrow-up
 - [x] box-ballot
@@ -1955,7 +1955,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] butter
 - [x] butterfly
 
-## Extended: C (417/423)
+## Extended: C (418/423)
 
 - [x] cabin
 - [x] cabinet-filing
@@ -2079,7 +2079,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] chess-clock
 - [x] chess-clock-flip
 - [x] chess-king-piece
-- [ ] chess-knight-piece
+- [x] chess-knight-piece (as `chess-knight`)
 - [x] chess-pawn-piece
 - [x] chess-queen-piece
 - [x] chess-rook-piece
@@ -3011,7 +3011,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] luchador-mask
 - [x] lychee
 
-## Extended: M (104/111)
+## Extended: M (105/111)
 
 - [x] mace
 - [x] magnifying-glass-arrows-rotate
@@ -3076,7 +3076,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] microchip-ai
 - [x] microphone-circle-plus
 - [x] microphone-circle-xmark
-- [ ] microphone-signal-meter
+- [x] microphone-signal-meter
 - [x] microphone-stand
 - [x] microwave
 - [x] midi
@@ -3183,7 +3183,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] overline
 - [x] owl
 
-## Extended: P (118/152)
+## Extended: P (119/152)
 
 - [x] padel
 - [x] padel-ball
@@ -3226,7 +3226,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] pen-nib-slash
 - [x] pen-paintbrush
 - [x] pen-slash
-- [ ] pen-swirl
+- [x] pen-swirl
 - [x] pencil-line
 - [x] pencil-mechanical
 - [x] pencil-slash
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ruler-triangle
 - [x] rv
 
-## Extended: S (291/317)
+## Extended: S (293/317)
 
 - [x] sack
 - [x] salad
@@ -3444,7 +3444,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] seal-question
 - [x] seat
 - [x] seat-airline
-- [ ] seat-airline-window
+- [x] seat-airline-window
 - [ ] seats
 - [x] semicolon
 - [x] send-back
@@ -3543,7 +3543,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] spider-black-widow
 - [x] spider-web
 - [x] spine
-- [ ] spinner-scale
+- [x] spinner-scale (as `spinner`)
 - [x] spinner-third
 - [x] split
 - [ ] sportsball
@@ -3733,7 +3733,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] swords-laser
 - [x] symbols
 
-## Extended: T (149/166)
+## Extended: T (151/166)
 
 - [ ] t-rex
 - [x] table-bar
@@ -3865,7 +3865,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] triangle-instrument
 - [ ] triangle-person-digging
 - [x] tricycle
-- [ ] tricycle-adult
+- [x] tricycle-adult (as `tricycle`)
 - [x] trillium
 - [x] triple-chevrons-down
 - [x] triple-chevrons-left
@@ -3882,7 +3882,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] truck-ladder
 - [x] truck-plow
 - [x] truck-ramp
-- [ ] truck-ramp-couch
+- [x] truck-ramp-couch
 - [x] truck-suv
 - [x] truck-tow
 - [x] truck-utensils
