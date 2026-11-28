@@ -22674,6 +22674,21 @@
     ],
     "animation": "bounce"
   },
+  "house-tsunami": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "tsunami",
+      "home",
+      "main",
+      "start",
+      "water",
+      "waves",
+      "sea",
+      "ocean"
+    ],
+    "animation": "wave"
+  },
   "house-unlock": {
     "category": "Places",
     "tags": [
@@ -23651,6 +23666,21 @@
       "botiquin"
     ],
     "animation": "bounce"
+  },
+  "kitchen-set": {
+    "category": "Objects",
+    "tags": [
+      "kitchen",
+      "set",
+      "pot",
+      "food",
+      "cooking",
+      "soup",
+      "spoon",
+      "cutlery",
+      "eat"
+    ],
+    "animation": "rock"
   },
   "kite": {
     "category": "Objects",
@@ -27394,6 +27424,21 @@
     ],
     "animation": "wiggle"
   },
+  "mosquito-net": {
+    "category": "Nature",
+    "tags": [
+      "mosquito",
+      "net",
+      "insect",
+      "bug",
+      "bite",
+      "table",
+      "cells",
+      "grid",
+      "spreadsheet"
+    ],
+    "animation": "pop"
+  },
   "motorcycle": {
     "category": "Places",
     "tags": [
@@ -29758,6 +29803,21 @@
     ],
     "animation": "pop"
   },
+  "person-digging": {
+    "category": "People",
+    "tags": [
+      "person",
+      "digging",
+      "human",
+      "man",
+      "figure",
+      "shovel",
+      "dig",
+      "garden",
+      "tool"
+    ],
+    "animation": "rock"
+  },
   "person-dress": {
     "category": "People",
     "tags": [
@@ -29793,6 +29853,19 @@
       "female"
     ],
     "animation": "pop"
+  },
+  "person-falling": {
+    "category": "People",
+    "tags": [
+      "person",
+      "falling",
+      "human",
+      "man",
+      "figure",
+      "body",
+      "persona"
+    ],
+    "animation": "bounce"
   },
   "person-hiking": {
     "category": "People",
@@ -29842,6 +29915,21 @@
       "correr"
     ],
     "animation": "nudge-right"
+  },
+  "person-shelter": {
+    "category": "People",
+    "tags": [
+      "person",
+      "shelter",
+      "human",
+      "man",
+      "figure",
+      "home",
+      "house",
+      "main",
+      "start"
+    ],
+    "animation": "bounce"
   },
   "person-sign": {
     "category": "People",
@@ -29931,6 +30019,21 @@
       "ocean"
     ],
     "animation": "wave"
+  },
+  "person-through-window": {
+    "category": "People",
+    "tags": [
+      "person",
+      "through",
+      "window",
+      "human",
+      "man",
+      "figure",
+      "frame",
+      "house",
+      "glass"
+    ],
+    "animation": "pop"
   },
   "person-to-door": {
     "category": "People",
@@ -39995,6 +40098,20 @@
       "music"
     ],
     "animation": "shake"
+  },
+  "triangle-person-digging": {
+    "category": "People",
+    "tags": [
+      "triangle",
+      "person",
+      "digging",
+      "human",
+      "man",
+      "shape",
+      "geometry",
+      "polygon"
+    ],
+    "animation": "pop"
   },
   "tricycle": {
     "category": "Objects",

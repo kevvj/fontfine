@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3566 / 3779**
+**Progress: 3574 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -465,7 +465,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vault
 - [x] wallet
 
-## Camping (22/24)
+## Camping (24/24)
 
 - [x] bottle-water
 - [x] bucket
@@ -479,12 +479,12 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] map-location (as `map-location-dot`)
 - [x] map-location-dot
 - [x] mattress-pillow
-- [ ] mosquito-net
+- [x] mosquito-net
 - [x] mountain
 - [x] mountain-sun
 - [x] people-roof
 - [x] person-hiking
-- [ ] person-shelter
+- [x] person-shelter
 - [x] route
 - [x] signs-post
 - [x] tarp
@@ -651,7 +651,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tower-broadcast
 - [x] wifi
 
-## Construction (21/23)
+## Construction (22/23)
 
 - [x] arrow-up-from-ground-water
 - [x] bore-hole
@@ -664,7 +664,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] mound
 - [x] paint-roller
 - [x] pen-ruler
-- [ ] person-digging
+- [x] person-digging
 - [x] ruler
 - [x] ruler-combined
 - [x] ruler-horizontal
@@ -730,7 +730,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tachograph-digital
 - [x] tv
 
-## Disaster + Crisis (21/28)
+## Disaster + Crisis (22/28)
 
 - [ ] biohazard
 - [x] burst
@@ -743,7 +743,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] hill-rockslide
 - [x] house-flood-water
 - [x] house-flood-water-circle-arrow-right
-- [ ] house-tsunami
+- [x] house-tsunami
 - [x] hurricane
 - [ ] person-drowning
 - [ ] person-rifle
@@ -1021,7 +1021,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] menorah
 - [x] sleigh
 
-## Household (19/21)
+## Household (20/21)
 
 - [ ] arrow-up-from-water-pump
 - [x] bed
@@ -1033,7 +1033,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] house-chimney-user
 - [x] house-user
 - [x] jug-detergent
-- [ ] kitchen-set
+- [x] kitchen-set
 - [x] pump-soap
 - [x] rug
 - [x] shower
@@ -1045,7 +1045,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] toilet-paper-slash
 - [x] utensils (as `fork-knife`)
 
-## Humanitarian (102/114)
+## Humanitarian (104/114)
 
 - [x] anchor
 - [x] anchor-circle-check
@@ -1106,7 +1106,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] person-circle-xmark
 - [x] person-dress
 - [x] person-dress-burst
-- [ ] person-falling
+- [x] person-falling
 - [ ] person-falling-burst
 - [ ] person-harassing
 - [ ] person-military-pointing
@@ -1114,7 +1114,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] person-military-to-person
 - [ ] person-pregnant
 - [x] person-rays
-- [ ] person-through-window
+- [x] person-through-window
 - [x] person-walking
 - [x] person-walking-luggage
 - [x] pills
@@ -3733,7 +3733,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] swords-laser
 - [x] symbols
 
-## Extended: T (151/166)
+## Extended: T (152/166)
 
 - [ ] t-rex
 - [x] table-bar
@@ -3863,7 +3863,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] trees
 - [x] triangle
 - [x] triangle-instrument
-- [ ] triangle-person-digging
+- [x] triangle-person-digging
 - [x] tricycle
 - [x] tricycle-adult (as `tricycle`)
 - [x] trillium
