@@ -216,6 +216,19 @@
     ],
     "animation": "spin-slow"
   },
+  "album-collection": {
+    "category": "Music & Audio",
+    "tags": [
+      "album",
+      "collection",
+      "music",
+      "record",
+      "vinyl",
+      "cover",
+      "disco"
+    ],
+    "animation": "spin-slow"
+  },
   "alien": {
     "category": "People",
     "tags": [
@@ -2711,6 +2724,21 @@
     ],
     "animation": "shake"
   },
+  "ban-bug": {
+    "category": "Status",
+    "tags": [
+      "ban",
+      "bug",
+      "error",
+      "issue",
+      "insect",
+      "bicho",
+      "falla",
+      "app",
+      "insecto"
+    ],
+    "animation": "wiggle"
+  },
   "ban-parking": {
     "category": "Places",
     "tags": [
@@ -3402,6 +3430,21 @@
     ],
     "animation": "shake"
   },
+  "bells": {
+    "category": "Interface",
+    "tags": [
+      "bells",
+      "bell",
+      "notification",
+      "alert",
+      "alarm",
+      "campana",
+      "notificaciones",
+      "avisos",
+      "alarma"
+    ],
+    "animation": "swing"
+  },
   "bezier-curve": {
     "category": "Interface",
     "tags": [
@@ -3631,6 +3674,18 @@
     ],
     "animation": "pop"
   },
+  "block": {
+    "category": "Objects",
+    "tags": [
+      "block",
+      "brick",
+      "cube",
+      "game",
+      "square",
+      "bloque"
+    ],
+    "animation": "pop"
+  },
   "block-brick": {
     "category": "Objects",
     "tags": [
@@ -3641,6 +3696,18 @@
       "ladrillo"
     ],
     "animation": "pulse"
+  },
+  "block-question": {
+    "category": "Objects",
+    "tags": [
+      "block",
+      "question",
+      "mystery",
+      "game",
+      "bonus",
+      "retro"
+    ],
+    "animation": "bounce"
   },
   "block-quote": {
     "category": "Interface",
@@ -3832,6 +3899,18 @@
       "library"
     ],
     "animation": "nudge-up"
+  },
+  "book-copy": {
+    "category": "Objects",
+    "tags": [
+      "book",
+      "copy",
+      "read",
+      "library",
+      "study",
+      "libro"
+    ],
+    "animation": "flip"
   },
   "book-font": {
     "category": "Objects",
@@ -4097,6 +4176,18 @@
       "clothing"
     ],
     "animation": "bounce"
+  },
+  "booth-curtain": {
+    "category": "Places",
+    "tags": [
+      "booth",
+      "curtain",
+      "voting",
+      "photo booth",
+      "stage",
+      "cabina"
+    ],
+    "animation": "wave"
   },
   "border-all": {
     "category": "Interface",
@@ -6358,6 +6449,19 @@
     ],
     "animation": "flip"
   },
+  "calendars": {
+    "category": "Objects",
+    "tags": [
+      "calendars",
+      "calendar",
+      "date",
+      "event",
+      "schedule",
+      "calendario",
+      "fecha"
+    ],
+    "animation": "flip"
+  },
   "camcorder": {
     "category": "Media",
     "tags": [
@@ -7034,6 +7138,18 @@
       "zanahoria"
     ],
     "animation": "rock"
+  },
+  "cars": {
+    "category": "Objects",
+    "tags": [
+      "cars",
+      "car",
+      "vehicle",
+      "auto",
+      "transport",
+      "carro"
+    ],
+    "animation": "drive"
   },
   "cart": {
     "category": "Objects",
@@ -7760,6 +7876,20 @@
     ],
     "animation": "spin-slow"
   },
+  "chart-pie-simple-circle-currency": {
+    "category": "Interface",
+    "tags": [
+      "chart",
+      "pie",
+      "simple",
+      "circle",
+      "currency",
+      "graph",
+      "statistics",
+      "data"
+    ],
+    "animation": "spin-slow"
+  },
   "chart-pie-simple-circle-dollar": {
     "category": "Interface",
     "tags": [
@@ -8136,6 +8266,19 @@
     ],
     "animation": "tick"
   },
+  "chess-clock-flip": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "clock",
+      "flip",
+      "timer",
+      "game",
+      "tournament",
+      "reloj"
+    ],
+    "animation": "tick"
+  },
   "chess-king": {
     "category": "Objects",
     "tags": [
@@ -8379,6 +8522,19 @@
       "girl",
       "kid",
       "nina"
+    ],
+    "animation": "bounce"
+  },
+  "children": {
+    "category": "People",
+    "tags": [
+      "children",
+      "child",
+      "kid",
+      "boy",
+      "girl",
+      "young",
+      "nino"
     ],
     "animation": "bounce"
   },
@@ -9736,6 +9892,17 @@
     ],
     "animation": "ring"
   },
+  "circle-phone-flip": {
+    "category": "Interface",
+    "tags": [
+      "circle",
+      "phone",
+      "flip",
+      "round",
+      "button"
+    ],
+    "animation": "ring"
+  },
   "circle-phone-hangup": {
     "category": "Communication",
     "tags": [
@@ -10221,6 +10388,17 @@
     "animation": "beat"
   },
   "circle-wifi": {
+    "category": "Technology",
+    "tags": [
+      "circle",
+      "wifi",
+      "wireless",
+      "internet",
+      "signal"
+    ],
+    "animation": "signal"
+  },
+  "circle-wifi-circle-wifi": {
     "category": "Technology",
     "tags": [
       "circle",
@@ -12060,6 +12238,17 @@
     ],
     "animation": "pop"
   },
+  "comments-dollar": {
+    "category": "Communication",
+    "tags": [
+      "comments",
+      "dollar",
+      "conversation",
+      "chat",
+      "discussion"
+    ],
+    "animation": "pop"
+  },
   "comments-question": {
     "category": "Communication",
     "tags": [
@@ -12067,6 +12256,21 @@
       "faq",
       "ask",
       "comments",
+      "conversation",
+      "chat",
+      "discussion"
+    ],
+    "animation": "pop"
+  },
+  "comments-question-check": {
+    "category": "Communication",
+    "tags": [
+      "comments",
+      "question",
+      "check",
+      "help",
+      "faq",
+      "ask",
       "conversation",
       "chat",
       "discussion"
@@ -12959,6 +13163,18 @@
     ],
     "animation": "nudge-down"
   },
+  "diagram-predecessor": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "predecessor",
+      "previous",
+      "flow",
+      "hierarchy",
+      "chart"
+    ],
+    "animation": "nudge-up"
+  },
   "diagram-previous": {
     "category": "Interface",
     "tags": [
@@ -12982,6 +13198,18 @@
     ],
     "animation": "pop"
   },
+  "diagram-sankey": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "sankey",
+      "flow",
+      "chart",
+      "data",
+      "diagrama"
+    ],
+    "animation": "slide"
+  },
   "diagram-subtask": {
     "category": "Interface",
     "tags": [
@@ -12992,6 +13220,18 @@
       "tasks"
     ],
     "animation": "pop"
+  },
+  "diagram-successor": {
+    "category": "Interface",
+    "tags": [
+      "diagram",
+      "successor",
+      "next",
+      "flow",
+      "hierarchy",
+      "chart"
+    ],
+    "animation": "nudge-down"
   },
   "diagram-venn": {
     "category": "Interface",
@@ -13441,6 +13681,21 @@
       "growth",
       "analytics",
       "display",
+      "monitor",
+      "screen"
+    ],
+    "animation": "pulse"
+  },
+  "display-chart-up-circle-currency": {
+    "category": "Technology",
+    "tags": [
+      "display",
+      "chart",
+      "up",
+      "circle",
+      "currency",
+      "growth",
+      "analytics",
       "monitor",
       "screen"
     ],
@@ -14724,6 +14979,20 @@
     ],
     "animation": "wobble"
   },
+  "face-beam-hand-over-mouth": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "beam",
+      "hand over mouth",
+      "giggle",
+      "laugh",
+      "oops",
+      "risita"
+    ],
+    "animation": "pop"
+  },
   "face-confounded": {
     "category": "People",
     "tags": [
@@ -15142,6 +15411,48 @@
     ],
     "animation": "pop"
   },
+  "face-hand-over-mouth": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "hand over mouth",
+      "oops",
+      "surprise",
+      "giggle",
+      "shock",
+      "ups"
+    ],
+    "animation": "pop"
+  },
+  "face-hand-peeking": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "peeking",
+      "hand",
+      "shy",
+      "scared",
+      "hide",
+      "espiar"
+    ],
+    "animation": "wiggle"
+  },
+  "face-hand-yawn": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "yawn",
+      "hand",
+      "tired",
+      "sleepy",
+      "bored",
+      "bostezo"
+    ],
+    "animation": "float"
+  },
   "face-head-bandage": {
     "category": "People",
     "tags": [
@@ -15154,6 +15465,20 @@
     ],
     "animation": "wobble"
   },
+  "face-holding-back-tears": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "holding back tears",
+      "sad",
+      "moved",
+      "touched",
+      "cry",
+      "lagrimas"
+    ],
+    "animation": "shake"
+  },
   "face-hushed": {
     "category": "People",
     "tags": [
@@ -15164,6 +15489,20 @@
       "emoji"
     ],
     "animation": "wobble"
+  },
+  "face-icicles": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "icicles",
+      "cold",
+      "freezing",
+      "frozen",
+      "winter",
+      "congelado"
+    ],
+    "animation": "shake"
   },
   "face-kiss": {
     "category": "People",
@@ -15343,6 +15682,20 @@
       "nauseas"
     ],
     "animation": "wiggle"
+  },
+  "face-nose-steam": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "nose steam",
+      "angry",
+      "triumph",
+      "frustrated",
+      "mad",
+      "enojado"
+    ],
+    "animation": "shake"
   },
   "face-party": {
     "category": "People",
@@ -15715,6 +16068,20 @@
     ],
     "animation": "pop"
   },
+  "face-smiling-hands": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "smiling",
+      "hands",
+      "hug",
+      "warm",
+      "thanks",
+      "abrazo"
+    ],
+    "animation": "bounce"
+  },
   "face-smirking": {
     "category": "People",
     "tags": [
@@ -15813,6 +16180,20 @@
     ],
     "animation": "wobble"
   },
+  "face-tissue": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "tissue",
+      "sneeze",
+      "cold",
+      "sick",
+      "flu",
+      "pañuelo"
+    ],
+    "animation": "float"
+  },
   "face-tongue-sweat": {
     "category": "People",
     "tags": [
@@ -15849,6 +16230,20 @@
       "emoji"
     ],
     "animation": "pop"
+  },
+  "face-vomit": {
+    "category": "People",
+    "tags": [
+      "face",
+      "emoji",
+      "vomit",
+      "sick",
+      "ill",
+      "nausea",
+      "puke",
+      "vomitar"
+    ],
+    "animation": "drip"
   },
   "face-weary": {
     "category": "People",
@@ -17136,6 +17531,19 @@
     ],
     "animation": "shake"
   },
+  "film-stack": {
+    "category": "Media",
+    "tags": [
+      "film",
+      "stack",
+      "movie",
+      "cinema",
+      "video",
+      "reel",
+      "pelicula"
+    ],
+    "animation": "pulse"
+  },
   "films": {
     "category": "Media",
     "tags": [
@@ -17205,6 +17613,17 @@
       "refine"
     ],
     "animation": "shake"
+  },
+  "filters": {
+    "category": "Interface",
+    "tags": [
+      "filters",
+      "filter",
+      "funnel",
+      "sort",
+      "refine"
+    ],
+    "animation": "pop"
   },
   "fingerprint": {
     "category": "Security",
@@ -20689,6 +21108,18 @@
     ],
     "animation": "pop"
   },
+  "hospitals": {
+    "category": "Places",
+    "tags": [
+      "hospitals",
+      "hospital",
+      "clinic",
+      "health",
+      "medical",
+      "emergency"
+    ],
+    "animation": "pulse"
+  },
   "hot-tub-person": {
     "category": "Places",
     "tags": [
@@ -21927,6 +22358,18 @@
       "sport"
     ],
     "animation": "float"
+  },
+  "kazoo": {
+    "category": "Media",
+    "tags": [
+      "kazoo",
+      "instrument",
+      "music",
+      "party",
+      "toy",
+      "buzz"
+    ],
+    "animation": "wiggle"
   },
   "kerning": {
     "category": "Letters & Numbers",
@@ -26663,6 +27106,19 @@
     ],
     "animation": "rock"
   },
+  "oil-well": {
+    "category": "Places",
+    "tags": [
+      "oil",
+      "well",
+      "pump jack",
+      "petroleum",
+      "drilling",
+      "energy",
+      "petróleo"
+    ],
+    "animation": "wobble"
+  },
   "olive": {
     "category": "Nature",
     "tags": [
@@ -28812,6 +29268,18 @@
     ],
     "animation": "pop"
   },
+  "poll-people": {
+    "category": "Interface",
+    "tags": [
+      "poll",
+      "people",
+      "vote",
+      "survey",
+      "results",
+      "encuesta"
+    ],
+    "animation": "bars"
+  },
   "poll-vertical": {
     "category": "Interface",
     "tags": [
@@ -28834,6 +29302,19 @@
       "emoji"
     ],
     "animation": "bounce"
+  },
+  "pool-8-ball": {
+    "category": "Objects",
+    "tags": [
+      "pool",
+      "8 ball",
+      "billiards",
+      "snooker",
+      "game",
+      "sport",
+      "billar"
+    ],
+    "animation": "spin"
   },
   "poop": {
     "category": "Objects",
@@ -29932,6 +30413,19 @@
       "lazo"
     ],
     "animation": "swing"
+  },
+  "right-left-large": {
+    "category": "Arrows",
+    "tags": [
+      "right",
+      "left",
+      "large",
+      "arrows",
+      "swap",
+      "exchange",
+      "transfer"
+    ],
+    "animation": "nudge-right"
   },
   "ring": {
     "category": "Objects",
@@ -36726,6 +37220,19 @@
     ],
     "animation": "bounce"
   },
+  "toilets-portable": {
+    "category": "Places",
+    "tags": [
+      "toilets",
+      "portable",
+      "porta potty",
+      "restroom",
+      "outdoor",
+      "event",
+      "baño"
+    ],
+    "animation": "pop"
+  },
   "tomato": {
     "category": "Nature",
     "tags": [
@@ -38461,6 +38968,18 @@
       "stethoscope",
       "person",
       "avatar"
+    ],
+    "animation": "pop"
+  },
+  "user-doctor-message": {
+    "category": "People",
+    "tags": [
+      "user",
+      "doctor",
+      "message",
+      "physician",
+      "medical",
+      "stethoscope"
     ],
     "animation": "pop"
   },
