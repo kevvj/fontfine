@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3585 / 3779**
+**Progress: 3589 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1765,7 +1765,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] axe
 - [x] axe-battle
 
-## Extended: B (178/187)
+## Extended: B (179/187)
 
 - [x] backpack
 - [x] badge
@@ -1825,7 +1825,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] bell-school-slash
 - [x] bells
 - [x] bench-tree
-- [ ] bicep
+- [x] bicep
 - [x] billboard
 - [x] bin
 - [x] bin-bottles
@@ -2770,7 +2770,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gun-slash
 - [ ] gun-squirt
 
-## Extended: H (83/93)
+## Extended: H (86/93)
 
 - [x] h1
 - [x] h2
@@ -2786,7 +2786,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] hand-back-point-ribbon
 - [x] hand-back-point-right
 - [x] hand-back-point-up
-- [ ] hand-fingers-crossed
+- [x] hand-fingers-crossed
 - [x] hand-heart
 - [x] hand-holding-box
 - [x] hand-holding-circle-dollar
@@ -2794,8 +2794,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] hand-holding-seedling
 - [x] hand-holding-skull
 - [x] hand-holding-star
-- [ ] hand-horns
-- [ ] hand-love
+- [x] hand-horns
+- [x] hand-love
 - [x] hand-point-ribbon
 - [ ] hand-shaka
 - [x] hand-wave

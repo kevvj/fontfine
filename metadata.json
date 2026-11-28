@@ -3567,6 +3567,18 @@
     ],
     "animation": "flip"
   },
+  "bicep": {
+    "category": "People",
+    "tags": [
+      "bicep",
+      "arm",
+      "strong",
+      "muscle",
+      "fitness",
+      "fuerza"
+    ],
+    "animation": "beat"
+  },
   "bicycle": {
     "category": "Places",
     "tags": [
@@ -20757,6 +20769,18 @@
     ],
     "animation": "shake"
   },
+  "hand-fingers-crossed": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "fingers",
+      "crossed",
+      "luck",
+      "hope",
+      "suerte"
+    ],
+    "animation": "wiggle"
+  },
   "hand-fist": {
     "category": "People",
     "tags": [
@@ -20915,6 +20939,30 @@
       "reward"
     ],
     "animation": "star"
+  },
+  "hand-horns": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "horns",
+      "rock",
+      "metal",
+      "music",
+      "cuernos"
+    ],
+    "animation": "shake"
+  },
+  "hand-love": {
+    "category": "People",
+    "tags": [
+      "hand",
+      "love",
+      "i love you",
+      "asl",
+      "sign",
+      "amor"
+    ],
+    "animation": "beat"
   },
   "hand-middle-finger": {
     "category": "People",
