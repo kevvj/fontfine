@@ -239,6 +239,19 @@
     ],
     "animation": "wobble"
   },
+  "alien-8bit": {
+    "category": "Objects",
+    "tags": [
+      "alien",
+      "8bit",
+      "pixel",
+      "space invader",
+      "retro",
+      "game",
+      "arcade"
+    ],
+    "animation": "wiggle"
+  },
   "align-center": {
     "category": "Interface",
     "tags": [
@@ -1231,6 +1244,21 @@
       "move",
       "export",
       "import"
+    ],
+    "animation": "nudge-right"
+  },
+  "arrow-right-to-city": {
+    "category": "Places",
+    "tags": [
+      "arrow",
+      "right",
+      "to",
+      "city",
+      "buildings",
+      "urban",
+      "town",
+      "next",
+      "forward"
     ],
     "animation": "nudge-right"
   },
@@ -5962,6 +5990,20 @@
       "aim",
       "objective",
       "diana"
+    ],
+    "animation": "pulse"
+  },
+  "bullseye-pointer": {
+    "category": "Interface",
+    "tags": [
+      "bullseye",
+      "pointer",
+      "arrow",
+      "cursor",
+      "mouse",
+      "target",
+      "goal",
+      "aim"
     ],
     "animation": "pulse"
   },
@@ -14659,6 +14701,18 @@
     ],
     "animation": "spin-slow"
   },
+  "earth-oceania": {
+    "category": "Places",
+    "tags": [
+      "earth",
+      "oceania",
+      "australia",
+      "globe",
+      "world",
+      "pacific"
+    ],
+    "animation": "spin-slow"
+  },
   "eclipse": {
     "category": "Weather",
     "tags": [
@@ -16763,6 +16817,17 @@
       "water"
     ],
     "animation": "float"
+  },
+  "field-hockey-stick": {
+    "category": "Objects",
+    "tags": [
+      "field hockey",
+      "stick",
+      "sport",
+      "game",
+      "hockey"
+    ],
+    "animation": "swing"
   },
   "field-hockey-stick-ball": {
     "category": "Objects",
@@ -19317,6 +19382,31 @@
     ],
     "animation": "spin"
   },
+  "gear-complex": {
+    "category": "Interface",
+    "tags": [
+      "gear",
+      "complex",
+      "settings",
+      "cog",
+      "options",
+      "engranaje"
+    ],
+    "animation": "spin"
+  },
+  "gear-complex-code": {
+    "category": "Interface",
+    "tags": [
+      "gear",
+      "complex",
+      "code",
+      "settings",
+      "cog",
+      "options",
+      "engranaje"
+    ],
+    "animation": "spin"
+  },
   "gears": {
     "category": "Interface",
     "tags": [
@@ -19816,6 +19906,18 @@
     ],
     "animation": "pop"
   },
+  "grid-dividers": {
+    "category": "Interface",
+    "tags": [
+      "grid",
+      "dividers",
+      "rows",
+      "layout",
+      "list",
+      "separator"
+    ],
+    "animation": "slide"
+  },
   "grid-round": {
     "category": "Interface",
     "tags": [
@@ -19994,6 +20096,20 @@
       "move"
     ],
     "animation": "pop"
+  },
+  "group-arrows-rotate": {
+    "category": "People",
+    "tags": [
+      "group",
+      "arrows",
+      "rotate",
+      "users",
+      "people",
+      "team",
+      "refresh",
+      "sync"
+    ],
+    "animation": "spin"
   },
   "guarani-sign": {
     "category": "Letters & Numbers",
@@ -21979,6 +22095,36 @@
       "home",
       "moon",
       "evening"
+    ],
+    "animation": "bounce"
+  },
+  "house-person-leave": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "person",
+      "leave",
+      "home",
+      "main",
+      "start",
+      "walking",
+      "walk",
+      "pedestrian"
+    ],
+    "animation": "bounce"
+  },
+  "house-person-return": {
+    "category": "Places",
+    "tags": [
+      "house",
+      "person",
+      "return",
+      "home",
+      "main",
+      "start",
+      "walking",
+      "walk",
+      "pedestrian"
     ],
     "animation": "bounce"
   },
@@ -26337,6 +26483,32 @@
     ],
     "animation": "pop"
   },
+  "money-from-bracket": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bracket",
+      "withdraw",
+      "cash",
+      "atm",
+      "bill",
+      "retiro"
+    ],
+    "animation": "nudge-down"
+  },
+  "money-simple-from-bracket": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "simple",
+      "bracket",
+      "withdraw",
+      "cash",
+      "atm",
+      "retiro"
+    ],
+    "animation": "nudge-down"
+  },
   "monitor": {
     "category": "Technology",
     "tags": [
@@ -28511,6 +28683,19 @@
     ],
     "animation": "pop"
   },
+  "people-line": {
+    "category": "People",
+    "tags": [
+      "people",
+      "line",
+      "man",
+      "woman",
+      "persons",
+      "group",
+      "personas"
+    ],
+    "animation": "wave"
+  },
   "people-pants": {
     "category": "People",
     "tags": [
@@ -28519,6 +28704,18 @@
       "persons",
       "group",
       "pants",
+      "personas"
+    ],
+    "animation": "wave"
+  },
+  "people-pants-simple": {
+    "category": "People",
+    "tags": [
+      "people",
+      "pants",
+      "simple",
+      "men",
+      "group",
       "personas"
     ],
     "animation": "wave"
@@ -28613,6 +28810,34 @@
       "victory"
     ],
     "animation": "bounce"
+  },
+  "person-arrow-down-to-line": {
+    "category": "People",
+    "tags": [
+      "person",
+      "arrow",
+      "down",
+      "to",
+      "line",
+      "human",
+      "man",
+      "figure"
+    ],
+    "animation": "nudge-down"
+  },
+  "person-arrow-up-from-line": {
+    "category": "People",
+    "tags": [
+      "person",
+      "arrow",
+      "up",
+      "from",
+      "line",
+      "human",
+      "man",
+      "figure"
+    ],
+    "animation": "nudge-up"
   },
   "person-basketball": {
     "category": "People",
@@ -28886,6 +29111,35 @@
       "caminar"
     ],
     "animation": "bounce"
+  },
+  "person-walking-arrow-loop-left": {
+    "category": "People",
+    "tags": [
+      "person",
+      "walking",
+      "arrow",
+      "loop",
+      "left",
+      "walk",
+      "pedestrian",
+      "rotate",
+      "undo"
+    ],
+    "animation": "spin"
+  },
+  "person-walking-arrow-right": {
+    "category": "People",
+    "tags": [
+      "person",
+      "walking",
+      "arrow",
+      "right",
+      "walk",
+      "pedestrian",
+      "next",
+      "forward"
+    ],
+    "animation": "nudge-right"
   },
   "person-walking-luggage": {
     "category": "People",
@@ -29914,6 +30168,21 @@
       "toilet",
       "funny",
       "emoji"
+    ],
+    "animation": "bounce"
+  },
+  "poo-storm": {
+    "category": "Weather",
+    "tags": [
+      "poo",
+      "storm",
+      "bolt",
+      "lightning",
+      "flash",
+      "power",
+      "poop",
+      "toilet",
+      "funny"
     ],
     "animation": "bounce"
   },
@@ -37919,6 +38188,31 @@
     ],
     "animation": "shake"
   },
+  "toilet-paper-under": {
+    "category": "Objects",
+    "tags": [
+      "toilet",
+      "paper",
+      "under",
+      "roll",
+      "bathroom",
+      "papel"
+    ],
+    "animation": "spin"
+  },
+  "toilet-paper-under-slash": {
+    "category": "Objects",
+    "tags": [
+      "toilet",
+      "paper",
+      "under",
+      "slash",
+      "roll",
+      "bathroom",
+      "papel"
+    ],
+    "animation": "shake"
+  },
   "toilet-paper-xmark": {
     "category": "Objects",
     "tags": [
@@ -40498,6 +40792,20 @@
       "gente"
     ],
     "animation": "bounce"
+  },
+  "utensils-slash": {
+    "category": "Objects",
+    "tags": [
+      "utensils",
+      "slash",
+      "fork",
+      "knife",
+      "food",
+      "restaurant",
+      "dining",
+      "cubiertos"
+    ],
+    "animation": "shake"
   },
   "utility-can": {
     "category": "Objects",
