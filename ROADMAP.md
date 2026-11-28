@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3515 / 3779**
+**Progress: 3524 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -297,7 +297,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] truck-pickup
 - [x] van-shuttle
 
-## Buildings (71/74)
+## Buildings (72/74)
 
 - [x] archway
 - [x] arrow-right-to-city
@@ -318,7 +318,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] church
 - [x] city
 - [x] dungeon
-- [ ] gopuram
+- [x] gopuram
 - [x] hospital
 - [x] hospital-user
 - [x] hotel
@@ -651,10 +651,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tower-broadcast
 - [x] wifi
 
-## Construction (19/23)
+## Construction (21/23)
 
-- [ ] arrow-up-from-ground-water
-- [ ] bore-hole
+- [x] arrow-up-from-ground-water
+- [x] bore-hole
 - [x] brush
 - [x] compass-drafting
 - [x] dumpster
@@ -730,7 +730,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tachograph-digital
 - [x] tv
 
-## Disaster + Crisis (19/28)
+## Disaster + Crisis (21/28)
 
 - [ ] biohazard
 - [x] burst
@@ -739,8 +739,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] cloud-showers-heavy
 - [x] cloud-showers-water
 - [ ] helmet-un
-- [ ] hill-avalanche
-- [ ] hill-rockslide
+- [x] hill-avalanche
+- [x] hill-rockslide
 - [x] house-flood-water
 - [x] house-flood-water-circle-arrow-right
 - [ ] house-tsunami
@@ -1045,7 +1045,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] toilet-paper-slash
 - [x] utensils (as `fork-knife`)
 
-## Humanitarian (97/114)
+## Humanitarian (98/114)
 
 - [x] anchor
 - [x] anchor-circle-check
@@ -1078,7 +1078,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] helicopter-symbol
 - [x] id-card
 - [x] jet-fighter-up
-- [ ] land-mine-on
+- [x] land-mine-on
 - [x] life-ring
 - [x] location-pin-lock
 - [x] lungs
@@ -1765,7 +1765,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] axe
 - [x] axe-battle
 
-## Extended: B (175/187)
+## Extended: B (177/187)
 
 - [x] backpack
 - [x] badge
@@ -1824,7 +1824,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] bell-school
 - [x] bell-school-slash
 - [x] bells
-- [ ] bench-tree
+- [x] bench-tree
 - [ ] bicep
 - [x] billboard
 - [x] bin
@@ -1840,7 +1840,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] blanket-fire
 - [x] blinds
 - [x] blinds-open
-- [ ] blinds-raised
+- [x] blinds-raised
 - [x] block
 - [x] block-brick
 - [x] block-brick-fire
@@ -3733,7 +3733,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] swords-laser
 - [x] symbols
 
-## Extended: T (145/166)
+## Extended: T (146/166)
 
 - [ ] t-rex
 - [x] table-bar
@@ -3876,7 +3876,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] truck-bolt
 - [x] truck-clock
 - [x] truck-container
-- [ ] truck-container-empty
+- [x] truck-container-empty
 - [x] truck-fire
 - [x] truck-flatbed
 - [x] truck-ladder

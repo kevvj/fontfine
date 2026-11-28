@@ -1725,6 +1725,19 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-from-ground-water": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "ground",
+      "water",
+      "well",
+      "groundwater",
+      "agua"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-up-from-line": {
     "category": "Arrows",
     "tags": [
@@ -3486,6 +3499,19 @@
     ],
     "animation": "swing"
   },
+  "bench-tree": {
+    "category": "Places",
+    "tags": [
+      "bench",
+      "tree",
+      "park",
+      "outdoor",
+      "garden",
+      "banca",
+      "parque"
+    ],
+    "animation": "float"
+  },
   "bezier-curve": {
     "category": "Interface",
     "tags": [
@@ -3742,6 +3768,18 @@
       "shade"
     ],
     "animation": "pop"
+  },
+  "blinds-raised": {
+    "category": "Objects",
+    "tags": [
+      "blinds",
+      "raised",
+      "window",
+      "shade",
+      "open",
+      "persiana"
+    ],
+    "animation": "nudge-up"
   },
   "block": {
     "category": "Objects",
@@ -4426,6 +4464,18 @@
       "cell"
     ],
     "animation": "pop"
+  },
+  "bore-hole": {
+    "category": "Places",
+    "tags": [
+      "bore hole",
+      "well",
+      "drill",
+      "water",
+      "borehole",
+      "pozo"
+    ],
+    "animation": "nudge-down"
   },
   "bottle-baby": {
     "category": "Objects",
@@ -19850,6 +19900,18 @@
     ],
     "animation": "wave"
   },
+  "gopuram": {
+    "category": "Religion",
+    "tags": [
+      "gopuram",
+      "temple",
+      "hindu",
+      "tower",
+      "india",
+      "templo"
+    ],
+    "animation": "pop"
+  },
   "gpu": {
     "category": "Technology",
     "tags": [
@@ -21676,6 +21738,30 @@
     ],
     "animation": "drive"
   },
+  "hill-avalanche": {
+    "category": "Weather",
+    "tags": [
+      "hill",
+      "avalanche",
+      "snow",
+      "mountain",
+      "disaster",
+      "avalancha"
+    ],
+    "animation": "nudge-diag"
+  },
+  "hill-rockslide": {
+    "category": "Weather",
+    "tags": [
+      "hill",
+      "rockslide",
+      "rocks",
+      "landslide",
+      "disaster",
+      "derrumbe"
+    ],
+    "animation": "nudge-diag"
+  },
   "hippo": {
     "category": "Nature",
     "tags": [
@@ -23485,6 +23571,18 @@
       "farola"
     ],
     "animation": "glow"
+  },
+  "land-mine-on": {
+    "category": "Security",
+    "tags": [
+      "land mine",
+      "mine",
+      "explosive",
+      "danger",
+      "war",
+      "mina"
+    ],
+    "animation": "flash"
   },
   "landmark": {
     "category": "Places",
@@ -39675,6 +39773,18 @@
       "transport"
     ],
     "animation": "drive"
+  },
+  "truck-container-empty": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "container",
+      "empty",
+      "flatbed",
+      "shipping",
+      "camión"
+    ],
+    "animation": "nudge-right"
   },
   "truck-droplet": {
     "category": "Places",
