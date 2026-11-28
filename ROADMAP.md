@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3531 / 3779**
+**Progress: 3541 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -374,14 +374,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vihara
 - [x] warehouse
 
-## Business (87/88)
+## Business (88/88)
 
 - [x] address-book
 - [x] bars-progress
 - [x] bars-staggered
 - [x] book
 - [x] box-archive
-- [ ] boxes-packing
+- [x] boxes-packing
 - [x] briefcase
 - [x] bullhorn
 - [x] bullseye
@@ -893,7 +893,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] podcast
 - [x] ticket
 
-## Food + Beverage (33/36)
+## Food + Beverage (34/36)
 
 - [x] bacon
 - [x] beer-mug-empty
@@ -916,7 +916,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] glass-water-droplet
 - [x] hotdog
 - [x] jar
-- [ ] jar-wheat
+- [x] jar-wheat
 - [x] lemon
 - [x] martini-glass
 - [x] martini-glass-citrus
@@ -987,7 +987,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] mask
 - [x] skull
 
-## Hands (21/24)
+## Hands (22/24)
 
 - [x] hand
 - [x] hand-back-fist
@@ -1006,7 +1006,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] hand-sparkles
 - [x] hand-spock
 - [ ] hands-bound
-- [ ] hands-bubbles
+- [x] hands-bubbles
 - [x] hands-clapping
 - [x] hands-holding
 - [x] hands-praying
@@ -1045,14 +1045,14 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] toilet-paper-slash
 - [x] utensils (as `fork-knife`)
 
-## Humanitarian (98/114)
+## Humanitarian (101/114)
 
 - [x] anchor
 - [x] anchor-circle-check
 - [x] anchor-circle-exclamation
 - [x] anchor-circle-xmark
 - [x] anchor-lock
-- [ ] arrows-down-to-people
+- [x] arrows-down-to-people
 - [x] bacterium (as `bacteria`)
 - [x] ban
 - [x] book-bookmark
@@ -1087,7 +1087,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] mask-ventilator
 - [x] money-bill-transfer
 - [x] money-bill-trend-up
-- [ ] money-bill-wheat
+- [x] money-bill-wheat
 - [x] money-bills
 - [ ] people-arrows
 - [x] people-group
@@ -1149,7 +1149,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] truck-arrow-right
 - [x] truck-droplet
 - [x] truck-front
-- [ ] truck-plane
+- [x] truck-plane
 - [x] user-doctor
 - [x] user-injured
 - [x] users-between-lines
@@ -2494,7 +2494,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] eye-evil
 - [x] eyes
 
-## Extended: F (188/198)
+## Extended: F (191/198)
 
 - [x] face-angry-horns
 - [x] face-anguished
@@ -2576,9 +2576,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] face-zany
 - [x] face-zipper
 - [x] falafel
-- [ ] family
-- [ ] family-dress
-- [ ] family-pants
+- [x] family
+- [x] family-dress
+- [x] family-pants
 - [x] fan-table
 - [x] farm
 - [x] fence
@@ -3733,7 +3733,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] swords-laser
 - [x] symbols
 
-## Extended: T (148/166)
+## Extended: T (149/166)
 
 - [ ] t-rex
 - [x] table-bar
@@ -3885,7 +3885,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] truck-ramp-couch
 - [x] truck-suv
 - [x] truck-tow
-- [ ] truck-utensils
+- [x] truck-utensils
 - [x] trumpet
 - [x] tty-answer
 - [x] tugrik-sign

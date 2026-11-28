@@ -2005,6 +2005,20 @@
     ],
     "animation": "nudge-down"
   },
+  "arrows-down-to-people": {
+    "category": "People",
+    "tags": [
+      "arrows",
+      "down",
+      "to",
+      "people",
+      "users",
+      "group",
+      "team",
+      "line"
+    ],
+    "animation": "nudge-down"
+  },
   "arrows-from-dotted-line": {
     "category": "Arrows",
     "tags": [
@@ -4863,6 +4877,21 @@
       "pañuelo"
     ],
     "animation": "float"
+  },
+  "boxes-packing": {
+    "category": "Objects",
+    "tags": [
+      "boxes",
+      "packing",
+      "box",
+      "taped",
+      "package",
+      "shipping",
+      "tape",
+      "adhesive",
+      "roll"
+    ],
+    "animation": "spin"
   },
   "boxes-stacked": {
     "category": "Objects",
@@ -16863,6 +16892,42 @@
     ],
     "animation": "bounce"
   },
+  "family": {
+    "category": "People",
+    "tags": [
+      "family",
+      "parents",
+      "child",
+      "people",
+      "home",
+      "familia"
+    ],
+    "animation": "wave"
+  },
+  "family-dress": {
+    "category": "People",
+    "tags": [
+      "family",
+      "mothers",
+      "child",
+      "dress",
+      "people",
+      "familia"
+    ],
+    "animation": "wave"
+  },
+  "family-pants": {
+    "category": "People",
+    "tags": [
+      "family",
+      "fathers",
+      "child",
+      "pants",
+      "people",
+      "familia"
+    ],
+    "animation": "wave"
+  },
   "fan": {
     "category": "Objects",
     "tags": [
@@ -20877,6 +20942,21 @@
     ],
     "animation": "swing"
   },
+  "hands-bubbles": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "bubbles",
+      "praying",
+      "pray",
+      "prayer",
+      "soap",
+      "clean",
+      "wash",
+      "hygiene"
+    ],
+    "animation": "float"
+  },
   "hands-clapping": {
     "category": "People",
     "tags": [
@@ -23174,6 +23254,20 @@
       "frasco"
     ],
     "animation": "rock"
+  },
+  "jar-wheat": {
+    "category": "Objects",
+    "tags": [
+      "jar",
+      "wheat",
+      "container",
+      "jam",
+      "glass",
+      "grain",
+      "farm",
+      "bread"
+    ],
+    "animation": "swing"
   },
   "jeans": {
     "category": "Objects",
@@ -26815,6 +26909,20 @@
       "dinero"
     ],
     "animation": "wave"
+  },
+  "money-bill-wheat": {
+    "category": "Objects",
+    "tags": [
+      "money",
+      "bill",
+      "wheat",
+      "cash",
+      "dollar",
+      "grain",
+      "farm",
+      "bread"
+    ],
+    "animation": "swing"
   },
   "money-bills": {
     "category": "Objects",
@@ -39977,6 +40085,20 @@
     ],
     "animation": "drive"
   },
+  "truck-plane": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "plane",
+      "delivery",
+      "shipping",
+      "vehicle",
+      "trip",
+      "airport",
+      "airplane"
+    ],
+    "animation": "float"
+  },
   "truck-plow": {
     "category": "Objects",
     "tags": [
@@ -40038,6 +40160,21 @@
       "transport"
     ],
     "animation": "drive"
+  },
+  "truck-utensils": {
+    "category": "Places",
+    "tags": [
+      "truck",
+      "utensils",
+      "delivery",
+      "shipping",
+      "vehicle",
+      "fork",
+      "knife",
+      "food",
+      "restaurant"
+    ],
+    "animation": "rock"
   },
   "trumpet": {
     "category": "Music & Audio",
