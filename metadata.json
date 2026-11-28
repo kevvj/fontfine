@@ -14546,6 +14546,18 @@
     ],
     "animation": "beat-fast"
   },
+  "drum-steelpan": {
+    "category": "Media",
+    "tags": [
+      "drum",
+      "steelpan",
+      "steel drum",
+      "music",
+      "caribbean",
+      "instrument"
+    ],
+    "animation": "beat"
+  },
   "drumstick": {
     "category": "Objects",
     "tags": [
@@ -21826,6 +21838,18 @@
     ],
     "animation": "swing"
   },
+  "hose": {
+    "category": "Objects",
+    "tags": [
+      "hose",
+      "garden",
+      "water",
+      "watering",
+      "pipe",
+      "manguera"
+    ],
+    "animation": "wiggle"
+  },
   "hose-reel": {
     "category": "Objects",
     "tags": [
@@ -23373,6 +23397,28 @@
       "tag",
       "price",
       "sticker"
+    ],
+    "animation": "swing"
+  },
+  "lacrosse-stick": {
+    "category": "Objects",
+    "tags": [
+      "lacrosse",
+      "stick",
+      "sport",
+      "net",
+      "game"
+    ],
+    "animation": "swing"
+  },
+  "lacrosse-stick-ball": {
+    "category": "Objects",
+    "tags": [
+      "lacrosse",
+      "stick",
+      "ball",
+      "sport",
+      "game"
     ],
     "animation": "swing"
   },
@@ -28008,6 +28054,20 @@
     ],
     "animation": "drip"
   },
+  "oil-temperature": {
+    "category": "Objects",
+    "tags": [
+      "oil",
+      "temperature",
+      "can",
+      "lubricant",
+      "car",
+      "thermometer",
+      "heat",
+      "fever"
+    ],
+    "animation": "pulse"
+  },
   "oil-well": {
     "category": "Places",
     "tags": [
@@ -30100,6 +30160,20 @@
       "engines",
       "airplane",
       "jet"
+    ],
+    "animation": "float"
+  },
+  "plane-flying": {
+    "category": "Places",
+    "tags": [
+      "plane",
+      "flying",
+      "trip",
+      "airport",
+      "airplane",
+      "flight",
+      "travel",
+      "avion"
     ],
     "animation": "float"
   },
@@ -36630,6 +36704,18 @@
     "animation": "swing",
     "origin": "50% 0%"
   },
+  "stomach": {
+    "category": "Health",
+    "tags": [
+      "stomach",
+      "digestion",
+      "organ",
+      "belly",
+      "anatomy",
+      "estómago"
+    ],
+    "animation": "pulse"
+  },
   "stool": {
     "category": "Objects",
     "tags": [
@@ -37029,6 +37115,30 @@
       "espada"
     ],
     "animation": "swing"
+  },
+  "sword-laser": {
+    "category": "Objects",
+    "tags": [
+      "sword",
+      "laser",
+      "lightsaber",
+      "saber",
+      "sci-fi",
+      "espada"
+    ],
+    "animation": "flash"
+  },
+  "sword-laser-alt": {
+    "category": "Objects",
+    "tags": [
+      "sword",
+      "laser",
+      "lightsaber",
+      "saber",
+      "sci-fi",
+      "espada"
+    ],
+    "animation": "flash"
   },
   "symbols": {
     "category": "Interface",

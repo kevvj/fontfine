@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3505 / 3779**
+**Progress: 3515 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -1383,10 +1383,10 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] truck-moving
 - [x] truck-ramp-box
 
-## Music + Audio (3/4)
+## Music + Audio (4/4)
 
 - [x] drum
-- [ ] drum-steelpan
+- [x] drum-steelpan
 - [x] guitar
 - [x] record-vinyl
 
@@ -2770,7 +2770,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gun-slash
 - [ ] gun-squirt
 
-## Extended: H (79/93)
+## Extended: H (80/93)
 
 - [x] h1
 - [x] h2
@@ -2844,7 +2844,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] horizontal-rule
 - [ ] horse-saddle
 - [x] horseshoe
-- [ ] hose
+- [x] hose
 - [x] hose-reel
 - [x] hospitals
 - [x] hourglass-clock
@@ -2925,11 +2925,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] knife
 - [x] knife-kitchen
 
-## Extended: L (79/83)
+## Extended: L (81/83)
 
 - [x] label
-- [ ] lacrosse-stick
-- [ ] lacrosse-stick-ball
+- [x] lacrosse-stick
+- [x] lacrosse-stick-ball
 - [x] lambda
 - [x] lamp
 - [x] lamp-desk
@@ -3145,7 +3145,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] notes
 - [x] notes-sticky
 
-## Extended: O (33/35)
+## Extended: O (34/35)
 
 - [x] oar
 - [x] oars
@@ -3169,7 +3169,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] octagon-xmark
 - [x] octopus
 - [x] oil-can-drip
-- [ ] oil-temperature
+- [x] oil-temperature
 - [x] olive
 - [x] olive-branch
 - [x] omega
@@ -3183,7 +3183,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] overline
 - [x] owl
 
-## Extended: P (114/152)
+## Extended: P (115/152)
 
 - [x] padel
 - [x] padel-ball
@@ -3302,7 +3302,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] pipe-valve
 - [x] pizza
 - [x] plane-engines
-- [ ] plane-flying
+- [x] plane-flying
 - [ ] plane-landing-gear
 - [x] plane-prop
 - [x] plane-tail
@@ -3343,7 +3343,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] qrcode-read
 - [x] quotes
 
-## Extended: R (60/67)
+## Extended: R (61/67)
 
 - [x] rabbit
 - [ ] rabbit-running
@@ -3388,7 +3388,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] renminbi-sign
 - [x] repeat-1
 - [x] reply-clock
-- [ ] restroom-simple
+- [x] restroom-simple (as `restroom`)
 - [x] rhombus
 - [x] right (as `arrow-right`)
 - [x] right-from-dotted-line (as `arrow-right-from-dotted-line`)
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ruler-triangle
 - [x] rv
 
-## Extended: S (286/317)
+## Extended: S (289/317)
 
 - [x] sack
 - [x] salad
@@ -3706,7 +3706,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] steak
 - [x] steering-wheel
 - [x] stocking
-- [ ] stomach
+- [x] stomach
 - [x] stool
 - [ ] store-24
 - [x] store-lock
@@ -3727,8 +3727,8 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] swap-arrows
 - [x] swedish-krona-sign
 - [x] sword
-- [ ] sword-laser
-- [ ] sword-laser-alt
+- [x] sword-laser
+- [x] sword-laser-alt
 - [ ] swords
 - [ ] swords-laser
 - [x] symbols
