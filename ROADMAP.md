@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3579 / 3779**
+**Progress: 3585 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -893,7 +893,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] podcast
 - [x] ticket
 
-## Food + Beverage (34/36)
+## Food + Beverage (36/36)
 
 - [x] bacon
 - [x] beer-mug-empty
@@ -908,7 +908,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] carrot
 - [x] champagne-glasses
 - [x] cheese
-- [ ] cloud-meatball
+- [x] cloud-meatball
 - [x] drumstick-bite
 - [x] egg
 - [x] flask
@@ -924,7 +924,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] mug-hot
 - [x] pepper-hot
 - [x] pizza-slice
-- [ ] plate-wheat
+- [x] plate-wheat
 - [x] stroopwafel
 - [x] wheat-awn
 - [x] whiskey-glass
@@ -962,7 +962,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] vr-cardboard
 - [x] wand-sparkles
 
-## Genders (14/15)
+## Genders (15/15)
 
 - [x] genderless
 - [x] mars
@@ -974,7 +974,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] mercury
 - [x] neuter
 - [x] non-binary
-- [ ] person-half-dress
+- [x] person-half-dress
 - [x] transgender
 - [x] venus
 - [x] venus-double
@@ -1021,9 +1021,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] menorah
 - [x] sleigh
 
-## Household (20/21)
+## Household (21/21)
 
-- [ ] arrow-up-from-water-pump
+- [x] arrow-up-from-water-pump
 - [x] bed
 - [x] box-tissue
 - [x] chair
@@ -1045,7 +1045,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] toilet-paper-slash
 - [x] utensils (as `fork-knife`)
 
-## Humanitarian (104/114)
+## Humanitarian (106/114)
 
 - [x] anchor
 - [x] anchor-circle-check
@@ -1084,7 +1084,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] lungs
 - [x] mars-and-venus-burst
 - [x] mask-face
-- [ ] mask-ventilator
+- [x] mask-ventilator
 - [x] money-bill-transfer
 - [x] money-bill-trend-up
 - [x] money-bill-wheat
@@ -1138,7 +1138,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] sailboat
 - [x] shield-heart
 - [x] ship
-- [ ] square-nfi
+- [x] square-nfi
 - [x] square-person-confined
 - [x] square-virus
 - [x] staff-snake

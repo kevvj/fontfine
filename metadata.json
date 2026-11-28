@@ -1765,6 +1765,18 @@
     ],
     "animation": "nudge-up"
   },
+  "arrow-up-from-water-pump": {
+    "category": "Arrows",
+    "tags": [
+      "arrow",
+      "up",
+      "water",
+      "pump",
+      "well",
+      "bomba"
+    ],
+    "animation": "nudge-up"
+  },
   "arrow-up-left": {
     "category": "Arrows",
     "tags": [
@@ -11786,6 +11798,18 @@
       "granizo"
     ],
     "animation": "drip"
+  },
+  "cloud-meatball": {
+    "category": "Weather",
+    "tags": [
+      "cloud",
+      "meatball",
+      "food",
+      "funny",
+      "weather",
+      "albóndiga"
+    ],
+    "animation": "bounce"
   },
   "cloud-minus": {
     "category": "Weather",
@@ -25954,6 +25978,18 @@
     ],
     "animation": "pop"
   },
+  "mask-ventilator": {
+    "category": "Health",
+    "tags": [
+      "mask",
+      "ventilator",
+      "oxygen",
+      "breathe",
+      "hospital",
+      "respirador"
+    ],
+    "animation": "pulse"
+  },
   "masks-theater": {
     "category": "Media",
     "tags": [
@@ -29903,6 +29939,18 @@
     ],
     "animation": "bounce"
   },
+  "person-half-dress": {
+    "category": "People",
+    "tags": [
+      "person",
+      "half",
+      "dress",
+      "gender",
+      "inclusive",
+      "persona"
+    ],
+    "animation": "wave"
+  },
   "person-hiking": {
     "category": "People",
     "tags": [
@@ -30900,6 +30948,18 @@
       "knife"
     ],
     "animation": "pop"
+  },
+  "plate-wheat": {
+    "category": "Objects",
+    "tags": [
+      "plate",
+      "wheat",
+      "food",
+      "hunger",
+      "grain",
+      "comida"
+    ],
+    "animation": "float"
   },
   "play": {
     "category": "Media",
@@ -36315,6 +36375,17 @@
       "nigeria",
       "currency",
       "money"
+    ],
+    "animation": "pop"
+  },
+  "square-nfi": {
+    "category": "Status",
+    "tags": [
+      "square",
+      "nfi",
+      "non-food items",
+      "aid",
+      "humanitarian"
     ],
     "animation": "pop"
   },
