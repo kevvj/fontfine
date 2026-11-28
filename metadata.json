@@ -16175,6 +16175,18 @@
     ],
     "animation": "wobble"
   },
+  "face-melting": {
+    "category": "People",
+    "tags": [
+      "face",
+      "melting",
+      "emoji",
+      "hot",
+      "embarrassed",
+      "derretido"
+    ],
+    "animation": "drip"
+  },
   "face-monocle": {
     "category": "People",
     "tags": [
@@ -21542,6 +21554,19 @@
     ],
     "animation": "pop"
   },
+  "helmet-battle": {
+    "category": "Security",
+    "tags": [
+      "helmet",
+      "battle",
+      "knight",
+      "spartan",
+      "warrior",
+      "armor",
+      "casco"
+    ],
+    "animation": "pop"
+  },
   "helmet-safety": {
     "category": "Objects",
     "tags": [
@@ -21868,6 +21893,19 @@
       "food"
     ],
     "animation": "bounce"
+  },
+  "hood-cloak": {
+    "category": "Objects",
+    "tags": [
+      "hood",
+      "cloak",
+      "cape",
+      "mystery",
+      "wizard",
+      "costume",
+      "capa"
+    ],
+    "animation": "float"
   },
   "hoodie": {
     "category": "Objects",
@@ -27110,6 +27148,18 @@
       "mezquita"
     ],
     "animation": "bounce"
+  },
+  "mosquito": {
+    "category": "Nature",
+    "tags": [
+      "mosquito",
+      "insect",
+      "bug",
+      "bite",
+      "malaria",
+      "zancudo"
+    ],
+    "animation": "wiggle"
   },
   "motorcycle": {
     "category": "Places",
@@ -39190,6 +39240,28 @@
     ],
     "animation": "pop"
   },
+  "transporter": {
+    "category": "Technology",
+    "tags": [
+      "transporter",
+      "teleport",
+      "beam",
+      "sci-fi",
+      "person"
+    ],
+    "animation": "flicker"
+  },
+  "transporter-empty": {
+    "category": "Technology",
+    "tags": [
+      "transporter",
+      "empty",
+      "teleport",
+      "beam",
+      "sci-fi"
+    ],
+    "animation": "flicker"
+  },
   "trash": {
     "category": "Actions",
     "tags": [
@@ -40196,6 +40268,19 @@
       "balance"
     ],
     "animation": "drive"
+  },
+  "uniform-martial-arts": {
+    "category": "Objects",
+    "tags": [
+      "uniform",
+      "martial arts",
+      "karate",
+      "judo",
+      "gi",
+      "belt",
+      "kimono"
+    ],
+    "animation": "pop"
   },
   "union": {
     "category": "Letters & Numbers",

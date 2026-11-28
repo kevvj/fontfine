@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3524 / 3779**
+**Progress: 3531 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -92,7 +92,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] circle-h
 - [x] square-h
 
-## Animals (20/25)
+## Animals (21/25)
 
 - [ ] bugs
 - [x] cat
@@ -111,7 +111,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] horse-head
 - [x] kiwi-bird
 - [ ] locust
-- [ ] mosquito
+- [x] mosquito
 - [ ] otter
 - [x] paw
 - [x] shield-cat
@@ -2494,7 +2494,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] eye-evil
 - [x] eyes
 
-## Extended: F (187/198)
+## Extended: F (188/198)
 
 - [x] face-angry-horns
 - [x] face-anguished
@@ -2529,7 +2529,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] face-kiss-closed-eyes
 - [x] face-lying
 - [x] face-mask
-- [ ] face-melting
+- [x] face-melting
 - [x] face-monocle
 - [x] face-nauseated
 - [x] face-nose-steam
@@ -2770,7 +2770,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gun-slash
 - [ ] gun-squirt
 
-## Extended: H (80/93)
+## Extended: H (82/93)
 
 - [x] h1
 - [x] h2
@@ -2823,7 +2823,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] heart-slash
 - [x] hearts
 - [x] heat
-- [ ] helmet-battle
+- [x] helmet-battle
 - [x] hexagon-check
 - [x] hexagon-divide
 - [x] hexagon-equals
@@ -2840,7 +2840,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] hockey-stick-puck
 - [x] hockey-sticks
 - [x] honey-pot
-- [ ] hood-cloak
+- [x] hood-cloak
 - [x] horizontal-rule
 - [ ] horse-saddle
 - [x] horseshoe
@@ -3733,7 +3733,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] swords-laser
 - [x] symbols
 
-## Extended: T (146/166)
+## Extended: T (148/166)
 
 - [ ] t-rex
 - [x] table-bar
@@ -3831,7 +3831,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] transducer
 - [x] transformer-bolt
 - [x] transmission
-- [ ] transporter
+- [x] transporter
 - [ ] transporter-1
 - [ ] transporter-2
 - [ ] transporter-3
@@ -3839,7 +3839,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] transporter-5
 - [ ] transporter-6
 - [ ] transporter-7
-- [ ] transporter-empty
+- [x] transporter-empty
 - [x] trash-can-check
 - [x] trash-can-clock
 - [x] trash-can-list
@@ -3902,7 +3902,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] tv-retro
 - [x] typewriter
 
-## Extended: U (80/87)
+## Extended: U (81/87)
 
 - [x] u-turn-down-left (as `arrow-u-turn-down-left`)
 - [x] u-turn-down-right (as `arrow-u-turn-down-right`)
@@ -3917,7 +3917,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] umbrella-simple
 - [ ] unicorn
 - [x] unicycle
-- [ ] uniform-martial-arts
+- [x] uniform-martial-arts
 - [x] union
 - [x] up (as `arrow-up`)
 - [x] up-from-bracket (as `arrow-up-from-bracket`)
