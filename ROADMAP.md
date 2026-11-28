@@ -4,7 +4,7 @@ The goal is to cover the icon concepts people commonly need in apps and websites
 
 Each icon needs line, solid and duotone versions plus metadata. Work goes in reviewed batches of about 100.
 
-**Progress: 3474 / 3779**
+**Progress: 3491 / 3779**
 
 The first part is grouped by category. The **Extended** part comes after, in alphabetical order.
 
@@ -242,16 +242,16 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] up-right-from-square (as `external-link`)
 - [x] upload
 
-## Astronomy (15/20)
+## Astronomy (20/20)
 
 - [x] aquarius
 - [x] aries
 - [x] binoculars
-- [ ] cancer
-- [ ] capricorn
+- [x] cancer
+- [x] capricorn
 - [x] gemini
 - [x] globe
-- [ ] leo
+- [x] leo
 - [x] libra
 - [x] meteor
 - [x] moon
@@ -259,11 +259,11 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] sagittarius
 - [x] satellite
 - [x] satellite-dish
-- [ ] scorpio
+- [x] scorpio
 - [x] shuttle-space
 - [x] taurus
 - [x] user-astronaut
-- [ ] virgo
+- [x] virgo
 
 ## Automotive (28/29)
 
@@ -492,7 +492,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] toilet-paper
 - [x] tree
 
-## Charity (13/16)
+## Charity (14/16)
 
 - [x] circle-dollar-to-slot
 - [x] dollar-sign
@@ -501,7 +501,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] hand-holding-droplet
 - [ ] hand-holding-hand
 - [x] hand-holding-heart
-- [ ] hands-holding-child
+- [x] hands-holding-child
 - [ ] hands-holding-circle
 - [x] handshake
 - [x] heart
@@ -601,7 +601,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] window-minimize
 - [x] window-restore
 
-## Communication (36/37)
+## Communication (37/37)
 
 - [x] at
 - [x] blender-phone
@@ -614,7 +614,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] face-frown
 - [x] face-meh
 - [x] face-smile (as `smile`)
-- [ ] icons
+- [x] icons
 - [x] inbox
 - [x] language
 - [x] message
@@ -987,7 +987,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] mask
 - [x] skull
 
-## Hands (20/24)
+## Hands (21/24)
 
 - [x] hand
 - [x] hand-back-fist
@@ -1008,7 +1008,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] hands-bound
 - [ ] hands-bubbles
 - [x] hands-clapping
-- [ ] hands-holding
+- [x] hands-holding
 - [x] hands-praying
 - [x] handshake-slash
 - [x] thumbs-down
@@ -1765,7 +1765,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] axe
 - [x] axe-battle
 
-## Extended: B (172/187)
+## Extended: B (174/187)
 
 - [x] backpack
 - [x] badge
@@ -1918,7 +1918,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] brackets-curly
 - [x] brackets-round
 - [x] brackets-square
-- [ ] brain-arrow-curved-right
+- [x] brain-arrow-curved-right
 - [ ] brain-circuit
 - [x] brake-warning
 - [x] bread-loaf
@@ -1944,7 +1944,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] buoy
 - [ ] buoy-mooring
 - [x] burger-cheese
-- [ ] burger-fries
+- [x] burger-fries
 - [x] burger-glass
 - [x] burger-lettuce
 - [x] burger-soda
@@ -2462,7 +2462,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] dryer-heat
 - [x] duck
 
-## Extended: E (26/29)
+## Extended: E (27/29)
 
 - [x] ear
 - [x] ear-circle-checkmark
@@ -2482,7 +2482,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] envelope-dot
 - [x] envelope-heart
 - [x] envelope-open-dollar
-- [ ] envelope-ribbon
+- [x] envelope-ribbon
 - [x] envelopes
 - [x] escalator
 - [x] eurozone-sign
@@ -2770,7 +2770,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] gun-slash
 - [ ] gun-squirt
 
-## Extended: H (75/93)
+## Extended: H (78/93)
 
 - [x] h1
 - [x] h2
@@ -2799,9 +2799,9 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] hand-point-ribbon
 - [ ] hand-shaka
 - [x] hand-wave
-- [ ] hands-holding-diamond
-- [ ] hands-holding-dollar
-- [ ] hands-holding-heart
+- [x] hands-holding-diamond
+- [x] hands-holding-dollar
+- [x] hands-holding-heart
 - [x] hashtag-lock
 - [x] hat-beach
 - [x] hat-chef
@@ -3145,7 +3145,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] notes
 - [x] notes-sticky
 
-## Extended: O (32/35)
+## Extended: O (33/35)
 
 - [x] oar
 - [x] oars
@@ -3168,7 +3168,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] octagon-plus
 - [x] octagon-xmark
 - [x] octopus
-- [ ] oil-can-drip
+- [x] oil-can-drip
 - [ ] oil-temperature
 - [x] olive
 - [x] olive-branch
@@ -3183,7 +3183,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] overline
 - [x] owl
 
-## Extended: P (107/152)
+## Extended: P (108/152)
 
 - [x] padel
 - [x] padel-ball
@@ -3207,7 +3207,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] paper-plane-top
 - [x] paperclip-vertical (as `paperclip`)
 - [x] paragraph-left
-- [ ] party-bell
+- [x] party-bell
 - [x] party-horn
 - [x] paw-claws
 - [x] paw-simple
@@ -3413,7 +3413,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [x] ruler-triangle
 - [x] rv
 
-## Extended: S (284/317)
+## Extended: S (285/317)
 
 - [x] sack
 - [x] salad
@@ -3731,7 +3731,7 @@ Want to help? Pick unchecked icons, follow [CONTRIBUTING.md](CONTRIBUTING.md) an
 - [ ] sword-laser-alt
 - [ ] swords
 - [ ] swords-laser
-- [ ] symbols
+- [x] symbols
 
 ## Extended: T (145/166)
 

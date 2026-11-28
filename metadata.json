@@ -4958,6 +4958,21 @@
     ],
     "animation": "pulse"
   },
+  "brain-arrow-curved-right": {
+    "category": "Health",
+    "tags": [
+      "brain",
+      "arrow",
+      "curved",
+      "right",
+      "mind",
+      "think",
+      "intelligence",
+      "turn",
+      "diagonal"
+    ],
+    "animation": "nudge-right"
+  },
   "brake-warning": {
     "category": "Status",
     "tags": [
@@ -6042,6 +6057,19 @@
     ],
     "animation": "bounce"
   },
+  "burger-fries": {
+    "category": "Objects",
+    "tags": [
+      "burger",
+      "fries",
+      "hamburger",
+      "fast",
+      "food",
+      "french",
+      "potato"
+    ],
+    "animation": "pop"
+  },
   "burger-glass": {
     "category": "Objects",
     "tags": [
@@ -6838,6 +6866,19 @@
     ],
     "animation": "rock"
   },
+  "cancer": {
+    "category": "Religion",
+    "tags": [
+      "cancer",
+      "crab",
+      "cáncer",
+      "zodiac",
+      "horoscope",
+      "astrology",
+      "sign"
+    ],
+    "animation": "pulse"
+  },
   "candle": {
     "category": "Religion",
     "tags": [
@@ -6919,6 +6960,19 @@
       "war"
     ],
     "animation": "shake"
+  },
+  "capricorn": {
+    "category": "Religion",
+    "tags": [
+      "capricorn",
+      "goat",
+      "capricornio",
+      "zodiac",
+      "horoscope",
+      "astrology",
+      "sign"
+    ],
+    "animation": "pulse"
   },
   "capsule": {
     "category": "Health",
@@ -15000,6 +15054,20 @@
     ],
     "animation": "pop"
   },
+  "envelope-ribbon": {
+    "category": "Health",
+    "tags": [
+      "envelope",
+      "ribbon",
+      "awareness",
+      "cause",
+      "support",
+      "mail",
+      "email",
+      "message"
+    ],
+    "animation": "float"
+  },
   "envelope-slash": {
     "category": "Communication",
     "tags": [
@@ -20689,6 +20757,74 @@
     ],
     "animation": "shake"
   },
+  "hands-holding": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "holding",
+      "care",
+      "support",
+      "give",
+      "manos"
+    ],
+    "animation": "float"
+  },
+  "hands-holding-child": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "holding",
+      "child",
+      "care",
+      "support",
+      "kid",
+      "boy",
+      "girl"
+    ],
+    "animation": "bounce"
+  },
+  "hands-holding-diamond": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "holding",
+      "diamond",
+      "care",
+      "support",
+      "gem",
+      "jewel",
+      "precious"
+    ],
+    "animation": "pop"
+  },
+  "hands-holding-dollar": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "holding",
+      "dollar",
+      "care",
+      "support",
+      "circle",
+      "money",
+      "coin"
+    ],
+    "animation": "flip"
+  },
+  "hands-holding-heart": {
+    "category": "People",
+    "tags": [
+      "hands",
+      "holding",
+      "heart",
+      "care",
+      "support",
+      "like",
+      "love",
+      "favorite"
+    ],
+    "animation": "beat"
+  },
   "hands-praying": {
     "category": "People",
     "tags": [
@@ -22305,6 +22441,19 @@
     ],
     "animation": "drip"
   },
+  "icons": {
+    "category": "Interface",
+    "tags": [
+      "icons",
+      "symbols",
+      "shapes",
+      "glyphs",
+      "emoji",
+      "set",
+      "íconos"
+    ],
+    "animation": "pop"
+  },
   "id-badge": {
     "category": "Security",
     "tags": [
@@ -23552,6 +23701,18 @@
       "limon"
     ],
     "animation": "rock"
+  },
+  "leo": {
+    "category": "Religion",
+    "tags": [
+      "leo",
+      "lion",
+      "zodiac",
+      "horoscope",
+      "astrology",
+      "sign"
+    ],
+    "animation": "pulse"
   },
   "less-than": {
     "category": "Letters & Numbers",
@@ -27774,6 +27935,21 @@
     ],
     "animation": "rock"
   },
+  "oil-can-drip": {
+    "category": "Objects",
+    "tags": [
+      "oil",
+      "can",
+      "drip",
+      "lubricant",
+      "car",
+      "droplet",
+      "water",
+      "drop",
+      "liquid"
+    ],
+    "animation": "drip"
+  },
   "oil-well": {
     "category": "Places",
     "tags": [
@@ -28280,6 +28456,21 @@
       "estacionamiento"
     ],
     "animation": "shake"
+  },
+  "party-bell": {
+    "category": "Interface",
+    "tags": [
+      "party",
+      "bell",
+      "notification",
+      "alert",
+      "alarm",
+      "sparkles",
+      "magic",
+      "ai",
+      "new"
+    ],
+    "animation": "glow"
   },
   "party-horn": {
     "category": "Objects",
@@ -32126,6 +32317,19 @@
       "patineta"
     ],
     "animation": "drive"
+  },
+  "scorpio": {
+    "category": "Religion",
+    "tags": [
+      "scorpio",
+      "scorpion",
+      "escorpio",
+      "zodiac",
+      "horoscope",
+      "astrology",
+      "sign"
+    ],
+    "animation": "pulse"
   },
   "screen-users": {
     "category": "Technology",
@@ -36673,6 +36877,18 @@
     ],
     "animation": "swing"
   },
+  "symbols": {
+    "category": "Interface",
+    "tags": [
+      "symbols",
+      "icons",
+      "signs",
+      "glyphs",
+      "set",
+      "símbolos"
+    ],
+    "animation": "pop"
+  },
   "synagogue": {
     "category": "Religion",
     "tags": [
@@ -41164,6 +41380,18 @@
       "music"
     ],
     "animation": "wiggle"
+  },
+  "virgo": {
+    "category": "Religion",
+    "tags": [
+      "virgo",
+      "virgin",
+      "zodiac",
+      "horoscope",
+      "astrology",
+      "sign"
+    ],
+    "animation": "pulse"
   },
   "virus": {
     "category": "Health",
