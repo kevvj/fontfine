@@ -3655,6 +3655,20 @@
     ],
     "animation": "pop"
   },
+  "blanket-fire": {
+    "category": "Objects",
+    "tags": [
+      "blanket",
+      "fire",
+      "quilt",
+      "bed",
+      "cover",
+      "flame",
+      "hot",
+      "burn"
+    ],
+    "animation": "flicker"
+  },
   "blender": {
     "category": "Objects",
     "tags": [
@@ -3665,6 +3679,20 @@
       "licuadora"
     ],
     "animation": "shake"
+  },
+  "blender-phone": {
+    "category": "Objects",
+    "tags": [
+      "blender",
+      "phone",
+      "kitchen",
+      "smoothie",
+      "appliance",
+      "call",
+      "telephone",
+      "telefono"
+    ],
+    "animation": "ring"
   },
   "blinds": {
     "category": "Objects",
@@ -5468,6 +5496,17 @@
     ],
     "animation": "pop"
   },
+  "bridge-lock": {
+    "category": "Places",
+    "tags": [
+      "bridge",
+      "lock",
+      "river",
+      "crossing",
+      "road"
+    ],
+    "animation": "shake"
+  },
   "bridge-suspension": {
     "category": "Places",
     "tags": [
@@ -5814,6 +5853,20 @@
       "edificio"
     ],
     "animation": "bounce"
+  },
+  "building-memo": {
+    "category": "Places",
+    "tags": [
+      "building",
+      "memo",
+      "office",
+      "company",
+      "city",
+      "note",
+      "document",
+      "text"
+    ],
+    "animation": "pop"
   },
   "building-shield": {
     "category": "Places",
@@ -6894,6 +6947,20 @@
     ],
     "animation": "bounce"
   },
+  "car-burst": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "burst",
+      "vehicle",
+      "auto",
+      "transport",
+      "explosion",
+      "boom",
+      "bang"
+    ],
+    "animation": "pop"
+  },
   "car-bus": {
     "category": "Objects",
     "tags": [
@@ -7059,6 +7126,20 @@
       "lavado"
     ],
     "animation": "float"
+  },
+  "car-wrench": {
+    "category": "Objects",
+    "tags": [
+      "car",
+      "wrench",
+      "vehicle",
+      "auto",
+      "transport",
+      "tool",
+      "settings",
+      "maintenance"
+    ],
+    "animation": "wiggle"
   },
   "caravan": {
     "category": "Places",
@@ -7249,6 +7330,18 @@
       "collapse"
     ],
     "animation": "nudge-up"
+  },
+  "carpool": {
+    "category": "Places",
+    "tags": [
+      "carpool",
+      "car",
+      "rideshare",
+      "users",
+      "commute",
+      "compartir"
+    ],
+    "animation": "drive"
   },
   "carrot": {
     "category": "Nature",
@@ -8340,6 +8433,18 @@
     ],
     "animation": "rock",
     "origin": "60% 15%"
+  },
+  "chess": {
+    "category": "Objects",
+    "tags": [
+      "chess",
+      "board game",
+      "king",
+      "knight",
+      "strategy",
+      "ajedrez"
+    ],
+    "animation": "wobble"
   },
   "chess-bishop": {
     "category": "Objects",
@@ -14497,6 +14602,19 @@
     ],
     "animation": "wiggle"
   },
+  "ear-waveform": {
+    "category": "Health",
+    "tags": [
+      "ear",
+      "waveform",
+      "hearing",
+      "listen",
+      "sound",
+      "audio",
+      "voice"
+    ],
+    "animation": "beat"
+  },
   "earth-africa": {
     "category": "Places",
     "tags": [
@@ -16645,6 +16763,18 @@
       "water"
     ],
     "animation": "float"
+  },
+  "field-hockey-stick-ball": {
+    "category": "Objects",
+    "tags": [
+      "field hockey",
+      "stick",
+      "ball",
+      "sport",
+      "game",
+      "hockey"
+    ],
+    "animation": "swing"
   },
   "file": {
     "category": "Files",
@@ -19566,6 +19696,20 @@
     ],
     "animation": "pop"
   },
+  "grate-droplet": {
+    "category": "Objects",
+    "tags": [
+      "grate",
+      "droplet",
+      "drain",
+      "grid",
+      "vent",
+      "water",
+      "drop",
+      "liquid"
+    ],
+    "animation": "drip"
+  },
   "grave": {
     "category": "Religion",
     "tags": [
@@ -19754,6 +19898,20 @@
       "parrilla"
     ],
     "animation": "pop"
+  },
+  "grill-fire": {
+    "category": "Objects",
+    "tags": [
+      "grill",
+      "fire",
+      "barbecue",
+      "bbq",
+      "cooking",
+      "flame",
+      "hot",
+      "burn"
+    ],
+    "animation": "flicker"
   },
   "grill-hot": {
     "category": "Objects",
@@ -21250,6 +21408,18 @@
       "game"
     ],
     "animation": "swing"
+  },
+  "hockey-sticks": {
+    "category": "Objects",
+    "tags": [
+      "hockey",
+      "sticks",
+      "sport",
+      "ice",
+      "game",
+      "crossed"
+    ],
+    "animation": "wiggle"
   },
   "holly-berry": {
     "category": "Nature",
@@ -23093,6 +23263,20 @@
       "select"
     ],
     "animation": "swing"
+  },
+  "lasso-sparkles": {
+    "category": "Objects",
+    "tags": [
+      "lasso",
+      "sparkles",
+      "rope",
+      "cowboy",
+      "select",
+      "magic",
+      "ai",
+      "new"
+    ],
+    "animation": "glow"
   },
   "layer": {
     "category": "Interface",
@@ -26830,6 +27014,20 @@
     ],
     "animation": "shake"
   },
+  "nfc-trash": {
+    "category": "Actions",
+    "tags": [
+      "nfc",
+      "trash",
+      "delete",
+      "remove",
+      "bin",
+      "near",
+      "field",
+      "contactless"
+    ],
+    "animation": "pop"
+  },
   "non-binary": {
     "category": "People",
     "tags": [
@@ -28267,6 +28465,30 @@
     ],
     "animation": "spin-slow"
   },
+  "people": {
+    "category": "People",
+    "tags": [
+      "people",
+      "man",
+      "woman",
+      "persons",
+      "group",
+      "personas"
+    ],
+    "animation": "wave"
+  },
+  "people-dress": {
+    "category": "People",
+    "tags": [
+      "people",
+      "women",
+      "persons",
+      "group",
+      "dress",
+      "personas"
+    ],
+    "animation": "wave"
+  },
   "people-dress-simple": {
     "category": "People",
     "tags": [
@@ -28288,6 +28510,18 @@
       "members"
     ],
     "animation": "pop"
+  },
+  "people-pants": {
+    "category": "People",
+    "tags": [
+      "people",
+      "men",
+      "persons",
+      "group",
+      "pants",
+      "personas"
+    ],
+    "animation": "wave"
   },
   "people-roof": {
     "category": "People",
@@ -28380,6 +28614,20 @@
     ],
     "animation": "bounce"
   },
+  "person-basketball": {
+    "category": "People",
+    "tags": [
+      "person",
+      "basketball",
+      "human",
+      "man",
+      "figure",
+      "ball",
+      "sport",
+      "game"
+    ],
+    "animation": "bounce"
+  },
   "person-biking": {
     "category": "People",
     "tags": [
@@ -28424,6 +28672,20 @@
       "elderly",
       "senior",
       "old"
+    ],
+    "animation": "pop"
+  },
+  "person-chalkboard": {
+    "category": "People",
+    "tags": [
+      "person",
+      "chalkboard",
+      "human",
+      "man",
+      "figure",
+      "blackboard",
+      "school",
+      "class"
     ],
     "animation": "pop"
   },
@@ -32049,6 +32311,20 @@
     ],
     "animation": "pulse"
   },
+  "shield-cat": {
+    "category": "Nature",
+    "tags": [
+      "shield",
+      "cat",
+      "pet",
+      "animal",
+      "kitten",
+      "security",
+      "protection",
+      "escudo"
+    ],
+    "animation": "pulse"
+  },
   "shield-check": {
     "category": "Security",
     "tags": [
@@ -32073,6 +32349,20 @@
       "protection"
     ],
     "animation": "pop"
+  },
+  "shield-dog": {
+    "category": "Nature",
+    "tags": [
+      "shield",
+      "dog",
+      "puppy",
+      "pet",
+      "canine",
+      "security",
+      "protection",
+      "escudo"
+    ],
+    "animation": "pulse"
   },
   "shield-exclamation": {
     "category": "Security",
@@ -32866,6 +33156,19 @@
       "organization"
     ],
     "animation": "pop"
+  },
+  "skeleton-ribs": {
+    "category": "Health",
+    "tags": [
+      "skeleton",
+      "ribs",
+      "bones",
+      "chest",
+      "anatomy",
+      "x-ray",
+      "costillas"
+    ],
+    "animation": "pulse"
   },
   "ski-boot": {
     "category": "Objects",
@@ -35973,6 +36276,20 @@
       "hazy"
     ],
     "animation": "float"
+  },
+  "sun-plant-wilt": {
+    "category": "Nature",
+    "tags": [
+      "sun",
+      "plant",
+      "wilt",
+      "drought",
+      "dry",
+      "light",
+      "day",
+      "bright"
+    ],
+    "animation": "spin-slow"
   },
   "sunglasses": {
     "category": "People",
